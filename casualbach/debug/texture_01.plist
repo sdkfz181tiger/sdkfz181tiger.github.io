@@ -9439,7 +9439,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>nt_jump_1.png</key>
+            <key>nt_jump_big_1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -9454,7 +9454,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>nt_jump_2.png</key>
+            <key>nt_jump_big_2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -9469,7 +9469,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>nt_jump_3.png</key>
+            <key>nt_jump_big_3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -9484,7 +9484,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>nt_jump_4.png</key>
+            <key>nt_jump_big_4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -9499,7 +9499,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>nt_jump_5.png</key>
+            <key>nt_jump_big_5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -9514,7 +9514,52 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>nt_jump_6.png</key>
+            <key>nt_jump_big_6.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,0}</string>
+                <key>spriteSize</key>
+                <string>{22,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{408,122},{22,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>nt_jump_small_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,0}</string>
+                <key>spriteSize</key>
+                <string>{20,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{878,94},{20,26}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>nt_jump_small_2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-1}</string>
+                <key>spriteSize</key>
+                <string>{22,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{834,94},{22,26}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>nt_jump_small_3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -14388,7 +14433,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:bdbab80660615dffdda2ec242c90a4aa:6ac003bc781935c9b15f4f222df12377:ed3afe1be5c13c6490a9593a67d7834f$</string>
+            <string>$TexturePacker:SmartUpdate:f3ba93b346b42dddd4ce57fe1d99e98f:dc7c523ebe1fbb2eb6fceac2aff6c74b:ed3afe1be5c13c6490a9593a67d7834f$</string>
             <key>textureFileName</key>
             <string>texture_01.pvr.ccz</string>
         </dict>

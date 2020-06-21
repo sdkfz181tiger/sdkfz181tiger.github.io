@@ -5,8 +5,7 @@
 	"appID":"id000000000",
 	"packageName":"com.ozateck.casualbach",
 	"assets":[
-		"texture_01.pvr.ccz", "texture_01.plist",
-		"op_01.png", "op_02.png", "op_03.png", "op_04.png", "op_05.png", "pillbox.png"
+		"texture_01.pvr.ccz", "texture_01.plist", "pillbox.png"
 	],
 	"animations":[
 		{"pszFormat":"sbf_%01d.png", "start":1, "end":7, "speed":0.1, "times":-1, "an":"sbf"},
@@ -38,6 +37,13 @@
 		{"pszFormat":"inv_a_%01d.png", "start":1, "end":4, "speed":1.0, "times":1, "an":"inv_a"},
 		{"pszFormat":"inv_d_%01d.png", "start":1, "end":4, "speed":1.0, "times":1, "an":"inv_d"},
 		{"pszFormat":"here_%01d.png", "start":1, "end":7, "speed":0.2, "times":-1, "an":"here"},
+		{"pszFormat":"nt_die_jump_%01d.png", "start":1, "end":2, "speed":0.5, "times":-1, "an":"nt_die_jump"},
+		{"pszFormat":"nt_die_omg_%01d.png", "start":1, "end":2, "speed":0.5, "times":-1, "an":"nt_die_omg"},
+		{"pszFormat":"nt_die_slip_%01d.png", "start":1, "end":2, "speed":0.5, "times":-1, "an":"nt_die_slip"},
+		{"pszFormat":"nt_idle_%01d.png", "start":1, "end":4, "speed":0.5, "times":-1, "an":"nt_idle"},
+		{"pszFormat":"nt_jump_small_%01d.png", "start":1, "end":3, "speed":0.2, "times":1, "an":"nt_jump_small"},
+		{"pszFormat":"nt_jump_big_%01d.png", "start":1, "end":6, "speed":0.2, "times":1, "an":"nt_jump_big"},
+		{"pszFormat":"nt_walk_r_%01d.png", "start":1, "end":4, "speed":0.2, "times":-1, "an":"nt_walk_r"},
 		{"pszFormat":"player_atk_l_%01d.png", "start":1, "end":5, "speed":0.1, "times":1, "an":"player_atk_l"},
 		{"pszFormat":"player_atk_r_%01d.png", "start":1, "end":5, "speed":0.1, "times":1, "an":"player_atk_r"},
 		{"pszFormat":"player_f_%01d.png", "start":1, "end":5, "speed":0.1, "times":1, "an":"player_f"},
