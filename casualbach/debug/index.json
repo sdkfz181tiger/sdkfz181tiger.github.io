@@ -1,5 +1,5 @@
 {
-	"time": "2020/06/22 13:00:00",
+	"time": "2020/06/23 13:00:00",
 	"versionCode": "14",
 	"versionName": "0.1.4",
 	"appID":"id000000000",
@@ -41,6 +41,7 @@
 		{"pszFormat":"fsm_l_%01d.png", "start":1, "end":4, "speed":0.1, "times":1, "an":"fsm_l"},
 		{"pszFormat":"fsm_r_%01d.png", "start":1, "end":4, "speed":0.1, "times":1, "an":"fsm_r"},
 		{"pszFormat":"fsm_dance_%01d.png", "start":1, "end":16, "speed":0.1, "times":1, "an":"fsm_dance"},
+		{"pszFormat":"fly_green_%01d.png", "start":1, "end":3, "speed":0.02, "times":-1, "an":"fly_green"},
 		{"pszFormat":"fly_l_%01d.png", "start":1, "end":6, "speed":0.02, "times":1, "an":"fly_l"},
 		{"pszFormat":"fly_r_%01d.png", "start":1, "end":6, "speed":0.02, "times":1, "an":"fly_r"},
 		{"pszFormat":"inv_a_%01d.png", "start":1, "end":4, "speed":1.0, "times":1, "an":"inv_a"},
@@ -88,7 +89,8 @@
 		{"pszFormat":"man_run_b_%01d.png", "start":1, "end":8, "speed":0.1, "times":1, "an":"man_run_b"},
 		{"pszFormat":"man_slip_%01d.png", "start":1, "end":8, "speed":0.1, "times":1, "an":"man_slip"},
 		{"pszFormat":"man_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":1, "an":"man_walk"},
-		{"pszFormat":"watch_to_continue_%01d.png", "start":1, "end":3, "speed":1.5, "times":-1, "an":"watch_to_continue"}
+		{"pszFormat":"watch_to_continue_%01d.png", "start":1, "end":3, "speed":1.5, "times":-1, "an":"watch_to_continue"},
+		{"pszFormat":"worm_green_%01d.png", "start":1, "end":8, "speed":0.1, "times":-1, "an":"worm_green"}
 	],
 	"levels":[
 		{"step": 30,  "weights": [7, 1, 0, 2, 0], "totals": [1, 1, 1, 1, 1], "limit": 2},
