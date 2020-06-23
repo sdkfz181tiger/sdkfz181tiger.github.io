@@ -1,5 +1,5 @@
 {
-	"time": "2020/06/23 20:00:00",
+	"time": "2020/06/23 21:00:00",
 	"versionCode": "14",
 	"versionName": "0.1.4",
 	"appID":"id000000000",
@@ -62,7 +62,7 @@
 		{"pszFormat":"player_d_%01d.png", "start":1, "end":5, "speed":0.1, "times":1, "an":"player_d"},
 		{"pszFormat":"player_w_%01d.png", "start":1, "end":5, "speed":0.1, "times":1, "an":"player_w"},
 		{"pszFormat":"smoke_%01d.png", "start":1, "end":16, "speed":0.1, "times":1, "an":"smoke"},
-		{"pszFormat":"spray_%01d.png", "start":1, "end":5, "speed":0.1, "times":1, "an":"spray_a"},
+		{"pszFormat":"spray_%01d.png", "start":1, "end":4, "speed":0.1, "times":1, "an":"spray_a"},
 		{"pszFormat":"spray_%01d.png", "start":1, "end":9, "speed":0.1, "times":1, "an":"spray_b"},
 		{"pszFormat":"splash_big_%01d.png", "start":1, "end":8, "speed":0.1, "times":1, "an":"splash_big"},
 		{"pszFormat":"splash_small_%01d.png", "start":1, "end":8, "speed":0.1, "times":1, "an":"splash_small"},
