@@ -94,7 +94,9 @@
 		{"pszFormat":"man_slip_%01d.png", "start":1, "end":8, "speed":0.1, "times":1, "an":"man_slip"},
 		{"pszFormat":"man_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":1, "an":"man_walk"},
 		{"pszFormat":"watch_to_continue_%01d.png", "start":1, "end":3, "speed":1.5, "times":-1, "an":"watch_to_continue"},
-		{"pszFormat":"worm_green_%01d.png", "start":1, "end":8, "speed":0.1, "times":-1, "an":"worm_green"}
+		{"pszFormat":"worm_green_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":-1, "an":"worm_green_walk"},
+		{"pszFormat":"worm_blue_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":-1, "an":"worm_blue_walk"},
+		{"pszFormat":"worm_red_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":-1, "an":"worm_red_walk"},
 	],
 	"levels":[
 		{"step": 30,  "weights": [7, 1, 0, 2, 0], "totals": [1, 1, 1, 1, 1], "limit": 2},
