@@ -1,5 +1,5 @@
 {
-	"time": "2020/06/24 10:00:00",
+	"time": "2020/06/24 11:00:00",
 	"versionCode": "1",
 	"versionName": "0.0.1",
 	"appID":"id000000000",
@@ -41,7 +41,9 @@
 		{"pszFormat":"fsm_l_%01d.png", "start":1, "end":4, "speed":0.1, "times":1, "an":"fsm_l"},
 		{"pszFormat":"fsm_r_%01d.png", "start":1, "end":4, "speed":0.1, "times":1, "an":"fsm_r"},
 		{"pszFormat":"fsm_dance_%01d.png", "start":1, "end":16, "speed":0.1, "times":1, "an":"fsm_dance"},
-		{"pszFormat":"fly_green_%01d.png", "start":1, "end":3, "speed":0.2, "times":-1, "an":"fly_green"},
+		{"pszFormat":"fly_blue_fly_%01d.png", "start":1, "end":3, "speed":0.1, "times":-1, "an":"fly_blue_fly"},
+		{"pszFormat":"fly_green_fly_%01d.png", "start":1, "end":3, "speed":0.1, "times":-1, "an":"fly_green_fly"},
+		{"pszFormat":"fly_red_fly_%01d.png", "start":1, "end":3, "speed":0.1, "times":-1, "an":"fly_red_fly"},
 		{"pszFormat":"fly_l_%01d.png", "start":1, "end":6, "speed":0.02, "times":1, "an":"fly_l"},
 		{"pszFormat":"fly_r_%01d.png", "start":1, "end":6, "speed":0.02, "times":1, "an":"fly_r"},
 		{"pszFormat":"inv_a_%01d.png", "start":1, "end":4, "speed":1.0, "times":1, "an":"inv_a"},
