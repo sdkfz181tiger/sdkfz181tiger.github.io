@@ -1,5 +1,5 @@
 {
-	"time": "2020/06/24 12:00:00",
+	"time": "2020/06/24 19:00:00",
 	"versionCode": "1",
 	"versionName": "0.0.1",
 	"appID":"id000000000",
@@ -44,6 +44,9 @@
 		{"pszFormat":"fly_blue_fly_%01d.png", "start":1, "end":3, "speed":0.1, "times":-1, "an":"fly_blue_fly"},
 		{"pszFormat":"fly_green_fly_%01d.png", "start":1, "end":3, "speed":0.1, "times":-1, "an":"fly_green_fly"},
 		{"pszFormat":"fly_red_fly_%01d.png", "start":1, "end":3, "speed":0.1, "times":-1, "an":"fly_red_fly"},
+		{"pszFormat":"fly_blue_die_%01d.png", "start":1, "end":3, "speed":0.1, "times":1, "an":"fly_blue_die"},
+		{"pszFormat":"fly_green_die_%01d.png", "start":1, "end":3, "speed":0.1, "times":1, "an":"fly_green_die"},
+		{"pszFormat":"fly_red_die_%01d.png", "start":1, "end":3, "speed":0.1, "times":1, "an":"fly_red_die"},
 		{"pszFormat":"fly_l_%01d.png", "start":1, "end":6, "speed":0.02, "times":1, "an":"fly_l"},
 		{"pszFormat":"fly_r_%01d.png", "start":1, "end":6, "speed":0.02, "times":1, "an":"fly_r"},
 		{"pszFormat":"inv_a_%01d.png", "start":1, "end":4, "speed":1.0, "times":1, "an":"inv_a"},
@@ -96,7 +99,10 @@
 		{"pszFormat":"watch_to_continue_%01d.png", "start":1, "end":3, "speed":1.5, "times":-1, "an":"watch_to_continue"},
 		{"pszFormat":"worm_green_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":-1, "an":"worm_green_walk"},
 		{"pszFormat":"worm_blue_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":-1, "an":"worm_blue_walk"},
-		{"pszFormat":"worm_red_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":-1, "an":"worm_red_walk"}
+		{"pszFormat":"worm_red_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":-1, "an":"worm_red_walk"},
+		{"pszFormat":"worm_green_die_%01d.png", "start":1, "end":3, "speed":0.1, "times":1, "an":"worm_green_die"},
+		{"pszFormat":"worm_blue_die_%01d.png", "start":1, "end":3, "speed":0.1, "times":1, "an":"worm_blue_die"},
+		{"pszFormat":"worm_red_die_%01d.png", "start":1, "end":3, "speed":0.1, "times":1, "an":"worm_red_die"}
 	],
 	"levels":[
 		{"step": 30,  "weights": [7, 1, 0, 2, 0], "totals": [1, 1, 1, 1, 1], "limit": 2},
