@@ -1,5 +1,5 @@
 {
-	"time": "2020/06/24 20:00:00",
+	"time": "2020/06/27 21:00:00",
 	"versionCode": "1",
 	"versionName": "0.0.1",
 	"appID":"id000000000",
@@ -21,6 +21,8 @@
 		{"pszFormat":"bach_spr_cb_%01d.png", "start":1, "end":2, "speed":0.2, "times":4, "an":"bach_spr_cb"},
 		{"pszFormat":"bach_spr_cm_%01d.png", "start":1, "end":2, "speed":0.2, "times":4, "an":"bach_spr_cm"},
 		{"pszFormat":"bach_spr_ct_%01d.png", "start":1, "end":2, "speed":0.2, "times":4, "an":"bach_spr_ct"},
+		{"pszFormat":"bach_spr_dizzy_l_%01d.png", "start":1, "end":4, "speed":0.2, "times":3, "an":"bach_spr_dizzy_l"},
+		{"pszFormat":"bach_spr_dizzy_r_%01d.png", "start":1, "end":4, "speed":0.2, "times":3, "an":"bach_spr_dizzy_r"},
 		{"pszFormat":"bach_spr_lb_%01d.png", "start":1, "end":2, "speed":0.2, "times":4, "an":"bach_spr_lb"},
 		{"pszFormat":"bach_spr_lm_%01d.png", "start":1, "end":2, "speed":0.2, "times":4, "an":"bach_spr_lm"},
 		{"pszFormat":"bach_spr_lt_%01d.png", "start":1, "end":2, "speed":0.2, "times":4, "an":"bach_spr_lt"},
