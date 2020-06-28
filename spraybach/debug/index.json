@@ -1,5 +1,5 @@
 {
-	"time": "2020/06/27 22:00:00",
+	"time": "2020/06/28 15:00:00",
 	"versionCode": "1",
 	"versionName": "0.0.1",
 	"appID":"id000000000",
@@ -100,11 +100,14 @@
 		{"pszFormat":"man_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":1, "an":"man_walk"},
 		{"pszFormat":"watch_to_continue_%01d.png", "start":1, "end":3, "speed":1.5, "times":-1, "an":"watch_to_continue"},
 		{"pszFormat":"worm_green_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":-1, "an":"worm_green_walk"},
+		{"pszFormat":"worm_green_die_l_%01d.png", "start":1, "end":3, "speed":0.1, "times":3, "an":"worm_green_die_l"},
+		{"pszFormat":"worm_green_die_r_%01d.png", "start":1, "end":3, "speed":0.1, "times":3, "an":"worm_green_die_r"},
 		{"pszFormat":"worm_blue_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":-1, "an":"worm_blue_walk"},
+		{"pszFormat":"worm_blue_die_l_%01d.png", "start":1, "end":3, "speed":0.1, "times":3, "an":"worm_blue_die_l"},
+		{"pszFormat":"worm_blue_die_r_%01d.png", "start":1, "end":3, "speed":0.1, "times":3, "an":"worm_blue_die_r"},
 		{"pszFormat":"worm_red_walk_%01d.png", "start":1, "end":8, "speed":0.1, "times":-1, "an":"worm_red_walk"},
-		{"pszFormat":"worm_green_die_%01d.png", "start":1, "end":3, "speed":0.1, "times":1, "an":"worm_green_die"},
-		{"pszFormat":"worm_blue_die_%01d.png", "start":1, "end":3, "speed":0.1, "times":1, "an":"worm_blue_die"},
-		{"pszFormat":"worm_red_die_%01d.png", "start":1, "end":3, "speed":0.1, "times":1, "an":"worm_red_die"}
+		{"pszFormat":"worm_red_die_l_%01d.png", "start":1, "end":3, "speed":0.1, "times":3, "an":"worm_red_die_l"},
+		{"pszFormat":"worm_red_die_r_%01d.png", "start":1, "end":3, "speed":0.1, "times":3, "an":"worm_red_die_l"}
 	],
 	"levels":[
 		{"step": 30,  "weights": [7, 1, 0, 2, 0], "totals": [1, 1, 1, 1, 1], "limit": 2},
