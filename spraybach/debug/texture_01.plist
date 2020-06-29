@@ -2364,7 +2364,7 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{1,-1}</string>
+                <string>{0,-1}</string>
                 <key>spriteSize</key>
                 <string>{22,26}</string>
                 <key>spriteSourceSize</key>
@@ -2394,7 +2394,7 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{1,-1}</string>
+                <string>{0,-1}</string>
                 <key>spriteSize</key>
                 <string>{24,26}</string>
                 <key>spriteSourceSize</key>
@@ -2424,7 +2424,7 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{1,-1}</string>
+                <string>{0,-1}</string>
                 <key>spriteSize</key>
                 <string>{22,26}</string>
                 <key>spriteSourceSize</key>
@@ -16008,7 +16008,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:ee2ca283fb590d790c4da6eacbefb53d:d59d26f80452ed622c6d91bef4ebd0ce:ed3afe1be5c13c6490a9593a67d7834f$</string>
+            <string>$TexturePacker:SmartUpdate:9ba8e7a16af608bf6839b6e4cd949bbc:d7cad05f0eeb036b5d29bdc5ee7ba636:ed3afe1be5c13c6490a9593a67d7834f$</string>
             <key>textureFileName</key>
             <string>texture_01.pvr.ccz</string>
         </dict>
