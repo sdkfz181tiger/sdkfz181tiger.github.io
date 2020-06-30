@@ -5809,22 +5809,22 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>frame_4.png</key>
+            <key>frame_4_h240.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{16,360}</string>
+                <string>{16,240}</string>
                 <key>spriteSourceSize</key>
-                <string>{16,360}</string>
+                <string>{16,240}</string>
                 <key>textureRect</key>
-                <string>{{132,1050},{16,360}}</string>
+                <string>{{132,1050},{16,240}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>frame_5.png</key>
+            <key>frame_4_h360.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -5835,7 +5835,37 @@
                 <key>spriteSourceSize</key>
                 <string>{16,360}</string>
                 <key>textureRect</key>
-                <string>{{148,1050},{16,360}}</string>
+                <string>{{164,1050},{16,360}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>frame_5_h240.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{16,240}</string>
+                <key>spriteSourceSize</key>
+                <string>{16,240}</string>
+                <key>textureRect</key>
+                <string>{{148,1050},{16,240}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>frame_5_h360.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{16,360}</string>
+                <key>spriteSourceSize</key>
+                <string>{16,360}</string>
+                <key>textureRect</key>
+                <string>{{180,1050},{16,360}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -10035,7 +10065,7 @@
                 <key>spriteSourceSize</key>
                 <string>{240,360}</string>
                 <key>textureRect</key>
-                <string>{{164,1050},{240,360}}</string>
+                <string>{{196,1050},{240,360}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -15975,7 +16005,7 @@
                 <key>spriteSourceSize</key>
                 <string>{1,360}</string>
                 <key>textureRect</key>
-                <string>{{404,1050},{1,360}}</string>
+                <string>{{436,1050},{1,360}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -16008,7 +16038,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6deb694896ec7fbb2286a451cdc4cb21:c5444077df366fb1a6aaf13f0dacaae7:ed3afe1be5c13c6490a9593a67d7834f$</string>
+            <string>$TexturePacker:SmartUpdate:7d458dd263435d28c38b37f5e7a0ace8:97b93a9daaaf3864ee423a43b9b55b2d:ed3afe1be5c13c6490a9593a67d7834f$</string>
             <key>textureFileName</key>
             <string>texture_01.pvr.ccz</string>
         </dict>
