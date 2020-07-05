@@ -1860,7 +1860,7 @@
                 <key>spriteSourceSize</key>
                 <string>{91,89}</string>
                 <key>textureRect</key>
-                <string>{{615,366},{91,89}}</string>
+                <string>{{611,366},{91,89}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1875,7 +1875,7 @@
                 <key>spriteSourceSize</key>
                 <string>{91,89}</string>
                 <key>textureRect</key>
-                <string>{{524,366},{91,89}}</string>
+                <string>{{520,366},{91,89}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -8891,11 +8891,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{200,80}</string>
+                <string>{196,78}</string>
                 <key>spriteSourceSize</key>
-                <string>{200,90}</string>
+                <string>{200,80}</string>
                 <key>textureRect</key>
-                <string>{{324,366},{200,80}}</string>
+                <string>{{324,366},{196,78}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -12450,7 +12450,7 @@
                 <key>spriteSourceSize</key>
                 <string>{170,100}</string>
                 <key>textureRect</key>
-                <string>{{706,366},{156,90}}</string>
+                <string>{{702,366},{156,90}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -12465,7 +12465,7 @@
                 <key>spriteSourceSize</key>
                 <string>{170,100}</string>
                 <key>textureRect</key>
-                <string>{{862,366},{156,90}}</string>
+                <string>{{858,366},{156,90}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -16113,7 +16113,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:8b2f8ae2c08c9ac04da91d84d0ef46f0:337ed5b985bbcf079bf9c834818eeef3:ed3afe1be5c13c6490a9593a67d7834f$</string>
+            <string>$TexturePacker:SmartUpdate:4a6d42a36d702698d28f5d2013ce5f04:4dcd31204e1078346dc114cb0afcf6b6:ed3afe1be5c13c6490a9593a67d7834f$</string>
             <key>textureFileName</key>
             <string>texture_01.pvr.ccz</string>
         </dict>
