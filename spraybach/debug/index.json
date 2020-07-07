@@ -1,5 +1,5 @@
 {
-	"time": "2020/07/07 12:00:00",
+	"time": "2020/07/07 13:00:00",
 	"versionCode": "1",
 	"versionName": "0.0.1",
 	"appID":"id000000000",
@@ -110,7 +110,7 @@
 		{"pszFormat":"worm_red_die_r_%01d.png", "start":1, "end":3, "speed":0.1, "times":3, "an":"worm_red_die_l"}
 	],
 	"levels":[
-		{"step": 100, "weights": [8, 2], "worms": [7, 3, 0], "flybo": [9, 1, 0], "total": 2},
-		{"step": 200, "weights": [5, 5], "worms": [7, 3, 0], "flybo": [9, 1, 0], "total": 2}
+		{"step": 100, "weights": [8, 2], "worms": [7, 3, 0], "flybos": [9, 1, 0], "total": 2},
+		{"step": 200, "weights": [5, 5], "worms": [7, 3, 0], "flybos": [9, 1, 0], "total": 2}
 	]
 }
