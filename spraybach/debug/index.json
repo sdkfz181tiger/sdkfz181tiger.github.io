@@ -1,5 +1,5 @@
 {
-	"time": "2020/07/06 20:00:00",
+	"time": "2020/07/07 11:00:00",
 	"versionCode": "1",
 	"versionName": "0.0.1",
 	"appID":"id000000000",
@@ -110,21 +110,7 @@
 		{"pszFormat":"worm_red_die_r_%01d.png", "start":1, "end":3, "speed":0.1, "times":3, "an":"worm_red_die_l"}
 	],
 	"levels":[
-		{"step": 30,  "weights": [7, 1, 0, 2, 0], "totals": [1, 1, 1, 1, 1], "limit": 2},
-		{"step": 60,  "weights": [7, 1, 0, 2, 0], "totals": [1, 1, 1, 2, 1], "limit": 2},
-		{"step": 90,  "weights": [7, 1, 0, 1, 1], "totals": [1, 1, 1, 3, 2], "limit": 3},
-		{"step": 120, "weights": [7, 1, 0, 2, 0], "totals": [1, 1, 1, 1, 1], "limit": 3},
-		{"step": 150, "weights": [7, 1, 0, 2, 0], "totals": [1, 1, 1, 2, 1], "limit": 4},
-		{"step": 180, "weights": [7, 1, 0, 1, 1], "totals": [1, 1, 1, 3, 2], "limit": 4},
-		{"step": 210, "weights": [7, 1, 0, 2, 0], "totals": [1, 1, 1, 1, 1], "limit": 5},
-		{"step": 240, "weights": [7, 1, 0, 2, 0], "totals": [1, 1, 1, 2, 1], "limit": 5},
-		{"step": 270, "weights": [7, 1, 0, 1, 1], "totals": [1, 1, 1, 3, 2], "limit": 6},
-		{"step": 300, "weights": [7, 1, 0, 2, 1], "totals": [1, 1, 1, 1, 1], "limit": 6},
-		{"step": 330, "weights": [7, 1, 0, 2, 0], "totals": [1, 1, 1, 2, 1], "limit": 7},
-		{"step": 360, "weights": [7, 1, 0, 1, 1], "totals": [1, 1, 1, 3, 2], "limit": 7},
-		{"step": 390, "weights": [7, 1, 0, 1, 1], "totals": [1, 1, 1, 1, 1], "limit": 8},
-		{"step": 420, "weights": [7, 1, 0, 1, 1], "totals": [1, 1, 1, 2, 1], "limit": 8},
-		{"step": 450, "weights": [7, 1, 0, 2, 1], "totals": [1, 1, 1, 3, 2], "limit": 9}
-	],
-	"bonuses":[40, 80, 120, 160, 200, 240, 280, 320, 360, 400, 440, 480, 520, 560, 600]
+		{"step": 100, "balance": [8, 2], "worms": [7, 3, 0], "flybo": [9, 1, 0], "total": 2},
+		{"step": 200, "balance": [5, 5], "worms": [7, 3, 0], "flybo": [9, 1, 0], "total": 2}
+	]
 }
