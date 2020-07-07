@@ -1,5 +1,5 @@
 {
-	"time": "2020/07/07 16:00:00",
+	"time": "2020/07/07 18:00:00",
 	"versionCode": "1",
 	"versionName": "0.0.1",
 	"appID":"id000000000",
@@ -111,8 +111,13 @@
 	],
 	"levels":[
 		{"step": 10, "weights": [8, 2], "worms": [10,0, 0], "flybos": [10,0, 0], "total": 1},
-		{"step": 20, "weights": [7, 3], "worms": [7, 3, 0], "flybos": [9, 1, 0], "total": 2},
-		{"step": 30, "weights": [6, 4], "worms": [5, 4, 1], "flybos": [7, 2, 1], "total": 3},
-		{"step": 40, "weights": [5, 5], "worms": [3, 5, 2], "flybos": [5, 3, 2], "total": 4}
+		{"step": 20, "weights": [7, 3], "worms": [8, 2, 0], "flybos": [8, 2, 0], "total": 2},
+		{"step": 30, "weights": [6, 4], "worms": [8, 1, 1], "flybos": [8, 1, 1], "total": 2},
+		{"step": 40, "weights": [5, 5], "worms": [7, 3, 0], "flybos": [7, 3, 0], "total": 2},
+		{"step": 50, "weights": [5, 5], "worms": [7, 2, 1], "flybos": [7, 2, 1], "total": 2},
+		{"step": 60, "weights": [5, 5], "worms": [6, 4, 0], "flybos": [6, 4, 0], "total": 3},
+		{"step": 70, "weights": [5, 5], "worms": [6, 3, 1], "flybos": [6, 3, 1], "total": 3},
+		{"step": 80, "weights": [5, 5], "worms": [5, 5, 0], "flybos": [5, 5, 0], "total": 3},
+		{"step": 90, "weights": [5, 5], "worms": [5, 4, 1], "flybos": [5, 4, 1], "total": 3}
 	]
 }
