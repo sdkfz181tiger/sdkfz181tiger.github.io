@@ -15649,6 +15649,51 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>worm_blue_jump_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{12,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{756,87},{12,20}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>worm_blue_jump_2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{14,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{768,87},{14,20}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>worm_blue_jump_3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{12,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{782,87},{12,20}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>worm_blue_walk_1.png</key>
             <dict>
                 <key>aliases</key>
@@ -15934,6 +15979,51 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>worm_green_jump_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{12,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{850,87},{12,20}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>worm_green_jump_2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{14,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{862,87},{14,20}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>worm_green_jump_3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{12,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{876,87},{12,20}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>worm_green_walk_1.png</key>
             <dict>
                 <key>aliases</key>
@@ -16216,6 +16306,51 @@
                 <string>{28,28}</string>
                 <key>textureRect</key>
                 <string>{{996,87},{14,20}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>worm_red_jump_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{12,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{944,87},{12,20}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>worm_red_jump_2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{14,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{956,87},{14,20}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>worm_red_jump_3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{12,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{970,87},{12,20}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -16608,7 +16743,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:54c6790c17790887f6d3680e1cdfdf4e:3723e5415b629c8dac7463e4614afc7f:ed3afe1be5c13c6490a9593a67d7834f$</string>
+            <string>$TexturePacker:SmartUpdate:bee08c739d73c66257b205e9d84d5b6d:71a60bc0d54a353ff00b9e70ac2800c7:ed3afe1be5c13c6490a9593a67d7834f$</string>
             <key>textureFileName</key>
             <string>texture_01.pvr.ccz</string>
         </dict>
