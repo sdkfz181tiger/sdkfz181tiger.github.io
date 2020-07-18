@@ -4714,7 +4714,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>collision_16x16.png</key>
+            <key>collider_16x16.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -4729,7 +4729,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>collision_8x8.png</key>
+            <key>collider_8x8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -16773,7 +16773,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:b230efcecca10110d6f63f3ae1a4ae30:1f27bcacf3fb12a83cb577850d576a48:ed3afe1be5c13c6490a9593a67d7834f$</string>
+            <string>$TexturePacker:SmartUpdate:41f7aad667d2b54f3a51537700f940ee:1f27bcacf3fb12a83cb577850d576a48:ed3afe1be5c13c6490a9593a67d7834f$</string>
             <key>textureFileName</key>
             <string>texture_01.pvr.ccz</string>
         </dict>
