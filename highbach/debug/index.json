@@ -1,5 +1,5 @@
 {
-	"time": "2020/07/20 16:00:00",
+	"time": "2020/07/20 17:00:00",
 	"versionCode": "1",
 	"versionName": "0.0.1",
 	"appID":"id000000000",
@@ -56,7 +56,7 @@
 		{"pszFormat":"cro_green_die_%01d.png", "start":1, "end":4, "speed":0.1, "times":1, "an":"cro_green_die"},
 		{"pszFormat":"cro_green_fall_%01d.png", "start":1, "end":4, "speed":0.1, "times":-1, "an":"cro_green_fall"},
 		{"pszFormat":"cro_green_idle_%01d.png", "start":1, "end":2, "speed":0.1, "times":-1, "an":"cro_green_idle"},
-		{"pszFormat":"cro_green_walk_%01d.png", "start":1, "end":4, "speed":0.1, "times":-1, "an":"cro_green_walk"},
+		{"pszFormat":"cro_green_walk_%01d.png", "start":1, "end":6, "speed":0.1, "times":-1, "an":"cro_green_walk"},
 		{"pszFormat":"exp_a_%01d.png", "start":1, "end":4, "speed":0.05, "times":1, "an":"exp_a"},
 		{"pszFormat":"exp_b_%01d.png", "start":1, "end":6, "speed":0.05, "times":1, "an":"exp_b"},
 		{"pszFormat":"fsm_l_%01d.png", "start":1, "end":4, "speed":0.1, "times":1, "an":"fsm_l"},
