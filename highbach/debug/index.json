@@ -1,5 +1,5 @@
 {
-	"time": "2020/07/20 12:00:00",
+	"time": "2020/07/20 15:00:00",
 	"versionCode": "1",
 	"versionName": "0.0.1",
 	"appID":"id000000000",
@@ -53,6 +53,9 @@
 		{"pszFormat":"coin_bronze_%01d.png", "start":1, "end":8, "speed":0.05, "times":-1, "an":"coin_bronze"},
 		{"pszFormat":"coin_gold_%01d.png", "start":1, "end":8, "speed":0.05, "times":-1, "an":"coin_gold"},
 		{"pszFormat":"coin_silver_%01d.png", "start":1, "end":8, "speed":0.05, "times":-1, "an":"coin_silver"},
+		{"pszFormat":"cro_green_die_%01d.png", "start":1, "end":6, "speed":0.1, "times":1, "an":"cro_green_die"},
+		{"pszFormat":"cro_green_fall_%01d.png", "start":1, "end":4, "speed":0.1, "times":-1, "an":"cro_green_fall"},
+		{"pszFormat":"cro_green_walk_%01d.png", "start":1, "end":4, "speed":0.1, "times":-1, "an":"cro_green_walk"},
 		{"pszFormat":"exp_a_%01d.png", "start":1, "end":4, "speed":0.05, "times":1, "an":"exp_a"},
 		{"pszFormat":"exp_b_%01d.png", "start":1, "end":6, "speed":0.05, "times":1, "an":"exp_b"},
 		{"pszFormat":"fsm_l_%01d.png", "start":1, "end":4, "speed":0.1, "times":1, "an":"fsm_l"},
