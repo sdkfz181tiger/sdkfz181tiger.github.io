@@ -89,6 +89,7 @@
 		{"pszFormat":"player_r_%01d.png", "start":1, "end":5, "speed":0.1, "times":1, "an":"player_r"},
 		{"pszFormat":"player_d_%01d.png", "start":1, "end":5, "speed":0.1, "times":1, "an":"player_d"},
 		{"pszFormat":"player_w_%01d.png", "start":1, "end":5, "speed":0.1, "times":1, "an":"player_w"},
+		{"pszFormat":"poko_%01d.png", "start":1, "end":6, "speed":0.1, "times":1, "an":"poko"},
 		{"pszFormat":"smoke_%01d.png", "start":1, "end":16, "speed":0.1, "times":1, "an":"smoke"},
 		{"pszFormat":"spray_%01d.png", "start":1, "end":4, "speed":0.1, "times":1, "an":"spray_a"},
 		{"pszFormat":"spray_%01d.png", "start":1, "end":9, "speed":0.1, "times":1, "an":"spray_b"},
