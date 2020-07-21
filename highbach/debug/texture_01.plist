@@ -17508,7 +17508,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d9a8b7a2b32a3af2537f87cfdd4a9d31:daa79aa6f04ca1681eb84e1438a61d00:ed3afe1be5c13c6490a9593a67d7834f$</string>
+            <string>$TexturePacker:SmartUpdate:f8fde911db0d31793076c0574c6f211e:0fc4f9f9a29cc9426bccd83509973365:ed3afe1be5c13c6490a9593a67d7834f$</string>
             <key>textureFileName</key>
             <string>texture_01.pvr.ccz</string>
         </dict>
