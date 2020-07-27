@@ -16969,6 +16969,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>sp_jump_b_up_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,1}</string>
+                <key>spriteSize</key>
+                <string>{24,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{72,195},{24,26}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>sp_walk_r_1.png</key>
             <dict>
                 <key>aliases</key>
@@ -20073,7 +20088,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:70d2213d09e587e01b2376c849b66648:35517a2c622c9754f44609f4131728d6:ed3afe1be5c13c6490a9593a67d7834f$</string>
+            <string>$TexturePacker:SmartUpdate:7beb22c9b773176a2c6f766a447e0454:d070182efcf2bc77e566a56517b563e7:ed3afe1be5c13c6490a9593a67d7834f$</string>
             <key>textureFileName</key>
             <string>texture_01.pvr.ccz</string>
         </dict>
