@@ -16241,11 +16241,11 @@
                 <key>spriteOffset</key>
                 <string>{0,-7}</string>
                 <key>spriteSize</key>
-                <string>{240,58}</string>
+                <string>{240,56}</string>
                 <key>spriteSourceSize</key>
                 <string>{240,72}</string>
                 <key>textureRect</key>
-                <string>{{0,496},{240,58}}</string>
+                <string>{{0,496},{240,56}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -20223,7 +20223,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0d579141b3e180071d4c6f41fc92be68:dca40c4d9519c8d9d0a72504aaf56fdf:ed3afe1be5c13c6490a9593a67d7834f$</string>
+            <string>$TexturePacker:SmartUpdate:199afda6ef1b36bbd60f652b3e04897d:dcba4ee10f2197cae4abe38c0cc8c45b:ed3afe1be5c13c6490a9593a67d7834f$</string>
             <key>textureFileName</key>
             <string>texture_01.pvr.ccz</string>
         </dict>
