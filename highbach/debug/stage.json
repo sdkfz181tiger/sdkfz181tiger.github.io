@@ -18,9 +18,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"using",
+                 "name":"tsx",
                  "type":"string",
-                 "value":"tilemap_walls"
+                 "value":"tilemap_walls.tsx"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -36,9 +36,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"using",
+                 "name":"tsx",
                  "type":"string",
-                 "value":"tilemap_floors"
+                 "value":"tilemap_floors.tsx"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -54,9 +54,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"using",
+                 "name":"tsx",
                  "type":"string",
-                 "value":"tilemap_enemies"
+                 "value":"tilemap_enemies.tsx"
                 }],
          "type":"tilelayer",
          "visible":true,
