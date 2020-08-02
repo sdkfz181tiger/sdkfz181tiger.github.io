@@ -19699,7 +19699,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>wall_w_6x40.png</key>
+            <key>wall_w_24x48.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -20298,7 +20298,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:cca0d73318f3f8a255e7e59025b2bf78:d9ddbc4ba6b0a61f6952c91fe6ea0c22:ed3afe1be5c13c6490a9593a67d7834f$</string>
+            <string>$TexturePacker:SmartUpdate:ee2b2ed88617a762ebf0e9cd995e70b5:d9ddbc4ba6b0a61f6952c91fe6ea0c22:ed3afe1be5c13c6490a9593a67d7834f$</string>
             <key>textureFileName</key>
             <string>texture_01.pvr.ccz</string>
         </dict>
