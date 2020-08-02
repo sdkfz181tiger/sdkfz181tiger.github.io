@@ -16,6 +16,12 @@
          "id":4,
          "name":"Walls",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"using",
+                 "type":"string",
+                 "value":"tilemap_walls"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":9,
@@ -28,6 +34,12 @@
          "id":1,
          "name":"Floors",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"using",
+                 "type":"string",
+                 "value":"tilemap_floors"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":9,
@@ -40,6 +52,12 @@
          "id":3,
          "name":"Enemies",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"using",
+                 "type":"string",
+                 "value":"tilemap_enemies"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":9,
