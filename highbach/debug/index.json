@@ -1,5 +1,5 @@
 {
-	"time": "2020/08/06 16:00:00",
+	"time": "2020/08/06 20:00:00",
 	"versionCode": "1",
 	"versionName": "0.0.1",
 	"appID":"id000000000",
@@ -124,9 +124,9 @@
 		{"pszFormat":"sp_die_omg_%01d.png", "start":1, "end":2, "speed":0.2, "times":-1, "an":"sp_die_omg"},
 		{"pszFormat":"sp_die_slip_%01d.png", "start":1, "end":2, "speed":0.2, "times":-1, "an":"sp_die_slip"},
 		{"pszFormat":"sp_idle_%01d.png", "start":1, "end":4, "speed":0.2, "times":-1, "an":"sp_idle"},
-		{"pszFormat":"sp_jump_a_down_%01d.png", "start":1, "end":2, "speed":0.1, "times":1, "an":"sp_jump_a_down"},
+		{"pszFormat":"sp_jump_a_down_%01d.png", "start":1, "end":3, "speed":0.1, "times":1, "an":"sp_jump_a_down"},
 		{"pszFormat":"sp_jump_a_up_%01d.png", "start":1, "end":1, "speed":0.1, "times":1, "an":"sp_jump_a_up"},
-		{"pszFormat":"sp_jump_b_down_%01d.png", "start":1, "end":4, "speed":0.1, "times":1, "an":"sp_jump_b_down"},
+		{"pszFormat":"sp_jump_b_down_%01d.png", "start":1, "end":5, "speed":0.1, "times":1, "an":"sp_jump_b_down"},
 		{"pszFormat":"sp_jump_b_up_%01d.png", "start":1, "end":1, "speed":0.1, "times":1, "an":"sp_jump_b_up"},
 		{"pszFormat":"sp_walk_r_%01d.png", "start":1, "end":4, "speed":0.2, "times":-1, "an":"sp_walk_r"},
 		{"pszFormat":"spray_%01d.png", "start":1, "end":4, "speed":0.1, "times":1, "an":"spray_a"},
