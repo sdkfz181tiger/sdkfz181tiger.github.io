@@ -4800,7 +4800,7 @@
                 <key>spriteSourceSize</key>
                 <string>{36,29}</string>
                 <key>textureRect</key>
-                <string>{{962,251},{36,29}}</string>
+                <string>{{972,251},{36,29}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -18499,6 +18499,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>spray_body.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{10,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,28}</string>
+                <key>textureRect</key>
+                <string>{{962,251},{10,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>starblink_1.png</key>
             <dict>
                 <key>aliases</key>
@@ -21183,7 +21198,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4372f1a66bed372ff69b98739f12ddf3:6e5fb8e627df9f78b36bc859bf5cc839:ed3afe1be5c13c6490a9593a67d7834f$</string>
+            <string>$TexturePacker:SmartUpdate:3698d85ef1fadd28b1b14aad3e405ef3:ab0eee563f19e32223a07b47123a8cf1:ed3afe1be5c13c6490a9593a67d7834f$</string>
             <key>textureFileName</key>
             <string>texture_01.pvr.ccz</string>
         </dict>
