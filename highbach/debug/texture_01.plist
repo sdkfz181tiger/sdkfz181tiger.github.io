@@ -6079,6 +6079,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>collider_6x48.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{6,40}</string>
+                <key>spriteSourceSize</key>
+                <string>{6,40}</string>
+                <key>textureRect</key>
+                <string>{{486,342},{6,40}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>collider_8x12.png</key>
             <dict>
                 <key>aliases</key>
@@ -21138,7 +21153,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:eb2c568ea3b974a6e817fed008560e2d:15e162092af53f215a11a69a8a01c54b:ed3afe1be5c13c6490a9593a67d7834f$</string>
+            <string>$TexturePacker:SmartUpdate:08f373805f331d7e8a77e2f66a0f60f0:cd6cce0619b7228c671d69437baf6e16:ed3afe1be5c13c6490a9593a67d7834f$</string>
             <key>textureFileName</key>
             <string>texture_01.pvr.ccz</string>
         </dict>
