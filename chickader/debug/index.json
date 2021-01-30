@@ -1,5 +1,5 @@
 {
-	"time": "2021/01/31 00:00:00",
+	"time": "2021/01/31 01:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -53,6 +53,24 @@
 		"sounds/se_get_01.wav",
 		"sounds/se_grab_01.wav",
 		"sounds/se_jump_01.wav"
+	],
+	"ses": [
+		"sounds/se_coin_01.wav",
+		"sounds/se_coin_02.wav",
+		"sounds/se_coin_03.wav",
+		"sounds/se_coin_04.wav",
+		"sounds/se_egg_01.wav",
+		"sounds/se_get_01.wav",
+		"sounds/se_grab_01.wav",
+		"sounds/se_jump_01.wav"
+	],
+	"bgms": [
+		"sounds/bgm_game.wav",
+		"sounds/bgm_result_ng.wav",
+		"sounds/bgm_result_ok.wav",
+		"sounds/bgm_title.wav",
+		"sounds/bgm_walk_01.wav",
+		"sounds/bgm_walk_02.wav"
 	],
 	"sprite_sheets": [
 		{"file_name": "images/s_egg.png", "frame_name": "egg_hop", "rows": 2, "cols": 10, "w": 5, "h": 8, "from": 0, "to": 19},
