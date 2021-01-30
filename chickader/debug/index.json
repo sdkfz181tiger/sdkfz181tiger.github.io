@@ -1,5 +1,5 @@
 {
-	"time": "2021/01/30 22:00:00",
+	"time": "2021/01/31 00:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -49,7 +49,9 @@
 		"sounds/se_coin_02.wav",
 		"sounds/se_coin_03.wav",
 		"sounds/se_coin_04.wav",
+		"sounds/se_egg_01.wav",
 		"sounds/se_get_01.wav",
+		"sounds/se_grab_01.wav",
 		"sounds/se_jump_01.wav"
 	],
 	"sprite_sheets": [
