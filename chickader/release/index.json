@@ -52,6 +52,8 @@
 		"sounds/bgm_title.wav",
 		"sounds/bgm_walk_01.wav",
 		"sounds/bgm_walk_02.wav",
+		"sounds/se_cnt_bonus.wav",
+		"sounds/se_cnt_score.wav",
 		"sounds/se_coin_01.wav",
 		"sounds/se_coin_02.wav",
 		"sounds/se_coin_03.wav",
@@ -62,6 +64,8 @@
 		"sounds/se_jump_01.wav"
 	],
 	"ses": [
+		"sounds/se_cnt_bonus.wav",
+		"sounds/se_cnt_score.wav",
 		"sounds/se_coin_01.wav",
 		"sounds/se_coin_02.wav",
 		"sounds/se_coin_03.wav",
