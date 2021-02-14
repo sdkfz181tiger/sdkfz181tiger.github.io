@@ -1,5 +1,5 @@
 {
-	"time": "2021/02/14 18:00:00",
+	"time": "2021/02/14 19:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -71,9 +71,12 @@
 		"images/s_tanu.png",
 		"sounds/bgm_game_01.wav",
 		"sounds/bgm_game_02.wav",
+		"sounds/bgm_omg_01.wav",
+		"sounds/bgm_omg_02.wav",
 		"sounds/bgm_result_ng.wav",
 		"sounds/bgm_result_ok.wav",
-		"sounds/bgm_title.wav",
+		"sounds/bgm_start_01.wav",
+		"sounds/bgm_title_01.wav",
 		"sounds/bgm_walk_01.wav",
 		"sounds/bgm_walk_02.wav",
 		"sounds/se_cnt_bonus.wav",
@@ -102,9 +105,12 @@
 	"bgms": [
 		"sounds/bgm_game_01.wav",
 		"sounds/bgm_game_02.wav",
+		"sounds/bgm_omg_01.wav",
+		"sounds/bgm_omg_02.wav",
 		"sounds/bgm_result_ng.wav",
 		"sounds/bgm_result_ok.wav",
-		"sounds/bgm_title.wav",
+		"sounds/bgm_start_01.wav",
+		"sounds/bgm_title_01.wav",
 		"sounds/bgm_walk_01.wav",
 		"sounds/bgm_walk_02.wav"
 	],
