@@ -1,5 +1,5 @@
 {
-	"time": "2021/02/14 20:00:00",
+	"time": "2021/02/14 19:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -73,10 +73,9 @@
 		"sounds/bgm_game_02.wav",
 		"sounds/bgm_omg_01.wav",
 		"sounds/bgm_omg_02.wav",
+		"sounds/bgm_ready_01.wav",
 		"sounds/bgm_result_01.wav",
 		"sounds/bgm_result_02.wav",
-		"sounds/bgm_result_03.wav",
-		"sounds/bgm_start_01.wav",
 		"sounds/bgm_title_01.wav",
 		"sounds/bgm_walk_01.wav",
 		"sounds/bgm_walk_02.wav",
@@ -108,10 +107,9 @@
 		"sounds/bgm_game_02.wav",
 		"sounds/bgm_omg_01.wav",
 		"sounds/bgm_omg_02.wav",
+		"sounds/bgm_ready_01.wav",
 		"sounds/bgm_result_01.wav",
 		"sounds/bgm_result_02.wav",
-		"sounds/bgm_result_03.wav",
-		"sounds/bgm_start_01.wav",
 		"sounds/bgm_title_01.wav",
 		"sounds/bgm_walk_01.wav",
 		"sounds/bgm_walk_02.wav"
