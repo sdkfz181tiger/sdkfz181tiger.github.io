@@ -170,6 +170,7 @@
 		{"file_name": "images/s_kobo.png", "frame_name": "kobo_r",    "rows": 3,  "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
 		{"file_name": "images/s_kobo.png", "frame_name": "kobo_l",    "rows": 4,  "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
 		{"file_name": "images/s_kobo.png", "frame_name": "kobo_roll", "rows": 5,  "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/s_kobo.png", "frame_name": "kobo_omg",  "rows": 5,  "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
 
 		{"file_name": "images/s_tanu.png", "frame_name": "tanu_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/s_tanu.png", "frame_name": "tanu_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
