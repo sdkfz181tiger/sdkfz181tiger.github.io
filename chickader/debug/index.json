@@ -131,6 +131,20 @@
 	"sprite_sheets": [
 		{"file_name": "images/s_egg.png", "frame_name": "egg_hop", "rows": 2, "cols": 10, "w": 5, "h": 8, "from": 0, "to": 19},
 
+		{"file_name": "images/fc_01.png", "frame_name": "fc_01", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+		{"file_name": "images/fc_02.png", "frame_name": "fc_02", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+		{"file_name": "images/fc_03.png", "frame_name": "fc_03", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+		{"file_name": "images/fc_04.png", "frame_name": "fc_04", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+		{"file_name": "images/fc_05.png", "frame_name": "fc_05", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+		{"file_name": "images/fc_06.png", "frame_name": "fc_06", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+		{"file_name": "images/fc_07.png", "frame_name": "fc_07", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+		{"file_name": "images/fc_08.png", "frame_name": "fc_08", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+		{"file_name": "images/fc_09.png", "frame_name": "fc_09", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+		{"file_name": "images/fc_10.png", "frame_name": "fc_10", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+		{"file_name": "images/fc_11.png", "frame_name": "fc_11", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+		{"file_name": "images/fc_12.png", "frame_name": "fc_12", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+		{"file_name": "images/fc_13.png", "frame_name": "fc_13", "rows": 1,  "cols": 4, "w": 4, "h": 4, "from": 0,  "to": 3},
+
 		{"file_name": "images/s_chicken_f.png", "frame_name": "chicken_f_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/s_chicken_f.png", "frame_name": "chicken_f_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
 		{"file_name": "images/s_chicken_f.png", "frame_name": "chicken_f_r",    "rows": 3,  "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
