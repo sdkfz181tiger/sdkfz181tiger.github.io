@@ -181,5 +181,25 @@
 		{"file_name": "images/s_tanu.png", "frame_name": "tanu_eat",     "rows": 7,  "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
 		{"file_name": "images/s_tanu.png", "frame_name": "tanu_sleep_r", "rows": 8,  "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
 		{"file_name": "images/s_tanu.png", "frame_name": "tanu_sleep_l", "rows": 9,  "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44}
+	],
+	"mazes": [
+		{"maze":
+			[
+				[1, 1, 1, 1, 1],
+				[1, 0, 1, 0, 1],
+				[1, 0, 0, 0, 1],
+				[1, 0, 1, 0, 1],
+				[1, 1, 1, 1, 1]
+			]
+		},
+		{"maze":
+			[
+				[1, 1, 1, 1, 1],
+				[1, 0, 0, 0, 1],
+				[1, 1, 0, 1, 1],
+				[1, 0, 0, 0, 1],
+				[1, 1, 1, 1, 1]
+			]
+		},
 	]
 }
