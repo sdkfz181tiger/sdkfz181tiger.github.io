@@ -1,5 +1,5 @@
 {
-	"time": "2021/02/16 16:00:00",
+	"time": "2021/02/16 14:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -157,7 +157,7 @@
 		{"file_name": "images/s_chick.png", "frame_name": "chick_roll", "rows": 5,  "cols": 5, "w": 9, "h": 9, "from": 20, "to": 24},
 		{"file_name": "images/s_chick.png", "frame_name": "chick_i1",   "rows": 6,  "cols": 5, "w": 9, "h": 9, "from": 25, "to": 29},
 		{"file_name": "images/s_chick.png", "frame_name": "chick_i2",   "rows": 7,  "cols": 5, "w": 9, "h": 9, "from": 30, "to": 34},
-		{"file_name": "images/s_chick.png", "frame_name": "chick_joy",    "rows": 8,  "cols": 5, "w": 9, "h": 9, "from": 35, "to": 39},
+		{"file_name": "images/s_chick.png", "frame_name": "chick_joy",  "rows": 8,  "cols": 5, "w": 9, "h": 9, "from": 35, "to": 39},
 
 		{"file_name": "images/s_osho.png", "frame_name": "osho_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/s_osho.png", "frame_name": "osho_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
