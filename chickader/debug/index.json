@@ -1,5 +1,5 @@
 {
-	"time": "2021/02/16 12:00:00",
+	"time": "2021/02/16 13:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -35,7 +35,6 @@
 		"images/ctl_60x60_left.png",
 		"images/ctl_60x60_right.png",
 		"images/ctl_60x60_up.png",
-		"images/fc_00.png",
 		"images/fc_01.png",
 		"images/fc_02.png",
 		"images/fc_03.png",
