@@ -1,5 +1,5 @@
 {
-	"time": "2021/02/15 12:00:00",
+	"time": "2021/02/24 13:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -35,6 +35,10 @@
 		"images/ctl_60x60_left.png",
 		"images/ctl_60x60_right.png",
 		"images/ctl_60x60_up.png",
+		"images/fc_01.png",
+		"images/fc_02.png",
+		"images/fc_03.png",
+		"images/fc_04.png",
 		"images/i_apple.png",
 		"images/i_banana.png",
 		"images/i_blueberry.png",
@@ -117,6 +121,11 @@
 	"sprite_sheets": [
 		{"file_name": "images/s_egg.png", "frame_name": "egg_hop", "rows": 2, "cols": 10, "w": 5, "h": 8, "from": 0, "to": 19},
 
+		{"file_name": "images/fc_01.png", "frame_name": "fc_01", "rows": 1,  "cols": 13, "w": 4, "h": 4, "from": 0,  "to": 12},
+		{"file_name": "images/fc_02.png", "frame_name": "fc_02", "rows": 1,  "cols": 13, "w": 4, "h": 4, "from": 0,  "to": 12},
+		{"file_name": "images/fc_03.png", "frame_name": "fc_03", "rows": 1,  "cols": 13, "w": 4, "h": 4, "from": 0,  "to": 12},
+		{"file_name": "images/fc_04.png", "frame_name": "fc_04", "rows": 1,  "cols": 13, "w": 4, "h": 4, "from": 0,  "to": 12},
+
 		{"file_name": "images/s_chicken_f.png", "frame_name": "chicken_f_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/s_chicken_f.png", "frame_name": "chicken_f_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
 		{"file_name": "images/s_chicken_f.png", "frame_name": "chicken_f_r",    "rows": 3,  "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
@@ -148,7 +157,7 @@
 		{"file_name": "images/s_chick.png", "frame_name": "chick_roll", "rows": 5,  "cols": 5, "w": 9, "h": 9, "from": 20, "to": 24},
 		{"file_name": "images/s_chick.png", "frame_name": "chick_i1",   "rows": 6,  "cols": 5, "w": 9, "h": 9, "from": 25, "to": 29},
 		{"file_name": "images/s_chick.png", "frame_name": "chick_i2",   "rows": 7,  "cols": 5, "w": 9, "h": 9, "from": 30, "to": 34},
-		{"file_name": "images/s_chick.png", "frame_name": "chick_joy",    "rows": 8,  "cols": 5, "w": 9, "h": 9, "from": 35, "to": 39},
+		{"file_name": "images/s_chick.png", "frame_name": "chick_joy",  "rows": 8,  "cols": 5, "w": 9, "h": 9, "from": 35, "to": 39},
 
 		{"file_name": "images/s_osho.png", "frame_name": "osho_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/s_osho.png", "frame_name": "osho_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
@@ -161,13 +170,91 @@
 		{"file_name": "images/s_kobo.png", "frame_name": "kobo_r",    "rows": 3,  "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
 		{"file_name": "images/s_kobo.png", "frame_name": "kobo_l",    "rows": 4,  "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
 		{"file_name": "images/s_kobo.png", "frame_name": "kobo_roll", "rows": 5,  "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/s_kobo.png", "frame_name": "kobo_omg",  "rows": 6,  "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
 
-		{"file_name": "images/s_tanu.png", "frame_name": "tanu_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
-		{"file_name": "images/s_tanu.png", "frame_name": "tanu_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
-		{"file_name": "images/s_tanu.png", "frame_name": "tanu_r",    "rows": 3,  "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
-		{"file_name": "images/s_tanu.png", "frame_name": "tanu_l",    "rows": 4,  "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
-		{"file_name": "images/s_tanu.png", "frame_name": "tanu_roll", "rows": 5,  "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
-		{"file_name": "images/s_tanu.png", "frame_name": "tanu_grab", "rows": 6,  "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
-		{"file_name": "images/s_tanu.png", "frame_name": "tanu_eat",  "rows": 7,  "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34}
+		{"file_name": "images/s_tanu.png", "frame_name": "tanu_f",       "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
+		{"file_name": "images/s_tanu.png", "frame_name": "tanu_b",       "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
+		{"file_name": "images/s_tanu.png", "frame_name": "tanu_r",       "rows": 3,  "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/s_tanu.png", "frame_name": "tanu_l",       "rows": 4,  "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/s_tanu.png", "frame_name": "tanu_roll",    "rows": 5,  "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/s_tanu.png", "frame_name": "tanu_grab",    "rows": 6,  "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/s_tanu.png", "frame_name": "tanu_eat",     "rows": 7,  "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/s_tanu.png", "frame_name": "tanu_sleep_r", "rows": 8,  "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/s_tanu.png", "frame_name": "tanu_sleep_l", "rows": 9,  "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44}
+	],
+	"mazes": [
+		{
+			"rows": 19,
+			"cols": 19,
+			"board": [
+				1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+			]
+		}, {
+			"rows": 13,
+			"cols": 13,
+			"board": [
+				1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+				1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1,
+				1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1,
+				1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1,
+				1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1,
+				1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1,
+				1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1,
+				1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1,
+				1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1,
+				1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1,
+				1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+			]
+		}, {
+			"rows": 15,
+			"cols": 15,
+			"board": [
+				1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 2, 0, 1,
+				1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+				1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+			]
+		}, {
+			"rows": 5,
+			"cols": 5,
+			"board": [
+				1, 1, 1, 1, 1,
+				1, 0, 0, 0, 1,
+				1, 0, 2, 0, 1,
+				1, 0, 0, 0, 1,
+				1, 1, 1, 1, 1
+			]
+		}
 	]
 }
