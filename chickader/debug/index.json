@@ -1,5 +1,5 @@
 {
-	"time": "2021/03/17 23:00:00",
+	"time": "2021/03/17 10:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -100,6 +100,7 @@
 		"sounds/se_jump_01.wav"
 	],
 	"ses": [
+		"sounds/se_chick_01.wav",
 		"sounds/se_cnt_bonus.wav",
 		"sounds/se_cnt_score.wav",
 		"sounds/se_coin_01.wav",
