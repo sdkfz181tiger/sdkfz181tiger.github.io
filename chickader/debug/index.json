@@ -1,5 +1,5 @@
 {
-	"time": "2021/03/19 20:00:00",
+	"time": "2021/03/21 20:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -40,10 +40,10 @@
 		"images/dot_6x6.png",
 		"images/dot_8x8.png",
 		"images/e_angry.png",
-		"images/e_exclamation.png",
-		"images/e_good.png",
-		"images/e_question.png",
-		"images/e_sad.png",
+		"images/e_fear.png",
+		"images/e_happy.png",
+		"images/e_hmm.png",
+		"images/e_surprise.png",
 		"images/fc_01.png",
 		"images/fc_02.png",
 		"images/fc_03.png",
