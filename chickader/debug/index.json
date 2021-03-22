@@ -1,7 +1,6 @@
 {
-	"time": "2021/03/22 11:00:00",
+	"time": "2021/03/22 12:00:00",
 	"assets":[
-		"tmx/stage_01.json",
 		"images/box_12x12.png",
 		"images/box_16x16.png",
 		"images/box_24x24.png",
@@ -82,7 +81,8 @@
 		"images/s_osho.png",
 		"images/s_san.png",
 		"images/s_shi.png",
-		"images/s_tanu.png"
+		"images/s_tanu.png",
+		"tmx/stage_01.json"
 	],
 	"ses": [
 		"sounds/se_chick_01.wav",
@@ -179,7 +179,7 @@
 	"mazes": [
 		{
 			"randomize": false,
-			"tmx": "stage_01.json"
+			"tmx": "tmx/stage_01.json"
 		}
 	]
 }
