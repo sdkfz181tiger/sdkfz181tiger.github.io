@@ -1,5 +1,5 @@
 {
-	"time": "2021/03/26 18:00:00",
+	"time": "2021/03/26 20:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -126,11 +126,11 @@
 		{"file_name": "images/fc_03.png", "frame_name": "fc_03", "rows": 1,  "cols": 13, "w": 4, "h": 4, "from": 0,  "to": 12},
 		{"file_name": "images/fc_04.png", "frame_name": "fc_04", "rows": 1,  "cols": 13, "w": 4, "h": 4, "from": 0,  "to": 12},
 
-		{"file_name": "images/ctl_arrows.png", "frame_name": "a_default", "rows": 1,  "cols": 4, "w": 16, "h": 16, "from": 0,  "to": 3},
-		{"file_name": "images/ctl_arrows.png", "frame_name": "a_up", "rows": 2,  "cols": 4, "w": 16, "h": 16, "from": 4,  "to": 7},
-		{"file_name": "images/ctl_arrows.png", "frame_name": "a_down", "rows": 3,  "cols": 4, "w": 16, "h": 16, "from": 8,  "to": 11},
-		{"file_name": "images/ctl_arrows.png", "frame_name": "a_left", "rows": 4,  "cols": 4, "w": 16, "h": 16, "from": 12,  "to": 15},
-		{"file_name": "images/ctl_arrows.png", "frame_name": "a_right", "rows": 5,  "cols": 4, "w": 16, "h": 16, "from": 16,  "to": 19},
+		{"file_name": "images/ctl_arrows.png", "frame_name": "a_default", "rows": 1,  "cols": 4, "w": 16, "h": 16, "from": 0,  "to": 5},
+		{"file_name": "images/ctl_arrows.png", "frame_name": "a_up", "rows": 2,  "cols": 4, "w": 16, "h": 16, "from": 6,  "to": 11},
+		{"file_name": "images/ctl_arrows.png", "frame_name": "a_down", "rows": 3,  "cols": 4, "w": 16, "h": 16, "from": 12,  "to": 17},
+		{"file_name": "images/ctl_arrows.png", "frame_name": "a_left", "rows": 4,  "cols": 4, "w": 16, "h": 16, "from": 18,  "to": 23},
+		{"file_name": "images/ctl_arrows.png", "frame_name": "a_right", "rows": 5,  "cols": 4, "w": 16, "h": 16, "from": 24,  "to": 29},
 
 		{"file_name": "images/s_chicken_f.png", "frame_name": "chicken_f_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/s_chicken_f.png", "frame_name": "chicken_f_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
