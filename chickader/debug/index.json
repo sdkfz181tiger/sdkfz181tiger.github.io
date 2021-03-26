@@ -126,6 +126,11 @@
 		{"file_name": "images/fc_03.png", "frame_name": "fc_03", "rows": 1,  "cols": 13, "w": 4, "h": 4, "from": 0,  "to": 12},
 		{"file_name": "images/fc_04.png", "frame_name": "fc_04", "rows": 1,  "cols": 13, "w": 4, "h": 4, "from": 0,  "to": 12},
 
+		{"file_name": "images/ctl_arrows.png", "frame_name": "arrow_up", "rows": 1,  "cols": 4, "w": 16, "h": 16, "from": 0,  "to": 3},
+		{"file_name": "images/ctl_arrows.png", "frame_name": "arrow_down", "rows": 2,  "cols": 4, "w": 16, "h": 16, "from": 4,  "to": 7},
+		{"file_name": "images/ctl_arrows.png", "frame_name": "arrow_left", "rows": 3,  "cols": 4, "w": 16, "h": 16, "from": 8,  "to": 11},
+		{"file_name": "images/ctl_arrows.png", "frame_name": "arrow_right", "rows": 4,  "cols": 4, "w": 16, "h": 16, "from": 12,  "to": 15},
+
 		{"file_name": "images/s_chicken_f.png", "frame_name": "chicken_f_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/s_chicken_f.png", "frame_name": "chicken_f_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
 		{"file_name": "images/s_chicken_f.png", "frame_name": "chicken_f_r",    "rows": 3,  "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
