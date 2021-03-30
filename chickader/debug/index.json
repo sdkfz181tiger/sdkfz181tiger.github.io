@@ -205,12 +205,12 @@
 		{"file_name": "images/s_tanu.png", "frame_name": "tanu_sleep_l", "rows": 9,  "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44}
 	],
 	"howto": [
-		{"file_name": "images/ht_01.png", "wait": 0.1, "time": 0.2},
-		{"file_name": "images/ht_02.png", "wait": 0.1, "time": 0.2},
-		{"file_name": "images/ht_03.png", "wait": 0.1, "time": 0.2},
-		{"file_name": "images/ht_04.png", "wait": 0.1, "time": 0.2},
-		{"file_name": "images/ht_05.png", "wait": 0.1, "time": 0.2},
-		{"file_name": "images/ht_06.png", "wait": 0.1, "time": 0.2}
+		{"file_name": "images/ht_01.png", "height": 2, "wait": 0.1, "time": 0.2},
+		{"file_name": "images/ht_02.png", "height": 2, "wait": 0.1, "time": 0.2},
+		{"file_name": "images/ht_03.png", "height": 2, "wait": 0.1, "time": 0.2},
+		{"file_name": "images/ht_04.png", "height": 2, "wait": 0.1, "time": 0.2},
+		{"file_name": "images/ht_05.png", "height": 2, "wait": 0.1, "time": 0.2},
+		{"file_name": "images/ht_06.png", "height": 2, "wait": 0.1, "time": 0.2}
 	],
 	"mazes": [
 		{
