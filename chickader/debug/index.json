@@ -1,5 +1,5 @@
 {
-	"time": "2021/03/29 19:00:00",
+	"time": "2021/03/30 11:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -203,6 +203,14 @@
 		{"file_name": "images/s_tanu.png", "frame_name": "tanu_eat",     "rows": 7,  "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
 		{"file_name": "images/s_tanu.png", "frame_name": "tanu_sleep_r", "rows": 8,  "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
 		{"file_name": "images/s_tanu.png", "frame_name": "tanu_sleep_l", "rows": 9,  "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44}
+	],
+	"howto": [
+		{"file_name": "images/ht_01.png", "wait": 0.1, "time": 0.2},
+		{"file_name": "images/ht_02.png", "wait": 0.1, "time": 0.2},
+		{"file_name": "images/ht_03.png", "wait": 0.1, "time": 0.2},
+		{"file_name": "images/ht_04.png", "wait": 0.1, "time": 0.2},
+		{"file_name": "images/ht_05.png", "wait": 0.1, "time": 0.2},
+		{"file_name": "images/ht_06.png", "wait": 0.1, "time": 0.2}
 	],
 	"mazes": [
 		{
