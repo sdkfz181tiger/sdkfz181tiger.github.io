@@ -1,5 +1,5 @@
 {
-	"time": "2021/04/02 13:00:00",
+	"time": "2021/04/02 18:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -27,6 +27,7 @@
 		"images/c_mar.png",
 		"images/c_osho.png",
 		"images/c_quit.png",
+		"images/c_ranking.png",
 		"images/c_san.png",
 		"images/c_shi.png",
 		"images/c_sound_off.png",
