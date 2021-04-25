@@ -1,5 +1,5 @@
 {
-	"time": "2021/04/25 18:00:00",
+	"time": "2021/04/25 20:00:00",
 	"assets":[
 		"images/box_12x12.png",
 		"images/box_16x16.png",
@@ -188,12 +188,33 @@
 		{"file_name": "images/s_chick.png", "frame_name": "chick_i2",   "rows": 7,  "cols": 5, "w": 9, "h": 9, "from": 30, "to": 34},
 		{"file_name": "images/s_chick.png", "frame_name": "chick_joy",  "rows": 8,  "cols": 5, "w": 9, "h": 9, "from": 35, "to": 39},
 
+		{"file_name": "images/s_osho.png", "frame_name": "hime_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
+		{"file_name": "images/s_osho.png", "frame_name": "hime_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
+		{"file_name": "images/s_osho.png", "frame_name": "hime_r",    "rows": 3,  "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/s_osho.png", "frame_name": "hime_l",    "rows": 4,  "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/s_osho.png", "frame_name": "hime_roll", "rows": 5,  "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/s_osho.png", "frame_name": "hime_omg",  "rows": 6,  "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+
+		{"file_name": "images/s_osho.png", "frame_name": "ninja_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
+		{"file_name": "images/s_osho.png", "frame_name": "ninja_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
+		{"file_name": "images/s_osho.png", "frame_name": "ninja_r",    "rows": 3,  "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/s_osho.png", "frame_name": "ninja_l",    "rows": 4,  "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/s_osho.png", "frame_name": "ninja_roll", "rows": 5,  "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/s_osho.png", "frame_name": "ninja_omg",  "rows": 6,  "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+
 		{"file_name": "images/s_osho.png", "frame_name": "osho_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/s_osho.png", "frame_name": "osho_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
 		{"file_name": "images/s_osho.png", "frame_name": "osho_r",    "rows": 3,  "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
 		{"file_name": "images/s_osho.png", "frame_name": "osho_l",    "rows": 4,  "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
 		{"file_name": "images/s_osho.png", "frame_name": "osho_roll", "rows": 5,  "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
 		{"file_name": "images/s_osho.png", "frame_name": "osho_omg",  "rows": 6,  "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+
+		{"file_name": "images/s_osho.png", "frame_name": "samurai_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
+		{"file_name": "images/s_osho.png", "frame_name": "samurai_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
+		{"file_name": "images/s_osho.png", "frame_name": "samurai_r",    "rows": 3,  "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/s_osho.png", "frame_name": "samurai_l",    "rows": 4,  "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/s_osho.png", "frame_name": "samurai_roll", "rows": 5,  "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/s_osho.png", "frame_name": "samurai_omg",  "rows": 6,  "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
 
 		{"file_name": "images/s_kobo.png", "frame_name": "kobo_f",    "rows": 1,  "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/s_kobo.png", "frame_name": "kobo_b",    "rows": 2,  "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
