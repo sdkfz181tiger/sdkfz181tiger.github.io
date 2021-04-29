@@ -1,7 +1,9 @@
 {
-	"time": "2021/04/29 12:00:00",
+	"time": "2021/04/30 12:00:00",
+	"downloads":[
+		"archive.zip"
+	],
 	"assets":[
-		"archive.zip",
 		"images/box_12x12.png",
 		"images/box_16x16.png",
 		"images/box_24x24.png",
