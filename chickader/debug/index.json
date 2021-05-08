@@ -1,5 +1,5 @@
 {
-	"time": "2021/05/06 18:00:00",
+	"time": "2021/05/08 18:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -133,6 +133,7 @@
 		"sounds/se_coin_03.wav",
 		"sounds/se_coin_04.wav",
 		"sounds/se_egg_01.wav",
+		"sounds/se_fall_01.wav",
 		"sounds/se_fan_01.wav",
 		"sounds/se_fan_02.wav",
 		"sounds/se_fan_03.wav",
