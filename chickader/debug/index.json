@@ -1,5 +1,5 @@
 {
-	"time": "2021/05/09 18:00:00",
+	"time": "2021/05/10 01:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -140,7 +140,9 @@
 		"sounds/se_get_01.wav",
 		"sounds/se_grab_01.wav",
 		"sounds/se_jump_01.wav",
-		"sounds/se_omg_01.wav"
+		"sounds/se_land_01.wav",
+		"sounds/se_omg_01.wav",
+		"sounds/se_turn_01.wav"
 	],
 	"bgms": [
 		"sounds/bgm_game_01.wav",
