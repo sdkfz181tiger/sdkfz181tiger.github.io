@@ -1,5 +1,5 @@
 {
-	"time": "2021/05/21 15:00:00",
+	"time": "2021/05/21 20:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -110,6 +110,7 @@
 		"images/lv_06_01.png",
 		"images/lv_06_02.png",
 		"images/lv_wall.png",
+		"images/lv_wave.png",
 		"images/s_bone.png",
 		"images/s_chick.png",
 		"images/s_chicken.png",
