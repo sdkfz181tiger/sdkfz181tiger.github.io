@@ -1,5 +1,5 @@
 {
-	"time": "2021/05/20 19:00:00",
+	"time": "2021/05/21 00:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -66,6 +66,7 @@
 		"images/fl_01_04.png",
 		"images/fl_02_01.png",
 		"images/fl_02_02.png",
+		"images/fl_wall.png",
 		"images/frame_bottom.png",
 		"images/frame_left.png",
 		"images/frame_right.png",
