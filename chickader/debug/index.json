@@ -1,5 +1,5 @@
 {
-	"time": "2021/05/24 12:00:00",
+	"time": "2021/05/24 13:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -298,11 +298,11 @@
 		["images/lv_05_01.png", "images/lv_05_02.png", "images/lv_05_03.png", "images/lv_05_04.png"]
 	],
 	"floors":[
-		["images/lv_floor_01.png"], ["images/lv_floor_01.png"],
-		["images/lv_floor_01.png", "images/lv_floor_01.png", "images/lv_floor_01.png", "images/lv_floor_01.png",
-		"images/lv_floor_01.png", "images/lv_floor_01.png"],
-		["images/lv_floor_02.png", "images/lv_floor_02.png", "images/lv_floor_02.png", "images/lv_floor_02.png"],
-		["images/lv_floor_02.png", "images/lv_floor_02.png", "images/lv_floor_02.png", "images/lv_floor_02.png"],
-		["images/lv_floor_02.png", "images/lv_floor_02.png", "images/lv_floor_02.png", "images/lv_floor_02.png"]
+		"images/lv_floor_01.png", "images/lv_floor_01.png",
+		"images/lv_floor_01.png", "images/lv_floor_01.png", "images/lv_floor_01.png", "images/lv_floor_01.png",
+		"images/lv_floor_01.png", "images/lv_floor_01.png",
+		"images/lv_floor_02.png", "images/lv_floor_02.png", "images/lv_floor_02.png", "images/lv_floor_02.png",
+		"images/lv_floor_02.png", "images/lv_floor_02.png", "images/lv_floor_02.png", "images/lv_floor_02.png",
+		"images/lv_floor_02.png", "images/lv_floor_02.png", "images/lv_floor_02.png", "images/lv_floor_02.png"
 	]
 }
