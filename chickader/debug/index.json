@@ -1,5 +1,5 @@
 {
-	"time": "2021/05/24 13:00:00",
+	"time": "2021/05/24 09:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -119,6 +119,7 @@
 		"images/lv_floor_01.png",
 		"images/lv_floor_02.png",
 		"images/lv_wall_01.png",
+		"images/lv_wall_02.png",
 		"images/lv_wave.png",
 		"images/s_bone.png",
 		"images/s_chick.png",
