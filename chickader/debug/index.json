@@ -1,5 +1,5 @@
 {
-	"time": "2021/05/26 23:00:00",
+	"time": "2021/05/27 23:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -37,6 +37,7 @@
 		"images/c_samurai.png",
 		"images/c_san.png",
 		"images/c_shi.png",
+		"images/c_shuri.png",
 		"images/c_sound_off.png",
 		"images/c_sound_on.png",
 		"images/c_tanu.png",
@@ -134,6 +135,7 @@
 		"images/s_samurai.png",
 		"images/s_san.png",
 		"images/s_shi.png",
+		"images/s_shuri.png",
 		"images/s_tanu.png",
 		"images/st_01.png",
 		"images/st_02.png",
@@ -184,6 +186,7 @@
 	"sprite_sheets": [
 
 		{"file_name": "images/s_egg.png", "frame_name": "egg_hop", "rows": 2, "cols": 10, "w": 5, "h": 8, "from": 0, "to": 19},
+		{"file_name": "images/s_shuri.png", "frame_name": "s_shuri", "rows": 1, "cols": 4, "w": 10, "h": 10, "from": 0, "to": 3},
 
 		{"file_name": "images/fc_01.png", "frame_name": "fc_01", "rows": 1,  "cols": 13, "w": 4, "h": 4, "from": 0,  "to": 12},
 		{"file_name": "images/fc_02.png", "frame_name": "fc_02", "rows": 1,  "cols": 13, "w": 4, "h": 4, "from": 0,  "to": 12},
