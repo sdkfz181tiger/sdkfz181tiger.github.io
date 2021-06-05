@@ -1,5 +1,5 @@
 {
-	"time": "2021/06/05 16:00:00",
+	"time": "2021/06/05 17:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -290,7 +290,8 @@
 			"randomize": false,
 			"tmx": "tmx/stage_01.json",
 			"papers": "tmx/tilemap_papers.tsx",
-			"floors": "tmx/tilemap_floors.tsx"
+			"floors": "tmx/tilemap_floors.tsx",
+			"walls": "tmx/tilemap_walls.tsx"
 		}
 	]
 }
