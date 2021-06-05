@@ -1,5 +1,5 @@
 {
-	"time": "2021/06/04 23:00:00",
+	"time": "2021/06/05 11:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -147,9 +147,7 @@
 		"images/tk_jizo.png",
 		"images/tk_mountain.png",
 		"images/tk_tree_01.png",
-		"images/tk_tree_02.png",
-		"tmx/stage_01.json",
-		"tmx/stage_02.json"
+		"images/tk_tree_02.png"
 	],
 	"ses": [
 		"sounds/se_chick_01.wav",
@@ -292,37 +290,5 @@
 			"randomize": false,
 			"tmx": "tmx/stage_01.json"
 		}
-	],
-	"papers":[
-		[
-			"images/lv_paper_00_01.png"
-		], [
-			"images/lv_paper_01_01.png", "images/lv_paper_01_02.png", 
-			"images/lv_paper_01_03.png", "images/lv_paper_01_04.png", 
-			"images/lv_paper_01_05.png", "images/lv_paper_01_06.png"
-		], [
-			"images/lv_paper_02_01.png", "images/lv_paper_02_02.png", 
-			"images/lv_paper_02_03.png", "images/lv_paper_02_04.png"
-		], [
-			"images/lv_paper_03_01.png", "images/lv_paper_03_02.png", 
-			"images/lv_paper_03_03.png", "images/lv_paper_03_04.png"
-		], [
-			"images/lv_paper_04_01.png", "images/lv_paper_04_02.png", 
-			"images/lv_paper_04_03.png", "images/lv_paper_04_04.png"
-		]
-	],
-	"floors":[
-		"images/lv_floor_00.png",
-		"images/lv_floor_01.png",
-		"images/lv_floor_02.png",
-		"images/lv_floor_03.png",
-		"images/lv_floor_04.png"
-	],
-	"walls":[
-		"images/lv_wall_00.png",
-		"images/lv_wall_01.png",
-		"images/lv_wall_02.png",
-		"images/lv_wall_03.png",
-		"images/lv_wall_04.png"
 	]
 }
