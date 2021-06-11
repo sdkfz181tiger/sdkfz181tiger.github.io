@@ -1,5 +1,5 @@
 {
-	"time": "2021/06/11 20:00:00",
+	"time": "2021/06/11 14:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -148,7 +148,9 @@
 		"images/tk_ground.png",
 		"images/tk_house_01.png",
 		"images/tk_jizo.png",
+		"images/tk_moon.png",
 		"images/tk_mountain.png",
+		"images/tk_night.png",
 		"images/tk_tree_01.png",
 		"images/tk_tree_02.png"
 	],
