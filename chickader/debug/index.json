@@ -1,5 +1,5 @@
 {
-	"time": "2021/06/11 16:00:00",
+	"time": "2021/06/11 18:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -43,6 +43,11 @@
 		"images/c_tanu.png",
 		"images/c_temple_135x480.png",
 		"images/c_temple_320x320.png",
+		"images/ctl_48x48_default.png",
+		"images/ctl_48x48_down.png",
+		"images/ctl_48x48_left.png",
+		"images/ctl_48x48_right.png",
+		"images/ctl_48x48_up.png",
 		"images/ctl_60x60_default.png",
 		"images/ctl_60x60_down.png",
 		"images/ctl_60x60_left.png",
