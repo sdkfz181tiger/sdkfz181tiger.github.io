@@ -1,5 +1,5 @@
 {
-	"time": "2021/09/09 12:00:00",
+	"time": "2021/09/09 13:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -69,7 +69,10 @@
 		"images/i_soybeans.png",
 		"images/i_strawberry.png",
 		"images/i_tomato.png",
-		"images/i_watermelon.png"
+		"images/i_watermelon.png",
+		"images/pm_bkg_01.png",
+		"images/pm_bkg_02.png",
+		"images/pm_bkg_03.png"
 	],
 	"ses": [
 		"sounds/se_chick_01.wav",
