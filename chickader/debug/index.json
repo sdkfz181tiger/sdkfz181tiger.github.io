@@ -1,5 +1,5 @@
 {
-	"time": "2021/09/09 20:00:00",
+	"time": "2021/09/09 12:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -18,14 +18,11 @@
 		"images/box_144x256.png",
 		"images/box_160x240.png",
 		"images/box_240x360.png",
+		"images/btn_quit.png",
 		"images/btn_ranking.png",
-		"images/btn_start.png",
-		"images/btn_title.png",
+		"images/btn_sound_off.png",
+		"images/btn_sound_on.png",
 		"images/c_logo.png",
-		"images/c_quit.png",
-		"images/c_ranking.png",
-		"images/c_sound_off.png",
-		"images/c_sound_on.png",
 		"images/ctl_48x48_default.png",
 		"images/ctl_48x48_down.png",
 		"images/ctl_48x48_left.png",
