@@ -1,5 +1,5 @@
 {
-	"time": "2021/09/09 13:00:00",
+	"time": "2021/09/09 14:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -72,7 +72,8 @@
 		"images/i_watermelon.png",
 		"images/pm_bkg_01.png",
 		"images/pm_bkg_02.png",
-		"images/pm_bkg_03.png"
+		"images/pm_bkg_03.png",
+		"images/pm_bike_50x50.png"
 	],
 	"ses": [
 		"sounds/se_chick_01.wav",
@@ -115,7 +116,9 @@
 		{"file_name": "images/ctl_arrows.png", "frame_name": "a_up",      "rows": 2, "cols": 6, "w": 16, "h": 16, "from": 6,  "to": 11},
 		{"file_name": "images/ctl_arrows.png", "frame_name": "a_down",    "rows": 3, "cols": 6, "w": 16, "h": 16, "from": 12,  "to": 17},
 		{"file_name": "images/ctl_arrows.png", "frame_name": "a_left",    "rows": 4, "cols": 6, "w": 16, "h": 16, "from": 18,  "to": 23},
-		{"file_name": "images/ctl_arrows.png", "frame_name": "a_right",   "rows": 5, "cols": 6, "w": 16, "h": 16, "from": 24,  "to": 29}
+		{"file_name": "images/ctl_arrows.png", "frame_name": "a_right",   "rows": 5, "cols": 6, "w": 16, "h": 16, "from": 24,  "to": 29},
+
+		{"file_name": "images/pm_bike_50x50.png", "frame_name": "pm_bike_r", "rows": 1, "cols": 5, "w": 50, "h": 50, "from": 0,  "to": 4}
 	],
 	"howto": [
 		{"file_name": "images/ht_01.png", "wait": 0.1, "time": 0.2},
