@@ -120,7 +120,7 @@
 		{"file_name": "images/ctl_arrows.png", "frame_name": "a_left",    "rows": 4, "cols": 6, "w": 16, "h": 16, "from": 18,  "to": 23},
 		{"file_name": "images/ctl_arrows.png", "frame_name": "a_right",   "rows": 5, "cols": 6, "w": 16, "h": 16, "from": 24,  "to": 29},
 
-		{"file_name": "images/pm_bike_50x50.png", "frame_name": "pm_bike_r", "rows": 1, "cols": 5, "w": 50, "h": 50, "from": 0,  "to": 4}
+		{"file_name": "images/pm_bike_s_50x50.png", "frame_name": "pm_bike_r", "rows": 1, "cols": 5, "w": 50, "h": 50, "from": 0,  "to": 4}
 	],
 	"howto": [
 		{"file_name": "images/ht_01.png", "wait": 0.1, "time": 0.2},
