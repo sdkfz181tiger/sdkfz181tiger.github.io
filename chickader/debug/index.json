@@ -1,5 +1,5 @@
 {
-	"time": "2021/09/13 10:00:00",
+	"time": "2021/09/13 12:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -70,10 +70,11 @@
 		"images/i_strawberry.png",
 		"images/i_tomato.png",
 		"images/i_watermelon.png",
+		"images/pm_bike_50x50.png",
 		"images/pm_bkg_01.png",
 		"images/pm_bkg_02.png",
 		"images/pm_bkg_03.png",
-		"images/pm_bike_50x50.png"
+		"images/pm_bkg_04.png"
 	],
 	"ses": [
 		"sounds/se_chick_01.wav",
