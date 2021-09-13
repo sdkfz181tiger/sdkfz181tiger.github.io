@@ -1,5 +1,5 @@
 {
-	"time": "2021/09/13 12:00:00",
+	"time": "2021/09/13 13:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -76,8 +76,16 @@
 		"images/pm_bkg_02.png",
 		"images/pm_bkg_03.png",
 		"images/pm_bkg_04.png",
-		"images/pm_house_01_bkg.png",
-		"images/pm_house_01_window.png"
+		"images/pm_h_buill_01.png",
+		"images/pm_h_buill_02.png",
+		"images/pm_h_buill_03.png",
+		"images/pm_h_house_01.png",
+		"images/pm_h_house_02.png",
+		"images/pm_h_house_03.png",
+		"images/pm_h_post_01.png",
+		"images/pm_h_shop_01.png",
+		"images/pm_h_shop_02.png",
+		"images/pm_h_shop_03.png"
 	],
 	"ses": [
 		"sounds/se_chick_01.wav",
