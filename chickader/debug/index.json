@@ -1,5 +1,5 @@
 {
-	"time": "2021/09/13 22:00:00",
+	"time": "2021/09/13 10:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -75,7 +75,9 @@
 		"images/pm_bkg_01.png",
 		"images/pm_bkg_02.png",
 		"images/pm_bkg_03.png",
-		"images/pm_bkg_04.png"
+		"images/pm_bkg_04.png",
+		"images/pm_house_01_bkg.png",
+		"images/pm_house_01_window.png"
 	],
 	"ses": [
 		"sounds/se_chick_01.wav",
