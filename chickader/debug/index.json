@@ -1,5 +1,5 @@
 {
-	"time": "2021/09/13 10:00:00",
+	"time": "2021/09/13 12:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -112,10 +112,6 @@
 		"sounds/bgm_walk_02.wav"
 	],
 	"sprite_sheets": [
-
-		{"file_name": "images/s_egg.png",   "frame_name": "egg_hop", "rows": 2, "cols": 10, "w": 5, "h": 8, "from": 0, "to": 19},
-		{"file_name": "images/s_shuri.png", "frame_name": "s_shuri", "rows": 1, "cols": 4, "w": 10, "h": 10, "from": 0, "to": 3},
-
 		{"file_name": "images/ctl_arrows.png", "frame_name": "a_default", "rows": 1, "cols": 6, "w": 16, "h": 16, "from": 0,  "to": 5},
 		{"file_name": "images/ctl_arrows.png", "frame_name": "a_up",      "rows": 2, "cols": 6, "w": 16, "h": 16, "from": 6,  "to": 11},
 		{"file_name": "images/ctl_arrows.png", "frame_name": "a_down",    "rows": 3, "cols": 6, "w": 16, "h": 16, "from": 12,  "to": 17},
