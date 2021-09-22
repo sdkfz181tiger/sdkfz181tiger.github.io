@@ -1,10 +1,14 @@
 {
-	"time": "2021/09/21 13:00:00",
+	"time": "2021/09/22 13:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
 	],
 	"assets":[
+		"images/az_btn_48x48.png",
+		"images/az_btn_84x52.png",
+		"images/az_mark_ng.png",
+		"images/az_mark_ok.png",
 		"images/az_n_b_0.png",
 		"images/az_n_b_1.png",
 		"images/az_n_b_2.png",
