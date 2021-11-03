@@ -1,5 +1,5 @@
 {
-	"time": "2021/11/03 18:00:00",
+	"time": "2021/11/04 08:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -168,7 +168,10 @@
 		"images/r_rei_11.png",
 		"images/r_rei_12.png",
 		"images/r_rei_13.png",
-		"images/r_rei_14.png"
+		"images/r_rei_14.png",
+		"images/tile_32x32.png",
+		"images/tile_45x45.png",
+		"images/tile_48x48.png"
 	],
 	"ses": [
 		"sounds/se_chick_01.wav",
