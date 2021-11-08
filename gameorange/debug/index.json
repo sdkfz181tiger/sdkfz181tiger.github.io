@@ -1,5 +1,5 @@
 {
-	"time": "2021/11/07 18:00:00",
+	"time": "2021/11/08 11:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -170,8 +170,11 @@
 		"images/y_rei_12.png",
 		"images/y_rei_13.png",
 		"images/y_rei_14.png",
+		"images/tile_32x32_bkg.png",
 		"images/tile_32x32.png",
+		"images/tile_45x45_bkg.png",
 		"images/tile_45x45.png",
+		"images/tile_48x48_bkg.png",
 		"images/tile_48x48.png"
 	],
 	"ses": [
@@ -217,7 +220,12 @@
 		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_front", "rows": 1, "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_back",  "rows": 2, "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
 		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_right", "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
-		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_left",  "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19}
+		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_left",  "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_roll",  "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_dance", "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_talk",  "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_slpl",  "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_slpr",  "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44}
 	],
 	"stages": [
 		{
