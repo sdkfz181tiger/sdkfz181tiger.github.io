@@ -1,5 +1,5 @@
 {
-	"time": "2021/11/14 08:00:00",
+	"time": "2021/11/14 15:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -93,7 +93,6 @@
 		"images/btn_reset.png",
 		"images/btn_sound_off.png",
 		"images/btn_sound_on.png",
-		"images/c_logo.png",
 		"images/ctl_48x48_default.png",
 		"images/ctl_48x48_down.png",
 		"images/ctl_48x48_left.png",
@@ -143,6 +142,7 @@
 		"images/i_strawberry.png",
 		"images/i_tomato.png",
 		"images/i_watermelon.png",
+		"images/logo_chicken.png",
 		"images/ss_tanu.png",
 		"images/y_mar_01.png",
 		"images/y_mar_02.png",
@@ -173,7 +173,13 @@
 		"images/y_rei_13.png",
 		"images/y_rei_14.png",
 		"images/tile_42x42_bkg.png",
-		"images/tile_42x42.png"
+		"images/tile_42x42.png",
+		"images/tile_44x44_bkg.png",
+		"images/tile_44x44.png",
+		"images/tile_46x46_bkg.png",
+		"images/tile_46x46.png",
+		"images/tile_48x48_bkg.png",
+		"images/tile_48x48.png"
 	],
 	"ses": [
 		"sounds/se_chick_01.wav",
