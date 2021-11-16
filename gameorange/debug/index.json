@@ -1,5 +1,5 @@
 {
-	"time": "2021/11/15 22:00:00",
+	"time": "2021/11/16 22:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -142,6 +142,15 @@
 		"images/i_strawberry.png",
 		"images/i_tomato.png",
 		"images/i_watermelon.png",
+		"images/inv_01.png",
+		"images/inv_02.png",
+		"images/inv_03.png",
+		"images/inv_04.png",
+		"images/inv_05.png",
+		"images/inv_06.png",
+		"images/inv_07.png",
+		"images/inv_08.png",
+		"images/inv_ex_01.png",
 		"images/logo_chicken.png",
 		"images/ss_tanu.png",
 		"images/y_mar_01.png",
