@@ -1,5 +1,5 @@
 {
-	"time": "2021/11/28 11:00:00",
+	"time": "2021/11/28 12:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -74,6 +74,7 @@
 		"images/az_t_tashizan.png",
 		"images/az_t_wariyama.png",
 		"images/az_t_warizan.png",
+		"images/box_9x5.png",
 		"images/box_12x12.png",
 		"images/box_15x26.png",
 		"images/box_16x16.png",
