@@ -1,5 +1,5 @@
 {
-	"time": "2021/11/28 12:00:00",
+	"time": "2021/11/28 13:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -74,7 +74,7 @@
 		"images/az_t_tashizan.png",
 		"images/az_t_wariyama.png",
 		"images/az_t_warizan.png",
-		"images/box_9x5.png",
+		"images/box_11x6.png",
 		"images/box_12x12.png",
 		"images/box_15x26.png",
 		"images/box_16x16.png",
@@ -248,7 +248,7 @@
 		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_talk",  "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
 		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_slpl",  "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
 		{"file_name": "images/ss_tanu.png",    "frame_name": "tanu_slpr",  "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
-		{"file_name": "images/skl_bat_01.png", "frame_name": "bat_front",  "rows": 1, "cols": 4, "w": 9,  "h": 5,  "from": 0,  "to": 3},
+		{"file_name": "images/skl_bat_01.png", "frame_name": "bat_front",  "rows": 1, "cols": 4, "w": 11, "h": 6,  "from": 0,  "to": 3},
 		{"file_name": "images/skl_man_01.png", "frame_name": "skl_front",  "rows": 1, "cols": 6, "w": 15, "h": 26, "from": 0,  "to": 5},
 		{"file_name": "images/skl_man_01.png", "frame_name": "skl_back",   "rows": 2, "cols": 6, "w": 15, "h": 26, "from": 6,  "to": 11},
 		{"file_name": "images/skl_man_01.png", "frame_name": "skl_right",  "rows": 3, "cols": 6, "w": 15, "h": 26, "from": 12, "to": 17},
