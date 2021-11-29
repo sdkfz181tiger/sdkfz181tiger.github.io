@@ -1,5 +1,5 @@
 {
-	"time": "2021/11/28 22:00:00",
+	"time": "2021/11/28 23:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -78,9 +78,10 @@
 		"images/box_12x12.png",
 		"images/box_15x26.png",
 		"images/box_16x16.png",
-		"images/box_17x29.png",
 		"images/box_24x24.png",
+		"images/box_27x32.png",
 		"images/box_32x32.png",
+		"images/box_33x36.png",
 		"images/box_38x22.png",
 		"images/box_40x24.png",
 		"images/box_48x30.png",
@@ -264,7 +265,9 @@
 		{"file_name": "images/skl_zmb_01.png", "frame_name": "zmb_back",   "rows": 2, "cols": 6, "w": 17, "h": 29, "from": 6,  "to": 11},
 		{"file_name": "images/skl_zmb_01.png", "frame_name": "zmb_right",  "rows": 3, "cols": 6, "w": 17, "h": 29, "from": 12, "to": 17},
 		{"file_name": "images/skl_zmb_01.png", "frame_name": "zmb_left",   "rows": 4, "cols": 6, "w": 17, "h": 29, "from": 18, "to": 23},
-		{"file_name": "images/skl_zmb_01.png", "frame_name": "zmb_die",    "rows": 5, "cols": 6, "w": 17, "h": 29, "from": 24, "to": 29}
+		{"file_name": "images/skl_zmb_01.png", "frame_name": "zmb_die",    "rows": 5, "cols": 6, "w": 17, "h": 29, "from": 24, "to": 29},
+		{"file_name": "images/skl_wol_01.png", "frame_name": "wol_front",  "rows": 1, "cols": 6, "w": 27, "h": 32, "from": 0,  "to": 5},
+		{"file_name": "images/skl_fra_01.png", "frame_name": "fra_front",  "rows": 1, "cols": 6, "w": 33, "h": 36, "from": 0,  "to": 5}
 	],
 	"stages": [
 		{
