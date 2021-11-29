@@ -1,5 +1,5 @@
 {
-	"time": "2021/11/28 15:00:00",
+	"time": "2021/11/28 18:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -78,6 +78,7 @@
 		"images/box_12x12.png",
 		"images/box_15x26.png",
 		"images/box_16x16.png",
+		"images/box_17x29.png",
 		"images/box_24x24.png",
 		"images/box_32x32.png",
 		"images/box_38x22.png",
@@ -157,6 +158,7 @@
 		"images/skl_bat_01.png",
 		"images/skl_grave_01.png",
 		"images/skl_man_01.png",
+		"images/skl_zom_01.png",
 		"images/ss_tanu.png",
 		"images/y_mar_01.png",
 		"images/y_mar_02.png",
