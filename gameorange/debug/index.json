@@ -1,5 +1,5 @@
 {
-	"time": "2021/12/04 16:00:00",
+	"time": "2021/12/04 21:00:00",
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -74,15 +74,10 @@
 		"images/az_t_tashizan.png",
 		"images/az_t_wariyama.png",
 		"images/az_t_warizan.png",
-		"images/box_11x6.png",
 		"images/box_12x12.png",
-		"images/box_15x26.png",
 		"images/box_16x16.png",
 		"images/box_24x24.png",
-		"images/box_27x32.png",
-		"images/box_31x38.png",
 		"images/box_32x32.png",
-		"images/box_33x36.png",
 		"images/box_38x22.png",
 		"images/box_40x24.png",
 		"images/box_48x30.png",
