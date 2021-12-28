@@ -1,5 +1,5 @@
 {
-	"time": "2021/12/28 09:30:00",
+	"time": "2021/12/28 10:30:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -151,8 +151,8 @@
 		"images/inv_06.png",
 		"images/inv_07.png",
 		"images/inv_08.png",
-		"images/inv_bullet_enemy.png",
-		"images/inv_bullet_player.png",
+		"images/inv_blt_enemy.png",
+		"images/inv_blt_player.png",
 		"images/inv_ex_01.png",
 		"images/inv_pillbox.png",
 		"images/inv_player.png",
@@ -280,6 +280,8 @@
 		{"file_name": "images/inv_06.png",          "frame_name": "inv_06",         "rows": 1, "cols": 6, "w": 15, "h": 15, "from": 0,  "to": 5},
 		{"file_name": "images/inv_07.png",          "frame_name": "inv_07",         "rows": 1, "cols": 6, "w": 15, "h": 15, "from": 0,  "to": 5},
 		{"file_name": "images/inv_08.png",          "frame_name": "inv_08",         "rows": 1, "cols": 6, "w": 15, "h": 15, "from": 0,  "to": 5},
+		{"file_name": "images/inv_blt_enemy.png",   "frame_name": "inv_blt_enemy",  "rows": 1, "cols": 6, "w": 3,  "h": 9,  "from": 0,  "to": 5},
+		{"file_name": "images/inv_blt_player.png",  "frame_name": "inv_blt_player", "rows": 1, "cols": 6, "w": 3,  "h": 9,  "from": 0,  "to": 5},
 		{"file_name": "images/ss_tanu.png",         "frame_name": "tanu_front",     "rows": 1, "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/ss_tanu.png",         "frame_name": "tanu_back",      "rows": 2, "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
 		{"file_name": "images/ss_tanu.png",         "frame_name": "tanu_right",     "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
