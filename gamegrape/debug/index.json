@@ -1,5 +1,5 @@
 {
-	"time": "2021/12/28 17:30:00",
+	"time": "2021/12/28 23:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -151,6 +151,12 @@
 		"images/inv_06.png",
 		"images/inv_07.png",
 		"images/inv_08.png",
+		"images/inv_btn_left_off.png",
+		"images/inv_btn_left_on.png",
+		"images/inv_btn_right_off.png",
+		"images/inv_btn_right_on.png",
+		"images/inv_btn_shot_off.png",
+		"images/inv_btn_shot_on.png",
 		"images/inv_blt_enemy.png",
 		"images/inv_blt_player.png",
 		"images/inv_ex_01.png",
