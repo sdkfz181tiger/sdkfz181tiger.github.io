@@ -1,5 +1,5 @@
 {
-	"time": "2021/12/29 16:00:00",
+	"time": "2021/12/29 20:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -157,7 +157,8 @@
 		"images/inv_06.png",
 		"images/inv_07.png",
 		"images/inv_08.png",
-		"images/inv_blt_enemy.png",
+		"images/inv_blt_enemy_01.png",
+		"images/inv_blt_enemy_02.png",
 		"images/inv_blt_player.png",
 		"images/inv_ex_01.png",
 		"images/inv_title.png",
