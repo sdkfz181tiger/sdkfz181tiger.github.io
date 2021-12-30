@@ -1,5 +1,5 @@
 {
-	"time": "2021/12/30 13:00:00",
+	"time": "2021/12/30 12:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -75,6 +75,7 @@
 		"images/az_t_tashizan.png",
 		"images/az_t_wariyama.png",
 		"images/az_t_warizan.png",
+		"images/box_3x3.png",
 		"images/box_12x12.png",
 		"images/box_16x16.png",
 		"images/box_24x24.png",
