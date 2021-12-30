@@ -1,5 +1,5 @@
 {
-	"time": "2021/12/30 10:00:00",
+	"time": "2021/12/30 13:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -244,6 +244,7 @@
 		"sounds/se_coin_02.wav",
 		"sounds/se_coin_03.wav",
 		"sounds/se_coin_04.wav",
+		"sounds/se_dead_01.wav",
 		"sounds/se_dialog_open.wav",
 		"sounds/se_dialog_close.wav",
 		"sounds/se_egg_01.wav",
@@ -257,9 +258,11 @@
 		"sounds/se_fan_07.wav",
 		"sounds/se_get_01.wav",
 		"sounds/se_grab_01.wav",
+		"sounds/se_hit_01.wav",
 		"sounds/se_jump_01.wav",
 		"sounds/se_land_01.wav",
 		"sounds/se_omg_01.wav",
+		"sounds/se_shot_01.wav",
 		"sounds/se_turn_01.wav"
 	],
 	"bgms": [
