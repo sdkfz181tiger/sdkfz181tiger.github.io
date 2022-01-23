@@ -1,5 +1,5 @@
 {
-	"time": "2022/01/20 13:00:00",
+	"time": "2022/01/23 19:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -271,6 +271,8 @@
 		"sounds/se_land_01.wav",
 		"sounds/se_omg_01.wav",
 		"sounds/se_shot_01.wav",
+		"sounds/se_shot_02.wav",
+		"sounds/se_shot_03.wav",
 		"sounds/se_turn_01.wav"
 	],
 	"bgms": [
