@@ -1,5 +1,5 @@
 {
-	"time": "2022/01/26 21:00:00",
+	"time": "2022/01/26 22:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -265,6 +265,7 @@
 		"sounds/se_grab_01.wav",
 		"sounds/se_hit_01.wav",
 		"sounds/se_hit_02.wav",
+		"sounds/se_hit_03.wav",
 		"sounds/se_inv_hello.wav",
 		"sounds/se_inv_step_01.wav",
 		"sounds/se_inv_step_02.wav",
