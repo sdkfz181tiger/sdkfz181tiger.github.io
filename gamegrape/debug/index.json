@@ -1,5 +1,5 @@
 {
-	"time": "2022/01/31 22:00:00",
+	"time": "2022/02/01 11:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -361,11 +361,11 @@
 		{"file_name": "images/smk_small.png",        "frame_name": "smk_small",        "rows": 1, "cols": 6, "w": 50, "h": 50, "from": 0,  "to": 5}
 	],
 	"formations": [
-		{"rows": 2, "cols": 3, "frame_name": "inv_01"},
-		{"rows": 2, "cols": 4, "frame_name": "inv_02"},
-		{"rows": 2, "cols": 5, "frame_name": "inv_03"},
-		{"rows": 2, "cols": 6, "frame_name": "inv_04"},
-		{"rows": 2, "cols": 7, "frame_name": "inv_05"}
+		{"rows": 2, "cols": 3, "frame_names": ["inv_01", "inv_02", "inv_03", "inv_04", "inv_05"]},
+		{"rows": 2, "cols": 4, "frame_names": ["inv_01", "inv_02", "inv_03", "inv_04", "inv_05"]},
+		{"rows": 2, "cols": 5, "frame_names": ["inv_01", "inv_02", "inv_03", "inv_04", "inv_05"]},
+		{"rows": 2, "cols": 6, "frame_names": ["inv_01", "inv_02", "inv_03", "inv_04", "inv_05"]},
+		{"rows": 2, "cols": 7, "frame_names": ["inv_01", "inv_02", "inv_03", "inv_04", "inv_05"]}
 	],
 	"stages": [
 		{
