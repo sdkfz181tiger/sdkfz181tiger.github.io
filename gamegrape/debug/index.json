@@ -369,14 +369,14 @@
 			{"rows": 2, "cols": 3, "map": [3, 4, 3, 4, 5, 4]}
 		],
 		"types":[
-			{"frame_name": "inv_01", "life": 1, "explosion": [0, 180]},
-			{"frame_name": "inv_02", "life": 1, "explosion": [45, 225]},
-			{"frame_name": "inv_03", "life": 1, "explosion": [45, 225]},
-			{"frame_name": "inv_04", "life": 1, "explosion": [135, 315]},
-			{"frame_name": "inv_05", "life": 1, "explosion": [0, 90, 180, 270]},
-			{"frame_name": "inv_06", "life": 1, "explosion": [45, 135, 225, 315]},
-			{"frame_name": "inv_07", "life": 1, "explosion": [0, 45, 90, 135, 225, 270, 315]},
-			{"frame_name": "inv_08", "life": 1, "explosion": [0, 45, 90, 135, 225, 270, 315]}
+			{"frame_name": "inv_01", "score": 2, "life": 1, "explosion": [0, 180]},
+			{"frame_name": "inv_02", "score": 3, "life": 1, "explosion": [45, 225]},
+			{"frame_name": "inv_03", "score": 4, "life": 2, "explosion": [45, 225]},
+			{"frame_name": "inv_04", "score": 5, "life": 2, "explosion": [135, 315]},
+			{"frame_name": "inv_05", "score": 6, "life": 2, "explosion": [0, 90, 180, 270]},
+			{"frame_name": "inv_06", "score": 7, "life": 3, "explosion": [45, 135, 225, 315]},
+			{"frame_name": "inv_07", "score": 8, "life": 3, "explosion": [0, 45, 90, 135, 225, 270, 315]},
+			{"frame_name": "inv_08", "score": 9, "life": 4, "explosion": [0, 45, 90, 135, 225, 270, 315]}
 		]
 	},
 	"stages":[
