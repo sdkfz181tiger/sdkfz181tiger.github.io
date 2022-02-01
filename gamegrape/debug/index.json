@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/01 11:00:00",
+	"time": "2022/02/01 12:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -360,13 +360,22 @@
 		{"file_name": "images/smk_large.png",        "frame_name": "smk_large",        "rows": 1, "cols": 6, "w": 50, "h": 50, "from": 0,  "to": 5},
 		{"file_name": "images/smk_small.png",        "frame_name": "smk_small",        "rows": 1, "cols": 6, "w": 50, "h": 50, "from": 0,  "to": 5}
 	],
-	"formations": [
-		{"rows": 2, "cols": 3, "frame_names": ["inv_01", "inv_02", "inv_03", "inv_04", "inv_05"]},
-		{"rows": 2, "cols": 4, "frame_names": ["inv_01", "inv_02", "inv_03", "inv_04", "inv_05"]},
-		{"rows": 2, "cols": 5, "frame_names": ["inv_01", "inv_02", "inv_03", "inv_04", "inv_05"]},
-		{"rows": 2, "cols": 6, "frame_names": ["inv_01", "inv_02", "inv_03", "inv_04", "inv_05"]},
-		{"rows": 2, "cols": 7, "frame_names": ["inv_01", "inv_02", "inv_03", "inv_04", "inv_05"]}
-	],
+	"invaders": {
+		"formations":[
+			{"rows": 2, "cols": 3, "types": [0, 0, 0, 1, 1, 1]},
+			{"rows": 2, "cols": 3, "types": [0, 1, 0, 1, 2, 1]},
+			{"rows": 2, "cols": 3, "types": [1, 2, 1, 2, 3, 2]},
+			{"rows": 2, "cols": 3, "types": [2, 3, 2, 3, 4, 3]},
+			{"rows": 2, "cols": 3, "types": [3, 4, 3, 4, 5, 4]}
+		],
+		"types":[
+			{"frame_name": "inv_01", "life": 1, "explosion" : [0,  180]},
+			{"frame_name": "inv_02", "life": 1, "explosion" : [45, 225]},
+			{"frame_name": "inv_03", "life": 1, "explosion" : [0,  90, 180, 270]},
+			{"frame_name": "inv_04", "life": 1, "explosion" : [45, 135, 225, 315]},
+			{"frame_name": "inv_05", "life": 1, "explosion" : [0, 45, 90, 135, 225, 270, 315]}
+		]
+	},
 	"stages": [
 		{
 			"randomize": false,
