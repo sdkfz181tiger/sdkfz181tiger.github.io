@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/01 15:00:00",
+	"time": "2022/02/01 16:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -369,14 +369,14 @@
 			{"rows": 2, "cols": 3, "map": [3, 4, 3, 4, 5, 4]}
 		],
 		"types":[
-			{"frame_name": "inv_01", "score": 2, "life": 1, "spread": [0, 180]},
-			{"frame_name": "inv_02", "score": 3, "life": 1, "spread": [45, 225]},
-			{"frame_name": "inv_03", "score": 4, "life": 2, "spread": [45, 225]},
-			{"frame_name": "inv_04", "score": 5, "life": 2, "spread": [135, 315]},
-			{"frame_name": "inv_05", "score": 6, "life": 2, "spread": [0, 90, 180, 270]},
-			{"frame_name": "inv_06", "score": 7, "life": 3, "spread": [45, 135, 225, 315]},
-			{"frame_name": "inv_07", "score": 8, "life": 3, "spread": [0, 45, 90, 135, 225, 270, 315]},
-			{"frame_name": "inv_08", "score": 9, "life": 4, "spread": [0, 45, 90, 135, 225, 270, 315]}
+			{"frame_name": "inv_01", "score": 2, "life": 1, "spreads": [0, 180]},
+			{"frame_name": "inv_02", "score": 3, "life": 1, "spreads": [45, 225]},
+			{"frame_name": "inv_03", "score": 4, "life": 2, "spreads": [45, 225]},
+			{"frame_name": "inv_04", "score": 5, "life": 2, "spreads": [135, 315]},
+			{"frame_name": "inv_05", "score": 6, "life": 2, "spreads": [0, 90, 180, 270]},
+			{"frame_name": "inv_06", "score": 7, "life": 3, "spreads": [45, 135, 225, 315]},
+			{"frame_name": "inv_07", "score": 8, "life": 3, "spreads": [0, 45, 90, 135, 225, 270, 315]},
+			{"frame_name": "inv_08", "score": 9, "life": 4, "spreads": [0, 45, 90, 135, 225, 270, 315]}
 		]
 	},
 	"stages":[
