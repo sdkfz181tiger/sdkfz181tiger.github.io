@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/01 13:00:00",
+	"time": "2022/02/01 14:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -369,11 +369,14 @@
 			{"rows": 2, "cols": 3, "map": [3, 4, 3, 4, 5, 4]}
 		],
 		"types":[
-			{"frame_name": "inv_01", "life": 1, "explosion" : [0,  180]},
-			{"frame_name": "inv_02", "life": 1, "explosion" : [45, 225]},
-			{"frame_name": "inv_03", "life": 1, "explosion" : [0,  90, 180, 270]},
-			{"frame_name": "inv_04", "life": 1, "explosion" : [45, 135, 225, 315]},
-			{"frame_name": "inv_05", "life": 1, "explosion" : [0, 45, 90, 135, 225, 270, 315]}
+			{"frame_name": "inv_01", "life": 1, "explosion": [0, 180]},
+			{"frame_name": "inv_02", "life": 1, "explosion": [45, 225]},
+			{"frame_name": "inv_03", "life": 1, "explosion": [45, 225]},
+			{"frame_name": "inv_04", "life": 1, "explosion": [135, 315]},
+			{"frame_name": "inv_05", "life": 1, "explosion": [0, 90, 180, 270]},
+			{"frame_name": "inv_06", "life": 1, "explosion": [45, 135, 225, 315]},
+			{"frame_name": "inv_07", "life": 1, "explosion": [0, 45, 90, 135, 225, 270, 315]},
+			{"frame_name": "inv_08", "life": 1, "explosion": [0, 45, 90, 135, 225, 270, 315]}
 		]
 	},
 	"stages":[
