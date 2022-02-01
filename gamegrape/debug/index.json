@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/01 14:00:00",
+	"time": "2022/02/01 15:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -160,7 +160,7 @@
 		"images/inv_08.png",
 		"images/inv_blt_enemy_01.png",
 		"images/inv_blt_enemy_02.png",
-		"images/inv_blt_explosion.png",
+		"images/inv_blt_spread.png",
 		"images/inv_blt_player.png",
 		"images/inv_exp_01.png",
 		"images/inv_title.png",
@@ -307,7 +307,7 @@
 		{"file_name": "images/inv_exp_01.png",       "frame_name": "inv_exp_01",       "rows": 1, "cols": 8, "w": 15, "h": 15, "from": 0,  "to": 7},
 		{"file_name": "images/inv_blt_enemy_01.png", "frame_name": "inv_blt_enemy_01", "rows": 1, "cols": 6, "w": 3,  "h": 9,  "from": 0,  "to": 5},
 		{"file_name": "images/inv_blt_enemy_02.png", "frame_name": "inv_blt_enemy_02", "rows": 1, "cols": 6, "w": 3,  "h": 9,  "from": 0,  "to": 5},
-		{"file_name": "images/inv_blt_explosion.png","frame_name": "inv_blt_explosion","rows": 1, "cols": 4, "w": 5,  "h": 5,  "from": 0,  "to": 3},
+		{"file_name": "images/inv_blt_spread.png",   "frame_name": "inv_blt_spread",   "rows": 1, "cols": 4, "w": 5,  "h": 5,  "from": 0,  "to": 3},
 		{"file_name": "images/inv_blt_player.png",   "frame_name": "inv_blt_player",   "rows": 1, "cols": 1, "w": 3,  "h": 9,  "from": 0,  "to": 0},
 		{"file_name": "images/ss_tanu.png",          "frame_name": "tanu_front",       "rows": 1, "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/ss_tanu.png",          "frame_name": "tanu_back",        "rows": 2, "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
@@ -369,14 +369,14 @@
 			{"rows": 2, "cols": 3, "map": [3, 4, 3, 4, 5, 4]}
 		],
 		"types":[
-			{"frame_name": "inv_01", "score": 2, "life": 1, "explosion": [0, 180]},
-			{"frame_name": "inv_02", "score": 3, "life": 1, "explosion": [45, 225]},
-			{"frame_name": "inv_03", "score": 4, "life": 2, "explosion": [45, 225]},
-			{"frame_name": "inv_04", "score": 5, "life": 2, "explosion": [135, 315]},
-			{"frame_name": "inv_05", "score": 6, "life": 2, "explosion": [0, 90, 180, 270]},
-			{"frame_name": "inv_06", "score": 7, "life": 3, "explosion": [45, 135, 225, 315]},
-			{"frame_name": "inv_07", "score": 8, "life": 3, "explosion": [0, 45, 90, 135, 225, 270, 315]},
-			{"frame_name": "inv_08", "score": 9, "life": 4, "explosion": [0, 45, 90, 135, 225, 270, 315]}
+			{"frame_name": "inv_01", "score": 2, "life": 1, "spread": [0, 180]},
+			{"frame_name": "inv_02", "score": 3, "life": 1, "spread": [45, 225]},
+			{"frame_name": "inv_03", "score": 4, "life": 2, "spread": [45, 225]},
+			{"frame_name": "inv_04", "score": 5, "life": 2, "spread": [135, 315]},
+			{"frame_name": "inv_05", "score": 6, "life": 2, "spread": [0, 90, 180, 270]},
+			{"frame_name": "inv_06", "score": 7, "life": 3, "spread": [45, 135, 225, 315]},
+			{"frame_name": "inv_07", "score": 8, "life": 3, "spread": [0, 45, 90, 135, 225, 270, 315]},
+			{"frame_name": "inv_08", "score": 9, "life": 4, "spread": [0, 45, 90, 135, 225, 270, 315]}
 		]
 	},
 	"stages":[
