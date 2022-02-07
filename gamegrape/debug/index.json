@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/01 18:00:00",
+	"time": "2022/02/07 13:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -171,6 +171,8 @@
 		"images/inv_pillbox_stamp_02_mk.png",
 		"images/inv_player.png",
 		"images/inv_ufo.png",
+		"images/inv_warning_01.png",
+		"images/inv_warning_02.png",
 		"images/skl_bat_01.png",
 		"images/skl_franken_01.png",
 		"images/skl_ghost_01.png",
