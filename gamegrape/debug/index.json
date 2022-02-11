@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/11 19:00:00",
+	"time": "2022/02/11 20:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -427,7 +427,7 @@
 			]}
 		],
 		"type_invader":[
-			{"frame_name": "inv_01", "score": 2, "life": 1, "spreads": [45, 135]},
+			{"frame_name": "inv_01", "score": 2, "life": 1, "spreads": []},
 			{"frame_name": "inv_02", "score": 3, "life": 1, "spreads": []},
 			{"frame_name": "inv_03", "score": 4, "life": 1, "spreads": []},
 			{"frame_name": "inv_04", "score": 5, "life": 1, "spreads": []},
