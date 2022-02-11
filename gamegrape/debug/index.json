@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/11 15:00:00",
+	"time": "2022/02/11 16:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -427,14 +427,14 @@
 			]}
 		],
 		"type_invader":[
-			{"frame_name": "inv_01", "score": 2, "life": 1, "spreads": []},
-			{"frame_name": "inv_02", "score": 3, "life": 1, "spreads": []},
-			{"frame_name": "inv_03", "score": 4, "life": 1, "spreads": []},
-			{"frame_name": "inv_04", "score": 5, "life": 1, "spreads": []},
-			{"frame_name": "inv_05", "score": 6, "life": 1, "spreads": []},
-			{"frame_name": "inv_06", "score": 7, "life": 1, "spreads": []},
-			{"frame_name": "inv_07", "score": 8, "life": 1, "spreads": []},
-			{"frame_name": "inv_08", "score": 9, "life": 1, "spreads": []}
+			{"frame_name": "inv_01", "score": 2, "life": 1, "spreads": [45, 90, 135]},
+			{"frame_name": "inv_02", "score": 3, "life": 1, "spreads": [45, 90, 135]},
+			{"frame_name": "inv_03", "score": 4, "life": 1, "spreads": [45, 90, 135]},
+			{"frame_name": "inv_04", "score": 5, "life": 1, "spreads": [45, 90, 135]},
+			{"frame_name": "inv_05", "score": 6, "life": 1, "spreads": [45, 90, 135]},
+			{"frame_name": "inv_06", "score": 7, "life": 1, "spreads": [45, 90, 135]},
+			{"frame_name": "inv_07", "score": 8, "life": 1, "spreads": [45, 90, 135]},
+			{"frame_name": "inv_08", "score": 9, "life": 1, "spreads": [45, 90, 135]}
 		],
 		"type_ufo":[
 			{"frame_name": "inv_ufo_01", "score": 30, "life": 1, "spreads": [20, 40, 60, 80, 100, 120, 140, 160]}
