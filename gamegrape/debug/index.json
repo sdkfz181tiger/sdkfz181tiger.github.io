@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/12 13:00:00",
+	"time": "2022/02/12 15:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -378,11 +378,31 @@
 			{"frame_name": "inv_08", "score": 9, "life": 1, "spreads": []}
 		],
 		"type_ufo":[
-			{"frame_name": "inv_ufo_01", "score": 30, "life": 1, "spreads": [45, 90, 135], "wait": 3.0, "time": 15.0},
-			{"frame_name": "inv_ufo_01", "score": 60, "life": 1, "spreads": [45, 90, 135], "wait": 3.0, "time": 10.0},
-			{"frame_name": "inv_ufo_01", "score": 90, "life": 1, "spreads": [45, 90, 135], "wait": 3.0, "time": 5.0}
+			{"frame_name": "inv_ufo_01", "score": 30, "life": 1, "spreads": [45, 90, 135], "wait": 1.0, "time": 15.0},
+			{"frame_name": "inv_ufo_01", "score": 60, "life": 1, "spreads": [45, 90, 135], "wait": 1.0, "time": 10.0},
+			{"frame_name": "inv_ufo_01", "score": 90, "life": 1, "spreads": [45, 90, 135], "wait": 1.0, "time": 5.0}
 		],
 		"formations":[
+			{"cols": 11, "map": [
+				0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+				1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+			]},
+			{"cols": 11, "map": [
+				0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+				1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+			]},
+			{"cols": 11, "map": [
+				0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+				1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+			]},
+			{"cols": 11, "map": [
+				0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+				1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+			]},
+			{"cols": 11, "map": [
+				0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+				1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+			]},
 			{"cols": 11, "map": [
 				0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 				1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
