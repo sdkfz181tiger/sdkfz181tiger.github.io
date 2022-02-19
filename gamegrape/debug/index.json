@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/19 15:00:00",
+	"time": "2022/02/19 16:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -288,16 +288,9 @@
 		"sounds/se_turn_01.wav"
 	],
 	"bgms": [
-		"sounds/bgm_game_01.wav",
-		"sounds/bgm_game_02.wav",
-		"sounds/bgm_omg_01.wav",
-		"sounds/bgm_omg_02.wav",
-		"sounds/bgm_ready_01.wav",
-		"sounds/bgm_result_01.wav",
-		"sounds/bgm_result_02.wav",
-		"sounds/bgm_title_01.wav",
-		"sounds/bgm_walk_01.wav",
-		"sounds/bgm_walk_02.wav"
+		"sounds/bgm_gameover.wav",
+		"sounds/bgm_gamestart.wav",
+		"sounds/bgm_invader.wav"
 	],
 	"sprite_sheets": [
 		{"file_name": "images/ctl_arrows.png",       "frame_name": "a_default",        "rows": 1, "cols": 6, "w": 16, "h": 16, "from": 0,  "to": 5},
