@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/19 12:00:00",
+	"time": "2022/02/19 13:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -159,6 +159,7 @@
 		"images/inv_06.png",
 		"images/inv_07.png",
 		"images/inv_08.png",
+		"images/inv_bar_warning.png",
 		"images/inv_blt_enemy_01.png",
 		"images/inv_blt_enemy_02.png",
 		"images/inv_blt_spread.png",
@@ -312,11 +313,12 @@
 		{"file_name": "images/inv_06.png",           "frame_name": "inv_06",           "rows": 1, "cols": 6, "w": 15, "h": 15, "from": 0,  "to": 5},
 		{"file_name": "images/inv_07.png",           "frame_name": "inv_07",           "rows": 1, "cols": 6, "w": 15, "h": 15, "from": 0,  "to": 5},
 		{"file_name": "images/inv_08.png",           "frame_name": "inv_08",           "rows": 1, "cols": 6, "w": 15, "h": 15, "from": 0,  "to": 5},
-		{"file_name": "images/inv_exp_01.png",       "frame_name": "inv_exp_01",       "rows": 1, "cols": 8, "w": 15, "h": 15, "from": 0,  "to": 7},
+		{"file_name": "images/inv_bar_warning.png",  "frame_name": "inv_bar_warning",  "rows": 8, "cols": 1, "w": 270,"h": 4,  "from": 0,  "to": 7},
 		{"file_name": "images/inv_blt_enemy_01.png", "frame_name": "inv_blt_enemy_01", "rows": 1, "cols": 6, "w": 3,  "h": 9,  "from": 0,  "to": 5},
 		{"file_name": "images/inv_blt_enemy_02.png", "frame_name": "inv_blt_enemy_02", "rows": 1, "cols": 6, "w": 3,  "h": 9,  "from": 0,  "to": 5},
 		{"file_name": "images/inv_blt_spread.png",   "frame_name": "inv_blt_spread",   "rows": 1, "cols": 4, "w": 5,  "h": 5,  "from": 0,  "to": 3},
 		{"file_name": "images/inv_blt_player.png",   "frame_name": "inv_blt_player",   "rows": 1, "cols": 1, "w": 3,  "h": 9,  "from": 0,  "to": 0},
+		{"file_name": "images/inv_exp_01.png",       "frame_name": "inv_exp_01",       "rows": 1, "cols": 8, "w": 15, "h": 15, "from": 0,  "to": 7},
 		{"file_name": "images/inv_ufo_01.png",       "frame_name": "inv_ufo_01",       "rows": 1, "cols": 6, "w": 26, "h": 20, "from": 0,  "to": 5},
 		{"file_name": "images/ss_tanu.png",          "frame_name": "tanu_front",       "rows": 1, "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/ss_tanu.png",          "frame_name": "tanu_back",        "rows": 2, "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
