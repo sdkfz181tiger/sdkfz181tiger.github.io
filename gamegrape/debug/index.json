@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/19 16:00:00",
+	"time": "2022/02/19 19:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -276,7 +276,8 @@
 		"sounds/se_hit_01.wav",
 		"sounds/se_hit_02.wav",
 		"sounds/se_hit_03.wav",
-		"sounds/se_inv_hello.wav",
+		"sounds/se_inv_hello_ufo.wav",
+		"sounds/se_inv_hello_inv.wav",
 		"sounds/se_inv_step_01.wav",
 		"sounds/se_inv_step_02.wav",
 		"sounds/se_jump_01.wav",
@@ -289,8 +290,7 @@
 	],
 	"bgms": [
 		"sounds/bgm_gameover.wav",
-		"sounds/bgm_gamestart.wav",
-		"sounds/bgm_invader.wav"
+		"sounds/bgm_gamestart.wav"
 	],
 	"sprite_sheets": [
 		{"file_name": "images/ctl_arrows.png",       "frame_name": "a_default",        "rows": 1, "cols": 6, "w": 16, "h": 16, "from": 0,  "to": 5},
