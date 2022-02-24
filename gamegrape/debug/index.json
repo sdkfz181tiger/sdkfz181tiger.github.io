@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/23 15:00:00",
+	"time": "2022/02/24 17:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -175,6 +175,8 @@
 		"images/inv_player.png",
 		"images/inv_starlight_01.png",
 		"images/inv_starlight_02.png",
+		"images/inv_starlight_03.png",
+		"images/inv_starlight_04.png",
 		"images/inv_ufo_01.png",
 		"images/inv_warning_114x34_01.png",
 		"images/inv_warning_114x34_02.png",
