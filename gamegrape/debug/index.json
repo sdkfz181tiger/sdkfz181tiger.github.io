@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/25 18:00:00",
+	"time": "2022/02/25 19:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -283,6 +283,7 @@
 		"sounds/se_hit_03.wav",
 		"sounds/se_inv_hello_ufo.wav",
 		"sounds/se_inv_hello_inv.wav",
+		"sounds/se_inv_start.wav",
 		"sounds/se_inv_step_01.wav",
 		"sounds/se_inv_step_02.wav",
 		"sounds/se_jump_01.wav",
