@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/25 17:00:00",
+	"time": "2022/02/25 18:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -90,6 +90,7 @@
 		"images/box_160x240.png",
 		"images/box_240x360.png",
 		"images/btn_back.png",
+		"images/btn_bkg_90x32.png",
 		"images/btn_quit.png",
 		"images/btn_ranking.png",
 		"images/btn_reset.png",
