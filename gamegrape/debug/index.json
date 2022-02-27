@@ -1,5 +1,5 @@
 {
-	"time": "2022/02/25 19:00:00",
+	"time": "2022/02/27 20:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -170,6 +170,7 @@
 		"images/inv_exp_01.png",
 		"images/inv_ground.png",
 		"images/inv_title.png",
+		"images/inv_paira_01.png",
 		"images/inv_pillbox_base.png",
 		"images/inv_pillbox_stamp_01.png",
 		"images/inv_pillbox_stamp_01_mk.png",
