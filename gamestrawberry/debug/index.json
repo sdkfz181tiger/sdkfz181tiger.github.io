@@ -1,5 +1,5 @@
 {
-	"time": "2022/03/05 20:00:00",
+	"time": "2022/03/05 21:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -108,6 +108,8 @@
 		"images/ctl_60x60_right.png",
 		"images/ctl_60x60_up.png",
 		"images/ctl_arrows.png",
+		"images/ctl_retro_jump_off.png",
+		"images/ctl_retro_jump_on.png",
 		"images/ctl_retro_left_off.png",
 		"images/ctl_retro_left_on.png",
 		"images/ctl_retro_right_off.png",
