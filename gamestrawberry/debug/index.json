@@ -1,5 +1,5 @@
 {
-	"time": "2022/03/07 17:00:00",
+	"time": "2022/03/08 23:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -171,7 +171,8 @@
 		"images/inv_blt_spread.png",
 		"images/inv_coin_01.png",
 		"images/inv_exp_01.png",
-		"images/inv_ground.png",
+		"images/inv_ground_270x64.png",
+		"images/inv_ground_270x84.png",
 		"images/inv_moon.png",
 		"images/inv_title.png",
 		"images/inv_paira_01.png",
