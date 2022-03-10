@@ -1,5 +1,5 @@
 {
-	"time": "2022/03/10 13:00:00",
+	"time": "2022/03/10 14:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -617,13 +617,9 @@
 			]}
 		]
 	},
-	"stages":[
+	"map":[
 		{
-			"randomize": false,
-			"tmx": "tmx/stage_01.json",
-			"papers": "tmx/tilemap_papers.tsx",
-			"floors": "tmx/tilemap_floors.tsx",
-			"walls": "tmx/tilemap_walls.tsx"
+			"test": true,
 		}
 	]
 }
