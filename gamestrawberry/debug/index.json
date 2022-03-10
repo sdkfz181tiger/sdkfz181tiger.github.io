@@ -1,5 +1,5 @@
 {
-	"time": "2022/03/09 20:00:00",
+	"time": "2022/03/10 12:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -164,6 +164,7 @@
 		"images/inv_08.png",
 		"images/inv_alien_01.png",
 		"images/inv_alien_repair.png",
+		"images/inv_bar_high.png",
 		"images/inv_bar_warning.png",
 		"images/inv_blt_enemy_01.png",
 		"images/inv_blt_enemy_02.png",
