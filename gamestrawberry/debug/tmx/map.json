@@ -47,75 +47,131 @@
          "tiles":[
                 {
                  "id":0,
-                 "properties":[
-                        {
-                         "name":"frame_name",
-                         "type":"string",
-                         "value":"inv_01"
-                        }]
+                 "type":"inv_01"
                 }, 
                 {
                  "id":1,
-                 "properties":[
-                        {
-                         "name":"frame_name",
-                         "type":"string",
-                         "value":"inv_02"
-                        }]
+                 "type":"inv_02"
                 }, 
                 {
                  "id":2,
-                 "properties":[
-                        {
-                         "name":"frame_name",
-                         "type":"string",
-                         "value":"inv_03"
-                        }]
+                 "type":"inv_03"
                 }, 
                 {
                  "id":3,
-                 "properties":[
-                        {
-                         "name":"frame_name",
-                         "type":"string",
-                         "value":"inv_04"
-                        }]
+                 "type":"inv_04"
                 }, 
                 {
                  "id":4,
-                 "properties":[
-                        {
-                         "name":"frame_name",
-                         "type":"string",
-                         "value":"inv_05"
-                        }]
+                 "type":"inv_05"
                 }, 
                 {
                  "id":5,
-                 "properties":[
-                        {
-                         "name":"frame_name",
-                         "type":"string",
-                         "value":"inv_06"
-                        }]
+                 "type":"inv_06"
                 }, 
                 {
                  "id":6,
-                 "properties":[
-                        {
-                         "name":"frame_name",
-                         "type":"string",
-                         "value":"inv_07"
-                        }]
+                 "type":"inv_07"
                 }, 
                 {
                  "id":7,
-                 "properties":[
-                        {
-                         "name":"frame_name",
-                         "type":"string",
-                         "value":"inv_08"
-                        }]
+                 "type":"inv_08"
+                }, 
+                {
+                 "id":8,
+                 "type":"inv_01"
+                }, 
+                {
+                 "id":9,
+                 "type":"inv_02"
+                }, 
+                {
+                 "id":10,
+                 "type":"inv_03"
+                }, 
+                {
+                 "id":11,
+                 "type":"inv_04"
+                }, 
+                {
+                 "id":12,
+                 "type":"inv_05"
+                }, 
+                {
+                 "id":13,
+                 "type":"inv_06"
+                }, 
+                {
+                 "id":14,
+                 "type":"inv_07"
+                }, 
+                {
+                 "id":15,
+                 "type":"inv_08"
+                }, 
+                {
+                 "id":16,
+                 "type":"inv_01"
+                }, 
+                {
+                 "id":17,
+                 "type":"inv_02"
+                }, 
+                {
+                 "id":18,
+                 "type":"inv_03"
+                }, 
+                {
+                 "id":19,
+                 "type":"inv_04"
+                }, 
+                {
+                 "id":20,
+                 "type":"inv_05"
+                }, 
+                {
+                 "id":21,
+                 "type":"inv_06"
+                }, 
+                {
+                 "id":22,
+                 "type":"inv_07"
+                }, 
+                {
+                 "id":23,
+                 "type":"inv_08"
+                }, 
+                {
+                 "id":24,
+                 "type":"inv_01"
+                }, 
+                {
+                 "id":25,
+                 "type":"inv_02"
+                }, 
+                {
+                 "id":26,
+                 "type":"inv_03"
+                }, 
+                {
+                 "id":27,
+                 "type":"inv_04"
+                }, 
+                {
+                 "id":28,
+                 "type":"inv_05"
+                }, 
+                {
+                 "id":29,
+                 "type":"inv_06"
+                }, 
+                {
+                 "id":30,
+                 "type":"inv_07"
+                }, 
+                {
+                 "id":31,
+                 "type":"inv_08"
                 }],
          "tilewidth":15
         }, 
