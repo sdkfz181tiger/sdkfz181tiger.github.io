@@ -1,5 +1,5 @@
 {
-	"time": "2022/03/24 18:00:00",
+	"time": "2022/03/25 19:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -316,7 +316,6 @@
 	],
 	"bgms": [
 		"sounds/bgm_game_over.wav",
-		"sounds/bgm_game_play.mp3",
 		"sounds/bgm_game_start.wav",
 		"sounds/bgm_title_start.wav"
 	],
