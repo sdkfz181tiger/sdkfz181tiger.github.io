@@ -1,5 +1,5 @@
 {
-	"time": "2022/03/29 17:00:00",
+	"time": "2022/03/28 20:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -92,7 +92,6 @@
 		"images/block_16x16_15.png",
 		"images/block_16x16_16.png",
 		"images/block_27x27.png",
-		"images/block_32x32.png",
 		"images/box_3x3.png",
 		"images/box_12x12.png",
 		"images/box_16x16.png",
