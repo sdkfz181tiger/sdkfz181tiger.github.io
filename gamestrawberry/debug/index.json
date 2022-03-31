@@ -1,5 +1,5 @@
 {
-	"time": "2022/03/31 14:00:00",
+	"time": "2022/03/31 15:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -189,7 +189,8 @@
 		"images/inv_blt_spread.png",
 		"images/inv_blt_ufo.png",
 		"images/inv_coin_01.png",
-		"images/inv_energy_bar.png",
+		"images/inv_energy_bar_off.png",
+		"images/inv_energy_bar_on.png",
 		"images/inv_energy_tank.png",
 		"images/inv_exp_01.png",
 		"images/inv_ground_270x64.png",
