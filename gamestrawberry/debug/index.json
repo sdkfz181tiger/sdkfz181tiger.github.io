@@ -1,5 +1,5 @@
 {
-	"time": "2022/04/01 11:00:00",
+	"time": "2022/04/01 12:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -362,9 +362,9 @@
 		{"file_name": "images/inv_alien_01.png",     "frame_name": "inv_alien_d_dead", "rows": 8, "cols": 6, "w": 16, "h": 23, "from": 42, "to": 47},
 		{"file_name": "images/inv_alien_01.png",     "frame_name": "inv_alien_d_fall", "rows": 9, "cols": 6, "w": 16, "h": 23, "from": 48, "to": 53},
 		{"file_name": "images/inv_alien_01.png",     "frame_name": "inv_alien_d_down", "rows":10, "cols": 6, "w": 16, "h": 23, "from": 54, "to": 59},
-		{"file_name": "images/inv_alien_ufo_01.png", "frame_name": "inv_alien_ufo_01", "rows": 1, "cols": 6, "w": 26, "h": 38, "from": 0,  "to": 5},
-		{"file_name": "images/inv_alien_ufo_02.png", "frame_name": "inv_alien_ufo_02", "rows": 1, "cols": 6, "w": 26, "h": 24, "from": 0,  "to": 5},
-		{"file_name": "images/inv_alien_ufo_03.png", "frame_name": "inv_alien_ufo_03", "rows": 1, "cols": 6, "w": 26, "h": 33, "from": 0,  "to": 5},
+		{"file_name": "images/inv_alien_ufo_01.png", "frame_name": "inv_alien_ufo_01", "rows": 1, "cols": 6, "w": 26, "h": 24, "from": 0,  "to": 5},
+		{"file_name": "images/inv_alien_ufo_02.png", "frame_name": "inv_alien_ufo_02", "rows": 1, "cols": 6, "w": 26, "h": 33, "from": 0,  "to": 5},
+		{"file_name": "images/inv_alien_ufo_03.png", "frame_name": "inv_alien_ufo_03", "rows": 1, "cols": 6, "w": 26, "h": 38, "from": 0,  "to": 5},
 		{"file_name": "images/inv_alien_ufo_04.png", "frame_name": "inv_alien_ufo_04", "rows": 6, "cols": 3, "w": 54, "h": 24, "from": 0,  "to": 17},
 		{"file_name": "images/inv_astro_01.png",     "frame_name": "inv_astro_front",  "rows": 1, "cols": 6, "w": 16, "h": 23, "from": 0,  "to": 5},
 		{"file_name": "images/inv_astro_01.png",     "frame_name": "inv_astro_right",  "rows": 2, "cols": 6, "w": 16, "h": 23, "from": 6,  "to": 11},
