@@ -1,5 +1,5 @@
 {
-	"time": "2022/03/31 16:00:00",
+	"time": "2022/04/01 16:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -195,6 +195,7 @@
 		"images/inv_exp_01.png",
 		"images/inv_ground_270x64.png",
 		"images/inv_ground_270x84.png",
+		"images/inv_ground_270x114.png",
 		"images/inv_missile_01.png",
 		"images/inv_missile_02.png",
 		"images/inv_moon.png",
