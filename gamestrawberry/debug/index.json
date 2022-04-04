@@ -1,5 +1,5 @@
 {
-	"time": "2022/04/04 14:00:00",
+	"time": "2022/04/04 15:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -184,6 +184,7 @@
 		"images/inv_alien_ufo_03.png",
 		"images/inv_alien_ufo_04.png",
 		"images/inv_astro_01.png",
+		"images/inv_bar_dead.png",
 		"images/inv_bar_high.png",
 		"images/inv_bar_warning.png",
 		"images/inv_blt_enemy_01.png",
