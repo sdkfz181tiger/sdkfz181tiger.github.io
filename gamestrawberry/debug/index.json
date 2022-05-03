@@ -1,5 +1,5 @@
 {
-	"time": "2022/04/20 21:00:00",
+	"time": "2022/05/03 20:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -208,7 +208,9 @@
 		"images/inv_missile_01.png",
 		"images/inv_missile_02.png",
 		"images/inv_moon.png",
-		"images/inv_title.png",
+		"images/inv_title_crash.png",
+		"images/inv_title_logo.png",
+		"images/inv_title_ship.png",
 		"images/inv_paira_01.png",
 		"images/inv_pillbox_base.png",
 		"images/inv_pillbox_stamp_01.png",
