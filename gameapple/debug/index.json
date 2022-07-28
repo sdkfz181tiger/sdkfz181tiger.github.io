@@ -1,5 +1,5 @@
 {
-	"time": "2022/07/28 15:30:00",
+	"time": "2022/07/28 18:30:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -143,6 +143,9 @@
 		"images/e_happy.png",
 		"images/e_hmm.png",
 		"images/e_surprise.png",
+		"images/empty_s_01.png",
+		"images/ene_m.png",
+		"images/ene_s.png",
 		"images/empty_s_01.png",
 		"images/frame_bottom.png",
 		"images/frame_left.png",
