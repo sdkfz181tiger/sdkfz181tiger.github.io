@@ -1,5 +1,5 @@
 {
-	"time": "2022/07/28 18:30:00",
+	"time": "2022/07/28 20:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -318,6 +318,7 @@
 		"sounds/se_dialog_open.wav",
 		"sounds/se_dialog_close.wav",
 		"sounds/se_egg_01.wav",
+		"sounds/se_empty_01.wav",
 		"sounds/se_fall_01.wav",
 		"sounds/se_fan_01.wav",
 		"sounds/se_fan_02.wav",
