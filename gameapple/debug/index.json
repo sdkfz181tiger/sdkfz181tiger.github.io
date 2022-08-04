@@ -1,5 +1,5 @@
 {
-	"time": "2022/07/28 20:00:00",
+	"time": "2022/08/04 20:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -233,6 +233,14 @@
 		"images/inv_warning_114x34_02.png",
 		"images/inv_warning_169x45_01.png",
 		"images/inv_warning_169x45_02.png",
+		"images/ms_faces.png",
+		"images/ms_frame_bottom.png",
+		"images/ms_frame_left.png",
+		"images/ms_frame_right.png",
+		"images/ms_frame_top.png",
+		"images/ms_marks.png",
+		"images/ms_numbers.png",
+		"images/ms_tiles.png",
 		"images/skl_bat_01.png",
 		"images/skl_franken_01.png",
 		"images/skl_ghost_01.png",
