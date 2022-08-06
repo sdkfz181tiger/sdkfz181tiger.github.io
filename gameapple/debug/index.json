@@ -1,5 +1,5 @@
 {
-	"time": "2022/08/04 20:00:00",
+	"time": "2022/08/06 20:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -353,7 +353,10 @@
 		"sounds/se_swim_01.wav",
 		"sounds/se_tramble_off.wav",
 		"sounds/se_tramble_on.wav",
-		"sounds/se_turn_01.wav"
+		"sounds/se_turn_01.wav",
+		"sounds/se_ufo_01.wav",
+		"sounds/se_ufo_02.wav",
+		"sounds/se_ufo_03.wav"
 	],
 	"bgms": [
 		"sounds/bgm_game_over.wav",
