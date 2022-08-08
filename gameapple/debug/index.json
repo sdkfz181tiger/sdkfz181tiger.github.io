@@ -1,5 +1,5 @@
 {
-	"time": "2022/08/06 13:00:00",
+	"time": "2022/08/08 12:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -198,9 +198,10 @@
 		"images/inv_blt_ufo.png",
 		"images/inv_coin_01.png",
 		"images/inv_dust_01.png",
-		"images/inv_ene_meter_logo.png",
+		"images/inv_ene_meter_jump.png",
 		"images/inv_ene_meter_off.png",
 		"images/inv_ene_meter_on.png",
+		"images/inv_ene_meter_shot.png",
 		"images/inv_energy_tank.png",
 		"images/inv_exp_01.png",
 		"images/inv_frog_man_01.png",
