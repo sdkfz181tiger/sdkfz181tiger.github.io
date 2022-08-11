@@ -1,5 +1,5 @@
 {
-	"time": "2022/08/11 23:00:00",
+	"time": "2022/08/12 02:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -504,11 +504,11 @@
 		{"file_name": "images/smk_s_02.png",          "frame_name": "smk_s_02",               "rows": 2, "cols": 6, "w": 16, "h": 16, "from": 0,  "to": 11}
 	],
 	"levels": [
-		{"border_cnt": 10, "types": [0, 1, 2], "min": 1, "max": 1},
-		{"border_cnt": 20, "types": [3, 4, 5], "min": 1, "max": 1},
-		{"border_cnt": 30, "types": [0, 1, 2], "min": 3, "max": 6},
-		{"border_cnt": 40, "types": [3, 4, 5], "min": 3, "max": 6},
-		{"border_cnt": 50, "types": [0, 1, 2], "min": 6, "max": 9},
-		{"border_cnt": 60, "types": [3, 4, 5], "min": 6, "max": 9}
+		{"border_cnt": 10, "types": [0, 1, 2], "total": [1, 1], "chains": [1, 1]},
+		{"border_cnt": 20, "types": [3, 4, 5], "total": [1, 1], "chains": [1, 1]},
+		{"border_cnt": 30, "types": [0, 1, 2], "total": [1, 2], "chains": [2, 4]},
+		{"border_cnt": 40, "types": [3, 4, 5], "total": [1, 2], "chains": [2, 4]},
+		{"border_cnt": 50, "types": [0, 1, 2], "total": [2, 3], "chains": [3, 5]},
+		{"border_cnt": 60, "types": [3, 4, 5], "total": [2, 3], "chains": [3, 5]}
 	]
 }
