@@ -1,5 +1,5 @@
 {
-	"time": "2022/08/12 16:00:00",
+	"time": "2022/08/12 17:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -510,7 +510,7 @@
 		{"border_cnt": 25, "type": 1, "total": 0, "chains": 1, "coins": [2, 3]},
 		{"border_cnt": 30, "type": 2, "total": 1, "chains": 1, "coins": []},
 		{"border_cnt": 35, "type": 2, "total": 0, "chains": 1, "coins": [2, 4]},
-		{"border_cnt": 30, "type": 3, "total": 1, "chains": 1, "coins": []},
-		{"border_cnt": 35, "type": 3, "total": 0, "chains": 1, "coins": [2, 5]}
+		{"border_cnt": 40, "type": 3, "total": 1, "chains": 1, "coins": []},
+		{"border_cnt": 45, "type": 3, "total": 0, "chains": 1, "coins": [2, 5]}
 	]
 }
