@@ -1,5 +1,5 @@
 {
-	"time": "2022/08/13 11:00:00",
+	"time": "2022/08/13 15:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -507,11 +507,12 @@
 		{"file_name": "images/smk_s_02.png",          "frame_name": "smk_s_02",               "rows": 2, "cols": 6, "w": 16, "h": 16, "from": 0,  "to": 11}
 	],
 	"levels": [
-		{"border_cnt": 1, "type": 0, "total": 1, "chains": 1, "c_rows": 0, "c_cols": 0},
-		{"border_cnt": 2, "type": 0, "total": 2, "chains": 1, "c_rows": 0, "c_cols": 0},
-		{"border_cnt": 3, "type": 0, "total": 3, "chains": 1, "c_rows": 0, "c_cols": 0},
-		{"border_cnt": 4, "type": 0, "total": 4, "chains": 1, "c_rows": 0, "c_cols": 0},
-		{"border_cnt": 5, "type": 0, "total": 5, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1,  "type": 0, "total": 1, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 2,  "type": 0, "total": 2, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 3,  "type": 0, "total": 3, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 4,  "type": 0, "total": 4, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 5,  "type": 0, "total": 5, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 10, "type": 0, "total": 1, "chains": 1, "c_rows": 0, "c_cols": 0},
 		{"border_cnt": 11, "type": 0, "total": 0, "chains": 1, "c_rows": 2, "c_cols": 2},
 		{"border_cnt": 20, "type": 1, "total": 1, "chains": 1, "c_rows": 0, "c_cols": 0},
 		{"border_cnt": 21, "type": 0, "total": 0, "chains": 1, "c_rows": 2, "c_cols": 3},
