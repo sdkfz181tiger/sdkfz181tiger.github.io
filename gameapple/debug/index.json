@@ -18,8 +18,6 @@
 		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 2, "c_cols": 3},
 		{"border_cnt": 3, "type": 5, "total": 1, "chains": 1, "c_rows": 0, "c_cols": 0},
 		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 2, "c_cols": 3},
-		{"border_cnt": 3, "type": 5, "total": 1, "chains": 1, "c_rows": 0, "c_cols": 0},
-		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 2, "c_cols": 3},
 		{"border_cnt": 3, "type": 6, "total": 1, "chains": 1, "c_rows": 0, "c_cols": 0},
 		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 2, "c_cols": 3},
 		{"border_cnt": 3, "type": 0, "total": 3, "chains": 1, "c_rows": 0, "c_cols": 0},
