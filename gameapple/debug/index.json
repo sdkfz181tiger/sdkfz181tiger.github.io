@@ -1,5 +1,5 @@
 {
-	"time": "2022/08/14 15:00:00",
+	"time": "2022/08/14 16:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -79,22 +79,64 @@
 		{"border_cnt": 1, "type": 5, "total": 5, "chains": 1, "c_rows": 0, "c_cols": 0},
 
 		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 3, "c_cols": 5},
-		{"border_cnt": 3, "type": 1, "total": 2, "chains": 1, "c_rows": 0, "c_cols": 0},
-		{"border_cnt": 1, "type": 1, "total": 6, "chains": 1, "c_rows": 0, "c_cols": 0},
-		{"border_cnt": 1, "type": 1, "total": 5, "chains": 1, "c_rows": 0, "c_cols": 0},
-		{"border_cnt": 1, "type": 1, "total": 6, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 3, "type": 0, "total": 2, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 0, "total": 6, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 0, "total": 5, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 0, "total": 6, "chains": 1, "c_rows": 0, "c_cols": 0},
 
 		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 3, "c_cols": 5},
-		{"border_cnt": 3, "type": 1, "total": 2, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 3, "type": 0, "total": 2, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 1, "total": 6, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 2, "total": 5, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 1, "total": 6, "chains": 2, "c_rows": 0, "c_cols": 0},
+
+		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 3, "c_cols": 5},
+		{"border_cnt": 3, "type": 0, "total": 2, "chains": 1, "c_rows": 0, "c_cols": 0},
 		{"border_cnt": 1, "type": 2, "total": 6, "chains": 2, "c_rows": 0, "c_cols": 0},
 		{"border_cnt": 1, "type": 3, "total": 5, "chains": 2, "c_rows": 0, "c_cols": 0},
 		{"border_cnt": 1, "type": 2, "total": 6, "chains": 2, "c_rows": 0, "c_cols": 0},
 
-		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 3, "c_cols": 5},
-		{"border_cnt": 3, "type": 1, "total": 2, "chains": 1, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 4, "c_cols": 5},
+		{"border_cnt": 3, "type": 1, "total": 2, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 1, "total": 7, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 1, "total": 6, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 1, "total": 7, "chains": 2, "c_rows": 0, "c_cols": 0},
+
+		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 4, "c_cols": 5},
+		{"border_cnt": 3, "type": 1, "total": 2, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 2, "total": 7, "chains": 2, "c_rows": 0, "c_cols": 0},
 		{"border_cnt": 1, "type": 3, "total": 6, "chains": 2, "c_rows": 0, "c_cols": 0},
-		{"border_cnt": 1, "type": 4, "total": 5, "chains": 2, "c_rows": 0, "c_cols": 0},
-		{"border_cnt": 1, "type": 3, "total": 6, "chains": 2, "c_rows": 0, "c_cols": 0}
+		{"border_cnt": 1, "type": 2, "total": 7, "chains": 2, "c_rows": 0, "c_cols": 0},
+
+		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 4, "c_cols": 5},
+		{"border_cnt": 3, "type": 1, "total": 2, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 3, "total": 7, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 4, "total": 6, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 3, "total": 7, "chains": 2, "c_rows": 0, "c_cols": 0},
+
+		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 5, "c_cols": 5},
+		{"border_cnt": 3, "type": 2, "total": 2, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 2, "total": 7, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 2, "total": 6, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 2, "total": 7, "chains": 2, "c_rows": 0, "c_cols": 0},
+
+		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 5, "c_cols": 5},
+		{"border_cnt": 3, "type": 2, "total": 2, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 3, "total": 7, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 4, "total": 6, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 3, "total": 7, "chains": 2, "c_rows": 0, "c_cols": 0},
+
+		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 5, "c_cols": 5},
+		{"border_cnt": 3, "type": 2, "total": 2, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 4, "total": 7, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 5, "total": 6, "chains": 2, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 4, "total": 7, "chains": 2, "c_rows": 0, "c_cols": 0},
+
+		{"border_cnt": 1, "type": 0, "total": 0, "chains": 1, "c_rows": 5, "c_cols": 5},
+		{"border_cnt": 3, "type": 4, "total": 2, "chains": 3, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 6, "total": 7, "chains": 3, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 5, "total": 6, "chains": 3, "c_rows": 0, "c_cols": 0},
+		{"border_cnt": 1, "type": 6, "total": 7, "chains": 3, "c_rows": 0, "c_cols": 0}
 	],
 	"assets":[
 		"images/az_btn_48x48.png",
