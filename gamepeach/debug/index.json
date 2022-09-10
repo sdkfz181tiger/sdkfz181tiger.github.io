@@ -1,5 +1,5 @@
 {
-	"time": "2022/08/14 16:00:00",
+	"time": "2022/09/10 16:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -333,6 +333,7 @@
 		"images/inv_blt_player.png",
 		"images/inv_blt_spread.png",
 		"images/inv_blt_ufo.png",
+		"images/inv_camera.png",
 		"images/inv_coin_01.png",
 		"images/inv_dust_01.png",
 		"images/inv_energy_tank.png",
