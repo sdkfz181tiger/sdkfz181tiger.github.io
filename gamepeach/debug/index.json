@@ -1,5 +1,5 @@
 {
-	"time": "2022/09/11 17:00:00",
+	"time": "2022/09/11 21:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -7,10 +7,12 @@
 	],
 	"levels":[
 		{"border_cnt": 5, "goron": 0},
-		{"border_cnt": 6, "goron": 1},
-		{"border_cnt": 7, "goron": 2},
-		{"border_cnt": 8, "goron": 3},
-		{"border_cnt": 9, "goron": 4}
+		{"border_cnt": 1, "goron": 1},
+		{"border_cnt": 5, "goron": 0},
+		{"border_cnt": 1, "goron": 2},
+		{"border_cnt": 5, "goron": 0},
+		{"border_cnt": 1, "goron": 3},
+		{"border_cnt": 5, "goron": 0}
 	],
 	"assets":[
 		"images/az_btn_48x48.png",
