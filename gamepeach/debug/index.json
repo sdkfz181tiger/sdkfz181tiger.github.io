@@ -1,19 +1,19 @@
 {
-	"time": "2022/09/15 19:00:00",
+	"time": "2022/09/15 20:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
 	],
 	"levels":[
-		{"border_cnt": 4, "coin": 0, "goro": 0, "bura": 0},
+		{"border_cnt": 3, "coin": 0, "goro": 0, "bura": 0},
 		{"border_cnt": 1, "coin": 1, "goro": 1, "bura": 0},
 		{"border_cnt": 1, "coin": 0, "goro": 0, "bura": 1},
 		{"border_cnt": 1, "coin": 2, "goro": 2, "bura": 0},
 		{"border_cnt": 1, "coin": 0, "goro": 0, "bura": 2},
-		{"border_cnt": 1, "coin": 3, "goro": 3, "bura": 0},
+		{"border_cnt": 1, "coin": 3, "goro": 1, "bura": 0},
 		{"border_cnt": 1, "coin": 0, "goro": 0, "bura": 3},
-		{"border_cnt": 1, "coin": 4, "goro": 4, "bura": 0}
+		{"border_cnt": 1, "coin": 4, "goro": 2, "bura": 0}
 	],
 	"assets":[
 		"images/az_btn_48x48.png",
