@@ -1,19 +1,19 @@
 {
-	"time": "2022/09/15 16:00:00",
+	"time": "2022/09/15 17:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
 	],
 	"levels":[
-		{"border_cnt": 4, "coin": 0, "ojama": 0},
-		{"border_cnt": 1, "coin": 1, "ojama": 1},
-		{"border_cnt": 1, "coin": 0, "ojama": 0},
-		{"border_cnt": 1, "coin": 2, "ojama": 2},
-		{"border_cnt": 1, "coin": 0, "ojama": 0},
-		{"border_cnt": 1, "coin": 3, "ojama": 3},
-		{"border_cnt": 1, "coin": 0, "ojama": 0},
-		{"border_cnt": 1, "coin": 4, "ojama": 4}
+		{"border_cnt": 4, "coin": 0, "goro": 0, "toge": 0},
+		{"border_cnt": 1, "coin": 1, "goro": 1, "toge": 0},
+		{"border_cnt": 1, "coin": 0, "goro": 0, "toge": 1},
+		{"border_cnt": 1, "coin": 2, "goro": 2, "toge": 0},
+		{"border_cnt": 1, "coin": 0, "goro": 0, "toge": 2},
+		{"border_cnt": 1, "coin": 3, "goro": 3, "toge": 0},
+		{"border_cnt": 1, "coin": 0, "goro": 0, "toge": 3},
+		{"border_cnt": 1, "coin": 4, "goro": 4, "toge": 0}
 	],
 	"assets":[
 		"images/az_btn_48x48.png",
