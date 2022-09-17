@@ -1,5 +1,5 @@
 {
-	"time": "2022/09/17 15:00:00",
+	"time": "2022/09/17 18:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -218,7 +218,8 @@
 		"images/inv_frog_man_01.png",
 		"images/inv_frog_astro_01.png",
 		"images/inv_fufo_01.png",
-		"images/inv_ground_270x110.png",
+		"images/inv_ground_1_270x110.png",
+		"images/inv_ground_2_270x110.png",
 		"images/inv_monster_body.png",
 		"images/inv_monster_close.png",
 		"images/inv_monster_face.png",
