@@ -388,6 +388,8 @@
 		{"file_name": "images/ctl_arrows.png",        "frame_name": "a_down",                 "rows": 3, "cols": 6, "w": 16, "h": 16, "from": 12, "to": 17},
 		{"file_name": "images/ctl_arrows.png",        "frame_name": "a_left",                 "rows": 4, "cols": 6, "w": 16, "h": 16, "from": 18, "to": 23},
 		{"file_name": "images/ctl_arrows.png",        "frame_name": "a_right",                "rows": 5, "cols": 6, "w": 16, "h": 16, "from": 24, "to": 29},
+		{"file_name": "images/can_bullet.png",        "frame_name": "can_bullet_right",       "rows": 1, "cols": 7, "w": 20, "h": 16, "from": 0,  "to": 6},
+		{"file_name": "images/can_bullet.png",        "frame_name": "can_bullet_left",        "rows": 2, "cols": 7, "w": 20, "h": 16, "from": 7,  "to": 13},
 		{"file_name": "images/empty_s_01.png",        "frame_name": "empty_s_01",             "rows": 1, "cols": 6, "w": 15, "h": 15, "from": 0,  "to": 5},
 		{"file_name": "images/inv_01.png",            "frame_name": "inv_01",                 "rows": 1, "cols": 6, "w": 11, "h": 12, "from": 0,  "to": 5},
 		{"file_name": "images/inv_02.png",            "frame_name": "inv_02",                 "rows": 1, "cols": 6, "w": 15, "h": 15, "from": 0,  "to": 5},
