@@ -1,5 +1,5 @@
 {
-	"time": "2022/09/22 13:00:00",
+	"time": "2022/09/22 15:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -124,6 +124,8 @@
 		"images/btn_share.png",
 		"images/btn_sound_off.png",
 		"images/btn_sound_on.png",
+		"images/can_body.png",
+		"images/can_bullet.png",
 		"images/ctl_48x48_default.png",
 		"images/ctl_48x48_down.png",
 		"images/ctl_48x48_left.png",
