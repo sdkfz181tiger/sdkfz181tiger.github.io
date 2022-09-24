@@ -6,14 +6,14 @@
 		"tmx.zip"
 	],
 	"levels":[
-		{"border_cnt": 3, "hole": 1, "enekan": 0, "coin": 0, "goro": 0, "bura": 0, "can": 0},
-		{"border_cnt": 1, "hole": 2, "enekan": 0, "coin": 1, "goro": 1, "bura": 0, "can": 0},
-		{"border_cnt": 1, "hole": 2, "enekan": 1, "coin": 0, "goro": 0, "bura": 1, "can": 0},
-		{"border_cnt": 1, "hole": 2, "enekan": 0, "coin": 2, "goro": 2, "bura": 0, "can": 0},
-		{"border_cnt": 1, "hole": 2, "enekan": 1, "coin": 0, "goro": 0, "bura": 1, "can": 0},
-		{"border_cnt": 1, "hole": 1, "enekan": 0, "coin": 2, "goro": 1, "bura": 0, "can": 1},
-		{"border_cnt": 1, "hole": 2, "enekan": 1, "coin": 0, "goro": 0, "bura": 2, "can": 0},
-		{"border_cnt": 1, "hole": 2, "enekan": 0, "coin": 2, "goro": 2, "bura": 0, "can": 0}
+		{"border_cnt": 3, "hole": 2, "enekan": 0, "coin": 0, "goro": 0, "bura": 0, "can": 0},
+		{"border_cnt": 1, "hole": 1, "enekan": 0, "coin": 2, "goro": 0, "bura": 0, "can": 0},
+		{"border_cnt": 3, "hole": 2, "enekan": 0, "coin": 0, "goro": 1, "bura": 0, "can": 0},
+		{"border_cnt": 1, "hole": 1, "enekan": 0, "coin": 2, "goro": 0, "bura": 1, "can": 1},
+		{"border_cnt": 3, "hole": 2, "enekan": 0, "coin": 0, "goro": 1, "bura": 0, "can": 0},
+		{"border_cnt": 1, "hole": 1, "enekan": 0, "coin": 2, "goro": 0, "bura": 1, "can": 1},
+		{"border_cnt": 3, "hole": 2, "enekan": 0, "coin": 0, "goro": 1, "bura": 0, "can": 0},
+		{"border_cnt": 1, "hole": 1, "enekan": 0, "coin": 2, "goro": 0, "bura": 1, "can": 1}
 	],
 	"assets":[
 		"images/az_btn_48x48.png",
