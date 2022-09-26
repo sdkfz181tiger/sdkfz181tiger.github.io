@@ -1,5 +1,5 @@
 {
-	"time": "2022/09/24 20:00:00",
+	"time": "2022/09/26 23:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -7,13 +7,13 @@
 	],
 	"levels":[
 		{"border_cnt": 2, "hole": 2, "elev": 0, "enek": 0, "coin": 0, "goro": 0, "bura": 0, "can": 0},
-		{"border_cnt": 1, "hole": 0, "elev": 1, "enek": 0, "coin": 2, "goro": 0, "bura": 1, "can": 1},
-		{"border_cnt": 2, "hole": 2, "elev": 0, "enek": 0, "coin": 0, "goro": 1, "bura": 0, "can": 0},
-		{"border_cnt": 1, "hole": 0, "elev": 1, "enek": 0, "coin": 2, "goro": 0, "bura": 1, "can": 1},
-		{"border_cnt": 2, "hole": 2, "elev": 0, "enek": 0, "coin": 0, "goro": 1, "bura": 0, "can": 0},
-		{"border_cnt": 1, "hole": 0, "elev": 1, "enek": 0, "coin": 2, "goro": 0, "bura": 1, "can": 1},
-		{"border_cnt": 2, "hole": 2, "elev": 0, "enek": 0, "coin": 0, "goro": 1, "bura": 0, "can": 0},
-		{"border_cnt": 1, "hole": 0, "elev": 1, "enek": 0, "coin": 2, "goro": 0, "bura": 1, "can": 1}
+		{"border_cnt": 1, "hole": 0, "elev": 1, "enek": 0, "coin": 2, "goro": 0, "bura": 1, "can": 0},
+		{"border_cnt": 2, "hole": 2, "elev": 0, "enek": 0, "coin": 0, "goro": 1, "bura": 0, "can": 1},
+		{"border_cnt": 1, "hole": 0, "elev": 1, "enek": 0, "coin": 2, "goro": 0, "bura": 1, "can": 0},
+		{"border_cnt": 2, "hole": 2, "elev": 0, "enek": 0, "coin": 0, "goro": 1, "bura": 0, "can": 1},
+		{"border_cnt": 1, "hole": 0, "elev": 1, "enek": 0, "coin": 2, "goro": 0, "bura": 1, "can": 0},
+		{"border_cnt": 2, "hole": 2, "elev": 0, "enek": 0, "coin": 0, "goro": 1, "bura": 0, "can": 1},
+		{"border_cnt": 1, "hole": 0, "elev": 1, "enek": 0, "coin": 2, "goro": 0, "bura": 1, "can": 0}
 	],
 	"assets":[
 		"images/az_btn_48x48.png",
