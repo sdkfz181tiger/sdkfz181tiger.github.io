@@ -1,5 +1,5 @@
 {
-	"time": "2022/10/15 16:00:00",
+	"time": "2022/10/15 17:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -8,9 +8,9 @@
 	"levels":[
 		{"border_cnt": 1, "hole": 0, "elev": 0, "can": 0, "enek": 0, "coin": 0, "bura": 0, "goro": 0, "ndl": 0},
 		{"border_cnt": 3, "hole": 0, "elev": 0, "can": 0, "enek": 0, "coin": 0, "bura": 0, "goro": 0, "ndl": 0},
-		{"border_cnt": 1, "hole": 1, "elev": 0, "can": 0, "enek": 0, "coin": 0, "bura": 0, "goro": 0, "ndl": 0},
+		{"border_cnt": 1, "hole": 1, "elev": 1, "can": 0, "enek": 0, "coin": 0, "bura": 0, "goro": 0, "ndl": 0},
 		{"border_cnt": 3, "hole": 0, "elev": 0, "can": 0, "enek": 0, "coin": 0, "bura": 0, "goro": 0, "ndl": 0},
-		{"border_cnt": 1, "hole": 0, "elev": 1, "can": 0, "enek": 0, "coin": 0, "bura": 0, "goro": 0, "ndl": 0},
+		{"border_cnt": 1, "hole": 1, "elev": 1, "can": 0, "enek": 0, "coin": 0, "bura": 0, "goro": 0, "ndl": 0},
 		{"border_cnt": 3, "hole": 0, "elev": 0, "can": 0, "enek": 0, "coin": 0, "bura": 0, "goro": 0, "ndl": 0}
 	],
 	"assets":[
