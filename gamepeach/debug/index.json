@@ -1,5 +1,5 @@
 {
-	"time": "2022/11/08 23:00:00",
+	"time": "2022/11/21 23:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -294,6 +294,7 @@
 		"images/ss_ninja_n.png",
 		"images/ss_ninja_r.png",
 		"images/ss_ninja_w.png",
+		"images/ss_oni_b.png",
 		"images/ss_oni_g.png",
 		"images/ss_oni_r.png",
 		"images/ss_osho.png",
@@ -568,6 +569,12 @@
 		{"file_name": "images/ss_ninja_w.png",        "frame_name": "ninja_w_dead",           "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
 		{"file_name": "images/ss_ninja_w.png",        "frame_name": "ninja_w_j_left",         "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
 		{"file_name": "images/ss_ninja_w.png",        "frame_name": "ninja_w_j_right",        "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/ss_oni_b.png",          "frame_name": "oni_b_front",            "rows": 1, "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
+		{"file_name": "images/ss_oni_b.png",          "frame_name": "oni_b_back",             "rows": 2, "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
+		{"file_name": "images/ss_oni_b.png",          "frame_name": "oni_b_right",            "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/ss_oni_b.png",          "frame_name": "oni_b_left",             "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/ss_oni_b.png",          "frame_name": "oni_b_damage",           "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/ss_oni_b.png",          "frame_name": "oni_b_dead",             "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
 		{"file_name": "images/ss_oni_g.png",          "frame_name": "oni_g_front",            "rows": 1, "cols": 5, "w": 16, "h": 16, "from": 0,  "to": 4},
 		{"file_name": "images/ss_oni_g.png",          "frame_name": "oni_g_back",             "rows": 2, "cols": 5, "w": 16, "h": 16, "from": 5,  "to": 9},
 		{"file_name": "images/ss_oni_g.png",          "frame_name": "oni_g_right",            "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
