@@ -1,5 +1,5 @@
 {
-	"time": "2022/11/21 18:00:00",
+	"time": "2023/01/29 23:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -332,6 +332,14 @@
 		"images/y_rei_12.png",
 		"images/y_rei_13.png",
 		"images/y_rei_14.png",
+		"images/tile_42x42_bkg.png",
+		"images/tile_42x42.png",
+		"images/tile_44x44_bkg.png",
+		"images/tile_44x44.png",
+		"images/tile_46x46_bkg.png",
+		"images/tile_46x46.png",
+		"images/tile_48x48_bkg.png",
+		"images/tile_48x48.png",
 		"images/trx_cactus_1.png",
 		"images/trx_cactus_2.png",
 		"images/trx_cactus_3.png",
@@ -350,14 +358,12 @@
 		"images/trx_rex_run.png",
 		"images/trx_rex_stand.png",
 		"images/trx_title.png",
-		"images/tile_42x42_bkg.png",
-		"images/tile_42x42.png",
-		"images/tile_44x44_bkg.png",
-		"images/tile_44x44.png",
-		"images/tile_46x46_bkg.png",
-		"images/tile_46x46.png",
-		"images/tile_48x48_bkg.png",
-		"images/tile_48x48.png"
+		"images/ufo_alien_1.png",
+		"images/ufo_bomb_1.png",
+		"images/ufo_cow_1.png",
+		"images/ufo_frog_1.png",
+		"images/ufo_ground_1.png",
+		"images/ufo_sky_1.png"
 	],
 	"ses": [
 		"sounds/se_chick_01.wav",
