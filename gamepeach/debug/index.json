@@ -1,5 +1,5 @@
 {
-	"time": "2023/01/29 23:00:00",
+	"time": "2023/01/30 17:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -360,10 +360,11 @@
 		"images/trx_title.png",
 		"images/ufo_alien_1.png",
 		"images/ufo_bomb_1.png",
+		"images/ufo_box_160x240.png",
 		"images/ufo_cow_1.png",
 		"images/ufo_frog_1.png",
-		"images/ufo_ground_1.png",
-		"images/ufo_sky_1.png"
+		"images/ufo_ground_160x52.png",
+		"images/ufo_sky_160x80.png"
 	],
 	"ses": [
 		"sounds/se_chick_01.wav",
