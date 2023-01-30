@@ -1,5 +1,5 @@
 {
-	"time": "2023/01/30 19:00:00",
+	"time": "2023/01/30 22:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -358,13 +358,20 @@
 		"images/trx_rex_run.png",
 		"images/trx_rex_stand.png",
 		"images/trx_title.png",
-		"images/ufo_alien_1.png",
-		"images/ufo_bomb_1.png",
-		"images/ufo_box_160x240.png",
-		"images/ufo_cow_1.png",
-		"images/ufo_frog_1.png",
-		"images/ufo_ground_160x52.png",
-		"images/ufo_sky_160x80.png"
+		"images/ufo_alien_g_1.png",
+		"images/ufo_alien_w_1.png",
+		"images/ufo_bomb_g_1.png",
+		"images/ufo_bomb_w_1.png",
+		"images/ufo_box_g_160x240.png",
+		"images/ufo_box_w_160x240.png",
+		"images/ufo_cow_g_1.png",
+		"images/ufo_cow_w_1.png",
+		"images/ufo_frog_g_1.png",
+		"images/ufo_frog_w_1.png",
+		"images/ufo_ground_g_160x52.png",
+		"images/ufo_ground_w_160x52.png",
+		"images/ufo_sky_g_160x80.png",
+		"images/ufo_sky_w_160x80.png"
 	],
 	"ses": [
 		"sounds/se_chick_01.wav",
