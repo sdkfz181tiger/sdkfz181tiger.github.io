@@ -1,5 +1,5 @@
 {
-	"time": "2023/02/02 20:00:00",
+	"time": "2023/02/04 18:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -360,7 +360,7 @@
 		"images/trx_title.png",
 		"images/ufo_alien_w_1.png",
 		"images/ufo_bomb_w_1.png",
-		"images/ufo_box_w_160x240.png",
+		"images/ufo_box_w_320x480.png",
 		"images/ufo_cow_w_1.png",
 		"images/ufo_cow_w_2.png",
 		"images/ufo_exp_w_1.png",
