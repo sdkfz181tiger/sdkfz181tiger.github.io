@@ -1,5 +1,5 @@
 {
-	"time": "2023/02/15 21:00:00",
+	"time": "2023/02/16 12:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -382,7 +382,6 @@
 		"images/ufo_sky_w_1.png"
 	],
 	"ses": [
-		"sounds/se_chick_01.wav",
 		"sounds/se_cnt_bonus.wav",
 		"sounds/se_cnt_score.wav",
 		"sounds/se_coin_01.wav",
@@ -417,6 +416,7 @@
 		"sounds/se_shot_01.wav",
 		"sounds/se_shot_02.wav",
 		"sounds/se_shot_03.wav",
+		"sounds/se_skid_01.wav",
 		"sounds/se_swim_01.wav",
 		"sounds/se_tramble_off.wav",
 		"sounds/se_tramble_on.wav",
