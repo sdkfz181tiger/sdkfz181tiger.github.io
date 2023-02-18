@@ -1,5 +1,5 @@
 {
-	"time": "2023/02/18 11:00:00",
+	"time": "2023/02/18 15:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -96,6 +96,8 @@
 		"images/base/ene_meter_off.png",
 		"images/base/ene_meter_on.png",
 		"images/base/ene_meter_shot.png",
+		"images/base/exp_w_1.png",
+		"images/base/exp_w_2.png",
 		"images/base/frame_bottom.png",
 		"images/base/frame_left.png",
 		"images/base/frame_right.png",
