@@ -199,6 +199,6 @@
 		"sounds/bgm_title_start.wav"
 	],
 	"sprite_sheets": [
-		{"file_name": "images/base/coin_01.png", "frame_name": "coin_01", "rows": 1, "cols": 6, "w": 9, "h": 9, "from": 0, "to": 5},
+		{"file_name": "images/base/coin_01.png", "frame_name": "coin_01", "rows": 1, "cols": 6, "w": 9, "h": 9, "from": 0, "to": 5}
 	]
 }
