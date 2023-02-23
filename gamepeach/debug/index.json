@@ -1,5 +1,5 @@
 {
-	"time": "2023/02/23 19:00:00",
+	"time": "2023/02/23 16:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -147,9 +147,7 @@
 		"images/base/tile_46x46_bkg.png",
 		"images/base/tile_46x46.png",
 		"images/base/tile_48x48_bkg.png",
-		"images/base/tile_48x48.png",
-		"images/nin/needle_01.png",
-		"images/nin/slime_k_01.png"
+		"images/base/tile_48x48.png"
 	],
 	"ses": [
 		"sounds/se_cnt_bonus.wav",
@@ -215,6 +213,14 @@
 		{"file_name": "images/base/smk_s_02.png",      "frame_name": "smk_s_02",       "rows": 2, "cols": 6, "w": 16, "h": 16, "from":  0, "to": 11},
 		{"file_name": "images/nin/needle_01.png",      "frame_name": "needle_up",      "rows": 1, "cols": 6, "w": 28, "h": 14, "from":  0, "to":  5},
 		{"file_name": "images/nin/needle_01.png",      "frame_name": "needle_down",    "rows": 2, "cols": 6, "w": 28, "h": 14, "from":  6, "to": 11},
+		{"file_name": "images/nin/ninja_n_01.png",     "frame_name": "ninja_n_f",      "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/nin/ninja_n_01.png",     "frame_name": "ninja_n_b",      "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  4},
+		{"file_name": "images/nin/ninja_n_01.png",     "frame_name": "ninja_n_r",      "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/nin/ninja_n_01.png",     "frame_name": "ninja_n_l",      "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/nin/ninja_n_01.png",     "frame_name": "ninja_n_damage", "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/nin/ninja_n_01.png",     "frame_name": "ninja_n_dead",   "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/nin/ninja_n_01.png",     "frame_name": "ninja_n_roll_r", "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/nin/ninja_n_01.png",     "frame_name": "ninja_n_roll_l", "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
 		{"file_name": "images/nin/slime_k_01.png",     "frame_name": "slime_k_f",      "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/nin/slime_k_01.png",     "frame_name": "slime_k_b",      "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  4},
 		{"file_name": "images/nin/slime_k_01.png",     "frame_name": "slime_k_r",      "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
