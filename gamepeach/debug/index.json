@@ -1,5 +1,5 @@
 {
-	"time": "2023/02/23 15:00:00",
+	"time": "2023/02/23 16:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -213,8 +213,8 @@
 		{"file_name": "images/base/smk_m_02.png",      "frame_name": "smk_m_02",      "rows": 3, "cols": 6, "w": 50, "h": 50, "from":  0, "to": 17},
 		{"file_name": "images/base/smk_s_01.png",      "frame_name": "smk_s_01",      "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
 		{"file_name": "images/base/smk_s_02.png",      "frame_name": "smk_s_02",      "rows": 2, "cols": 6, "w": 16, "h": 16, "from":  0, "to": 11},
-		{"file_name": "images/nin/needle_01.png",      "frame_name": "needle_up",     "rows": 1, "cols": 6, "w": 28, "h": 28, "from":  0, "to":  5},
-		{"file_name": "images/nin/needle_01.png",      "frame_name": "needle_down",   "rows": 2, "cols": 6, "w": 28, "h": 28, "from":  6, "to": 11},
+		{"file_name": "images/nin/needle_01.png",      "frame_name": "needle_up",     "rows": 1, "cols": 6, "w": 28, "h": 14, "from":  0, "to":  5},
+		{"file_name": "images/nin/needle_01.png",      "frame_name": "needle_down",   "rows": 2, "cols": 6, "w": 28, "h": 14, "from":  6, "to": 11},
 		{"file_name": "images/nin/slime_k_01.png",     "frame_name": "slime_f",       "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/nin/slime_k_01.png",     "frame_name": "slime_b",       "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  4},
 		{"file_name": "images/nin/slime_k_01.png",     "frame_name": "slime_r",       "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
