@@ -7,11 +7,11 @@
 	],
 	"levels":[
 		{"border_cnt": 1, "block":10, "elev": 0, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl": 0},
-		{"border_cnt": 1, "block": 9, "elev": 0, "bura": 0, "can": 0, "coin":10, "enek": 0, "goro": 0, "ndl": 0},
-		{"border_cnt": 1, "block": 9, "elev": 0, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl":10},
-		{"border_cnt": 1, "block": 9, "elev": 0, "bura": 0, "can": 0, "coin": 0, "enek":10, "goro": 0, "ndl": 0},
-		{"border_cnt": 1, "block": 9, "elev": 0, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro":10, "ndl": 0},
-		{"border_cnt": 1, "block": 9, "elev": 0, "bura":10, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl": 0}
+		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin":10, "enek": 0, "goro": 0, "ndl": 0},
+		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl":10},
+		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 0, "enek":10, "goro": 0, "ndl": 0},
+		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro":10, "ndl": 0},
+		{"border_cnt": 1, "block": 9, "elev": 1, "bura":10, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl": 0}
 	],
 	"assets":[
 		"images/base/block_28x14_01.png",
