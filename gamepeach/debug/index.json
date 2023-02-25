@@ -1,5 +1,5 @@
 {
-	"time": "2023/02/25 13:00:00",
+	"time": "2023/02/25 14:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -8,10 +8,10 @@
 	"levels":[
 		{"border_cnt": 1, "block":10, "elev": 0, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl": 0},
 		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 3, "enek": 0, "goro": 0, "ndl": 0},
-		{"border_cnt": 1, "block": 9, "elev": 1, "bura":10, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl": 0},
+		{"border_cnt": 1, "block": 5, "elev": 5, "bura":10, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl": 0},
 		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 0, "enek":10, "goro": 0, "ndl": 0},
-		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro":10, "ndl": 0},
-		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl": 3}
+		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl": 5},
+		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro": 1, "ndl": 0}
 	],
 	"assets":[
 		"images/base/block_28x14_01.png",
