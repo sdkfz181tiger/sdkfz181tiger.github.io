@@ -11,7 +11,7 @@
 		"images/base/i_peach.png", "images/base/i_persimmon.png", "images/base/i_strawberry.png",
 		"images/base/i_watermelon.png"
 	],
-	"vegitables":[
+	"vegetables":[
 		"images/base/i_broccoli.png", "images/base/i_cabbage.png", "images/base/i_carrot.png",
 		"images/base/i_corn.png", "images/base/i_eggplant.png", "images/base/i_greenpep.png",
 		"images/base/i_leek.png", "images/base/i_onion.png", "images/base/i_pumpkin.png",
