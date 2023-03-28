@@ -1,17 +1,22 @@
 {
-	"time": "2023/03/27 22:00:00",
+	"time": "2023/03/28 12:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
 	],
-	"levels":[
-		{"border_cnt": 1, "block":10, "elev": 0, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl": 0},
-		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 3, "enek": 0, "goro": 0, "ndl": 0},
-		{"border_cnt": 1, "block": 5, "elev": 5, "bura":10, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl": 0},
-		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 0, "enek":10, "goro": 0, "ndl": 0},
-		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro": 0, "ndl": 5},
-		{"border_cnt": 1, "block": 9, "elev": 1, "bura": 0, "can": 0, "coin": 0, "enek": 0, "goro": 1, "ndl": 0}
+	"fruits":[
+		"images/base/i_apple.png", "images/base/i_banana.png", "images/base/i_blueberry.png",
+		"images/base/i_cherry.png", "images/base/i_lemon.png", "images/base/i_orange.png",
+		"images/base/i_peach.png", "images/base/i_persimmon.png", "images/base/i_strawberry.png",
+		"images/base/i_watermelon.png"
+	],
+	"vegitables":[
+		"images/base/i_broccoli.png", "images/base/i_cabbage.png", "images/base/i_carrot.png",
+		"images/base/i_corn.png", "images/base/i_eggplant.png", "images/base/i_greenpep.png",
+		"images/base/i_leek.png", "images/base/i_onion.png", "images/base/i_pumpkin.png",
+		"images/base/i_radish.png", "images/base/i_redhot.png", "images/base/i_soybeans.png",
+		"images/base/i_tomato.png"
 	],
 	"assets":[
 		"images/base/block_28x14_01.png",
