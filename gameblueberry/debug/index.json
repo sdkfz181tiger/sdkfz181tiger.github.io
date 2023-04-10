@@ -1,5 +1,5 @@
 {
-	"time": "2023/04/10 15:00:00",
+	"time": "2023/04/10 16:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -193,7 +193,22 @@
 		"sounds/se_turn_01.wav",
 		"sounds/se_ufo_01.wav",
 		"sounds/se_ufo_02.wav",
-		"sounds/se_ufo_03.wav"
+		"sounds/se_ufo_03.wav",
+		"sounds/se_iwa_go_01.ogg",
+		"sounds/se_iwa_go_02.ogg",
+		"sounds/se_iwa_go_03.ogg",
+		"sounds/se_iwa_go_04.ogg",
+		"sounds/se_iwa_go_05.ogg",
+		"sounds/se_iwa_go_06.ogg",
+		"sounds/se_iwa_go_07.ogg",
+		"sounds/se_iwa_go_08.ogg",
+		"sounds/se_iwa_go_09.ogg",
+		"sounds/se_iwa_go_10.ogg",
+		"sounds/se_iwa_go_11.ogg",
+		"sounds/se_iwa_go_12.ogg",
+		"sounds/se_iwa_go_13.ogg",
+		"sounds/se_iwa_go_14.ogg",
+		"sounds/se_iwa_go_15.ogg"
 	],
 	"bgms": [
 		"sounds/bgm_game_over.wav",
