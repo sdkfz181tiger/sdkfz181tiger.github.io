@@ -1,5 +1,5 @@
 {
-	"time": "2023/03/31 23:30:00",
+	"time": "2023/04/10 15:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -198,6 +198,7 @@
 	"bgms": [
 		"sounds/bgm_game_over.wav",
 		"sounds/bgm_game_start.wav",
+		"sounds/bgm_game_yawarakai.ogg",
 		"sounds/bgm_title_start.wav"
 	],
 	"sprite_sheets": [
