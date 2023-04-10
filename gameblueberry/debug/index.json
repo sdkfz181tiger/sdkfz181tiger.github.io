@@ -1,5 +1,5 @@
 {
-	"time": "2023/04/10 17:00:00",
+	"time": "2023/04/10 19:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -152,7 +152,6 @@
 		"images/puzzle/i_watermelon.png"
 	],
 	"ses": [
-		"sounds/se_iwa_cancel.ogg",
 		"sounds/se_iwa_cursor_01.ogg",
 		"sounds/se_iwa_cursor_02.ogg",
 		"sounds/se_iwa_cursor_03.ogg",
@@ -162,7 +161,8 @@
 		"sounds/se_iwa_cursor_07.ogg",
 		"sounds/se_iwa_cursor_08.ogg",
 		"sounds/se_iwa_cursor_09.ogg",
-		"sounds/se_iwa_descision.ogg",
+		"sounds/se_iwa_d_close.ogg",
+		"sounds/se_iwa_d_open.ogg",
 		"sounds/se_iwa_item_01.ogg",
 		"sounds/se_iwa_item_02.ogg",
 		"sounds/se_iwa_item_03.ogg",
