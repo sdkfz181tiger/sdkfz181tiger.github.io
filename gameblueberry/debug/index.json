@@ -1,5 +1,5 @@
 {
-	"time": "2023/04/11 19:00:00",
+	"time": "2023/04/11 20:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -183,15 +183,6 @@
 		"sounds/se_iwa_fan_01.ogg",
 		"sounds/se_iwa_fan_02.ogg",
 		"sounds/se_iwa_fan_03.ogg",
-		"sounds/se_iwa_item_01.ogg",
-		"sounds/se_iwa_item_02.ogg",
-		"sounds/se_iwa_item_03.ogg",
-		"sounds/se_iwa_item_04.ogg",
-		"sounds/se_iwa_item_05.ogg",
-		"sounds/se_iwa_item_06.ogg",
-		"sounds/se_iwa_item_07.ogg",
-		"sounds/se_iwa_item_08.ogg",
-		"sounds/se_iwa_item_09.ogg",
 		"sounds/se_iwa_over_01.ogg",
 		"sounds/se_iwa_over_02.ogg",
 		"sounds/se_iwa_over_03.ogg",
