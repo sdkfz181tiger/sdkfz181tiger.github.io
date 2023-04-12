@@ -1,5 +1,5 @@
 {
-	"time": "2023/04/11 20:00:00",
+	"time": "2023/04/12 17:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -149,7 +149,9 @@
 		"images/puzzle/i_soybeans.png",
 		"images/puzzle/i_strawberry.png",
 		"images/puzzle/i_tomato.png",
-		"images/puzzle/i_watermelon.png"
+		"images/puzzle/i_watermelon.png",
+		"images/yukkuri/marisa_01.png",
+		"images/yukkuri/reimu_01.png"
 	],
 	"ses": [
 		"sounds/se_fam_powerup_01.ogg",
@@ -244,20 +246,15 @@
 		{"file_name": "images/ninja/slime_k_r_01.png", "frame_name": "slime_k_r_l",      "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
 		{"file_name": "images/ninja/slime_k_r_01.png", "frame_name": "slime_k_r_damage", "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
 		{"file_name": "images/ninja/slime_k_r_01.png", "frame_name": "slime_k_r_dead",   "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
-		{"file_name": "images/ufo/cow_a_1.png",        "frame_name": "cow_a_f",          "rows": 1, "cols": 6, "w": 24, "h": 26, "from":  0, "to":  5},
-		{"file_name": "images/ufo/cow_a_1.png",        "frame_name": "cow_a_r",          "rows": 2, "cols": 6, "w": 24, "h": 26, "from":  6, "to": 11},
-		{"file_name": "images/ufo/cow_a_1.png",        "frame_name": "cow_a_l",          "rows": 3, "cols": 6, "w": 24, "h": 26, "from": 12, "to": 17},
-		{"file_name": "images/ufo/cow_a_1.png",        "frame_name": "cow_a_fall_r",     "rows": 4, "cols": 6, "w": 24, "h": 26, "from": 18, "to": 23},
-		{"file_name": "images/ufo/cow_a_1.png",        "frame_name": "cow_a_fall_l",     "rows": 5, "cols": 6, "w": 24, "h": 26, "from": 24, "to": 29},
-		{"file_name": "images/ufo/cow_a_1.png",        "frame_name": "cow_a_jump_f",     "rows": 6, "cols": 6, "w": 24, "h": 26, "from": 30, "to": 35},
-		{"file_name": "images/ufo/cow_a_1.png",        "frame_name": "cow_a_jump_r",     "rows": 7, "cols": 6, "w": 24, "h": 26, "from": 36, "to": 41},
-		{"file_name": "images/ufo/cow_a_1.png",        "frame_name": "cow_a_jump_l",     "rows": 8, "cols": 6, "w": 24, "h": 26, "from": 42, "to": 47},
-		{"file_name": "images/ufo/cow_a_1.png",        "frame_name": "cow_a_damage",     "rows": 9, "cols": 6, "w": 24, "h": 26, "from": 48, "to": 53},
-		{"file_name": "images/ufo/cow_a_1.png",        "frame_name": "cow_a_skid_r",     "rows":10, "cols": 6, "w": 24, "h": 26, "from": 54, "to": 59},
-		{"file_name": "images/ufo/cow_a_1.png",        "frame_name": "cow_a_skid_l",     "rows":11, "cols": 6, "w": 24, "h": 26, "from": 60, "to": 65},
-		{"file_name": "images/ufo/cow_a_2.png",        "frame_name": "cow_a_eat_r",      "rows": 1, "cols": 6, "w": 32, "h": 26, "from":  0, "to":  5},
-		{"file_name": "images/ufo/cow_a_2.png",        "frame_name": "cow_a_eat_l",      "rows": 2, "cols": 6, "w": 32, "h": 26, "from":  6, "to": 11},
-		{"file_name": "images/ufo/cow_a_2.png",        "frame_name": "cow_a_standup_r",  "rows": 3, "cols": 6, "w": 32, "h": 26, "from": 12, "to": 17},
-		{"file_name": "images/ufo/cow_a_2.png",        "frame_name": "cow_a_standup_l",  "rows": 4, "cols": 6, "w": 32, "h": 26, "from": 18, "to": 23}
+		{"file_name": "images/yukkuri/marisa_01.png",  "frame_name": "marisa_good",      "rows": 1, "cols": 4, "w": 62, "h": 49, "from":  0, "to":  3},
+		{"file_name": "images/yukkuri/marisa_01.png",  "frame_name": "marisa_like",      "rows": 2, "cols": 4, "w": 62, "h": 49, "from":  4, "to":  7},
+		{"file_name": "images/yukkuri/marisa_01.png",  "frame_name": "marisa_bad",       "rows": 3, "cols": 4, "w": 62, "h": 49, "from":  8, "to": 11},
+		{"file_name": "images/yukkuri/marisa_01.png",  "frame_name": "marisa_stun",      "rows": 4, "cols": 4, "w": 62, "h": 49, "from": 12, "to": 15},
+		{"file_name": "images/yukkuri/marisa_01.png",  "frame_name": "marisa_shy",       "rows": 5, "cols": 4, "w": 62, "h": 49, "from": 16, "to": 19},
+		{"file_name": "images/yukkuri/reimu_01.png",   "frame_name": "reimu_good",       "rows": 1, "cols": 4, "w": 46, "h": 39, "from":  0, "to":  3},
+		{"file_name": "images/yukkuri/reimu_01.png",   "frame_name": "reimu_like",       "rows": 2, "cols": 4, "w": 46, "h": 39, "from":  4, "to":  7},
+		{"file_name": "images/yukkuri/reimu_01.png",   "frame_name": "reimu_bad",        "rows": 3, "cols": 4, "w": 46, "h": 39, "from":  8, "to": 11},
+		{"file_name": "images/yukkuri/reimu_01.png",   "frame_name": "reimu_stun",       "rows": 4, "cols": 4, "w": 46, "h": 39, "from": 12, "to": 15},
+		{"file_name": "images/yukkuri/reimu_01.png",   "frame_name": "reimu_shy",        "rows": 5, "cols": 4, "w": 46, "h": 39, "from": 16, "to": 19}
 	]
 }
