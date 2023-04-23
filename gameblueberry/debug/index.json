@@ -1,5 +1,5 @@
 {
-	"time": "2023/04/23 22:00:00",
+	"time": "2023/04/23 23:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -126,7 +126,7 @@
 		"images/base/frame_left.png",
 		"images/base/frame_right.png",
 		"images/base/frame_top.png",
-		"images/post/ruu_01.png",
+		"images/post/postman_01.png",
 		"images/post/town_01.png",
 		"images/puzzle/i_apple.png",
 		"images/puzzle/i_banana.png",
@@ -248,9 +248,9 @@
 		{"file_name": "images/ninja/slime_k_r_01.png", "frame_name": "slime_k_r_l",      "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
 		{"file_name": "images/ninja/slime_k_r_01.png", "frame_name": "slime_k_r_damage", "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
 		{"file_name": "images/ninja/slime_k_r_01.png", "frame_name": "slime_k_r_dead",   "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
-		{"file_name": "images/post/cat_01.png",        "frame_name": "cat_drive",        "rows": 1, "cols": 5, "w": 70, "h": 50, "from": 0,  "to":  4},
-		{"file_name": "images/post/cat_01.png",        "frame_name": "cat_down",         "rows": 2, "cols": 5, "w": 70, "h": 50, "from": 5,  "to":  9},
-		{"file_name": "images/post/cat_01.png",        "frame_name": "cat_run",          "rows": 3, "cols": 5, "w": 70, "h": 50, "from": 10, "to":  4},
+		{"file_name": "images/post/postman_01.png",    "frame_name": "cat_drive",        "rows": 1, "cols": 5, "w": 70, "h": 50, "from": 0,  "to":  4},
+		{"file_name": "images/post/postman_01.png",    "frame_name": "cat_down",         "rows": 2, "cols": 5, "w": 70, "h": 50, "from": 5,  "to":  9},
+		{"file_name": "images/post/postman_01.png",    "frame_name": "cat_run",          "rows": 3, "cols": 5, "w": 70, "h": 50, "from": 10, "to":  4},
 		{"file_name": "images/yukkuri/marisa_01.png",  "frame_name": "marisa_good",      "rows": 1, "cols": 4, "w": 62, "h": 49, "from":  0, "to":  3},
 		{"file_name": "images/yukkuri/marisa_01.png",  "frame_name": "marisa_like",      "rows": 2, "cols": 4, "w": 62, "h": 49, "from":  4, "to":  7},
 		{"file_name": "images/yukkuri/marisa_01.png",  "frame_name": "marisa_bad",       "rows": 3, "cols": 4, "w": 62, "h": 49, "from":  8, "to": 11},
