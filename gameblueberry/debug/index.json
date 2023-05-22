@@ -1,5 +1,5 @@
 {
-	"time": "2023/05/22 18:00:00",
+	"time": "2023/05/22 23:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -225,6 +225,7 @@
 		{"file_name": "images/base/exp_m_02.png",      "frame_name": "exp_m_02",         "rows": 1, "cols": 6, "w": 32, "h": 32, "from":  0, "to":  5},
 		{"file_name": "images/base/exp_s_01.png",      "frame_name": "exp_s_01",         "rows": 1, "cols": 6, "w": 15, "h": 15, "from":  0, "to":  5},
 		{"file_name": "images/base/exp_s_02.png",      "frame_name": "exp_s_02",         "rows": 1, "cols": 8, "w": 15, "h": 15, "from":  0, "to":  7},
+		{"file_name": "images/base/heart_01.png",      "frame_name": "heart_01",         "rows": 1, "cols": 6, "w": 15, "h": 15, "from":  0, "to":  5},
 		{"file_name": "images/base/smk_m_01.png",      "frame_name": "smk_m_01",         "rows": 2, "cols": 6, "w": 50, "h": 50, "from":  0, "to": 11},
 		{"file_name": "images/base/smk_m_02.png",      "frame_name": "smk_m_02",         "rows": 3, "cols": 6, "w": 50, "h": 50, "from":  0, "to": 17},
 		{"file_name": "images/base/smk_s_01.png",      "frame_name": "smk_s_01",         "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
