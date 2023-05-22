@@ -1,5 +1,5 @@
 {
-	"time": "2023/04/30 23:00:00",
+	"time": "2023/05/22 18:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -110,10 +110,12 @@
 		"images/base/exp_m_02.png",
 		"images/base/exp_s_01.png",
 		"images/base/exp_s_02.png",
+		"images/base/heart_01.png",
 		"images/base/smk_m_01.png",
 		"images/base/smk_m_02.png",
 		"images/base/smk_s_01.png",
 		"images/base/smk_s_02.png",
+		"images/base/talk_tnx.png",
 		"images/base/tile_42x42_bkg.png",
 		"images/base/tile_42x42.png",
 		"images/base/tile_44x44_bkg.png",
