@@ -1,5 +1,5 @@
 {
-	"time": "2023/04/10 18:00:00",
+	"time": "2023/05/22 17:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -126,6 +126,12 @@
 		"images/base/frame_left.png",
 		"images/base/frame_right.png",
 		"images/base/frame_top.png",
+		"images/base/heart_01.png",
+		"images/base/smk_m_01.png",
+		"images/base/smk_m_02.png",
+		"images/base/smk_s_01.png",
+		"images/base/smk_s_02.png",
+		"images/base/talk_tnx.png",
 		"images/puzzle/i_apple.png",
 		"images/puzzle/i_banana.png",
 		"images/puzzle/i_blueberry.png",
