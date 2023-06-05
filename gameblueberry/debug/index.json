@@ -1,5 +1,5 @@
 {
-	"time": "2023/06/05 23:00:00",
+	"time": "2023/06/05 23:30:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -196,6 +196,7 @@
 		"sounds/se_iwa_fan_01.ogg",
 		"sounds/se_iwa_fan_02.ogg",
 		"sounds/se_iwa_fan_03.ogg",
+		"sounds/se_iwa_hyuun.ogg",
 		"sounds/se_iwa_over_01.ogg",
 		"sounds/se_iwa_over_02.ogg",
 		"sounds/se_iwa_over_03.ogg",
