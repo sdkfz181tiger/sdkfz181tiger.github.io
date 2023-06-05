@@ -1,5 +1,5 @@
 {
-	"time": "2023/05/22 23:30:00",
+	"time": "2023/06/05 18:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -238,8 +238,9 @@
 		{"file_name": "images/ninja/ninja_n_01.png",   "frame_name": "ninja_n_l",        "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
 		{"file_name": "images/ninja/ninja_n_01.png",   "frame_name": "ninja_n_damage",   "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
 		{"file_name": "images/ninja/ninja_n_01.png",   "frame_name": "ninja_n_dead",     "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
-		{"file_name": "images/ninja/ninja_n_01.png",   "frame_name": "ninja_n_roll_r",   "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
-		{"file_name": "images/ninja/ninja_n_01.png",   "frame_name": "ninja_n_roll_l",   "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/ninja/ninja_n_01.png",   "frame_name": "ninja_n_jump_f",   "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/ninja/ninja_n_01.png",   "frame_name": "ninja_n_jump_r",   "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/ninja/ninja_n_01.png",   "frame_name": "ninja_n_jump_l",   "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/ninja/slime_k_b_01.png", "frame_name": "slime_k_b_f",      "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/ninja/slime_k_b_01.png", "frame_name": "slime_k_b_b",      "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
 		{"file_name": "images/ninja/slime_k_b_01.png", "frame_name": "slime_k_b_r",      "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
