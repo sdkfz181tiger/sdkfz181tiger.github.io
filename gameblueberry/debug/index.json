@@ -1,5 +1,5 @@
 {
-	"time": "2023/06/11 13:00:00",
+	"time": "2023/06/11 18:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -129,6 +129,7 @@
 		"images/base/frame_right.png",
 		"images/base/frame_top.png",
 		"images/ninja/bkg_240x480.png",
+		"images/ninja/bkg_240x480_green.png",
 		"images/ninja/bkg_200x320.png",
 		"images/post/mail_01.png",
 		"images/post/postman_01.png",
