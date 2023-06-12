@@ -1,20 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.8" tiledversion="1.8.2" name="blocks" tilewidth="15" tileheight="15" tilecount="16" columns="16">
- <image source="blocks.png" width="240" height="15"/>
- <tile id="0" type="1"/>
- <tile id="1" type="images/blogk_28x28_02.png"/>
- <tile id="2" type="images/blogk_28x28_03.png"/>
- <tile id="3" type="images/blogk_28x28_04.png"/>
- <tile id="4" type="images/blogk_28x28_05.png"/>
- <tile id="5" type="images/blogk_28x28_06.png"/>
- <tile id="6" type="images/blogk_28x28_07.png"/>
- <tile id="7" type="images/blogk_28x28_08.png"/>
- <tile id="8" type="images/blogk_28x28_09.png"/>
- <tile id="9" type="images/blogk_28x28_10.png"/>
- <tile id="10" type="images/blogk_28x28_11.png"/>
- <tile id="11" type="images/blogk_28x28_12.png"/>
- <tile id="12" type="images/blogk_28x28_13.png"/>
- <tile id="13" type="images/blogk_28x28_14.png"/>
- <tile id="14" type="images/blogk_28x28_15.png"/>
- <tile id="15" type="images/blogk_28x28_16.png"/>
+<tileset version="1.10" tiledversion="1.10.1" name="blocks" tilewidth="28" tileheight="28" tilecount="18" columns="9">
+ <editorsettings>
+  <export target="blocks.json" format="json"/>
+ </editorsettings>
+ <image source="blocks.png" width="252" height="56"/>
+ <tile id="0">
+  <properties>
+   <property name="name" value="block_28x28_00.png"/>
+  </properties>
+ </tile>
+ <tile id="1">
+  <properties>
+   <property name="name" value="block_28x14_01.png"/>
+  </properties>
+ </tile>
+ <tile id="2">
+  <properties>
+   <property name="name" value="block_28x28_02.png"/>
+  </properties>
+ </tile>
+ <tile id="3">
+  <properties>
+   <property name="name" value="block_28x28_03.png"/>
+  </properties>
+ </tile>
+ <tile id="4">
+  <properties>
+   <property name="name" value="block_28x28_04.png"/>
+  </properties>
+ </tile>
+ <tile id="5">
+  <properties>
+   <property name="name" value="block_28x28_05.png"/>
+  </properties>
+ </tile>
+ <tile id="6">
+  <properties>
+   <property name="name" value="block_28x28_06.png"/>
+  </properties>
+ </tile>
+ <tile id="7">
+  <properties>
+   <property name="name" value="block_28x28_07.png"/>
+  </properties>
+ </tile>
+ <tile id="8">
+  <properties>
+   <property name="name" value="block_28x28_08.png"/>
+  </properties>
+ </tile>
+ <tile id="9">
+  <properties>
+   <property name="name" value="block_28x28_08.png"/>
+  </properties>
+ </tile>
+ <tile id="10">
+  <properties>
+   <property name="name" value="block_28x28_10.png"/>
+  </properties>
+ </tile>
+ <tile id="11">
+  <properties>
+   <property name="name" value="block_28x28_11.png"/>
+  </properties>
+ </tile>
+ <tile id="12">
+  <properties>
+   <property name="name" value="block_28x28_12.png"/>
+  </properties>
+ </tile>
+ <tile id="13">
+  <properties>
+   <property name="name" value="block_28x28_13.png"/>
+  </properties>
+ </tile>
+ <tile id="14">
+  <properties>
+   <property name="name" value="block_28x28_14.png"/>
+  </properties>
+ </tile>
+ <tile id="15">
+  <properties>
+   <property name="name" value="block_28x28_15.png"/>
+  </properties>
+ </tile>
+ <tile id="16">
+  <properties>
+   <property name="name" value="block_28x28_16.png"/>
+  </properties>
+ </tile>
+ <tile id="17">
+  <properties>
+   <property name="name" value="block_28x28_17.png"/>
+  </properties>
+ </tile>
 </tileset>
