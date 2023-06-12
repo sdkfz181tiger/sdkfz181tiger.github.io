@@ -6,7 +6,7 @@
  <image source="blocks.png" width="252" height="56"/>
  <tile id="0">
   <properties>
-   <property name="name" value="block_28x28_00.png"/>
+   <property name="name" value="xx.png"/>
   </properties>
  </tile>
  <tile id="1">
