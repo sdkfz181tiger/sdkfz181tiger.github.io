@@ -1,5 +1,5 @@
 {
-	"time": "2023/06/19 13:00:00",
+	"time": "2023/06/19 14:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -314,8 +314,9 @@
 		{"file_name": "images/ninja/slime_k_r_01.png", "frame_name": "slime_k_r_l",      "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
 		{"file_name": "images/ninja/slime_k_r_01.png", "frame_name": "slime_k_r_damage", "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
 		{"file_name": "images/ninja/slime_k_r_01.png", "frame_name": "slime_k_r_dead",   "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
-		{"file_name": "images/ninja/w_kami_01.png",    "frame_name": "w_kami_01",        "rows": 2, "cols": 4, "w": 16, "h": 6,  "from":  0, "to":  7},
-		{"file_name": "images/ninja/w_kami_02.png",    "frame_name": "w_kami_02",        "rows": 1, "cols": 4, "w": 16, "h": 16, "from":  0, "to":  3},
+		{"file_name": "images/ninja/w_kami_01.png",    "frame_name": "w_kami_01",        "rows": 2, "cols": 4, "w": 16, "h":  6, "from":  0, "to":  7},
+		{"file_name": "images/ninja/w_kami_02.png",    "frame_name": "w_kami_02",        "rows": 2, "cols": 4, "w":  6, "h": 16, "from":  0, "to":  7},
+		{"file_name": "images/ninja/w_kami_03.png",    "frame_name": "w_kami_03",        "rows": 1, "cols": 4, "w": 16, "h": 16, "from":  0, "to":  3},
 		{"file_name": "images/ninja/w_shuri_01.png",   "frame_name": "w_shuri_01",       "rows": 1, "cols": 4, "w": 10, "h": 10, "from":  0, "to":  3},
 		{"file_name": "images/post/postman_01.png",    "frame_name": "cat_drive",        "rows": 1, "cols": 5, "w": 50, "h": 50, "from":  0, "to":  4},
 		{"file_name": "images/post/postman_01.png",    "frame_name": "cat_down",         "rows": 2, "cols": 5, "w": 50, "h": 50, "from":  5, "to":  9},
