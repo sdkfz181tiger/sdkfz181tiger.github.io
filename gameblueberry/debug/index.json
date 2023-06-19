@@ -1,9 +1,16 @@
 {
-	"time": "2023/06/19 14:00:00",
+	"time": "2023/06/19 19:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
+	],
+	"levels":[
+		{"total": 3, "bozu": 1, "osho": 0, "ninja": 0, "oni_r": 0},
+		{"total": 3, "bozu": 0, "osho": 1, "ninja": 0, "oni_r": 0},
+		{"total": 3, "bozu": 0, "osho": 0, "ninja": 1, "oni_r": 0},
+		{"total": 3, "bozu": 0, "osho": 0, "ninja": 0, "oni_r": 1},
+		{"total": 9, "bozu": 1, "osho": 0, "ninja": 0, "oni_r": 0}
 	],
 	"fruits":[
 		"images/puzzle/i_apple.png", "images/puzzle/i_banana.png", 
