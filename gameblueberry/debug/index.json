@@ -1,16 +1,18 @@
 {
-	"time": "2023/06/21 18:00:00",
+	"time": "2023/06/21 20:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
 	],
+	"enemies":[
+		"bozu", "osho", "ninja", "oni_r", "oni_g", "oni_b"
+	],
 	"levels":[
-		{"total": 3, "bozu": 1, "osho": 0, "ninja": 0, "oni_r": 0},
-		{"total": 3, "bozu": 0, "osho": 1, "ninja": 0, "oni_r": 0},
-		{"total": 3, "bozu": 0, "osho": 0, "ninja": 1, "oni_r": 0},
-		{"total": 3, "bozu": 0, "osho": 0, "ninja": 0, "oni_r": 1},
-		{"total": 9, "bozu": 1, "osho": 0, "ninja": 0, "oni_r": 0}
+		{"total": 5, "weights":[100, 0, 0, 0, 0, 0, 0]},
+		{"total": 5, "weights":[0, 100, 0, 0, 0, 0, 0]},
+		{"total": 5, "weights":[0, 0, 100, 0, 0, 0, 0]},
+		{"total": 5, "weights":[0, 0, 0, 100, 0, 0, 0]}
 	],
 	"items":[
 		{"score": 10, "weight":100, "file": "images/puzzle/i_apple.png"},
