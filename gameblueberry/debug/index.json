@@ -1,5 +1,5 @@
 {
-	"time": "2023/06/22 21:00:00",
+	"time": "2023/06/22 22:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -12,7 +12,10 @@
 		{"num": 5, "weights":[100, 0, 0, 0, 0, 0, 0]},
 		{"num": 3, "weights":[0, 100, 0, 0, 0, 0, 0]},
 		{"num": 3, "weights":[0, 0, 100, 0, 0, 0, 0]},
-		{"num": 3, "weights":[0, 0, 0, 100, 0, 0, 0]}
+		{"num": 3, "weights":[0, 0, 0, 100, 0, 0, 0]},
+		{"num": 3, "weights":[0, 0, 0, 0, 100, 0, 0]},
+		{"num": 3, "weights":[0, 0, 0, 0, 0, 100, 0]},
+		{"num": 3, "weights":[0, 0, 0, 0, 0, 0, 100]}
 	],
 	"items":[
 		{"score": 10, "weight":100, "file": "images/puzzle/i_apple.png"},
