@@ -1,5 +1,5 @@
 {
-	"time": "2023/06/21 12:00:00",
+	"time": "2023/06/21 13:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -13,12 +13,12 @@
 		{"total": 9, "bozu": 1, "osho": 0, "ninja": 0, "oni_r": 0}
 	],
 	"items":[
-		{"score": 10, "weight": 90, "file": "images/puzzle/i_apple.png"},
-		{"score": 15, "weight": 80, "file": "images/puzzle/i_blueberry.png"},
-		{"score": 20, "weight": 70, "file": "images/puzzle/i_cherry.png"},
-		{"score": 30, "weight": 60, "file": "images/puzzle/i_strawberry.png"},
-		{"score": 35, "weight": 50, "file": "images/puzzle/i_orange.png"},
-		{"score": 40, "weight": 40, "file": "images/puzzle/i_peach.png"}
+		{"score": 10, "weight": 80, "file": "images/puzzle/i_apple.png"},
+		{"score": 20, "weight": 50, "file": "images/puzzle/i_blueberry.png"},
+		{"score": 30, "weight": 40, "file": "images/puzzle/i_cherry.png"},
+		{"score": 40, "weight": 30, "file": "images/puzzle/i_strawberry.png"},
+		{"score": 50, "weight": 20, "file": "images/puzzle/i_orange.png"},
+		{"score":100, "weight": 10, "file": "images/puzzle/i_peach.png"}
 	],
 	"assets":[
 		"images/base/bkg_bottom.png",
