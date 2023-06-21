@@ -1,5 +1,5 @@
 {
-	"time": "2023/06/21 20:00:00",
+	"time": "2023/06/22 20:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -9,10 +9,10 @@
 		"bozu", "osho", "ninja", "oni_r", "oni_g", "oni_b"
 	],
 	"levels":[
-		{"total": 5, "weights":[100, 0, 0, 0, 0, 0, 0]},
-		{"total": 5, "weights":[0, 100, 0, 0, 0, 0, 0]},
-		{"total": 5, "weights":[0, 0, 100, 0, 0, 0, 0]},
-		{"total": 5, "weights":[0, 0, 0, 100, 0, 0, 0]}
+		{"num": 5, "weights":[100, 0, 0, 0, 0, 0, 0]},
+		{"num": 5, "weights":[0, 100, 0, 0, 0, 0, 0]},
+		{"num": 5, "weights":[0, 0, 100, 0, 0, 0, 0]},
+		{"num": 5, "weights":[0, 0, 0, 100, 0, 0, 0]}
 	],
 	"items":[
 		{"score": 10, "weight":100, "file": "images/puzzle/i_apple.png"},
