@@ -1,5 +1,5 @@
 {
-	"time": "2023/06/25 12:00:00",
+	"time": "2023/06/25 15:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -102,6 +102,10 @@
 		"images/base/dot_4x4.png",
 		"images/base/dot_6x6.png",
 		"images/base/dot_8x8.png",
+		"images/base/e_ex_01.png",
+		"images/base/e_ex_02.png",
+		"images/base/e_ex_03.png",
+		"images/base/e_ex_04.png",
 		"images/base/e_angry.png",
 		"images/base/e_fear.png",
 		"images/base/e_happy.png",
@@ -137,6 +141,8 @@
 		"images/base/frame_top.png",
 		"images/ninja/bkg_240x480_am.png",
 		"images/ninja/bkg_240x480_pm.png",
+		"images/ninja/hatake_01.png",
+		"images/ninja/hatake_02.png",
 		"images/post/mail_01.png",
 		"images/post/postman_01.png",
 		"images/post/c_boy_01.png",
