@@ -1,5 +1,5 @@
 {
-	"time": "2023/06/25 16:00:00",
+	"time": "2023/06/25 15:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -141,8 +141,10 @@
 		"images/base/frame_top.png",
 		"images/ninja/bkg_240x480_am.png",
 		"images/ninja/bkg_240x480_pm.png",
-		"images/ninja/hatake_01.png",
-		"images/ninja/hatake_02.png",
+		"images/ninja/hatake_am_01.png",
+		"images/ninja/hatake_am_02.png",
+		"images/ninja/hatake_pm_01.png",
+		"images/ninja/hatake_pm_02.png",
 		"images/post/mail_01.png",
 		"images/post/postman_01.png",
 		"images/post/c_boy_01.png",
