@@ -6,16 +6,16 @@
 		"tmx.zip"
 	],
 	"enemies":[
-		"bozu", "osho", "ninja", "oni_r", "oni_g", "oni_b"
+		"bozu", "osho", "ninja", "oni_b", "oni_g", "oni_r", "yuki"
 	],
 	"levels":[
 		{"num": 5, "weights":[100, 0, 0, 0, 0, 0, 0]},
-		{"num": 3, "weights":[0, 100, 0, 0, 0, 0, 0]},
-		{"num": 3, "weights":[0, 0, 100, 0, 0, 0, 0]},
-		{"num": 3, "weights":[0, 0, 0, 100, 0, 0, 0]},
-		{"num": 3, "weights":[0, 0, 0, 0, 100, 0, 0]},
-		{"num": 3, "weights":[0, 0, 0, 0, 0, 100, 0]},
-		{"num": 3, "weights":[0, 0, 0, 0, 0, 0, 100]}
+		{"num": 6, "weights":[0, 100, 0, 0, 0, 0, 0]},
+		{"num": 7, "weights":[0, 0, 100, 0, 0, 0, 0]},
+		{"num": 8, "weights":[0, 0, 0, 100, 0, 0, 0]},
+		{"num": 9, "weights":[0, 0, 0, 0, 100, 0, 0]},
+		{"num":10, "weights":[0, 0, 0, 0, 0, 100, 0]},
+		{"num":11, "weights":[0, 0, 0, 0, 0, 0, 100]}
 	],
 	"items":[
 		{"score":  2, "weight": 90, "file": "images/puzzle/i_radish.png"},
