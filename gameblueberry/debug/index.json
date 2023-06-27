@@ -1,5 +1,5 @@
 {
-	"time": "2023/06/27 16:00:00",
+	"time": "2023/06/27 18:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -9,13 +9,14 @@
 		"bozu", "osho", "ninja", "oni_b", "oni_g", "oni_r", "yuki"
 	],
 	"levels":[
-		{"num": 5, "weights":[100, 0, 0, 0, 0, 0, 0]},
-		{"num": 6, "weights":[0, 100, 0, 0, 0, 0, 0]},
-		{"num": 7, "weights":[0, 0, 100, 0, 0, 0, 0]},
-		{"num": 8, "weights":[0, 0, 0, 100, 0, 0, 0]},
-		{"num": 9, "weights":[0, 0, 0, 0, 100, 0, 0]},
-		{"num":10, "weights":[0, 0, 0, 0, 0, 100, 0]},
-		{"num":11, "weights":[0, 0, 0, 0, 0, 0, 100]}
+		{"num": 3, "weights":[10,  0,  0,  0,  0,  0,  0]},
+		{"num": 1, "weights":[ 0, 10,  0,  0,  0,  0,  0]},
+		{"num": 1, "weights":[ 0,  0, 10,  0,  0,  0,  0]},
+		{"num": 1, "weights":[ 0,  0,  0, 10,  0,  0,  0]},
+		{"num": 1, "weights":[ 0,  0,  0,  0, 10,  0,  0]},
+		{"num": 1, "weights":[ 0,  0,  0,  0,  0, 10,  0]},
+		{"num": 1, "weights":[ 0,  0,  0,  0,  0,  0, 10]},
+		{"num": 1, "weights":[10, 10, 10, 10, 10, 10, 10]}
 	],
 	"items":[
 		{"score":  2, "weight": 90, "file": "images/puzzle/i_radish.png"},
