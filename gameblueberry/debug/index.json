@@ -9,13 +9,13 @@
 		"bozu", "osho", "ninja", "oni_b", "oyuki", "oni_r"
 	],
 	"levels":[
-		{"num": 3, "weights":[10,  0,  0,  0,  0,  0]},
-		{"num": 2, "weights":[10, 10,  0,  0,  0,  0]},
-		{"num": 2, "weights":[ 0, 10, 10,  0,  0,  0]},
-		{"num": 2, "weights":[ 0,  0, 10, 10,  0,  0]},
-		{"num": 2, "weights":[ 0,  0,  0, 10, 10,  0]},
-		{"num": 2, "weights":[ 0,  0,  0,  0, 10, 10]},
-		{"num": 1, "weights":[10, 10, 10, 10, 10, 10]}
+		{"num": 3, "interval": 7.0, "weights":[10,  0,  0,  0,  0,  0]},
+		{"num": 1, "interval": 6.0, "weights":[10, 10,  0,  0,  0,  0]},
+		{"num": 1, "interval": 5.0, "weights":[ 0, 10, 10,  0,  0,  0]},
+		{"num": 1, "interval": 4.0, "weights":[ 0,  0, 10, 10,  0,  0]},
+		{"num": 1, "interval": 3.0, "weights":[ 0,  0,  0, 10, 10,  0]},
+		{"num": 1, "interval": 2.0, "weights":[ 0,  0,  0,  0, 10, 10]},
+		{"num": 1, "interval": 1.0, "weights":[10, 10, 10, 10, 10, 10]}
 	],
 	"items":[
 		{"score":  2, "weight": 90, "file": "images/puzzle/i_radish.png"},
