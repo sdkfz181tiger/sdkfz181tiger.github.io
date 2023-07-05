@@ -1,5 +1,5 @@
 {
-	"time": "2023/07/05 15:00:00",
+	"time": "2023/07/05 16:00:00",
 	"version_code": 1,
 	"archives":[
 		"images.zip",
@@ -9,13 +9,13 @@
 		"bozu", "osho", "ninja", "oni_b", "oyuki", "oni_r"
 	],
 	"levels":[
-		{"num": 3, "enemyInterval":10.0, "truckInterval": 20.0, "weights":[10,  0,  0,  0,  0,  0]},
-		{"num": 1, "enemyInterval":10.0, "truckInterval": 18.0, "weights":[10, 10,  0,  0,  0,  0]},
-		{"num": 1, "enemyInterval":15.0, "truckInterval": 16.0, "weights":[ 0, 10, 10,  0,  0,  0]},
-		{"num": 1, "enemyInterval":15.0, "truckInterval": 14.0, "weights":[ 0,  0, 10, 10,  0,  0]},
-		{"num": 1, "enemyInterval":15.0, "truckInterval": 12.0, "weights":[ 0,  0,  0, 10, 10,  0]},
-		{"num": 1, "enemyInterval":15.0, "truckInterval": 10.0, "weights":[ 0,  0,  0,  0, 10, 10]},
-		{"num": 1, "enemyInterval":20.0, "truckInterval": 8.0,  "weights":[10, 10, 10, 10, 10, 10]}
+		{"num": 3, "enemyInterval":20.0, "truckInterval": 20.0, "weights":[10,  0,  0,  0,  0,  0]},
+		{"num": 1, "enemyInterval":18.0, "truckInterval": 18.0, "weights":[10, 10,  0,  0,  0,  0]},
+		{"num": 1, "enemyInterval":16.0, "truckInterval": 16.0, "weights":[ 0, 10, 10,  0,  0,  0]},
+		{"num": 1, "enemyInterval":14.0, "truckInterval": 14.0, "weights":[ 0,  0, 10, 10,  0,  0]},
+		{"num": 1, "enemyInterval":12.0, "truckInterval": 12.0, "weights":[ 0,  0,  0, 10, 10,  0]},
+		{"num": 1, "enemyInterval":10.0, "truckInterval": 10.0, "weights":[ 0,  0,  0,  0, 10, 10]},
+		{"num": 1, "enemyInterval":8.0,  "truckInterval": 8.0,  "weights":[10, 10, 10, 10, 10, 10]}
 	],
 	"items":[
 		{"score":  2, "weight": 90, "file": "images/foods/i_radish.png"},
