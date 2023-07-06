@@ -1,0 +1,556 @@
+{ "compressionlevel":-1,
+ "height":13,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[0, 0, 45, 0, 0, 0, 0, 0, 45, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 45, 0, 0, 0, 0, 0, 45, 0, 0],
+         "height":13,
+         "id":8,
+         "name":"trucks",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":11,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 38, 38, 38, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 38, 38, 0, 0, 0, 38, 38, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 38, 38, 0, 0, 0, 0, 0, 38, 38, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 38, 38, 38, 0, 0, 0, 0],
+         "height":13,
+         "id":6,
+         "name":"items",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":11,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":13,
+         "id":7,
+         "name":"enemies",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":11,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            2, 2, 2, 2, 0, 0, 0, 2, 2, 2, 2,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            2, 2, 0, 0, 2, 2, 2, 0, 0, 2, 2,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 2, 2, 0, 0, 0, 2, 2, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            2, 2, 2, 0, 0, 0, 0, 0, 2, 2, 2,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":13,
+         "id":1,
+         "name":"blocks",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":11,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":9,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"left-down",
+ "tiledversion":"1.10.1",
+ "tileheight":28,
+ "tilesets":[
+        {
+         "columns":9,
+         "firstgid":1,
+         "image":"blocks.png",
+         "imageheight":56,
+         "imagewidth":252,
+         "margin":0,
+         "name":"blocks",
+         "spacing":0,
+         "tilecount":18,
+         "tileheight":28,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"xx.png"
+                        }]
+                }, 
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x14_01.png"
+                        }]
+                }, 
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_02.png"
+                        }]
+                }, 
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_03.png"
+                        }]
+                }, 
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_04.png"
+                        }]
+                }, 
+                {
+                 "id":5,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_05.png"
+                        }]
+                }, 
+                {
+                 "id":6,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_06.png"
+                        }]
+                }, 
+                {
+                 "id":7,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_07.png"
+                        }]
+                }, 
+                {
+                 "id":8,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_08.png"
+                        }]
+                }, 
+                {
+                 "id":9,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_08.png"
+                        }]
+                }, 
+                {
+                 "id":10,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_10.png"
+                        }]
+                },
+            
+                {
+                 "id":11,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_11.png"
+                        }]
+                }, 
+                {
+                 "id":12,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_12.png"
+                        }]
+                }, 
+                {
+                 "id":13,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_13.png"
+                        }]
+                }, 
+                {
+                 "id":14,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_14.png"
+                        }]
+                }, 
+                {
+                 "id":15,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_15.png"
+                        }]
+                }, 
+                {
+                 "id":16,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_16.png"
+                        }]
+                }, 
+                {
+                 "id":17,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"block_28x28_17.png"
+                        }]
+                }],
+         "tilewidth":28
+        }, 
+        {
+         "columns":9,
+         "firstgid":19,
+         "image":"enemies.png",
+         "imageheight":56,
+         "imagewidth":252,
+         "margin":0,
+         "name":"enemies",
+         "spacing":0,
+         "tilecount":18,
+         "tileheight":28,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"noname"
+                        }]
+                }, 
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"bozu"
+                        }]
+                }, 
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"osho"
+                        }]
+                }, 
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"bushi"
+                        }]
+                }, 
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"musha"
+                        }]
+                }, 
+                {
+                 "id":5,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"ninja"
+                        }]
+                }, 
+                {
+                 "id":6,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"oni_r"
+                        }]
+                }, 
+                {
+                 "id":7,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"oni_b"
+                        }]
+                }, 
+                {
+                 "id":8,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"shishi"
+                        }]
+                }, 
+                {
+                 "id":9,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"tengu"
+                        }]
+                }, 
+                {
+                 "id":10,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"karasu"
+                        }]
+                },
+            
+                {
+                 "id":11,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"slime_k_g"
+                        }]
+                }, 
+                {
+                 "id":12,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"musume"
+                        }]
+                }, 
+                {
+                 "id":13,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"yuki"
+                        }]
+                }, 
+                {
+                 "id":14,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"dokuro"
+                        }]
+                }, 
+                {
+                 "id":15,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"doron"
+                        }]
+                }, 
+                {
+                 "id":16,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"niwa"
+                        }]
+                }, 
+                {
+                 "id":17,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"hiyo"
+                        }]
+                }],
+         "tilewidth":28
+        }, 
+        {
+         "columns":7,
+         "firstgid":37,
+         "image":"items.png",
+         "imageheight":28,
+         "imagewidth":196,
+         "margin":0,
+         "name":"items",
+         "spacing":0,
+         "tilecount":7,
+         "tileheight":28,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"noname"
+                        }]
+                }, 
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"radish"
+                        }]
+                }, 
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"carrot"
+                        }]
+                }, 
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"tomato"
+                        }]
+                }, 
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"cabagge"
+                        }]
+                }, 
+                {
+                 "id":5,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"corn"
+                        }]
+                }, 
+                {
+                 "id":6,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"eggplant"
+                        }]
+                }],
+         "tilewidth":28
+        }, 
+        {
+         "columns":2,
+         "firstgid":44,
+         "image":"trucks.png",
+         "imageheight":28,
+         "imagewidth":56,
+         "margin":0,
+         "name":"trucks",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":28,
+         "tilewidth":28
+        }],
+ "tilewidth":28,
+ "type":"map",
+ "version":"1.10",
+ "width":11
+}
