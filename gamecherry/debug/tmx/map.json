@@ -3,6 +3,30 @@
  "infinite":false,
  "layers":[
         {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 47, 0, 0, 47, 0, 0, 47, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 47, 0, 0, 47, 0, 0, 47, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 47, 0, 0, 47, 0, 0, 47, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 47, 0, 0, 47, 0, 0, 47, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":13,
+         "id":9,
+         "name":"jumper",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":11,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[0, 38, 0, 0, 0, 0, 0, 0, 0, 38, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -98,7 +122,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":9,
+ "nextlayerid":10,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"left-down",
@@ -283,271 +307,20 @@
          "tilewidth":28
         }, 
         {
-         "columns":9,
          "firstgid":19,
-         "image":"blocks.png",
-         "imageheight":56,
-         "imagewidth":252,
-         "margin":0,
-         "name":"blocks",
-         "spacing":0,
-         "tilecount":18,
-         "tileheight":28,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"xx.png"
-                        }]
-                }, 
-                {
-                 "id":1,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x14_01.png"
-                        }]
-                }, 
-                {
-                 "id":2,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_02.png"
-                        }]
-                }, 
-                {
-                 "id":3,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_03.png"
-                        }]
-                }, 
-                {
-                 "id":4,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_04.png"
-                        }]
-                }, 
-                {
-                 "id":5,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_05.png"
-                        }]
-                }, 
-                {
-                 "id":6,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_06.png"
-                        }]
-                }, 
-                {
-                 "id":7,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_07.png"
-                        }]
-                }, 
-                {
-                 "id":8,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_08.png"
-                        }]
-                }, 
-                {
-                 "id":9,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_08.png"
-                        }]
-                }, 
-                {
-                 "id":10,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_10.png"
-                        }]
-                },
-            
-                {
-                 "id":11,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_11.png"
-                        }]
-                }, 
-                {
-                 "id":12,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_12.png"
-                        }]
-                }, 
-                {
-                 "id":13,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_13.png"
-                        }]
-                }, 
-                {
-                 "id":14,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_14.png"
-                        }]
-                }, 
-                {
-                 "id":15,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_15.png"
-                        }]
-                }, 
-                {
-                 "id":16,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_16.png"
-                        }]
-                }, 
-                {
-                 "id":17,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"block_28x28_17.png"
-                        }]
-                }],
-         "tilewidth":28
+         "source":"blocks.tsx"
         }, 
         {
-         "columns":2,
          "firstgid":37,
-         "image":"trucks.png",
-         "imageheight":28,
-         "imagewidth":56,
-         "margin":0,
-         "name":"trucks",
-         "spacing":0,
-         "tilecount":2,
-         "tileheight":28,
-         "tilewidth":28
+         "source":"trucks.tsx"
         }, 
         {
-         "columns":7,
          "firstgid":39,
-         "image":"items.png",
-         "imageheight":28,
-         "imagewidth":196,
-         "margin":0,
-         "name":"items",
-         "spacing":0,
-         "tilecount":7,
-         "tileheight":28,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"noname"
-                        }]
-                }, 
-                {
-                 "id":1,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"radish"
-                        }]
-                }, 
-                {
-                 "id":2,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"carrot"
-                        }]
-                }, 
-                {
-                 "id":3,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"tomato"
-                        }]
-                }, 
-                {
-                 "id":4,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"cabagge"
-                        }]
-                }, 
-                {
-                 "id":5,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"corn"
-                        }]
-                }, 
-                {
-                 "id":6,
-                 "properties":[
-                        {
-                         "name":"name",
-                         "type":"string",
-                         "value":"eggplant"
-                        }]
-                }],
-         "tilewidth":28
+         "source":"items.tsx"
+        }, 
+        {
+         "firstgid":46,
+         "source":"jumper.tsx"
         }],
  "tilewidth":28,
  "type":"map",
