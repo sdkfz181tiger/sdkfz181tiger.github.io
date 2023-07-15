@@ -18,7 +18,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":13,
          "id":9,
-         "name":"jumper",
+         "name":"jumpers",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
