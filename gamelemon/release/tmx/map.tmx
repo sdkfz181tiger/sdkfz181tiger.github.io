@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="left-down" width="11" height="13" tilewidth="28" tileheight="28" infinite="0" nextlayerid="9" nextobjectid="1">
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="left-down" width="11" height="13" tilewidth="28" tileheight="28" infinite="0" nextlayerid="10" nextobjectid="1">
  <editorsettings>
   <export target="map.json" format="json"/>
  </editorsettings>
- <tileset firstgid="1" source="blocks.tsx"/>
- <tileset firstgid="19" name="enemies" tilewidth="28" tileheight="28" tilecount="18" columns="9">
+ <tileset firstgid="1" name="enemies" tilewidth="28" tileheight="28" tilecount="18" columns="9">
   <image source="enemies.png" width="252" height="56"/>
   <tile id="0">
    <properties>
@@ -97,11 +96,30 @@
    </properties>
   </tile>
  </tileset>
- <tileset firstgid="37" source="items.tsx"/>
- <tileset firstgid="44" source="trucks.tsx"/>
+ <tileset firstgid="19" source="blocks.tsx"/>
+ <tileset firstgid="37" source="trucks.tsx"/>
+ <tileset firstgid="39" source="items.tsx"/>
+ <tileset firstgid="46" source="jumper.tsx"/>
+ <layer id="9" name="jumpers" width="11" height="13">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,47,0,0,0,47,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,47,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
  <layer id="8" name="trucks" width="11" height="13">
   <data encoding="csv">
-0,0,45,0,0,0,0,0,45,0,0,
+0,38,0,0,0,0,0,0,0,38,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
@@ -110,10 +128,10 @@
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
+0,38,0,0,0,0,0,0,0,38,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,
-0,0,45,0,0,0,0,0,45,0,0
+0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
  <layer id="6" name="items" width="11" height="13">
@@ -121,21 +139,21 @@
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,38,38,38,0,0,0,0,
+0,0,40,0,40,0,40,0,40,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
-0,0,38,38,0,0,0,38,38,0,0,
+0,40,0,0,40,0,40,0,0,40,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
-0,38,38,0,0,0,0,0,38,38,0,
+0,0,0,0,40,0,40,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,38,38,38,0,0,0,0
+0,0,40,0,40,0,40,0,40,0,0
 </data>
  </layer>
  <layer id="7" name="enemies" width="11" height="13">
   <data encoding="csv">
-0,0,0,0,0,0,0,0,0,0,0,
+0,0,2,0,0,0,0,0,2,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
@@ -153,16 +171,16 @@
  <layer id="1" name="blocks" width="11" height="13">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,
-2,2,2,2,0,0,0,2,2,2,2,
+20,20,20,0,0,0,0,0,20,20,20,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
-2,2,0,0,2,2,2,0,0,2,2,
+0,0,20,0,20,0,20,0,20,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
-0,0,2,2,0,0,0,2,2,0,0,
+20,20,0,0,20,20,20,0,0,20,20,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
-2,2,2,0,0,0,0,0,2,2,2,
+20,20,20,0,20,0,20,0,20,20,20,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0
 </data>
