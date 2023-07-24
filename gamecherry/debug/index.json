@@ -1,5 +1,5 @@
 {
-	"time": "2023/07/20 22:00:00",
+	"time": "2023/07/24 12:00:00",
 	"version_code": 1,
 	"admob_int": 3,
 	"archives":[
@@ -149,10 +149,6 @@
 		"images/tanu/hatake_pm_01.png",
 		"images/tanu/hatake_pm_02.png",
 		"images/tanu/hatake_pm_block.png",
-		"images/tanu/jumper_b_28x14.png",
-		"images/tanu/jumper_g_28x14.png",
-		"images/tanu/jumper_r_28x14.png",
-		"images/tanu/jumper_w_28x14.png",
 		"images/tanu/logo_vegeban1.png",
 		"images/tanu/logo_vegeban2.png",
 		"images/tanu/logo_vegeban2_story.png",
@@ -287,6 +283,7 @@
 		{"file_name": "images/tanu/bozu_01.png",       "frame_name": "bozu_l",           "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
 		{"file_name": "images/tanu/bozu_01.png",       "frame_name": "bozu_damage",      "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
 		{"file_name": "images/tanu/bozu_01.png",       "frame_name": "bozu_byebye",      "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/tanu/jumper_w_01.png",   "frame_name": "jumper_w",         "rows": 1, "cols": 6, "w": 28, "h": 14, "from":  0, "to":  5},
 		{"file_name": "images/tanu/oni_b_01.png",      "frame_name": "oni_b_f",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/tanu/oni_b_01.png",      "frame_name": "oni_b_b",          "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
 		{"file_name": "images/tanu/oni_b_01.png",      "frame_name": "oni_b_r",          "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
