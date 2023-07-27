@@ -1,5 +1,5 @@
 {
-	"time": "2023/07/26 16:00:00",
+	"time": "2023/07/27 19:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -85,8 +85,12 @@
 		"images/base/ctl_60x60_right.png",
 		"images/base/ctl_60x60_up.png",
 		"images/base/ctl_arrows.png",
+		"images/base/ctl_retro_jump_l_off.png",
+		"images/base/ctl_retro_jump_l_on.png",
 		"images/base/ctl_retro_jump_off.png",
 		"images/base/ctl_retro_jump_on.png",
+		"images/base/ctl_retro_jump_r_off.png",
+		"images/base/ctl_retro_jump_r_on.png",
 		"images/base/ctl_retro_left_off.png",
 		"images/base/ctl_retro_left_on.png",
 		"images/base/ctl_retro_right_off.png",
