@@ -1,5 +1,5 @@
 {
-	"time": "2023/07/27 19:00:00",
+	"time": "2023/07/27 22:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -145,10 +145,10 @@
 		"images/tanu/bkg_240x480_noon.png",
 		"images/tanu/hatake_am_01.png",
 		"images/tanu/hatake_am_02.png",
-		"images/tanu/hatake_am_block.png",
+		"images/tanu/hatake_ground_28x14.png",
+		"images/tanu/hatake_ground_56x14.png",
 		"images/tanu/hatake_pm_01.png",
 		"images/tanu/hatake_pm_02.png",
-		"images/tanu/hatake_pm_block.png",
 		"images/tanu/logo_vegeban1.png",
 		"images/tanu/logo_vegeban2.png",
 		"images/tanu/logo_vegeban2_story.png",
