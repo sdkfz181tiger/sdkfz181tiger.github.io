@@ -1,5 +1,5 @@
 {
-	"time": "2023/08/06 12:00:00",
+	"time": "2023/08/08 18:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -143,6 +143,9 @@
 		"images/tanu/bkg_240x480_midnight.png",
 		"images/tanu/bkg_240x480_night.png",
 		"images/tanu/bkg_240x480_noon.png",
+		"images/tanu/cloud_16x16.png",
+		"images/tanu/cloud_32x16.png",
+		"images/tanu/cloud_48x16.png",
 		"images/tanu/hatake_am_01.png",
 		"images/tanu/hatake_am_02.png",
 		"images/tanu/hatake_ground_28x14.png",
