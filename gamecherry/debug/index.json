@@ -1,5 +1,5 @@
 {
-	"time": "2023/08/26 22:00:00",
+	"time": "2023/08/26 23:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -10,12 +10,12 @@
 		"bozu", "osho", "ninja", "oni_b", "oyuki", "oni_r"
 	],
 	"levels":[
-		{"cnt": 5, "b_min": 1, "b_max": 1, "weights":[10,  0,  0,  0,  0,  0]},
-		{"cnt": 5, "b_min": 2, "b_max": 2, "weights":[0,  10,  0,  0,  0,  0]},
-		{"cnt": 5, "b_min": 3, "b_max": 3, "weights":[0,   0, 10,  0,  0,  0]},
-		{"cnt": 5, "b_min": 3, "b_max": 3, "weights":[0,   0,  0, 10,  0,  0]},
-		{"cnt": 5, "b_min": 3, "b_max": 3, "weights":[0,   0,  0,  0, 10,  0]},
-		{"cnt": 5, "b_min": 3, "b_max": 3, "weights":[0,   0,  0,  0,  0, 10]}
+		{"cnt": 2, "b_min": 1, "b_max": 1, "weights":[10,  0,  0,  0,  0,  0]},
+		{"cnt": 2, "b_min": 2, "b_max": 2, "weights":[0,  10,  0,  0,  0,  0]},
+		{"cnt": 2, "b_min": 3, "b_max": 3, "weights":[0,   0, 10,  0,  0,  0]},
+		{"cnt": 2, "b_min": 3, "b_max": 3, "weights":[0,   0,  0, 10,  0,  0]},
+		{"cnt": 2, "b_min": 3, "b_max": 3, "weights":[0,   0,  0,  0, 10,  0]},
+		{"cnt": 2, "b_min": 3, "b_max": 3, "weights":[0,   0,  0,  0,  0, 10]}
 	],
 	"items":[
 		{"score":  2, "weight": 90, "file": "images/foods/i_radish.png"},
