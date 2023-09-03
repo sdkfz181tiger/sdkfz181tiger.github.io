@@ -10,12 +10,12 @@
 		"bozu", "osho", "ninja", "oni_b", "oni_r", "oyuki"
 	],
 	"levels":[
-		{"repeat": 2, "weights":[10,  0,  0,  0,  0,  0]},
-		{"repeat": 2, "weights":[0,  10,  0,  0,  0,  0]},
-		{"repeat": 2, "weights":[0,   0, 10,  0,  0,  0]},
-		{"repeat": 2, "weights":[0,   0,  0, 10,  0,  0]},
+		{"repeat": 6, "weights":[10,  0,  0,  0,  0,  0]},
+		{"repeat": 5, "weights":[0,  10,  0,  0,  0,  0]},
+		{"repeat": 4, "weights":[0,   0, 10,  0,  0,  0]},
+		{"repeat": 3, "weights":[0,   0,  0, 10,  0,  0]},
 		{"repeat": 2, "weights":[0,   0,  0,  0, 10,  0]},
-		{"repeat": 2, "weights":[0,   0,  0,  0,  0, 10]}
+		{"repeat": 1, "weights":[0,   0,  0,  0,  0, 10]}
 	],
 	"items":[
 		{"score":  2, "weight": 90, "file": "images/foods/i_radish.png"},
