@@ -1,5 +1,5 @@
 {
-	"time": "2023/09/05 13:00:00",
+	"time": "2023/09/06 23:30:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -376,6 +376,7 @@
 		{"file_name": "images/tanu/ninja_n_01.png",    "frame_name": "ninja_n_land_f",   "rows":12, "cols": 5, "w": 16, "h": 16, "from": 55, "to": 59},
 		{"file_name": "images/tanu/ninja_n_01.png",    "frame_name": "ninja_n_land_r",   "rows":13, "cols": 5, "w": 16, "h": 16, "from": 60, "to": 64},
 		{"file_name": "images/tanu/ninja_n_01.png",    "frame_name": "ninja_n_land_l",   "rows":14, "cols": 5, "w": 16, "h": 16, "from": 65, "to": 69},
+		{"file_name": "images/tanu/spring_01.png",     "frame_name": "spring_up",        "rows": 1, "cols": 7, "w": 16, "h": 14, "from":  0, "to":  6},
 		{"file_name": "images/tanu/tanu_01.png",       "frame_name": "tanu_f",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/tanu/tanu_01.png",       "frame_name": "tanu_b",           "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
 		{"file_name": "images/tanu/tanu_01.png",       "frame_name": "tanu_r",           "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
