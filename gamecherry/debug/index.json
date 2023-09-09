@@ -1,5 +1,5 @@
 {
-	"time": "2023/09/09 19:00:00",
+	"time": "2023/09/09 23:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -394,6 +394,7 @@
 		{"file_name": "images/tanu/tanu_01.png",       "frame_name": "tanu_land_l",      "rows":14, "cols": 5, "w": 16, "h": 16, "from": 65, "to": 69},
 		{"file_name": "images/tanu/tanu_01.png",       "frame_name": "tanu_sleep_r",     "rows":15, "cols": 5, "w": 16, "h": 16, "from": 70, "to": 74},
 		{"file_name": "images/tanu/tanu_01.png",       "frame_name": "tanu_sleep_l",     "rows":16, "cols": 5, "w": 16, "h": 16, "from": 75, "to": 79},
+		{"file_name": "images/tanu/tanu_01.png",       "frame_name": "tanu_swing",       "rows":17, "cols": 5, "w": 16, "h": 16, "from": 80, "to": 84},
 		{"file_name": "images/tanu/tengu_01.png",      "frame_name": "tengu_f",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/tanu/tengu_01.png",      "frame_name": "tengu_b",          "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
 		{"file_name": "images/tanu/tengu_01.png",      "frame_name": "tengu_r",          "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
