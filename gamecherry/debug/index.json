@@ -1,5 +1,5 @@
 {
-	"time": "2023/09/17 18:00:00",
+	"time": "2023/09/17 19:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -156,7 +156,7 @@
 		"images/tanu/hatake_am_02.png",
 		"images/tanu/hatake_ground_16x12.png",
 		"images/tanu/hatake_ground_32x12.png",
-		"images/tanu/hatake_ground_64x12.png",
+		"images/tanu/hatake_ground_48x12.png",
 		"images/tanu/hatake_pm_01.png",
 		"images/tanu/hatake_pm_02.png",
 		"images/tanu/logo_vegeban1.png",
