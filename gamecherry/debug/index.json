@@ -1,5 +1,5 @@
 {
-	"time": "2023/09/18 22:00:00",
+	"time": "2023/09/18 23:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -296,7 +296,9 @@
 		{"file_name": "images/tanu/bozu_01.png",       "frame_name": "bozu_roll_r",      "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
 		{"file_name": "images/tanu/bozu_01.png",       "frame_name": "bozu_roll_l",      "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
 		{"file_name": "images/tanu/bozu_01.png",       "frame_name": "bozu_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
-		{"file_name": "images/tanu/emiko_01.png",      "frame_name": "emiko_f",          "rows": 1, "cols": 7, "w": 20, "h": 26, "from":  0, "to":  6},
+		{"file_name": "images/tanu/emiko_b_01.png",    "frame_name": "emiko_b_f",        "rows": 1, "cols": 7, "w": 20, "h": 26, "from":  0, "to":  6},
+		{"file_name": "images/tanu/emiko_g_01.png",    "frame_name": "emiko_g_f",        "rows": 1, "cols": 7, "w": 20, "h": 26, "from":  0, "to":  6},
+		{"file_name": "images/tanu/emiko_r_01.png",    "frame_name": "emiko_r_f",        "rows": 1, "cols": 7, "w": 20, "h": 26, "from":  0, "to":  6},
 		{"file_name": "images/tanu/jumper_28x14.png",  "frame_name": "jumper_28_w",      "rows": 1, "cols": 5, "w": 28, "h": 14, "from":  0, "to":  4},
 		{"file_name": "images/tanu/jumper_28x14.png",  "frame_name": "jumper_28_r",      "rows": 2, "cols": 5, "w": 28, "h": 14, "from":  5, "to":  9},
 		{"file_name": "images/tanu/jumper_28x14.png",  "frame_name": "jumper_28_g",      "rows": 3, "cols": 5, "w": 28, "h": 14, "from": 10, "to": 14},
