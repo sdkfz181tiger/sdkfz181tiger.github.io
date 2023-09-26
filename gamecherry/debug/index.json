@@ -1,5 +1,5 @@
 {
-	"time": "2023/09/23 19:00:00",
+	"time": "2023/09/26 20:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -89,6 +89,8 @@
 		"images/base/ctl_60x60_right.png",
 		"images/base/ctl_60x60_up.png",
 		"images/base/ctl_arrows.png",
+		"images/base/ctl_retro_down_off.png",
+		"images/base/ctl_retro_down_on.png",
 		"images/base/ctl_retro_jump_l_off.png",
 		"images/base/ctl_retro_jump_l_on.png",
 		"images/base/ctl_retro_jump_off.png",
@@ -101,6 +103,8 @@
 		"images/base/ctl_retro_right_on.png",
 		"images/base/ctl_retro_shot_off.png",
 		"images/base/ctl_retro_shot_on.png",
+		"images/base/ctl_retro_up_off.png",
+		"images/base/ctl_retro_up_on.png",
 		"images/base/dialog_bkg.png",
 		"images/base/dialog_btn.png",
 		"images/base/dot_2x2.png",
