@@ -1,5 +1,5 @@
 {
-	"time": "2023/09/26 20:00:00",
+	"time": "2023/09/30 18:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -237,6 +237,7 @@
 		"sounds/se_iwa_cursor_09.ogg",
 		"sounds/se_iwa_d_close.ogg",
 		"sounds/se_iwa_d_open.ogg",
+		"sounds/se_iwa_doon.ogg",
 		"sounds/se_iwa_fan_01.ogg",
 		"sounds/se_iwa_fan_02.ogg",
 		"sounds/se_iwa_fan_03.ogg",
@@ -255,7 +256,8 @@
 		"sounds/se_iwa_over_12.ogg",
 		"sounds/se_iwa_over_13.ogg",
 		"sounds/se_iwa_over_14.ogg",
-		"sounds/se_iwa_over_15.ogg"
+		"sounds/se_iwa_over_15.ogg",
+		"sounds/se_iwa_rakka.ogg"
 	],
 	"bgms": [
 		"sounds/bgm_iwa_donkusako.ogg",
