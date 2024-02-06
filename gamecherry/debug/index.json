@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/06 16:00:00",
+	"time": "2024/02/07 00:30:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -297,6 +297,15 @@
 		{"file_name": "images/base/smk_m_02.png",      "frame_name": "smk_m_02",         "rows": 3, "cols": 6, "w": 50, "h": 50, "from":  0, "to": 17},
 		{"file_name": "images/base/smk_s_01.png",      "frame_name": "smk_s_01",         "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
 		{"file_name": "images/base/smk_s_02.png",      "frame_name": "smk_s_02",         "rows": 2, "cols": 6, "w": 16, "h": 16, "from":  0, "to": 11},
+		{"file_name": "images/tanu/ashi_01.png",       "frame_name": "ashi_f",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/tanu/ashi_01.png",       "frame_name": "ashi_b",           "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
+		{"file_name": "images/tanu/ashi_01.png",       "frame_name": "ashi_r",           "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/tanu/ashi_01.png",       "frame_name": "ashi_l",           "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/tanu/ashi_01.png",       "frame_name": "ashi_damage",      "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/tanu/ashi_01.png",       "frame_name": "ashi_byebye",      "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/tanu/ashi_01.png",       "frame_name": "ashi_roll_r",      "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/tanu/ashi_01.png",       "frame_name": "ashi_roll_l",      "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/tanu/ashi_01.png",       "frame_name": "ashi_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/tanu/bozu_01.png",       "frame_name": "bozu_f",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/tanu/bozu_01.png",       "frame_name": "bozu_b",           "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
 		{"file_name": "images/tanu/bozu_01.png",       "frame_name": "bozu_r",           "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
