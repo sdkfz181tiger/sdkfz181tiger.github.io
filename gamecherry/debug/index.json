@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/09 16:00:00",
+	"time": "2024/02/09 17:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -476,8 +476,8 @@
 		{"file_name": "images/tanu/truck_01.png",      "frame_name": "truck_l",          "rows": 2, "cols": 4, "w": 48, "h": 32, "from":  4, "to":  7},
 		{"file_name": "images/tanu/truck_01.png",      "frame_name": "truck_tanu_r",     "rows": 3, "cols": 4, "w": 48, "h": 32, "from":  8, "to": 11},
 		{"file_name": "images/tanu/truck_01.png",      "frame_name": "truck_tanu_l",     "rows": 4, "cols": 4, "w": 48, "h": 32, "from": 12, "to": 15},
-		{"file_name": "images/tanu/w_arrow_01.png",    "frame_name": "w_arrow_r",        "rows": 1, "cols": 4, "w": 16, "h": 3,  "from":  0, "to":  3},
-		{"file_name": "images/tanu/w_arrow_01.png",    "frame_name": "w_arrow_l",        "rows": 1, "cols": 4, "w": 16, "h": 3,  "from":  4, "to":  7},
+		{"file_name": "images/tanu/w_arrow_01.png",    "frame_name": "w_arrow_r",        "rows": 1, "cols": 4, "w": 16, "h":  3, "from":  0, "to":  3},
+		{"file_name": "images/tanu/w_arrow_01.png",    "frame_name": "w_arrow_l",        "rows": 2, "cols": 4, "w": 16, "h":  3, "from":  4, "to":  7},
 		{"file_name": "images/tanu/w_kami_01.png",     "frame_name": "w_kami_01",        "rows": 2, "cols": 4, "w": 16, "h":  6, "from":  0, "to":  7},
 		{"file_name": "images/tanu/w_kami_02.png",     "frame_name": "w_kami_02",        "rows": 2, "cols": 4, "w":  6, "h": 16, "from":  0, "to":  7},
 		{"file_name": "images/tanu/w_kami_03.png",     "frame_name": "w_kami_03",        "rows": 2, "cols": 4, "w": 16, "h": 16, "from":  0, "to":  7},
