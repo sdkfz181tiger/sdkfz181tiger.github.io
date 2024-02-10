@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/09 18:00:00",
+	"time": "2024/02/10 15:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -148,6 +148,12 @@
 		"images/base/frame_left.png",
 		"images/base/frame_right.png",
 		"images/base/frame_top.png",
+		"images/tanu/block_ground_16x12.png",
+		"images/tanu/block_ground_32x12.png",
+		"images/tanu/block_ground_48x12.png",
+		"images/tanu/block_ground_64x12.png",
+		"images/tanu/block_ground_80x12.png",
+		"images/tanu/block_ground_96x12.png",
 		"images/tanu/bkg_240x480_midnight.png",
 		"images/tanu/bkg_240x480_night.png",
 		"images/tanu/bkg_240x480_noon.png",
