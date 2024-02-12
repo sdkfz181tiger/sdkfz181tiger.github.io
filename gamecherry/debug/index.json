@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/12 22:00:00",
+	"time": "2024/02/12 23:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -158,9 +158,9 @@
 		"images/tanu/cloud_16x12.png",
 		"images/tanu/cloud_32x12.png",
 		"images/tanu/cloud_48x12.png",
-		"images/tanu/emiko_food_drink.png",
-		"images/tanu/emiko_food_humburg.png",
-		"images/tanu/emiko_food_potato.png",
+		"images/tanu/food_drink.png",
+		"images/tanu/food_humburg.png",
+		"images/tanu/food_potato.png",
 		"images/tanu/hatake_am_01.png",
 		"images/tanu/hatake_am_02.png",
 		"images/tanu/hatake_ground_16x12.png",
