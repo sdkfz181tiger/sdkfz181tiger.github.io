@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/12 18:00:00",
+	"time": "2024/02/14 12:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -10,13 +10,11 @@
 		"bozu", "osho", "ninja", "oni_b", "oni_r", "oyuki", "tengu"
 	],
 	"levels":[
-		{"repeat": 2, "weights":[10,  0,  0,  0,  0,  0,  0]},
-		{"repeat": 1, "weights":[0,  10,  0,  0,  0,  0,  0]},
-		{"repeat": 1, "weights":[0,   0, 10,  0,  0,  0,  0]},
-		{"repeat": 1, "weights":[0,   0,  0, 10,  0,  0,  0]},
-		{"repeat": 1, "weights":[0,   0,  0,  0, 10,  0,  0]},
-		{"repeat": 1, "weights":[0,   0,  0,  0,  0, 10,  0]},
-		{"repeat": 1, "weights":[0,   0,  0,  0,  0,  0, 10]}
+		{"repeat": 1, "blocks":[1, 2, 2, 2, 2, 2, 2, 2]},
+		{"repeat": 2, "blocks":[1, 1, 2, 2, 2, 2, 2, 2]},
+		{"repeat": 3, "blocks":[1, 1, 1, 2, 2, 2, 2, 2]},
+		{"repeat": 4, "blocks":[1, 1, 1, 2, 2, 2, 2, 2]},
+		{"repeat": 5, "blocks":[1, 1, 1, 1, 2, 2, 2, 2]}
 	],
 	"items":[
 		{"score":  2, "weight": 90, "file": "images/foods/i_radish.png"},
@@ -160,9 +158,9 @@
 		"images/tanu/cloud_16x12.png",
 		"images/tanu/cloud_32x12.png",
 		"images/tanu/cloud_48x12.png",
-		"images/tanu/emiko_food_drink.png",
-		"images/tanu/emiko_food_humburg.png",
-		"images/tanu/emiko_food_potato.png",
+		"images/tanu/food_burger.png",
+		"images/tanu/food_drink.png",
+		"images/tanu/food_potato.png",
 		"images/tanu/hatake_am_01.png",
 		"images/tanu/hatake_am_02.png",
 		"images/tanu/hatake_ground_16x12.png",
