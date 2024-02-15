@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/15 18:00:00",
+	"time": "2024/02/15 20:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -182,6 +182,16 @@
 		"images/tanu/warp_am_r.png",
 		"images/tanu/warp_pm_l.png",
 		"images/tanu/warp_pm_r.png",
+		"images/tower/bkg_01_80x24.png",
+		"images/tower/bkg_02_80x24.png",
+		"images/tower/floor_16x5.png",
+		"images/tower/floor_32x5.png",
+		"images/tower/floor_48x5.png",
+		"images/tower/floor_64x5.png",
+		"images/tower/floor_80x5.png",
+		"images/tower/floor_96x5.png",
+		"images/tower/ground_01_320x25.png",
+		"images/tower/roof_01_320x14.png",
 		"images/post/mail_01.png",
 		"images/post/postman_01.png",
 		"images/post/c_boy_01.png",
