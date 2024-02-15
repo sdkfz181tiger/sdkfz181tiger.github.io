@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/14 12:00:00",
+	"time": "2024/02/15 12:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -10,11 +10,11 @@
 		"bozu", "osho", "ninja", "oni_b", "oni_r", "oyuki", "tengu"
 	],
 	"levels":[
-		{"repeat": 1, "blocks":[1, 2, 2, 2, 2, 2, 2, 2]},
-		{"repeat": 2, "blocks":[1, 1, 2, 2, 2, 2, 2, 2]},
-		{"repeat": 3, "blocks":[1, 1, 1, 2, 2, 2, 2, 2]},
-		{"repeat": 4, "blocks":[1, 1, 1, 2, 2, 2, 2, 2]},
-		{"repeat": 5, "blocks":[1, 1, 1, 1, 2, 2, 2, 2]}
+		{"repeat": 1, "types":[1, 2, 2, 2, 2, 2, 2, 2]},
+		{"repeat": 2, "types":[1, 1, 2, 2, 2, 2, 2, 2]},
+		{"repeat": 3, "types":[1, 1, 1, 2, 2, 2, 2, 2]},
+		{"repeat": 4, "types":[1, 1, 1, 2, 2, 2, 2, 2]},
+		{"repeat": 5, "types":[1, 1, 1, 1, 2, 2, 2, 2]}
 	],
 	"items":[
 		{"score":  2, "weight": 90, "file": "images/foods/i_radish.png"},
