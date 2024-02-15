@@ -1,21 +1,18 @@
 {
-	"time": "2024/02/15 15:00:00",
+	"time": "2024/02/15 17:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
 	],
-	"enemies":[
-		"bozu", "osho", "ninja", "oni_b", "oni_r", "oyuki", "tengu"
-	],
 	"levels":[
-		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 1, 1, 2], "t_enemies": [0]},
-		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 1, 2, 2], "t_enemies": [0, 1]},
-		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [0, 1, 2]},
-		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 2, 2, 2, 2], "t_enemies": [0, 1, 2, 3]},
-		{"repeat": 2, "t_blocks": [0, 1, 1, 2, 2, 2, 2, 2], "t_enemies": [0, 1, 2, 3, 4]},
-		{"repeat": 2, "t_blocks": [0, 1, 2, 2, 2, 2, 2, 2], "t_enemies": [0, 1, 2, 3, 4, 5]}
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 1, 1, 2], "t_enemies": []},
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 1, 2, 2], "t_enemies": [0]},
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 2, 2, 2, 2], "t_enemies": [1]},
+		{"repeat": 2, "t_blocks": [0, 1, 1, 2, 2, 2, 2, 2], "t_enemies": [2]},
+		{"repeat": 2, "t_blocks": [0, 1, 2, 2, 2, 2, 2, 2], "t_enemies": [3]}
 	],
 	"items":[
 		{"score":  2, "weight": 90, "file": "images/foods/i_radish.png"},
