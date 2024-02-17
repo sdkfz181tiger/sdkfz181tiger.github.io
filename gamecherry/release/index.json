@@ -1,20 +1,24 @@
 {
-	"time": "2024/02/14 12:00:00",
+	"time": "2024/02/17 13:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
 	],
-	"enemies":[
-		"bozu", "osho", "ninja", "oni_b", "oni_r", "oyuki", "tengu"
-	],
 	"levels":[
-		{"repeat": 1, "blocks":[1, 2, 2, 2, 2, 2, 2, 2]},
-		{"repeat": 2, "blocks":[1, 1, 2, 2, 2, 2, 2, 2]},
-		{"repeat": 3, "blocks":[1, 1, 1, 2, 2, 2, 2, 2]},
-		{"repeat": 4, "blocks":[1, 1, 1, 2, 2, 2, 2, 2]},
-		{"repeat": 5, "blocks":[1, 1, 1, 1, 2, 2, 2, 2]}
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [0]},
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [1]},
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [2]},
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [3]},
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [4]},
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [5]}
 	],
 	"items":[
 		{"score":  2, "weight": 90, "file": "images/foods/i_radish.png"},
@@ -178,6 +182,22 @@
 		"images/tanu/warp_am_r.png",
 		"images/tanu/warp_pm_l.png",
 		"images/tanu/warp_pm_r.png",
+		"images/tower/bkg_01_80x24.png",
+		"images/tower/bkg_02_80x24.png",
+		"images/tower/floor_a_16x10.png",
+		"images/tower/floor_a_32x10.png",
+		"images/tower/floor_a_48x10.png",
+		"images/tower/floor_a_64x10.png",
+		"images/tower/floor_a_80x10.png",
+		"images/tower/floor_a_96x10.png",
+		"images/tower/floor_b_16x10.png",
+		"images/tower/floor_b_32x10.png",
+		"images/tower/floor_b_48x10.png",
+		"images/tower/floor_b_64x10.png",
+		"images/tower/floor_b_80x10.png",
+		"images/tower/floor_b_96x10.png",
+		"images/tower/ground_01_320x25.png",
+		"images/tower/roof_01_320x14.png",
 		"images/post/mail_01.png",
 		"images/post/postman_01.png",
 		"images/post/c_boy_01.png",
