@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/17 15:00:00",
+	"time": "2024/02/17 16:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -19,6 +19,18 @@
 		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [4]},
 		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
 		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [5]}
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [6]}
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [7]}
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [8]}
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [9]}
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [10]}
+		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": []},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 2, 2, 2], "t_enemies": [11]}
 	],
 	"items":[
 		{"score":  2, "weight": 90, "file": "images/foods/i_radish.png"},
