@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/17 15:00:00",
+	"time": "2024/02/18 13:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -168,9 +168,9 @@
 		"images/tanu/block_ground_64x12.png",
 		"images/tanu/block_ground_80x12.png",
 		"images/tanu/block_ground_96x12.png",
-		"images/tanu/bkg_240x480_midnight.png",
-		"images/tanu/bkg_240x480_night.png",
-		"images/tanu/bkg_240x480_noon.png",
+		"images/tanu/bkg_240x480_temple_01.png",
+		"images/tanu/bkg_240x480_temple_02.png",
+		"images/tanu/bkg_240x480_temple_03.png",
 		"images/tanu/cloud_16x12.png",
 		"images/tanu/cloud_32x12.png",
 		"images/tanu/cloud_48x12.png",
@@ -194,6 +194,7 @@
 		"images/tanu/warp_am_r.png",
 		"images/tanu/warp_pm_l.png",
 		"images/tanu/warp_pm_r.png",
+		"images/tower/bkg_240x480_blue.png",
 		"images/tower/bkg_01_80x24.png",
 		"images/tower/bkg_02_80x24.png",
 		"images/tower/floor_off_16x10.png",
