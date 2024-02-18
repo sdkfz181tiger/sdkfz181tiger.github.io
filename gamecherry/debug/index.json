@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/18 19:00:00",
+	"time": "2024/02/18 20:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -8,7 +8,7 @@
 	],
 	"levels":[
 		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 1, 2, 2], "t_enemies": [], "t_items": []},
-		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 1, 2, 2], "t_enemies": [1], "t_items": [1]},
+		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 1, 2, 2], "t_enemies": [1, 14], "t_items": [1]},
 		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 1, 2, 2], "t_enemies": [], "t_items": []},
 		{"repeat": 1, "t_blocks": [0, 1, 1, 1, 1, 1, 2, 2], "t_enemies": [2], "t_items": [2]},
 		{"repeat": 2, "t_blocks": [0, 1, 1, 1, 1, 1, 2, 2], "t_enemies": [], "t_items": []},
@@ -600,6 +600,7 @@
 		{"file_name": "images/tanu/w_shuri_01.png",    "frame_name": "w_shuri_01",       "rows": 1, "cols": 4, "w": 10, "h": 10, "from":  0, "to":  3},
 		{"file_name": "images/tanu/w_storm_01.png",    "frame_name": "w_storm_01",       "rows": 2, "cols": 5, "w": 12, "h": 17, "from":  0, "to":  9},
 		{"file_name": "images/tanu/w_yuki_01.png",     "frame_name": "w_yuki_01",        "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
+		{"file_name": "images/tower/soul_01.png",      "frame_name": "soul_f",           "rows": 6, "cols": 5, "w": 16, "h": 16, "from":  0, "to": 29},
 		{"file_name": "images/post/postman_01.png",    "frame_name": "cat_drive",        "rows": 1, "cols": 5, "w": 50, "h": 50, "from":  0, "to":  4},
 		{"file_name": "images/post/postman_01.png",    "frame_name": "cat_down",         "rows": 2, "cols": 5, "w": 50, "h": 50, "from":  5, "to":  9},
 		{"file_name": "images/post/postman_01.png",    "frame_name": "cat_run",          "rows": 3, "cols": 5, "w": 50, "h": 50, "from": 10, "to": 14},
