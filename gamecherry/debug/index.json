@@ -36,9 +36,7 @@
 		{"repeat": 2, "t_blocks": [1, 1, 1, 1, 1, 2, 2], "t_enemies": [], "t_items": []},
 		{"repeat": 1, "t_blocks": [1, 1, 1, 1, 1, 2, 2], "t_enemies": [14], "t_items": [1, 2, 3]},
 		{"repeat": 2, "t_blocks": [1, 1, 1, 1, 1, 2, 2], "t_enemies": [], "t_items": []},
-		{"repeat": 1, "t_blocks": [1, 1, 1, 1, 1, 2, 2], "t_enemies": [15], "t_items": [1, 2, 3]},
-		{"repeat": 2, "t_blocks": [1, 1, 1, 1, 1, 2, 2], "t_enemies": [], "t_items": []},
-		{"repeat": 1, "t_blocks": [1, 1, 1, 1, 1, 2, 2], "t_enemies": [16], "t_items": [1, 2, 3]}
+		{"repeat": 1, "t_blocks": [1, 1, 1, 1, 1, 2, 2], "t_enemies": [15], "t_items": [1, 2, 3]}
 	],
 	"items":[
 		{"score":  2, "weight": 90, "file": "images/foods/i_radish.png"},
