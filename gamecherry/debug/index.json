@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/25 18:00:00",
+	"time": "2024/02/25 15:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -7,7 +7,7 @@
 		"tmx.zip"
 	],
 	"levels":[
-		{"repeat": 1, "t_blocks": [0, 0, 0, 3, 0, 0, 0], "t_enemies": [], "t_items": []},
+		{"repeat": 1, "t_blocks": [0, 0, 3, 0, 0, 3, 0], "t_enemies": [], "t_items": []},
 		{"repeat": 2, "t_blocks": [1, 1, 1, 1, 1, 2, 2], "t_enemies": [], "t_items": []},
 		{"repeat": 1, "t_blocks": [1, 1, 1, 1, 1, 2, 2], "t_enemies": [1, 1, 2, 2, 3, 3], "t_items": [1, 2, 3]},
 		{"repeat": 2, "t_blocks": [1, 1, 1, 1, 1, 2, 2], "t_enemies": [], "t_items": []},
