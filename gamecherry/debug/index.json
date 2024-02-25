@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/24 23:40:00",
+	"time": "2024/02/25 11:40:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -410,6 +410,15 @@
 		{"file_name": "images/tanu/jumper_42x14.png",  "frame_name": "jumper_42_r",      "rows": 2, "cols": 5, "w": 42, "h": 14, "from":  5, "to":  9},
 		{"file_name": "images/tanu/jumper_42x14.png",  "frame_name": "jumper_42_g",      "rows": 3, "cols": 5, "w": 42, "h": 14, "from": 10, "to": 14},
 		{"file_name": "images/tanu/jumper_42x14.png",  "frame_name": "jumper_42_b",      "rows": 4, "cols": 5, "w": 42, "h": 14, "from": 15, "to": 19},
+		{"file_name": "images/tanu/hitostu_01.png",    "frame_name": "hitotsu_f",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/tanu/hitostu_01.png",    "frame_name": "hitotsu_b",        "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
+		{"file_name": "images/tanu/hitostu_01.png",    "frame_name": "hitotsu_r",        "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/tanu/hitostu_01.png",    "frame_name": "hitotsu_l",        "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/tanu/hitostu_01.png",    "frame_name": "hitotsu_damage",   "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/tanu/hitostu_01.png",    "frame_name": "hitotsu_byebye",   "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/tanu/hitostu_01.png",    "frame_name": "hitotsu_roll_r",   "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/tanu/hitostu_01.png",    "frame_name": "hitotsu_roll_l",   "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/tanu/hitostu_01.png",    "frame_name": "hitotsu_jump_f",   "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/tanu/karasu_01.png",     "frame_name": "karasu_f",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/tanu/karasu_01.png",     "frame_name": "karasu_b",         "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
 		{"file_name": "images/tanu/karasu_01.png",     "frame_name": "karasu_r",         "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
