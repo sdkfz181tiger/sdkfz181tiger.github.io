@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/27 09:00:00",
+	"time": "2024/02/27 10:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -40,7 +40,7 @@
 		{"repeat": 1, "t_blocks": [1, 1, 1, 1, 1, 2, 2], "t_enemies": [15], "t_items": [1, 2, 3]}
 	],
 	"items":[
-		{"score":  0, "file": "images/foods/box_16x16.png"},
+		{"score":  0, "file": "images/base/box_16x16.png"},
 		{"score":  2, "file": "images/foods/i_radish.png"},
 		{"score":  4, "file": "images/foods/i_carrot.png"},
 		{"score":  8, "file": "images/foods/i_cabbage.png"},
