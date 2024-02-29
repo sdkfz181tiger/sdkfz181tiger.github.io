@@ -1,5 +1,5 @@
 {
-	"time": "2024/02/29 15:00:00",
+	"time": "2024/02/29 14:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -7,17 +7,17 @@
 		"tmx.zip"
 	],
 	"levels":[
-		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],        "l_items": []},
-		{"repeat": 8, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [1, 2, 3], "l_items": [1]},
-		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],        "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [1, 2, 3], "l_items": [2]},
-		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],        "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [1, 2, 3], "l_items": [3]},
-		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],        "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [1, 2, 3], "l_items": [1]},
-		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],        "l_items": []},
-		{"repeat": 1, "l_floors": [0, 0, 3, 0, 0, 3, 0, 0], "l_enemies": [],        "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 2, 2, 2, 2],    "l_enemies": [1, 1],    "l_items": []}
+		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],     "l_items": []},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [1, 2], "l_items": [1]},
+		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],     "l_items": []},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [2, 3], "l_items": [2]},
+		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],     "l_items": []},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [3, 4], "l_items": [3]},
+		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],     "l_items": []},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [4, 5], "l_items": [1]},
+		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],     "l_items": []},
+		{"repeat": 1, "l_floors": [0, 0, 3, 0, 0, 3, 0, 0], "l_enemies": [],     "l_items": []},
+		{"repeat": 1, "l_floors": [1, 1, 1, 2, 2, 2, 2],    "l_enemies": [1, 1], "l_items": []}
 	],
 	"items":[
 		{"score":  0, "file": "images/base/box_16x16.png"},
