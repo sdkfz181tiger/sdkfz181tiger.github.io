@@ -1,14 +1,31 @@
 {
-	"time": "2024/03/05 16:00:00",
+	"time": "2024/03/05 15:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
 	],
+	"enemies":[
+		{"name": "will",    "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "kasa",    "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "hitotsu", "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "kona",    "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "suna",    "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "ashi",    "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "musha",   "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "ninja",   "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "oyuki",   "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "shishi",  "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "onig",    "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "onib",    "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "onir",    "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "karasu",  "spd_run": 5, "spd_jump": 32, "think_interval": 1.0},
+		{"name": "tengu",   "spd_run": 5, "spd_jump": 32, "think_interval": 1.0}
+	],
 	"levels":[
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],   "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [1, 9],  "l_items": [1]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [1],  "l_items": [1]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],   "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [2],  "l_items": [1]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],   "l_items": []},
