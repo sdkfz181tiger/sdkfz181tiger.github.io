@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/05 15:00:00",
+	"time": "2024/03/05 16:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -8,7 +8,7 @@
 	],
 	"levels":[
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],   "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [1, 10],  "l_items": [1]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [1, 9],  "l_items": [1]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],   "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [2],  "l_items": [1]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],   "l_items": []},
