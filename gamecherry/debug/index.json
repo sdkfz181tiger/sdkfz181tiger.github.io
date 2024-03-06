@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/06 14:00:00",
+	"time": "2024/03/06 15:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -9,7 +9,7 @@
 	"enemies":[
 		{"name": "none",    "think_interval": 1.0, "spd_run": 0, "jump_y":  0},
 		{"name": "will",    "think_interval": 1.0, "spd_run": 4, "jump_y": 24},
-		{"name": "kasa",    "think_interval": 0.8, "spd_run": 3, "jump_y": 64},
+		{"name": "kasa",    "think_interval": 0.8, "spd_run": 3, "jump_y": 32},
 		{"name": "hitotsu", "think_interval": 1.0, "spd_run": 4, "jump_y": 32},
 		{"name": "kona",    "think_interval": 1.0, "spd_run": 6, "jump_y": 32},
 		{"name": "suna",    "think_interval": 1.0, "spd_run": 6, "jump_y": 32},
