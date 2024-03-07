@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/07 17:00:00",
+	"time": "2024/03/07 12:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -210,8 +210,9 @@
 		"images/tanu/warp_am_r.png",
 		"images/tanu/warp_pm_l.png",
 		"images/tanu/warp_pm_r.png",
-		"images/tower/bar_high.png",
-		"images/tower/bar_highest.png",
+		"images/tower/bar_high_b.png",
+		"images/tower/bar_high_g.png",
+		"images/tower/bar_high_r.png",
 		"images/tower/bkg_240x480_blue.png",
 		"images/tower/bkg_01_80x24.png",
 		"images/tower/bkg_02_80x24.png",
