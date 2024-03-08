@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/07 12:00:00",
+	"time": "2024/03/08 15:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -234,6 +234,7 @@
 		"images/tower/wall_01_32x16.png",
 		"images/tower/wall_01_32x32.png",
 		"images/tower/wall_01_32x48.png",
+		"images/tower/wall_01_32x64.png",
 		"images/post/mail_01.png",
 		"images/post/postman_01.png",
 		"images/post/c_boy_01.png",
