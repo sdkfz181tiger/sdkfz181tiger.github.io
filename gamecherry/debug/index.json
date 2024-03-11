@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/11 14:00:00",
+	"time": "2024/03/11 23:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -7,22 +7,22 @@
 		"tmx.zip"
 	],
 	"enemies":[
-		{"name": "none",    "think_interval": 1.0, "spd_run": 0, "jump_y":  0},
-		{"name": "will",    "think_interval": 1.0, "spd_run": 4, "jump_y": 24},
-		{"name": "kasa",    "think_interval": 0.8, "spd_run": 3, "jump_y": 32},
-		{"name": "hitotsu", "think_interval": 1.0, "spd_run": 4, "jump_y": 32},
-		{"name": "kona",    "think_interval": 1.0, "spd_run": 6, "jump_y": 32},
-		{"name": "suna",    "think_interval": 1.0, "spd_run": 6, "jump_y": 32},
-		{"name": "ashi",    "think_interval": 2.0, "spd_run": 6, "jump_y":  8},
-		{"name": "musha",   "think_interval": 1.0, "spd_run": 8, "jump_y": 32},
-		{"name": "ninja",   "think_interval": 0.8, "spd_run":10, "jump_y": 32},
-		{"name": "oyuki",   "think_interval": 1.5, "spd_run": 4, "jump_y": 32},
-		{"name": "shishi",  "think_interval": 0.8, "spd_run":12, "jump_y": 12},
-		{"name": "onig",    "think_interval": 1.5, "spd_run": 5, "jump_y": 32},
-		{"name": "onib",    "think_interval": 1.5, "spd_run": 5, "jump_y": 32},
-		{"name": "onir",    "think_interval": 1.5, "spd_run": 5, "jump_y": 32},
-		{"name": "karasu",  "think_interval": 1.5, "spd_run":10, "jump_y": 24},
-		{"name": "tengu",   "think_interval": 1.0, "spd_run":10, "jump_y": 24}
+		{"name": "none",    "think_interval": 1.0, "spd_run":  0, "jump_y":  0, "score":  0},
+		{"name": "will",    "think_interval": 1.0, "spd_run":  4, "jump_y": 24, "score":  0},
+		{"name": "kasa",    "think_interval": 0.8, "spd_run":  3, "jump_y": 32, "score":  2},
+		{"name": "hitotsu", "think_interval": 1.0, "spd_run":  4, "jump_y": 32, "score":  2},
+		{"name": "kona",    "think_interval": 1.0, "spd_run":  6, "jump_y": 32, "score":  4},
+		{"name": "suna",    "think_interval": 1.0, "spd_run":  6, "jump_y": 32, "score":  4},
+		{"name": "ashi",    "think_interval": 2.0, "spd_run":  6, "jump_y":  8, "score":  6},
+		{"name": "musha",   "think_interval": 1.0, "spd_run":  8, "jump_y": 32, "score":  6},
+		{"name": "ninja",   "think_interval": 0.8, "spd_run": 10, "jump_y": 32, "score":  8},
+		{"name": "oyuki",   "think_interval": 1.5, "spd_run":  4, "jump_y": 32, "score":  8},
+		{"name": "shishi",  "think_interval": 0.8, "spd_run": 12, "jump_y": 12, "score": 10},
+		{"name": "onig",    "think_interval": 1.5, "spd_run":  5, "jump_y": 32, "score": 10},
+		{"name": "onib",    "think_interval": 1.5, "spd_run":  5, "jump_y": 32, "score": 10},
+		{"name": "onir",    "think_interval": 1.5, "spd_run":  5, "jump_y": 32, "score": 10},
+		{"name": "karasu",  "think_interval": 1.5, "spd_run": 10, "jump_y": 24, "score": 10},
+		{"name": "tengu",   "think_interval": 1.0, "spd_run": 10, "jump_y": 24, "score": 10}
 	],
 	"levels":[
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [],   "l_items": []},
