@@ -36,15 +36,15 @@
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],   "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [5],  "l_items": [1]},
 		{"repeat": 1, "l_floors": [0, 0, 3, 0, 0, 3, 0, 0], "l_enemies": [],   "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [6],  "l_items": [2]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [6],  "l_items": [2]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],   "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [7],  "l_items": [2]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],   "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [8],  "l_items": [2]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [8],  "l_items": [2]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],   "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [9],  "l_items": [2]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],   "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [10], "l_items": [2]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [10], "l_items": [2]},
 		{"repeat": 1, "l_floors": [0, 0, 3, 0, 0, 3, 0, 0], "l_enemies": [],   "l_items": []}
 	],
 	"items":[
