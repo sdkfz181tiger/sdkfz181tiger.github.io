@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/11 23:00:00",
+	"time": "2024/03/12 13:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -161,6 +161,8 @@
 		"images/base/exp_s_01.png",
 		"images/base/exp_s_02.png",
 		"images/base/heart_01.png",
+		"images/base/i_jump.png",
+		"images/base/i_trample.png",
 		"images/base/smk_m_01.png",
 		"images/base/smk_m_02.png",
 		"images/base/smk_s_01.png",
@@ -230,7 +232,6 @@
 		"images/tower/floor_on_80x10.png",
 		"images/tower/floor_on_96x10.png",
 		"images/tower/ground_01_320x25.png",
-		"images/tower/i_jump.png",
 		"images/tower/roof_01_320x14.png",
 		"images/tower/wall_01_32x16.png",
 		"images/tower/wall_01_32x32.png",
