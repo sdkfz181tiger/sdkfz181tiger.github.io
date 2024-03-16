@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/12 23:00:00",
+	"time": "2024/03/16 13:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -336,6 +336,7 @@
 		"sounds/se_iwa_rakka.ogg"
 	],
 	"bgms": [
+		"sounds/bgm_fc_yuki.wav",
 		"sounds/bgm_iwa_donkusako.ogg",
 		"sounds/bgm_iwa_kami.ogg",
 		"sounds/bgm_iwa_yawarakai.ogg"
