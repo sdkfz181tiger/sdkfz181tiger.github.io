@@ -298,7 +298,8 @@
 		"sounds/se_fc_select_05.wav", "sounds/se_fc_select_06.wav", "sounds/se_fc_select_07.wav", "sounds/se_fc_select_08.wav", 
 		"sounds/se_fc_select_09.wav", "sounds/se_fc_select_10.wav", "sounds/se_fc_select_11.wav", "sounds/se_fc_select_12.wav", 
 		"sounds/se_fc_shot_01.wav", "sounds/se_fc_shot_02.wav", "sounds/se_fc_shot_03.wav", "sounds/se_fc_shot_04.wav", 
-		"sounds/se_fc_shot_05.wav", "sounds/se_fc_shot_06.wav"
+		"sounds/se_fc_shot_05.wav", "sounds/se_fc_shot_06.wav",
+		"sounds/jingle_fc_die_01.wav", "sounds/jingle_fc_die_02.wav", "sounds/jingle_fc_die_03.wav"
 	],
 	"bgms": [
 		"sounds/bgm_iwa_donkusako.ogg",
