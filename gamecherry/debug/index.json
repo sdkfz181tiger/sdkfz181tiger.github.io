@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/16 14:00:00",
+	"time": "2024/03/16 15:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -299,6 +299,8 @@
 		"sounds/se_fc_select_09.wav", "sounds/se_fc_select_10.wav", "sounds/se_fc_select_11.wav", "sounds/se_fc_select_12.wav", 
 		"sounds/se_fc_shot_01.wav", "sounds/se_fc_shot_02.wav", "sounds/se_fc_shot_03.wav", "sounds/se_fc_shot_04.wav", 
 		"sounds/se_fc_shot_05.wav", "sounds/se_fc_shot_06.wav",
+		"sounds/jingle_fc_clear_01.wav", "sounds/jingle_fc_clear_02.wav",
+		"sounds/jingle_fc_curse_01.wav", "sounds/jingle_fc_curse_02.wav", "sounds/jingle_fc_curse_03.wav",
 		"sounds/jingle_fc_die_01.wav", "sounds/jingle_fc_die_02.wav", "sounds/jingle_fc_die_03.wav"
 	],
 	"bgms": [
