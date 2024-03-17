@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/17 12:00:00",
+	"time": "2024/03/17 14:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -246,6 +246,8 @@
 		"images/tower/bkg_240x480_01.png",
 		"images/tower/bkg_240x480_02.png",
 		"images/tower/logo_150x50_01.png",
+		"images/tower/thunder_90x300.png",
+		"images/tower/thunder_150x180.png",
 		"images/tower/wall_01_32x16.png",
 		"images/tower/wall_01_32x32.png",
 		"images/tower/wall_01_32x48.png",
