@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/18 12:00:00",
+	"time": "2024/03/18 15:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -26,9 +26,9 @@
 	],
 	"levels":[
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [1],    "l_items": [1]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [1],    "l_items": [1, 2, 3, 4]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [2],    "l_items": [1]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [2],    "l_items": [1, 2, 3, 4]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [3],    "l_items": [1]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
@@ -59,10 +59,10 @@
 	],
 	"items":[
 		{"score":  0, "file": "images/base/box_16x16.png"},
-		{"score":  2, "file": "images/foods/i_radish.png"},
-		{"score":  4, "file": "images/foods/i_carrot.png"},
-		{"score":  8, "file": "images/foods/i_cabbage.png"},
-		{"score": 10, "file": "images/foods/i_corn.png"},
+		{"score":  2, "file": "images/tower/i_zeni_01.png"},
+		{"score":  4, "file": "images/tower/i_zeni_02.png"},
+		{"score":  8, "file": "images/tower/i_ryo_01.png"},
+		{"score": 10, "file": "images/foods/i_ryo_02.png"},
 		{"score": 30, "file": "images/foods/i_eggplant.png"},
 		{"score": 90, "file": "images/foods/i_tomato.png"}
 	],
@@ -245,6 +245,10 @@
 		"images/tower/roof_01_320x14.png",
 		"images/tower/bkg_240x480_01.png",
 		"images/tower/bkg_240x480_02.png",
+		"images/tower/i_ryo_01.png",
+		"images/tower/i_ryo_02.png",
+		"images/tower/i_zein_01.png",
+		"images/tower/i_zein_02.png",
 		"images/tower/logo_150x50_01.png",
 		"images/tower/thunder_90x300.png",
 		"images/tower/thunder_150x180.png",
