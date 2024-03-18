@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/18 12:00:00",
+	"time": "2024/03/18 14:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -59,9 +59,9 @@
 	],
 	"items":[
 		{"score":  0, "file": "images/base/box_16x16.png"},
-		{"score":  2, "file": "images/foods/i_radish.png"},
-		{"score":  4, "file": "images/foods/i_carrot.png"},
-		{"score":  8, "file": "images/foods/i_cabbage.png"},
+		{"score":  2, "file": "images/tower/i_zeni.png"},
+		{"score":  4, "file": "images/tower/i_1ryo.png"},
+		{"score":  8, "file": "images/tower/i_oiri.png"},
 		{"score": 10, "file": "images/foods/i_corn.png"},
 		{"score": 30, "file": "images/foods/i_eggplant.png"},
 		{"score": 90, "file": "images/foods/i_tomato.png"}
@@ -245,6 +245,9 @@
 		"images/tower/roof_01_320x14.png",
 		"images/tower/bkg_240x480_01.png",
 		"images/tower/bkg_240x480_02.png",
+		"images/tower/i_1ryo.png",
+		"images/tower/i_oiri.png",
+		"images/tower/i_zeni.png",
 		"images/tower/logo_150x50_01.png",
 		"images/tower/thunder_90x300.png",
 		"images/tower/thunder_150x180.png",
