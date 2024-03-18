@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/18 17:00:00",
+	"time": "2024/03/18 18:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -60,11 +60,9 @@
 	"items":[
 		{"score":  0, "file": "images/base/box_16x16.png"},
 		{"score":  2, "file": "images/tower/i_zeni_01.png"},
-		{"score":  4, "file": "images/tower/i_zeni_02.png"},
-		{"score":  8, "file": "images/tower/i_ryo_01.png"},
-		{"score": 10, "file": "images/tower/i_ryo_02.png"},
-		{"score": 30, "file": "images/foods/i_eggplant.png"},
-		{"score": 90, "file": "images/foods/i_tomato.png"}
+		{"score":  5, "file": "images/tower/i_zeni_02.png"},
+		{"score": 10, "file": "images/tower/i_ryo_01.png"},
+		{"score": 30, "file": "images/tower/i_ryo_02.png"}
 	],
 	"assets":[
 		"images/base/bkg_bottom.png",
