@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/18 17:00:00",
+	"time": "2024/03/18 15:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -9,8 +9,8 @@
 	"enemies":[
 		{"name": "none",    "score":  0, "think_interval": 1.0, "spd_run":  0, "jump_y":  0},
 		{"name": "will",    "score":  0, "think_interval": 1.0, "spd_run":  4, "jump_y": 24},
+		{"name": "hitotsu", "score":  2, "think_interval": 1.0, "spd_run":  3, "jump_y": 32},
 		{"name": "kasa",    "score":  2, "think_interval": 0.8, "spd_run":  3, "jump_y": 32},
-		{"name": "hitotsu", "score":  2, "think_interval": 1.0, "spd_run":  4, "jump_y": 32},
 		{"name": "kona",    "score":  4, "think_interval": 1.0, "spd_run":  6, "jump_y": 32},
 		{"name": "suna",    "score":  4, "think_interval": 1.0, "spd_run":  6, "jump_y": 32},
 		{"name": "ashi",    "score":  6, "think_interval": 2.0, "spd_run":  6, "jump_y":  8},
@@ -26,11 +26,11 @@
 	],
 	"levels":[
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [1],    "l_items": [1, 2, 3, 4]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [2],    "l_items": [1, 2, 3, 4]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [2],    "l_items": [1, 2, 3, 4]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [3],    "l_items": [1, 2, 3, 4]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [3],    "l_items": [1]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [4],    "l_items": [1]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [1, 2], "l_items": [1]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
@@ -60,11 +60,9 @@
 	"items":[
 		{"score":  0, "file": "images/base/box_16x16.png"},
 		{"score":  2, "file": "images/tower/i_zeni_01.png"},
-		{"score":  4, "file": "images/tower/i_zeni_02.png"},
-		{"score":  8, "file": "images/tower/i_ryo_01.png"},
-		{"score": 10, "file": "images/tower/i_ryo_02.png"},
-		{"score": 30, "file": "images/foods/i_eggplant.png"},
-		{"score": 90, "file": "images/foods/i_tomato.png"}
+		{"score":  5, "file": "images/tower/i_zeni_02.png"},
+		{"score": 10, "file": "images/tower/i_ryo_01.png"},
+		{"score": 30, "file": "images/tower/i_ryo_02.png"}
 	],
 	"assets":[
 		"images/base/bkg_bottom.png",
@@ -247,8 +245,8 @@
 		"images/tower/bkg_240x480_02.png",
 		"images/tower/i_ryo_01.png",
 		"images/tower/i_ryo_02.png",
-		"images/tower/i_zein_01.png",
-		"images/tower/i_zein_02.png",
+		"images/tower/i_zeni_01.png",
+		"images/tower/i_zeni_02.png",
 		"images/tower/logo_150x50_01.png",
 		"images/tower/thunder_90x300.png",
 		"images/tower/thunder_150x180.png",
