@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/19 12:00:00",
+	"time": "2024/03/19 13:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -241,8 +241,8 @@
 		"images/tower/floor_on_64x10.png",
 		"images/tower/floor_on_80x10.png",
 		"images/tower/floor_on_96x10.png",
-		"images/tower/gradiation_01.png",
-		"images/tower/gradiation_02.png",
+		"images/tower/gradation_01.png",
+		"images/tower/gradation_02.png",
 		"images/tower/ground_01_320x25.png",
 		"images/tower/i_ryo_01.png",
 		"images/tower/i_ryo_02.png",
