@@ -1,12 +1,12 @@
 {
-	"time": "2024/03/20 13:00:00",
+	"time": "2024/03/20 14:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
 	],
-	"candle_p": 5,
+	"candle_p": 2,
 	"candle_i": 3.0,
 	"enemies":[
 		{"name": "none",    "score":  0, "think_interval": 1.0, "spd_run":  0, "jump_y":  0},
