@@ -1,11 +1,13 @@
 {
-	"time": "2024/03/20 11:00:00",
+	"time": "2024/03/20 12:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
 	],
+	"candle_p": 5,
+	"candle_i": 3.0,
 	"enemies":[
 		{"name": "none",    "score":  0, "think_interval": 1.0, "spd_run":  0, "jump_y":  0},
 		{"name": "will",    "score":  0, "think_interval": 1.0, "spd_run":  4, "jump_y": 24},
