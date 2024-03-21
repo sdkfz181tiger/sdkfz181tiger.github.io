@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/21 15:00:00",
+	"time": "2024/03/21 14:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -61,10 +61,10 @@
 		{"repeat": 1, "l_floors": [0, 0, 3, 0, 0, 3, 0, 0], "l_enemies": [],     "l_items": []}
 	],
 	"items":[
-		{"score":  0, "file": "images/base/box_16x16.png",  "frame": ""},
-		{"score":  2, "file": "images/tower/box_16x16.png", "frame": "candle_b"},
-		{"score": 10, "file": "images/tower/i_ryo_01.png",  "frame": ""},
-		{"score": 30, "file": "images/tower/i_ryo_02.png",  "frame": ""}
+		{"score":  0, "file": "images/base/box_16x16.png", "frame": ""},
+		{"score":  2, "file": "images/base/box_16x16.png", "frame": "candle_b"},
+		{"score": 10, "file": "images/tower/i_ryo_01.png", "frame": ""},
+		{"score": 30, "file": "images/tower/i_ryo_02.png", "frame": ""}
 	],
 	"assets":[
 		"images/base/bkg_bottom.png",
