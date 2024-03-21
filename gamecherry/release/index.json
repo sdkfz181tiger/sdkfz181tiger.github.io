@@ -1,10 +1,10 @@
 {
-	"time": "2024/03/21 15:00:00",
+	"time": "2024/03/21 15:30:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
-	"candle_p": 4,
-	"candle_i": 4.0,
+	"candle_p": 3,
+	"candle_i": 2.0,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -29,9 +29,9 @@
 	],
 	"levels":[
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [2],    "l_items": [1, 2, 3, 4]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [2],    "l_items": [1, 2, 3]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [3],    "l_items": [1, 2, 3, 4]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [3],    "l_items": [1, 2, 3]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [4],    "l_items": [1]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
@@ -61,11 +61,10 @@
 		{"repeat": 1, "l_floors": [0, 0, 3, 0, 0, 3, 0, 0], "l_enemies": [],     "l_items": []}
 	],
 	"items":[
-		{"score":  0, "file": "images/base/box_16x16.png"},
-		{"score":  2, "file": "images/tower/i_zeni_01.png"},
-		{"score":  5, "file": "images/tower/i_zeni_02.png"},
-		{"score": 10, "file": "images/tower/i_ryo_01.png"},
-		{"score": 30, "file": "images/tower/i_ryo_02.png"}
+		{"score":  0, "file": "images/base/box_16x16.png",  "frame": ""},
+		{"score":  0, "file": "images/tower/candle_01.png", "frame": "candle_a"},
+		{"score": 10, "file": "images/tower/i_ryo_01.png",  "frame": ""},
+		{"score": 30, "file": "images/tower/i_ryo_02.png",  "frame": ""}
 	],
 	"assets":[
 		"images/base/bkg_bottom.png",
@@ -226,6 +225,7 @@
 		"images/tower/bar_high_b.png",
 		"images/tower/bar_high_g.png",
 		"images/tower/bar_high_r.png",
+		"images/tower/candle_01.png",
 		"images/tower/bkg_240x480_blue.png",
 		"images/tower/bkg_01_80x24.png",
 		"images/tower/bkg_02_80x24.png",
@@ -725,7 +725,7 @@
 		{"file_name": "images/tanu/w_snow_01.png",     "frame_name": "w_snow_01",        "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
 		{"file_name": "images/tanu/w_sword_01.png",    "frame_name": "w_sword_r",        "rows": 1, "cols": 7, "w": 16, "h": 16, "from":  0, "to":  6},
 		{"file_name": "images/tanu/w_sword_01.png",    "frame_name": "w_sword_l",        "rows": 2, "cols": 7, "w": 16, "h": 16, "from":  7, "to": 13},
-		{"file_name": "images/tower/candle_b_01.png",  "frame_name": "candle_b",         "rows": 1, "cols": 6, "w":  5, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/tower/candle_a_01.png",  "frame_name": "candle_a",         "rows": 1, "cols": 6, "w":  6, "h": 16, "from":  0, "to":  5},
 		{"file_name": "images/tower/candle_l_01.png",  "frame_name": "candle_l_lv1",     "rows": 1, "cols": 6, "w": 10, "h": 10, "from":  0, "to":  5},
 		{"file_name": "images/tower/candle_l_01.png",  "frame_name": "candle_l_lv2",     "rows": 2, "cols": 6, "w": 10, "h": 10, "from":  6, "to": 11},
 		{"file_name": "images/tower/candle_l_01.png",  "frame_name": "candle_l_lv3",     "rows": 3, "cols": 6, "w": 10, "h": 10, "from": 12, "to": 17},
