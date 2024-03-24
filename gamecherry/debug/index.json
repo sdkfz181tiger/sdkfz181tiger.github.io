@@ -1,11 +1,11 @@
 {
-	"time": "2024/03/24 13:00:00",
+	"time": "2024/03/24 14:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
 	"candle_p": 3,
 	"candle_i": 10.0,
-	"shadow_s": 8,
+	"shadow_s": 20,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
