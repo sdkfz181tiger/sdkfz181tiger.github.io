@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/24 14:00:00",
+	"time": "2024/03/26 20:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -9,6 +9,9 @@
 	"archives":[
 		"images.zip",
 		"tmx.zip"
+	],
+	"title_anims":[
+		"hitotsu_f", "kasa_f", "kona_f", "suna_f"
 	],
 	"enemies":[
 		{"name": "none",    "score":  0, "think_interval": 1.0, "spd_run":  0, "jump_y":  0},
@@ -25,12 +28,13 @@
 		{"name": "onig",    "score": 10, "think_interval": 1.5, "spd_run":  5, "jump_y": 32},
 		{"name": "onib",    "score": 10, "think_interval": 1.5, "spd_run":  5, "jump_y": 32},
 		{"name": "onir",    "score": 10, "think_interval": 1.5, "spd_run":  5, "jump_y": 32},
+		{"name": "wanyu",   "score": 10, "think_interval": 0.8, "spd_run": 12, "jump_y": 12},
 		{"name": "karasu",  "score": 10, "think_interval": 1.5, "spd_run": 10, "jump_y": 24},
 		{"name": "tengu",   "score": 10, "think_interval": 1.0, "spd_run": 10, "jump_y": 24}
 	],
 	"levels":[
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [2],    "l_items": [1, 2, 3]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [2, 13], "l_items": [1, 2, 3]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [3],    "l_items": [1, 2, 3]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
@@ -704,6 +708,15 @@
 		{"file_name": "images/tanu/truck_01.png",      "frame_name": "truck_l",          "rows": 2, "cols": 4, "w": 48, "h": 32, "from":  4, "to":  7},
 		{"file_name": "images/tanu/truck_01.png",      "frame_name": "truck_tanu_r",     "rows": 3, "cols": 4, "w": 48, "h": 32, "from":  8, "to": 11},
 		{"file_name": "images/tanu/truck_01.png",      "frame_name": "truck_tanu_l",     "rows": 4, "cols": 4, "w": 48, "h": 32, "from": 12, "to": 15},
+		{"file_name": "images/tanu/wanyu_01.png",      "frame_name": "wanyu_f",          "rows": 1, "cols": 6, "w": 22, "h": 22, "from":  0, "to":  5},
+		{"file_name": "images/tanu/wanyu_01.png",      "frame_name": "wanyu_b",          "rows": 2, "cols": 6, "w": 22, "h": 22, "from":  6, "to": 11},
+		{"file_name": "images/tanu/wanyu_01.png",      "frame_name": "wanyu_r",          "rows": 3, "cols": 6, "w": 22, "h": 22, "from": 12, "to": 17},
+		{"file_name": "images/tanu/wanyu_01.png",      "frame_name": "wanyu_l",          "rows": 4, "cols": 6, "w": 22, "h": 22, "from": 18, "to": 23},
+		{"file_name": "images/tanu/wanyu_01.png",      "frame_name": "wanyu_damage",     "rows": 5, "cols": 6, "w": 22, "h": 22, "from": 24, "to": 29},
+		{"file_name": "images/tanu/wanyu_01.png",      "frame_name": "wanyu_byebye",     "rows": 6, "cols": 6, "w": 22, "h": 22, "from": 30, "to": 35},
+		{"file_name": "images/tanu/wanyu_01.png",      "frame_name": "wanyu_roll_r",     "rows": 7, "cols": 6, "w": 22, "h": 22, "from": 36, "to": 41},
+		{"file_name": "images/tanu/wanyu_01.png",      "frame_name": "wanyu_roll_l",     "rows": 8, "cols": 6, "w": 22, "h": 22, "from": 42, "to": 47},
+		{"file_name": "images/tanu/wanyu_01.png",      "frame_name": "wanyu_jump_f",     "rows": 9, "cols": 6, "w": 22, "h": 22, "from": 48, "to": 53},
 		{"file_name": "images/tanu/w_arrow_01.png",    "frame_name": "w_arrow_r",        "rows": 1, "cols": 4, "w": 16, "h":  3, "from":  0, "to":  3},
 		{"file_name": "images/tanu/w_arrow_01.png",    "frame_name": "w_arrow_l",        "rows": 2, "cols": 4, "w": 16, "h":  3, "from":  4, "to":  7},
 		{"file_name": "images/tanu/w_fireball_01.png", "frame_name": "w_fb_b_r",         "rows": 1, "cols": 8, "w": 16, "h": 16, "from":  0, "to":  7},
