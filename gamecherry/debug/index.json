@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/26 18:00:00",
+	"time": "2024/03/26 19:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -28,12 +28,13 @@
 		{"name": "onig",    "score": 10, "think_interval": 1.5, "spd_run":  5, "jump_y": 32},
 		{"name": "onib",    "score": 10, "think_interval": 1.5, "spd_run":  5, "jump_y": 32},
 		{"name": "onir",    "score": 10, "think_interval": 1.5, "spd_run":  5, "jump_y": 32},
+		{"name": "wanyu",   "score": 10, "think_interval": 0.8, "spd_run": 12, "jump_y": 12},
 		{"name": "karasu",  "score": 10, "think_interval": 1.5, "spd_run": 10, "jump_y": 24},
 		{"name": "tengu",   "score": 10, "think_interval": 1.0, "spd_run": 10, "jump_y": 24}
 	],
 	"levels":[
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [2],    "l_items": [1, 2, 3]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [2, 13], "l_items": [1, 2, 3]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [3],    "l_items": [1, 2, 3]},
 		{"repeat": 2, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
