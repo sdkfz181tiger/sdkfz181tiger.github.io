@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/29 22:00:00",
+	"time": "2024/03/29 23:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -236,7 +236,7 @@
 		"images/tower/bkg_03_80x24.png",
 		"images/tower/bkg_240x480_blue.png",
 		"images/tower/bkg_240x480_shadow.png",
-		"images/tower/bkg_240x480_ready.png",
+		"images/tower/bkg_320x185_ready.png",
 		"images/tower/floor_off_16x10.png",
 		"images/tower/floor_off_32x10.png",
 		"images/tower/floor_off_48x10.png",
