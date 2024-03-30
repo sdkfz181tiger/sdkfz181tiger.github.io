@@ -1,5 +1,5 @@
 {
-	"time": "2024/03/30 14:00:00",
+	"time": "2024/03/30 15:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -11,7 +11,10 @@
 		"tmx.zip"
 	],
 	"title_anims":[
-		"tsuru_f", "tsuru_b", "tsuru_r", "tsuru_l"
+		"tsuru_f", "hitotsu_f", "kasa_f", "kona_f", "suna_f"
+	],
+	"ready_anims":[
+		"tsuru_f", "tsuru_r", "tsuru_l"
 	],
 	"enemies":[
 		{"name": "none",    "score":  0, "think_interval": 1.0, "spd_run":  0, "jump_y":  0},
