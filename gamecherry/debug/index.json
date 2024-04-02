@@ -1,5 +1,5 @@
 {
-	"time": "2024/04/02 12:00:00",
+	"time": "2024/04/02 13:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -36,6 +36,7 @@
 		{"name": "tengu",   "score": 10, "think_interval": 1.0, "spd_run": 10, "jump_y": 24}
 	],
 	"levels":[
+		{"repeat": 1, "l_floors": [0, 0, 3, 0, 0, 3, 0, 0], "l_enemies": [1, 1], "l_items": []},
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [2],    "l_items": [1]},
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
