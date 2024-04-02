@@ -59,8 +59,7 @@
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [4],    "l_items": [2]},
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
-		{"repeat": 1, "l_floors": [0, 0, 3, 0, 0, 3, 0, 0], "l_enemies": [1],    "l_items": [1]},
-
+		{"repeat": 1, "l_floors": [0, 0, 3, 0, 0, 3, 0, 0], "l_enemies": [1],    "l_items": [1]}
 	],
 	"items":[
 		{"score":  0, "file": "images/base/box_16x16.png",  "frame": ""},
