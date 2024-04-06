@@ -1,5 +1,5 @@
 {
-	"time": "2024/04/06 16:00:00",
+	"time": "2024/04/06 21:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -37,7 +37,7 @@
 	],
 	"levels":[
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [2],    "l_items": [1, 2, 3, 4]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [2],    "l_items": [0, 1, 2, 3]},
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [2],    "l_items": [2]},
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
@@ -110,11 +110,10 @@
 		{"repeat": 1, "l_floors": [0, 0, 3, 0, 0, 3, 0, 0], "l_enemies": [1, 1], "l_items": [1]}
 	],
 	"items":[
-		{"score":  0, "file": "images/base/box_16x16.png", "frame": ""},
-		{"score":  0, "file": "images/base/box_16x16.png", "frame": "candle"},
-		{"score": 10, "file": "images/base/box_16x16.png", "frame": "juzu"},
-		{"score": 30, "file": "images/base/box_16x16.png", "frame": "mokugyo"},
-		{"score": 50, "file": "images/base/box_16x16.png", "frame": "koban"}
+		{"score": 10, "file": "images/base/box_16x16.png", "frame": "candle"},
+		{"score": 15, "file": "images/base/box_16x16.png", "frame": "juzu"},
+		{"score": 20, "file": "images/base/box_16x16.png", "frame": "mokugyo"},
+		{"score": 25, "file": "images/base/box_16x16.png", "frame": "koban"}
 	],
 	"assets":[
 		"images/base/bkg_bottom.png",
