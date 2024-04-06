@@ -1,5 +1,5 @@
 {
-	"time": "2024/04/06 22:00:00",
+	"time": "2024/04/06 20:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -37,7 +37,7 @@
 	],
 	"levels":[
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 2],    "l_enemies": [2],    "l_items": [1, 2, 3, 4]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [2],    "l_items": [1, 2, 3, 4]},
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [2],    "l_items": [2]},
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],     "l_items": []},
