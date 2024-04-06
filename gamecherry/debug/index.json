@@ -1,5 +1,5 @@
 {
-	"time": "2024/04/06 20:00:00",
+	"time": "2024/04/06 23:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -275,7 +275,6 @@
 		"images/tower/bar_high_b.png",
 		"images/tower/bar_high_g.png",
 		"images/tower/bar_high_r.png",
-		"images/tower/candle_01.png",
 		"images/tower/bkg_01_80x24.png",
 		"images/tower/bkg_02_80x24.png",
 		"images/tower/bkg_03_80x24.png",
