@@ -47,7 +47,7 @@
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],        "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [3],       "l_items": [2]},
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],        "l_items": []},
-		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [3],       "l_items": [4]},
+		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [3],       "l_items": [3]},
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],        "l_items": []},
 		{"repeat": 1, "l_floors": [1, 1, 1, 1, 1, 2, 4],    "l_enemies": [3, 4],    "l_items": [2, 2]},
 		{"repeat": 3, "l_floors": [1, 1, 1, 1, 1, 2],       "l_enemies": [],        "l_items": []},
@@ -92,7 +92,7 @@
 		{"score":  5, "candle": true,  "okyo": 0, "file": "images/base/box_16x16.png", "frame": "candle"},
 		{"score": 10, "candle": false, "okyo": 0, "file": "images/base/box_16x16.png", "frame": "koban"},
 		{"score": 15, "candle": false, "okyo": 2, "file": "images/base/box_16x16.png", "frame": "juzu"},
-		{"score": 20, "candle": false, "okyo": 4, "file": "images/base/box_16x16.png", "frame": "mokugyo"}
+		{"score": 20, "candle": false, "okyo": 3, "file": "images/base/box_16x16.png", "frame": "mokugyo"}
 	],
 	"assets":[
 		"images/base/bkg_bottom.png",
