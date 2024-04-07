@@ -1,5 +1,5 @@
 {
-	"time": "2024/04/07 13:00:00",
+	"time": "2024/04/07 15:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -112,9 +112,9 @@
 	"items":[
 		{"score":  0, "candle": false, "okyo": 0, "file": "images/base/box_16x16.png", "frame": ""},
 		{"score":  5, "candle": true,  "okyo": 0, "file": "images/base/box_16x16.png", "frame": "candle"},
-		{"score": 10, "candle": false, "okyo": 2, "file": "images/base/box_16x16.png", "frame": "juzu"},
-		{"score": 15, "candle": false, "okyo": 6, "file": "images/base/box_16x16.png", "frame": "mokugyo"},
-		{"score": 20, "candle": false, "okyo": 0, "file": "images/base/box_16x16.png", "frame": "koban"}
+		{"score": 10, "candle": false, "okyo": 0, "file": "images/base/box_16x16.png", "frame": "koban"},
+		{"score": 15, "candle": false, "okyo": 1, "file": "images/base/box_16x16.png", "frame": "juzu"},
+		{"score": 20, "candle": false, "okyo": 2, "file": "images/base/box_16x16.png", "frame": "mokugyo"}
 	],
 	"assets":[
 		"images/base/bkg_bottom.png",
