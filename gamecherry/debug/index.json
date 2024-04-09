@@ -1,5 +1,5 @@
 {
-	"time": "2024/04/07 20:00:00",
+	"time": "2024/04/09 16:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -793,6 +793,8 @@
 		{"file_name": "images/tower/light_01.png",     "frame_name": "light_lv3",        "rows": 3, "cols": 6, "w": 10, "h": 10, "from": 12, "to": 17},
 		{"file_name": "images/tower/light_01.png",     "frame_name": "light_lv4",        "rows": 4, "cols": 6, "w": 10, "h": 10, "from": 18, "to": 23},
 		{"file_name": "images/tower/light_01.png",     "frame_name": "light_lv5",        "rows": 5, "cols": 6, "w": 10, "h": 10, "from": 24, "to": 29},
+		{"file_name": "images/tower/mhand_r_01.png",   "frame_name": "mhand_r",          "rows": 1, "cols": 6, "w": 32, "h": 80, "from":  0, "to":  5},
+		{"file_name": "images/tower/mhand_l_01.png",   "frame_name": "mhand_l",          "rows": 1, "cols": 6, "w": 32, "h": 80, "from":  0, "to":  5},
 		{"file_name": "images/tower/okyo_01.png",      "frame_name": "okyo_01",          "rows": 1, "cols": 6, "w": 13, "h": 13, "from":  0, "to":  5},
 		{"file_name": "images/tower/okyo_01.png",      "frame_name": "okyo_02",          "rows": 2, "cols": 6, "w": 13, "h": 13, "from":  6, "to": 11},
 		{"file_name": "images/tower/okyo_01.png",      "frame_name": "okyo_03",          "rows": 3, "cols": 6, "w": 13, "h": 13, "from": 12, "to": 17},
