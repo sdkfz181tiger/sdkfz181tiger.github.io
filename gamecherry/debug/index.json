@@ -1,5 +1,5 @@
 {
-	"time": "2024/04/09 16:00:00",
+	"time": "2024/04/10 13:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -784,6 +784,7 @@
 		{"file_name": "images/tanu/w_snow_01.png",     "frame_name": "w_snow_01",        "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
 		{"file_name": "images/tanu/w_sword_01.png",    "frame_name": "w_sword_r",        "rows": 1, "cols": 7, "w": 16, "h": 16, "from":  0, "to":  6},
 		{"file_name": "images/tanu/w_sword_01.png",    "frame_name": "w_sword_l",        "rows": 2, "cols": 7, "w": 16, "h": 16, "from":  7, "to": 13},
+		{"file_name": "images/tower/bero_01.png",      "frame_name": "bero_f",           "rows": 1, "cols": 3, "w":170, "h": 75, "from":  0, "to":  2},
 		{"file_name": "images/tower/i_candle_01.png",  "frame_name": "candle",           "rows": 1, "cols": 6, "w":  6, "h": 16, "from":  0, "to":  5},
 		{"file_name": "images/tower/i_juzu_01.png",    "frame_name": "juzu",             "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/tower/i_koban_01.png",   "frame_name": "koban",            "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
