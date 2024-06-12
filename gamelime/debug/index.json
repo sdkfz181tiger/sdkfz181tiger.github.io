@@ -1,5 +1,5 @@
 {
-	"time": "2024/04/10 13:00:00",
+	"time": "2024/06/12 13:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -99,6 +99,7 @@
 		"images/base/bkg_top.png",
 		"images/base/block_28x14_01.png",
 		"images/base/block_28x14_01.png",
+		"images/base/block_28x28_01.png",
 		"images/base/block_28x28_02.png",
 		"images/base/block_28x28_03.png",
 		"images/base/block_28x28_04.png",
@@ -114,7 +115,6 @@
 		"images/base/block_28x28_14.png",
 		"images/base/block_28x28_15.png",
 		"images/base/block_28x28_16.png",
-		"images/base/block_28x28_17.png",
 		"images/base/blt_enemy_01.png",
 		"images/base/blt_enemy_02.png",
 		"images/base/blt_missile_01.png",
