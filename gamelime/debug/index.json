@@ -1,5 +1,5 @@
 {
-	"time": "2024/06/30 12:00:00",
+	"time": "2024/06/30 13:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -188,6 +188,8 @@
 		"images/base/frame_left.png",
 		"images/base/frame_right.png",
 		"images/base/frame_top.png",
+		"images/base/radder_28x28_01.png",
+		"images/base/radder_28x28_02.png",
 		"images/foods/i_apple.png",
 		"images/foods/i_banana.png",
 		"images/foods/i_blueberry.png",
