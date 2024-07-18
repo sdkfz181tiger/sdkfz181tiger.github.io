@@ -1,5 +1,5 @@
 {
-	"time": "2024/07/17 12:00:00",
+	"time": "2024/07/18 12:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -18,9 +18,9 @@
 	],
 	"enemies":[
 		{"name": "none",    "score":  0, "think_interval": 1.0, "spd_run":  0, "jump_y":  0},
-		{"name": "will",    "score":  0, "think_interval": 1.0, "spd_run":  4, "jump_y": 24},
 		{"name": "hitotsu", "score":  2, "think_interval": 1.0, "spd_run":  3, "jump_y": 32},
 		{"name": "kasa",    "score":  2, "think_interval": 0.8, "spd_run":  3, "jump_y": 32},
+		{"name": "will",    "score":  0, "think_interval": 1.0, "spd_run":  4, "jump_y": 24},
 		{"name": "kona",    "score":  4, "think_interval": 1.0, "spd_run":  6, "jump_y": 32},
 		{"name": "suna",    "score":  4, "think_interval": 1.0, "spd_run":  6, "jump_y": 32},
 		{"name": "ashi",    "score":  6, "think_interval": 2.0, "spd_run":  6, "jump_y":  8},
