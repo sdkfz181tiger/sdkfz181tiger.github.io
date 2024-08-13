@@ -1,5 +1,5 @@
 {
-	"time": "2024/08/12 17:00:00",
+	"time": "2024/08/13 17:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -172,6 +172,8 @@
 		"images/base/heart_01.png",
 		"images/base/i_jump.png",
 		"images/base/i_trample.png",
+		"images/base/ladder_18x28_01.png",
+		"images/base/ladder_18x28_02.png",
 		"images/base/ladder_28x28_01.png",
 		"images/base/ladder_28x28_02.png",
 		"images/base/smk_m_01.png",
