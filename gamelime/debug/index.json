@@ -1,5 +1,5 @@
 {
-	"time": "2024/09/05 12:00:00",
+	"time": "2024/09/05 13:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"line_p": 8,
@@ -30,9 +30,13 @@
 		{"name": "wolf_c", "score": 2, "think_interval": 0.50, "spd_run":  8, "jump_y": 32},
 		{"name": "wolf_d", "score": 2, "think_interval": 0.33, "spd_run": 12, "jump_y": 32}
 	],
-	"companions":[
+	"chicks":[
 		{"name": "chick_a", "score": 2, "think_interval": 1.00, "spd_run": 4, "jump_y": 32},
 		{"name": "chick_b", "score": 6, "think_interval": 2.00, "spd_run": 2, "jump_y": 32}
+	],
+	"chickens":[
+		{"name": "chicken_a", "think_interval": 1.00, "spd_fly": 4},
+		{"name": "chicken_b", "think_interval": 2.00, "spd_fly": 2}
 	],
 	"stages":[
 		{
