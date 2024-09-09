@@ -1,5 +1,5 @@
 {
-	"time": "2024/09/09 13:00:00",
+	"time": "2024/09/09 21:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -27,12 +27,12 @@
 		{"name": "wolf_d", "score": 2, "think_interval": 0.33, "spd_run": 12, "jump_y": 32}
 	],
 	"chicks":[
-		{"name": "chick_a", "score": 2, "think_interval": 1.00, "spd_run": 4, "jump_y": 32},
-		{"name": "chick_b", "score": 6, "think_interval": 2.00, "spd_run": 2, "jump_y": 32}
+		{"name": "chick_a", "score": 2, "think_interval": 1.00, "spd_run": 4, "jump_y": 32, "hatch_cnt": 3},
+		{"name": "chick_b", "score": 6, "think_interval": 2.00, "spd_run": 2, "jump_y": 32, "hatch_cnt": 9}
 	],
 	"chickens":[
-		{"name": "chicken_a", "score": 0, "think_interval": 1.00, "spd_fly":  8},
-		{"name": "chicken_b", "score": 0, "think_interval": 2.00, "spd_fly": 16}
+		{"name": "chicken_a", "score": 0, "think_interval": 4.00, "spd_fly":  8},
+		{"name": "chicken_b", "score": 0, "think_interval": 8.00, "spd_fly": 16}
 	],
 	"nests":[
 		{"name": "nest_a", "max": 3},
