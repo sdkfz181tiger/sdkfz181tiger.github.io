@@ -1,5 +1,5 @@
 {
-	"time": "2024/09/10 13:00:00",
+	"time": "2024/09/10 12:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -37,6 +37,10 @@
 	"nests":[
 		{"name": "nest_a", "max": 3},
 		{"name": "nest_b", "max": 3}
+	],
+	"houses":[
+		{"name": "house_a", "wait_interval": 2.00},
+		{"name": "house_b", "wait_interval": 4.00}
 	],
 	"stages":[
 		{
