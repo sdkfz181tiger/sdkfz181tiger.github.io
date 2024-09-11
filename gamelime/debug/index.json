@@ -1,5 +1,5 @@
 {
-	"time": "2024/09/11 21:00:00",
+	"time": "2024/09/11 22:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -41,6 +41,10 @@
 	"houses":[
 		{"name": "house_a", "wait_interval": 2.00},
 		{"name": "house_b", "wait_interval": 4.00}
+	],
+	"bushes":[
+		{"name": "bush_a"},
+		{"name": "bush_b"}
 	],
 	"stages":[
 		{
