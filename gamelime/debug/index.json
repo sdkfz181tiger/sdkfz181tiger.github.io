@@ -1,5 +1,5 @@
 {
-	"time": "2024/09/10 16:00:00",
+	"time": "2024/09/11 11:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -468,6 +468,7 @@
 		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_roll_l",      "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
 		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_sleep",       "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
+		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_search",      "rows":11, "cols": 5, "w": 16, "h": 16, "from": 50, "to": 54},
 		{"file_name": "images/post/postman_01.png",     "frame_name": "cat_drive",        "rows": 1, "cols": 5, "w": 50, "h": 50, "from":  0, "to":  4},
 		{"file_name": "images/post/postman_01.png",     "frame_name": "cat_down",         "rows": 2, "cols": 5, "w": 50, "h": 50, "from":  5, "to":  9},
 		{"file_name": "images/post/postman_01.png",     "frame_name": "cat_run",          "rows": 3, "cols": 5, "w": 50, "h": 50, "from": 10, "to": 14},
