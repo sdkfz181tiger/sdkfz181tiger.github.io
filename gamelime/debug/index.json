@@ -1,5 +1,5 @@
 {
-	"time": "2024/09/11 11:00:00",
+	"time": "2024/09/11 12:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -31,8 +31,8 @@
 		{"name": "chick_b", "score": 6, "think_interval": 2.00, "spd_run": 2, "jump_y": 32, "hatch_cnt": 9}
 	],
 	"chickens":[
-		{"name": "chicken_a", "score": 0, "think_interval": 4.00, "spd_fly":  8},
-		{"name": "chicken_b", "score": 0, "think_interval": 8.00, "spd_fly": 16}
+		{"name": "chicken_a", "score": 0, "think_interval": 4.00, "spd_fly": 4.0},
+		{"name": "chicken_b", "score": 0, "think_interval": 8.00, "spd_fly": 6.0}
 	],
 	"nests":[
 		{"name": "nest_a"},
