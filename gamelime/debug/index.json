@@ -1,5 +1,5 @@
 {
-	"time": "2024/09/15 13:00:00",
+	"time": "2024/09/15 14:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -21,10 +21,8 @@
 		{"name": "images/yokai/ladder_14x18_01.png"}
 	],
 	"enemies":[
-		{"name": "wolf_a", "score": 2, "think_interval": 1.00, "spd_run":  4, "jump_y": 32},
-		{"name": "wolf_b", "score": 2, "think_interval": 0.66, "spd_run":  6, "jump_y": 32},
-		{"name": "wolf_c", "score": 2, "think_interval": 0.50, "spd_run":  8, "jump_y": 32},
-		{"name": "wolf_d", "score": 2, "think_interval": 0.33, "spd_run": 12, "jump_y": 32}
+		{"name": "wolf", "score": 2, "think_interval": 1.00, "spd_run":  4, "jump_y": 32},
+		{"name": "tanu", "score": 2, "think_interval": 2.00, "spd_run":  2, "jump_y": 32}
 	],
 	"chicks":[
 		{"name": "chick_a", "score": 2, "think_interval": 1.00, "spd_run": 4, "jump_y": 32, "hatch_cnt": 3},
