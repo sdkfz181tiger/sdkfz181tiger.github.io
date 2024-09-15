@@ -1,5 +1,5 @@
 {
-	"time": "2024/09/15 15:00:00",
+	"time": "2024/09/15 14:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -457,14 +457,8 @@
 		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_roll_r",      "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
 		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_roll_l",      "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
 		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
-		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_jump_r",      "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
-		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_jump_l",      "rows":11, "cols": 5, "w": 16, "h": 16, "from": 50, "to": 54},
-		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_land_f",      "rows":12, "cols": 5, "w": 16, "h": 16, "from": 55, "to": 59},
-		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_land_r",      "rows":13, "cols": 5, "w": 16, "h": 16, "from": 60, "to": 64},
-		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_land_l",      "rows":14, "cols": 5, "w": 16, "h": 16, "from": 65, "to": 69},
-		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_sleep_r",     "rows":15, "cols": 5, "w": 16, "h": 16, "from": 70, "to": 74},
-		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_sleep_l",     "rows":16, "cols": 5, "w": 16, "h": 16, "from": 75, "to": 79},
-		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_swing",       "rows":17, "cols": 5, "w": 16, "h": 16, "from": 80, "to": 84},
+		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_sleep",       "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
+		{"file_name": "images/chickens/tanu_01.png",    "frame_name": "tanu_search",      "rows":11, "cols": 5, "w": 16, "h": 16, "from": 50, "to": 54},
 		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_f",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_b",           "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
 		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_r",           "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
