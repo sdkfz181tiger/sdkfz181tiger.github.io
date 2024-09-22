@@ -1,5 +1,5 @@
 {
-	"time": "2024/09/18 14:00:00",
+	"time": "2024/09/22 14:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -226,6 +226,8 @@
 		"images/base/frame_left.png",
 		"images/base/frame_right.png",
 		"images/base/frame_top.png",
+		"images/chickens/bkg_01.png",
+		"images/chickens/bkg_02.png",
 		"images/chickens/bush_01.png",
 		"images/chickens/bush_02.png",
 		"images/chickens/nest_16x16.png",
