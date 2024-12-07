@@ -1,5 +1,5 @@
 {
-	"time": "2024/09/23 16:00:00",
+	"time": "2024/12/07 17:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -78,28 +78,6 @@
 				13,15, 0, 0, 0,15, 0, 0, 0,15,13,
 				13,15, 0,50, 0,15, 0,50, 0,15,13,
 				13,11,11,11,11,11,11,11,11,11,13
-			]
-		}, {
-			"name": "stage_02", "cols": 11,
-			"map": [
-				3, 0, 0, 0, 2, 2, 1, 0, 0, 0, 3,
-				3, 0, 0, 0, 0, 0, 1, 0, 0, 0, 3,
-				3, 4, 0, 0, 1, 2, 1, 0, 0, 4, 3,
-				3, 0, 0, 0, 1, 0, 0, 0, 0, 0, 3,
-				3, 0, 0, 0, 1, 2, 2, 0, 0, 0, 3,
-				3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
-				3, 4, 4, 0, 0, 0, 0, 0, 4, 4, 3
-			]
-		}, {
-			"name": "stage_03", "cols": 11,
-			"map": [
-				3, 0, 0, 0, 2, 2, 1, 0, 0, 0, 3,
-				3, 0, 0, 0, 0, 0, 1, 0, 0, 0, 3,
-				3, 4, 0, 0, 2, 2, 1, 0, 0, 4, 3,
-				3, 0, 0, 0, 0, 0, 1, 0, 0, 0, 3,
-				3, 0, 0, 0, 2, 2, 1, 0, 0, 0, 3,
-				3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
-				3, 4, 4, 0, 0, 0, 0, 0, 4, 4, 3
 			]
 		}
 	],
@@ -404,6 +382,7 @@
 		{"file_name": "images/base/blt_enemy_01.png",   "frame_name": "blt_enemy_01",     "rows": 1, "cols": 6, "w":  3, "h":  9, "from":  0, "to":  5},
 		{"file_name": "images/base/blt_enemy_02.png",   "frame_name": "blt_enemy_02",     "rows": 1, "cols": 6, "w":  3, "h":  9, "from":  0, "to":  5},
 		{"file_name": "images/base/blt_player_01.png",  "frame_name": "blt_player_01",    "rows": 1, "cols": 1, "w":  3, "h":  9, "from":  0, "to":  0},
+		{"file_name": "images/base/blt_spread.png",     "frame_name": "blt_spread",       "rows": 1, "cols": 4, "w":  5, "h":  5, "from":  0, "to":  3},
 		{"file_name": "images/base/coin_01.png",        "frame_name": "coin_01",          "rows": 1, "cols": 6, "w":  9, "h":  9, "from":  0, "to":  5},
 		{"file_name": "images/base/exp_m_01.png",       "frame_name": "exp_m_01",         "rows": 1, "cols": 6, "w": 32, "h": 32, "from":  0, "to":  5},
 		{"file_name": "images/base/exp_m_02.png",       "frame_name": "exp_m_02",         "rows": 1, "cols": 6, "w": 32, "h": 32, "from":  0, "to":  5},
