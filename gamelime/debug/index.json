@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/22 22:00:00",
+	"time": "2024/12/22 23:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -31,6 +31,7 @@
 	"assets":[
 		"images/base/bkg_bottom.png",
 		"images/base/bkg_top.png",
+		"images/base/block_24x12_01.png",
 		"images/base/block_28x14_01.png",
 		"images/base/block_28x14_01.png",
 		"images/base/block_28x28_01.png",
