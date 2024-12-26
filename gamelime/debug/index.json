@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/26 15:00:00",
+	"time": "2024/12/26 16:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -253,6 +253,7 @@
 		"images/base/frame_left.png",
 		"images/base/frame_right.png",
 		"images/base/frame_top.png",
+		"images/breakout/block_a_00.png",
 		"images/breakout/block_a_01.png",
 		"images/breakout/block_a_02.png",
 		"images/breakout/block_a_03.png",
@@ -265,6 +266,7 @@
 		"images/breakout/block_a_10.png",
 		"images/breakout/block_a_11.png",
 		"images/breakout/block_a_12.png",
+		"images/breakout/block_b_00.png",
 		"images/breakout/block_b_01.png",
 		"images/breakout/block_b_02.png",
 		"images/breakout/block_b_03.png",
