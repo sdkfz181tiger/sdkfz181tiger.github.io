@@ -12,7 +12,7 @@
 	"ready_anims":[
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
-	"bullets": {
+	"bullet": {
 		"format": "images/break/block_%02d_%02d.png",
 		"strength": [
 			1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
