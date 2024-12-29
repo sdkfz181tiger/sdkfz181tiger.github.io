@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/29 15:00:00",
+	"time": "2024/12/29 16:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -37,7 +37,7 @@
 		{"frame_name": "images/break/block_21_01.png", "strength": 8},
 		{"frame_name": "images/break/block_22_01.png", "strength": 8},
 		{"frame_name": "images/break/block_23_01.png", "strength": 8},
-		{"frame_name": "images/break/block_24_01.png", "strength": 8},
+		{"frame_name": "images/break/block_24_01.png", "strength": 8}
 	],
 	"capsules": [
 		{"weight": 0.5, "frame_name": "",           "bullets": 0},
