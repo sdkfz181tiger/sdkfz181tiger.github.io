@@ -20,12 +20,15 @@
 			3, 3, 3, 3, 3, 3, 3, 3, 3, 3
 		]
 	},
-	"capsules": [
-		{"weight": 0.5, "frame_name": "",           "bullets": 0},
-		{"weight": 0.3, "frame_name": "capsule_01", "bullets": 1},
-		{"weight": 0.2, "frame_name": "capsule_02", "bullets": 2},
-		{"weight": 0.1, "frame_name": "capsule_03", "bullets": 3}
-	],
+	"capsule": {
+		"format": "capsule_%02d",
+		"weights": [
+			0.5, 0.3, 0.2, 0.1
+		],
+		"bullets": [
+			0, 1, 2, 3
+		]
+	},
 	"stages":[
 		{
 			"name": "01",
