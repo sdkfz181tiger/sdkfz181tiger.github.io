@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/30 12:00:00",
+	"time": "2024/12/30 11:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -476,6 +476,7 @@
 		{"file_name": "images/break/capsule_n_01.png",  "frame_name": "capsule_n_01",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
 		{"file_name": "images/break/capsule_n_02.png",  "frame_name": "capsule_n_02",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
 		{"file_name": "images/break/capsule_n_03.png",  "frame_name": "capsule_n_03",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/player_bar_24.png", "frame_name": "player_bar_24",    "rows": 1, "cols": 5, "w": 24, "h":  8, "from":  0, "to":  4},
 		{"file_name": "images/break/player_bar_32.png", "frame_name": "player_bar_32",    "rows": 1, "cols": 5, "w": 32, "h":  8, "from":  0, "to":  4},
 		{"file_name": "images/break/player_bar_48.png", "frame_name": "player_bar_48",    "rows": 1, "cols": 5, "w": 48, "h":  8, "from":  0, "to":  4},
 		{"file_name": "images/chickens/egg_a.png",      "frame_name": "egg_a",            "rows": 3, "cols": 5, "w":  5, "h":  8, "from":  0, "to": 14},
