@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/28 23:00:00",
+	"time": "2024/12/29 11:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -269,6 +269,8 @@
 		"images/break/block_99_10.png",
 		"images/break/block_99_11.png",
 		"images/break/block_99_12.png",
+		"images/break/player_bar_32.png",
+		"images/break/player_bar_48.png",
 		"images/chickens/bkg_01.png",
 		"images/chickens/bkg_02.png",
 		"images/chickens/bush_01.png",
