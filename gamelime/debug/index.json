@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/29 21:00:00",
+	"time": "2024/12/29 19:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -21,7 +21,7 @@
 		]
 	},
 	"capsule": {
-		"format":  "capsule_%02d",
+		"format":  "capsule_n_%02d",
 		"weights": [40, 30, 20, 10],
 		"splits":  [ 0,  1,  2,  3]
 	},
@@ -478,9 +478,12 @@
 		{"file_name": "images/break/block_flash_01.png","frame_name": "block_flash_01",   "rows": 1, "cols": 6, "w":  8, "h":  5, "from":  0, "to":  7},
 		{"file_name": "images/break/bomb_m_01.png",     "frame_name": "block_bomb_m_01",  "rows": 1, "cols": 6, "w": 12, "h": 12, "from":  0, "to":  5},
 		{"file_name": "images/break/bomb_s_01.png",     "frame_name": "block_bomb_s_01",  "rows": 1, "cols":15, "w":  4, "h":  4, "from":  0, "to": 14},
-		{"file_name": "images/break/capsule_01.png",    "frame_name": "capsule_01",       "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
-		{"file_name": "images/break/capsule_02.png",    "frame_name": "capsule_02",       "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
-		{"file_name": "images/break/capsule_03.png",    "frame_name": "capsule_03",       "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_a_01.png",  "frame_name": "capsule_a_01",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_a_02.png",  "frame_name": "capsule_a_02",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_a_03.png",  "frame_name": "capsule_a_03",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_n_01.png",  "frame_name": "capsule_n_01",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_n_02.png",  "frame_name": "capsule_n_02",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_n_03.png",  "frame_name": "capsule_n_03",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
 		{"file_name": "images/chickens/egg_a.png",      "frame_name": "egg_a",            "rows": 3, "cols": 5, "w":  5, "h":  8, "from":  0, "to": 14},
 		{"file_name": "images/chickens/egg_b.png",      "frame_name": "egg_b",            "rows": 3, "cols": 5, "w": 10, "h": 12, "from":  0, "to": 14},
 		{"file_name": "images/chickens/chick_a.png",    "frame_name": "chick_a_f",        "rows": 1, "cols": 5, "w":  9, "h":  9, "from":  0, "to":  4},
