@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/29 17:00:00",
+	"time": "2024/12/29 18:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -12,33 +12,14 @@
 	"ready_anims":[
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
-	"bullets": [
-		{"file_name": "images/break/block_00_01.png", "strength": 1},
-		{"file_name": "images/break/block_01_01.png", "strength": 1},
-		{"file_name": "images/break/block_02_01.png", "strength": 1},
-		{"file_name": "images/break/block_03_01.png", "strength": 1},
-		{"file_name": "images/break/block_04_01.png", "strength": 1},
-		{"file_name": "images/break/block_05_01.png", "strength": 1},
-		{"file_name": "images/break/block_06_01.png", "strength": 1},
-		{"file_name": "images/break/block_07_01.png", "strength": 1},
-		{"file_name": "images/break/block_08_01.png", "strength": 1},
-		{"file_name": "images/break/block_09_01.png", "strength": 1},
-		{"file_name": "images/break/block_10_01.png", "strength": 4},
-		{"file_name": "images/break/block_11_01.png", "strength": 4},
-		{"file_name": "images/break/block_12_01.png", "strength": 4},
-		{"file_name": "images/break/block_13_01.png", "strength": 4},
-		{"file_name": "images/break/block_14_01.png", "strength": 4},
-		{"file_name": "images/break/block_15_01.png", "strength": 4},
-		{"file_name": "images/break/block_16_01.png", "strength": 4},
-		{"file_name": "images/break/block_17_01.png", "strength": 4},
-		{"file_name": "images/break/block_18_01.png", "strength": 4},
-		{"file_name": "images/break/block_19_01.png", "strength": 4},
-		{"file_name": "images/break/block_20_01.png", "strength": 4},
-		{"file_name": "images/break/block_21_01.png", "strength": 8},
-		{"file_name": "images/break/block_22_01.png", "strength": 8},
-		{"file_name": "images/break/block_23_01.png", "strength": 8},
-		{"file_name": "images/break/block_24_01.png", "strength": 8}
-	],
+	"bullets": {
+		"format": "images/break/block_%02d_%02d.png",
+		"strength": [
+			1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+			2, 2, 2, 2, 2, 2, 2, 2, 2, 2,
+			3, 3, 3, 3, 3, 3, 3, 3, 3, 3
+		]
+	},
 	"capsules": [
 		{"weight": 0.5, "frame_name": "",           "bullets": 0},
 		{"weight": 0.3, "frame_name": "capsule_01", "bullets": 1},
