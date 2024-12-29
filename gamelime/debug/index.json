@@ -14,7 +14,7 @@
 	],
 	"bullet": {
 		"format": "images/break/block_%02d_%02d.png",
-		"strength": [
+		"strengthes": [
 			1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
 			2, 2, 2, 2, 2, 2, 2, 2, 2, 2,
 			3, 3, 3, 3, 3, 3, 3, 3, 3, 3
