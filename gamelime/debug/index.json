@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/30 23:00:00",
+	"time": "2024/12/31 9:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -25,14 +25,15 @@
 		]
 	},
 	"capsules": [
-		{"name": "nothing", "weight": 80, "split": -1, "length": -1, "speed": -1},
-		{"name": "DOUBLE",  "weight": 10, "split":  2, "length": -1, "speed": -1},
-		{"name": "TRIPPLE", "weight": 10, "split":  3, "length": -1, "speed": -1},
-		{"name": "SMALL",   "weight": 10, "split": -1, "length": 24, "speed": -1},
-		{"name": "MIDDLE",  "weight": 10, "split": -1, "length": 32, "speed": -1},
-		{"name": "LARGE",   "weight": 10, "split": -1, "length": 48, "speed": -1},
-		{"name": "SLOW",    "weight": 10, "split": -1, "length": -1, "speed":  8},
-		{"name": "FAST",    "weight": 10, "split": -1, "length": -1, "speed": 48}
+		{"tag": "",          "weight": 80, "split": -1, "length": -1, "speed": -1},
+		{"tag": "B_DOUBLE",  "weight": 10, "split":  2, "length": -1, "speed": -1},
+		{"tag": "B_TRIPPLE", "weight": 10, "split":  3, "length": -1, "speed": -1},
+		{"tag": "L_SHORT",   "weight": 10, "split": -1, "length": 24, "speed": -1},
+		{"tag": "L_NORMAL",  "weight": 10, "split": -1, "length": 32, "speed": -1},
+		{"tag": "L_LONG",    "weight": 10, "split": -1, "length": 48, "speed": -1},
+		{"tag": "S_SLOW",    "weight": 10, "split": -1, "length": -1, "speed":  8},
+		{"tag": "S_NORMAL",  "weight": 10, "split": -1, "length": -1, "speed": 24},
+		{"tag": "S_FAST",    "weight": 10, "split": -1, "length": -1, "speed": 48}
 	],
 	"stages":[
 		{
