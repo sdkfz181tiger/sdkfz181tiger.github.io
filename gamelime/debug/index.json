@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/30 12:00:00",
+	"time": "2024/12/30 13:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -21,8 +21,8 @@
 		]
 	},
 	"capsule": {
-		"format":  "capsule_n_%02d",
-		"weights": [40, 30, 20, 10],
+		"weights": [65, 20, 10,  5],
+		"type":    [ 0,  1,  2,  3],
 		"splits":  [ 0,  1,  2,  3]
 	},
 	"stages":[
