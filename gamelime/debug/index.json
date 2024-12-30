@@ -25,7 +25,7 @@
 		]
 	},
 	"capsules": [
-		{"tag": "",          "weight": 80, "split": -1, "length": -1, "speed": -1},
+		{"tag": "",          "weight": 20, "split": -1, "length": -1, "speed": -1},
 		{"tag": "B_DOUBLE",  "weight": 10, "split":  2, "length": -1, "speed": -1},
 		{"tag": "B_TRIPPLE", "weight": 10, "split":  3, "length": -1, "speed": -1},
 		{"tag": "L_SHORT",   "weight": 10, "split": -1, "length": 24, "speed": -1},
