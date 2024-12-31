@@ -16,7 +16,7 @@
 		"length": "player_bar_32"
 	},
 	"bullet": {
-		"speed": 8,
+		"speed": 28,
 		"deg": 280
 	},
 	"block": {
