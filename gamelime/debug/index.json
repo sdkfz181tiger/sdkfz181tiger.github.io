@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/31 19:00:00",
+	"time": "2024/12/31 20:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -15,7 +15,7 @@
 	"player_length": "player_bar_32",
 	"bullet_speed": 27,
 	"block": {
-		"format": "images/break/block_%01d_%01d.png",
+		"format": "images/break/block_%02d_%02d.png",
 		"strengthes": [
 			1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
 			2, 2, 2, 2, 2, 2, 2, 2, 2, 2,
