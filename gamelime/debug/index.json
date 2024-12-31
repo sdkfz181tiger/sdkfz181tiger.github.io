@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/31 17:00:00",
+	"time": "2024/12/31 18:40:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -16,7 +16,7 @@
 		"length": "player_bar_32"
 	},
 	"bullet": {
-		"speed": 27
+		"speed": 8
 	},
 	"block": {
 		"format": "images/break/block_%02d_%02d.png",
