@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/31 9:00:00",
+	"time": "2024/12/31 18:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -25,15 +25,13 @@
 		]
 	},
 	"capsules": [
-		{"tag": "",          "weight": 20, "split": -1, "length": -1, "speed": -1},
-		{"tag": "B_DOUBLE",  "weight": 10, "split":  2, "length": -1, "speed": -1},
-		{"tag": "B_TRIPPLE", "weight": 10, "split":  3, "length": -1, "speed": -1},
-		{"tag": "L_SHORT",   "weight": 10, "split": -1, "length": 24, "speed": -1},
-		{"tag": "L_NORMAL",  "weight": 10, "split": -1, "length": 32, "speed": -1},
-		{"tag": "L_LONG",    "weight": 10, "split": -1, "length": 48, "speed": -1},
-		{"tag": "S_SLOW",    "weight": 10, "split": -1, "length": -1, "speed":  8},
-		{"tag": "S_NORMAL",  "weight": 10, "split": -1, "length": -1, "speed": 24},
-		{"tag": "S_FAST",    "weight": 10, "split": -1, "length": -1, "speed": 48}
+		{"tag": "",        "frame_name": "",          "weight": 20, "split": -1, "length": -1, "speed": -1},
+		{"tag": "DOUBLE",  "frame_name": "capsule_d", "weight": 10, "split":  2, "length": -1, "speed": -1},
+		{"tag": "TRIPPLE", "frame_name": "capsule_t", "weight": 10, "split":  3, "length": -1, "speed": -1},
+		{"tag": "NARROW",  "frame_name": "capsule_n", "weight": 10, "split": -1, "length": 24, "speed": -1},
+		{"tag": "WIDE",    "frame_name": "capsule_w", "weight": 10, "split": -1, "length": 48, "speed": -1},
+		{"tag": "SLOW",    "frame_name": "capsule_s", "weight": 10, "split": -1, "length": -1, "speed":  8},
+		{"tag": "FAST",    "frame_name": "capsule_f", "weight": 10, "split": -1, "length": -1, "speed": 48}
 	],
 	"stages":[
 		{
@@ -508,12 +506,18 @@
 		{"file_name": "images/break/block_flash_01.png","frame_name": "block_flash_01",   "rows": 1, "cols": 6, "w":  8, "h":  5, "from":  0, "to":  7},
 		{"file_name": "images/break/bomb_m_01.png",     "frame_name": "block_bomb_m_01",  "rows": 1, "cols": 6, "w": 12, "h": 12, "from":  0, "to":  5},
 		{"file_name": "images/break/bomb_s_01.png",     "frame_name": "block_bomb_s_01",  "rows": 1, "cols":15, "w":  4, "h":  4, "from":  0, "to": 14},
-		{"file_name": "images/break/capsule_a_01.png",  "frame_name": "capsule_a_01",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
-		{"file_name": "images/break/capsule_a_02.png",  "frame_name": "capsule_a_02",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
-		{"file_name": "images/break/capsule_a_03.png",  "frame_name": "capsule_a_03",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
-		{"file_name": "images/break/capsule_n_01.png",  "frame_name": "capsule_n_01",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
-		{"file_name": "images/break/capsule_n_02.png",  "frame_name": "capsule_n_02",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
-		{"file_name": "images/break/capsule_n_03.png",  "frame_name": "capsule_n_03",     "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_01.png",    "frame_name": "capsule_01",       "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_02.png",    "frame_name": "capsule_02",       "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_03.png",    "frame_name": "capsule_03",       "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_a.png",     "frame_name": "capsule_a",        "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_b.png",     "frame_name": "capsule_b",        "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_c.png",     "frame_name": "capsule_c",        "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_d.png",     "frame_name": "capsule_d",        "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_f.png",     "frame_name": "capsule_f",        "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_n.png",     "frame_name": "capsule_n",        "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_s.png",     "frame_name": "capsule_s",        "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_t.png",     "frame_name": "capsule_t",        "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
+		{"file_name": "images/break/capsule_w.png",     "frame_name": "capsule_w",        "rows": 1, "cols": 8, "w": 16, "h":  8, "from":  0, "to":  7},
 		{"file_name": "images/break/player_bar_24.png", "frame_name": "player_bar_24",    "rows": 1, "cols": 5, "w": 24, "h":  8, "from":  0, "to":  4},
 		{"file_name": "images/break/player_bar_32.png", "frame_name": "player_bar_32",    "rows": 1, "cols": 5, "w": 32, "h":  8, "from":  0, "to":  4},
 		{"file_name": "images/break/player_bar_48.png", "frame_name": "player_bar_48",    "rows": 1, "cols": 5, "w": 48, "h":  8, "from":  0, "to":  4},
