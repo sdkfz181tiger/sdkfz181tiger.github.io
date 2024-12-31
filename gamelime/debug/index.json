@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/31 20:00:00",
+	"time": "2024/12/31 17:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -12,8 +12,12 @@
 	"ready_anims":[
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
-	"player_length": "player_bar_32",
-	"bullet_speed": 27,
+	"player": {
+		"length": "player_bar_32"
+	},
+	"bullet": {
+		"speed": 27
+	},
 	"block": {
 		"format": "images/break/block_%02d_%02d.png",
 		"strengthes": [
@@ -23,13 +27,13 @@
 		]
 	},
 	"capsules": [
-		{"tag": "",        "frame_name": "",          "weight": 20, "split": -1, "length": -1, "speed": -1},
-		{"tag": "DOUBLE",  "frame_name": "capsule_d", "weight": 10, "split":  2, "length": -1, "speed": -1},
-		{"tag": "TRIPPLE", "frame_name": "capsule_t", "weight": 10, "split":  3, "length": -1, "speed": -1},
-		{"tag": "NARROW",  "frame_name": "capsule_n", "weight": 10, "split": -1, "length": 24, "speed": -1},
-		{"tag": "WIDE",    "frame_name": "capsule_w", "weight": 10, "split": -1, "length": 48, "speed": -1},
-		{"tag": "SLOW",    "frame_name": "capsule_s", "weight": 10, "split": -1, "length": -1, "speed":  8},
-		{"tag": "FAST",    "frame_name": "capsule_f", "weight": 10, "split": -1, "length": -1, "speed": 48}
+		{"tag": "",        "frame_name": "",          "weight": 20, "speed": -1, "length": -1, "split": -1},
+		{"tag": "SLOW",    "frame_name": "capsule_s", "weight": 10, "speed":  8, "length": -1, "split": -1},
+		{"tag": "FAST",    "frame_name": "capsule_f", "weight": 10, "speed": 48, "length": -1, "split": -1},
+		{"tag": "NARROW",  "frame_name": "capsule_n", "weight": 10, "speed": -1, "length": 24, "split": -1},
+		{"tag": "WIDE",    "frame_name": "capsule_w", "weight": 10, "speed": -1, "length": 48, "split": -1},
+		{"tag": "DOUBLE",  "frame_name": "capsule_d", "weight": 10, "speed": -1, "length": -1, "split":  2},
+		{"tag": "TRIPPLE", "frame_name": "capsule_t", "weight": 10, "speed": -1, "length": -1, "split":  3}
 	],
 	"stages":[
 		{
