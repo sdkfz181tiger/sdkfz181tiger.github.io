@@ -1,5 +1,5 @@
 {
-	"time": "2024/12/31 18:00:00",
+	"time": "2024/12/31 19:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -12,12 +12,10 @@
 	"ready_anims":[
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
-	"bullet": {
-		"format": "images/break/block_%02d_%02d.png",
-		"speed_index": 1,
-		"speed_list": [
-			16, 24, 32, 40
-		],
+	"player_length": "player_bar_32",
+	"bullet_speed": 27,
+	"block": {
+		"format": "images/break/block_%01d_%01d.png",
 		"strengthes": [
 			1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
 			2, 2, 2, 2, 2, 2, 2, 2, 2, 2,
