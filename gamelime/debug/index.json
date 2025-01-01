@@ -13,7 +13,8 @@
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"player": {
-		"lengthes": ["player_bar_32", "player_bar_24", "player_bar_48"]
+		"length": 1,
+		"lengthes": ["player_bar_24", "player_bar_32", "player_bar_48"]
 	},
 	"bullet": {
 		"speed": 24,
