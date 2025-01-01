@@ -32,7 +32,7 @@
 		{"name": "",        "frame_name": "",          "weight": 20, "speed": -1, "length": -1, "split": -1},
 		{"name": "SLOW",    "frame_name": "capsule_s", "weight": 10, "speed":  8, "length": -1, "split": -1},
 		{"name": "FAST",    "frame_name": "capsule_f", "weight": 10, "speed": 48, "length": -1, "split": -1},
-		{"name": "NARROW",  "frame_name": "capsule_n", "weight": 10, "speed": -1, "length":  1, "split": -1},
+		{"name": "NARROW",  "frame_name": "capsule_n", "weight": 10, "speed": -1, "length":  0, "split": -1},
 		{"name": "WIDE",    "frame_name": "capsule_w", "weight": 10, "speed": -1, "length":  2, "split": -1},
 		{"name": "DOUBLE",  "frame_name": "capsule_d", "weight": 10, "speed": -1, "length": -1, "split":  2},
 		{"name": "TRIPPLE", "frame_name": "capsule_t", "weight": 10, "speed": -1, "length": -1, "split":  16}
