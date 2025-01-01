@@ -1,5 +1,5 @@
 {
-	"time": "2025/01/01 17:00:00",
+	"time": "2025/01/01 23:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -13,8 +13,7 @@
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"player": {
-		"format": "player_bar_%02d",
-		"length": 32
+		"lengthes": ["player_bar_32", "player_bar_24", "player_bar_48"]
 	},
 	"bullet": {
 		"speed": 24,
@@ -32,8 +31,8 @@
 		{"name": "",        "frame_name": "",          "weight": 20, "speed": -1, "length": -1, "split": -1},
 		{"name": "SLOW",    "frame_name": "capsule_s", "weight": 10, "speed":  8, "length": -1, "split": -1},
 		{"name": "FAST",    "frame_name": "capsule_f", "weight": 10, "speed": 48, "length": -1, "split": -1},
-		{"name": "NARROW",  "frame_name": "capsule_n", "weight": 10, "speed": -1, "length": 24, "split": -1},
-		{"name": "WIDE",    "frame_name": "capsule_w", "weight": 10, "speed": -1, "length": 48, "split": -1},
+		{"name": "NARROW",  "frame_name": "capsule_n", "weight": 10, "speed": -1, "length":  1, "split": -1},
+		{"name": "WIDE",    "frame_name": "capsule_w", "weight": 10, "speed": -1, "length":  2, "split": -1},
 		{"name": "DOUBLE",  "frame_name": "capsule_d", "weight": 10, "speed": -1, "length": -1, "split":  2},
 		{"name": "TRIPPLE", "frame_name": "capsule_t", "weight": 10, "speed": -1, "length": -1, "split":  16}
 	],
