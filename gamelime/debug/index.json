@@ -1,5 +1,5 @@
 {
-	"time": "2025/01/01 15:00:00",
+	"time": "2025/01/01 14:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -13,7 +13,8 @@
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"player": {
-		"length": "player_bar_32"
+		"format": "player_bar_%02d",
+		"length": 32
 	},
 	"bullet": {
 		"speed": 16,
