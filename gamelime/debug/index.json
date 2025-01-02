@@ -1,5 +1,5 @@
 {
-	"time": "2025/01/02 10:00:00",
+	"time": "2025/01/02 11:00:00",
 	"version_code": 1,
 	"admob_int": 5,
 	"archives":[
@@ -152,6 +152,7 @@
 		"images/base/btn_back.png",
 		"images/base/btn_bkg_32x32.png",
 		"images/base/btn_bkg_90x32.png",
+		"images/base/btn_lock.png",
 		"images/base/btn_quit.png",
 		"images/base/btn_ranking.png",
 		"images/base/btn_reset.png",
