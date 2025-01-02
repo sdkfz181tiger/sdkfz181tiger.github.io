@@ -1,6 +1,5 @@
 {
-	"time": "2025/01/01 16:30:00",
-	"version_code": 1,
+	"timestamp": "2025/01/02 15:00:00",
 	"admob_int": 5,
 	"archives":[
 		"images.zip",
@@ -13,8 +12,9 @@
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"player": {
-		"format": "player_bar_%02d",
-		"length": 32
+		"narrow": "player_bar_24",
+		"normal": "player_bar_32",
+		"wide": "player_bar_48"
 	},
 	"bullet": {
 		"speed": 24,
@@ -24,28 +24,29 @@
 		"format": "images/break/block_%02d_%02d.png",
 		"strengthes": [
 			1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-			3, 3, 3, 3, 3, 3, 3, 3, 3, 3,
+			8, 8, 3, 3, 3, 3, 3, 3, 3, 3,
 			6, 6, 6, 6
 		]
 	},
 	"capsules": [
-		{"name": "",        "frame_name": "",          "weight": 20, "speed": -1, "length": -1, "split": -1},
-		{"name": "SLOW",    "frame_name": "capsule_s", "weight": 10, "speed":  8, "length": -1, "split": -1},
-		{"name": "FAST",    "frame_name": "capsule_f", "weight": 10, "speed": 48, "length": -1, "split": -1},
-		{"name": "NARROW",  "frame_name": "capsule_n", "weight": 10, "speed": -1, "length": 24, "split": -1},
-		{"name": "WIDE",    "frame_name": "capsule_w", "weight": 10, "speed": -1, "length": 48, "split": -1},
-		{"name": "DOUBLE",  "frame_name": "capsule_d", "weight": 10, "speed": -1, "length": -1, "split":  2},
-		{"name": "TRIPPLE", "frame_name": "capsule_t", "weight": 10, "speed": -1, "length": -1, "split":  16}
+		{"name": "",        "frame_name": "",          "weight": 20, "speed": -1, "split": -1},
+		{"name": "SLOW",    "frame_name": "capsule_s", "weight": 10, "speed":  8, "split": -1},
+		{"name": "FAST",    "frame_name": "capsule_f", "weight": 10, "speed": 48, "split": -1},
+		{"name": "NARROW",  "frame_name": "capsule_n", "weight": 10, "speed": -1, "split": -1},
+		{"name": "WIDE",    "frame_name": "capsule_w", "weight": 10, "speed": -1, "split": -1},
+		{"name": "DOUBLE",  "frame_name": "capsule_d", "weight": 10, "speed": -1, "split":  2},
+		{"name": "TRIPPLE", "frame_name": "capsule_t", "weight": 10, "speed": -1, "split":  16}
 	],
 	"stages":[
 		{
 			"name": "01",
 			"cols": 11,
+			"bkg": "todo.png",
 			"map": [
-				 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-				 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0,
-				 0, 0, 2, 2, 2, 2, 2, 2, 2, 0, 0,
-				 0, 0, 3, 3, 3, 3, 3, 3, 3, 0, 0,
+				14,14,14,14,14,14,14,14,14,14,14,
+				 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+				 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2,
+				 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3,
 				 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 				 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 				 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
@@ -53,6 +54,7 @@
 		}, {
 			"name": "02",
 			"cols": 11,
+			"bkg": "todo.png",
 			"map": [
 				 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 				 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0,
@@ -65,6 +67,7 @@
 		}, {
 			"name": "03",
 			"cols": 11,
+			"bkg": "todo.png",
 			"map": [
 				 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 				 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0,
@@ -77,6 +80,7 @@
 		}, {
 			"name": "04",
 			"cols": 11,
+			"bkg": "todo.png",
 			"map": [
 				 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0,
 				 0, 0, 0, 2, 2, 2, 2, 2, 0, 0, 0,
@@ -84,6 +88,19 @@
 				 0, 0, 0, 4, 4, 4, 4, 4, 0, 0, 0,
 				 0, 0, 0,11,11,11,11,11, 0, 0, 0,
 				 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+				 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+			]
+		}, {
+			"name": "04",
+			"cols": 11,
+			"bkg": "todo.png",
+			"map": [
+				 0, 0, 0,11,11,11,11,11, 0, 0, 0,
+				 0,11, 0, 0, 1, 1, 1, 0, 0,11, 0,
+				 0,11, 0, 0, 2, 2, 2, 0, 0,11, 0,
+				 0,11, 0, 3, 3, 3, 3, 3, 0,11, 0,
+				 0,11, 4, 4, 4, 4, 4, 4, 4,11, 0,
+				 0,11, 0,11,11,11,11,11, 0,11, 0,
 				 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 			]
 		}
@@ -133,7 +150,10 @@
 		"images/base/box_240x360.png",
 		"images/base/btn_back.png",
 		"images/base/btn_bkg_32x32.png",
+		"images/base/btn_bkg_32x32_lock_01.png",
+		"images/base/btn_bkg_32x32_lock_02.png",
 		"images/base/btn_bkg_90x32.png",
+		"images/base/btn_lock.png",
 		"images/base/btn_quit.png",
 		"images/base/btn_ranking.png",
 		"images/base/btn_reset.png",
