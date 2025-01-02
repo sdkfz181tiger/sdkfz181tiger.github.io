@@ -1,5 +1,5 @@
 {
-	"time": "2025/01/02 13:00:00",
+	"time": "2025/01/02 14:00:00",
 	"admob_int": 5,
 	"archives":[
 		"images.zip",
@@ -150,10 +150,8 @@
 		"images/base/box_240x360.png",
 		"images/base/btn_back.png",
 		"images/base/btn_bkg_32x32.png",
-		"images/base/btn_bkg_32x32_lock_a_01.png",
-		"images/base/btn_bkg_32x32_lock_a_02.png",
-		"images/base/btn_bkg_32x32_lock_b_01.png",
-		"images/base/btn_bkg_32x32_lock_b_02.png",
+		"images/base/btn_bkg_32x32_lock_01.png",
+		"images/base/btn_bkg_32x32_lock_02.png",
 		"images/base/btn_bkg_90x32.png",
 		"images/base/btn_lock.png",
 		"images/base/btn_quit.png",
