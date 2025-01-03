@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/03 19:00:00",
+	"timestamp": "2025/01/03 20:00:00",
 	"admob_int": 5,
 	"archives":[
 		"images.zip",
@@ -42,7 +42,8 @@
 			"name": "01",
 			"cols": 11,
 			"bkg": {
-				"file_name": "images/break/hoge.png",
+				"file_name": "images/break/bkg_128x128_01.png",
+				"rows": 2, "cols": 2,
 				"color": [99, 33, 33]
 			},
 			"map": [
@@ -55,7 +56,8 @@
 			"name": "02",
 			"cols": 11,
 			"bkg": {
-				"file_name": "images/break/hoge.png",
+				"file_name": "images/break/bkg_128x128_01.png",
+				"rows": 2, "cols": 2,
 				"color": [33, 99, 33]
 			},
 			"map": [
@@ -73,7 +75,8 @@
 			"name": "03",
 			"cols": 11,
 			"bkg": {
-				"file_name": "images/break/hoge.png",
+				"file_name": "images/break/bkg_128x128_01.png",
+				"rows": 2, "cols": 2,
 				"color": [33, 33, 99]
 			},
 			"map": [
@@ -89,7 +92,8 @@
 			"name": "04",
 			"cols": 11,
 			"bkg": {
-				"file_name": "images/break/hoge.png",
+				"file_name": "images/break/bkg_128x128_01.png",
+				"rows": 2, "cols": 2,
 				"color": [99, 99, 33]
 			},
 			"map": [
@@ -105,7 +109,8 @@
 			"name": "04",
 			"cols": 11,
 			"bkg": {
-				"file_name": "images/break/hoge.png",
+				"file_name": "images/break/bkg_128x128_01.png",
+				"rows": 2, "cols": 2,
 				"color": [99, 33, 99]
 			},
 			"map": [
