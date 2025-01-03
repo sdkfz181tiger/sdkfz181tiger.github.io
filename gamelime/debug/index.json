@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/03 22:00:00",
+	"timestamp": "2025/01/03 21:00:00",
 	"admob_int": 5,
 	"archives":[
 		"images.zip",
@@ -43,7 +43,7 @@
 			"cols": 11,
 			"bkg": {
 				"file_name": "images/break/bkg_128x128_01.png",
-				"rows": 4, "cols": 3, "color": [33, 33, 33]
+				"color": [33, 33, 33]
 			},
 			"map": [
 				14,14,14,14,14,14,14,14,14,14,14,
@@ -56,7 +56,7 @@
 			"cols": 11,
 			"bkg": {
 				"file_name": "images/break/bkg_128x128_01.png",
-				"rows": 4, "cols": 3, "color": [33, 33, 33]
+				"color": [33, 33, 33]
 			},
 			"map": [
 				 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0,
@@ -74,7 +74,7 @@
 			"cols": 11,
 			"bkg": {
 				"file_name": "images/break/bkg_128x128_01.png",
-				"rows": 4, "cols": 3, "color": [33, 33, 33]
+				"color": [33, 33, 33]
 			},
 			"map": [
 				 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -90,7 +90,7 @@
 			"cols": 11,
 			"bkg": {
 				"file_name": "images/break/bkg_128x128_01.png",
-				"rows": 4, "cols": 3, "color": [33, 33, 33]
+				"color": [33, 33, 33]
 			},
 			"map": [
 				 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0,
@@ -106,7 +106,7 @@
 			"cols": 11,
 			"bkg": {
 				"file_name": "images/break/bkg_128x128_01.png",
-				"rows": 4, "cols": 3, "color": [33, 33, 33]
+				"color": [33, 33, 33]
 			},
 			"map": [
 				 0, 0, 0,11,11,11,11,11, 0, 0, 0,
