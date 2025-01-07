@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/07 20:00:00",
+	"timestamp": "2025/01/07 21:00:00",
 	"admob_int": 5,
 	"archives":[
 		"images.zip",
@@ -255,7 +255,6 @@
 		"images/break/bkg_14x21_01.png",
 		"images/break/bkg_16x16_01.png",
 		"images/break/bkg_16x32_01.png",
-		"images/break/bkg_24x12_01.png",
 		"images/break/bkg_24x24_01.png",
 		"images/break/block_00_01.png",
 		"images/break/block_01_01.png",
