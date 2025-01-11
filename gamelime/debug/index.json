@@ -1,6 +1,6 @@
 {
-	"timestamp": "2025/01/07 22:00:00",
-	"admob_int": 5,
+	"timestamp": "2025/01/11 19:00:00",
+	"admob_int": 30,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
@@ -23,7 +23,7 @@
 	"block": {
 		"format": "images/break/block_%02d_%02d.png",
 		"scores": [
-			1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+			1, 2, 3, 4, 5, 6, 7, 8, 9,10,
 			8, 8, 3, 3, 3, 3, 3, 3, 3, 3,
 			6, 6, 6, 6
 		],
