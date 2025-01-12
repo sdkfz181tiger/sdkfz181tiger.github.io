@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/12 16:00:00",
+	"timestamp": "2025/01/12 19:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -32,7 +32,7 @@
 			"score": 1, "strength": 1
 		}, {
 			"file_name": "images/break/block_03_01.png",
-			"score": 1, "strength": 1
+			"score": 1, "strength": -1
 		}
 	],
 	"capsules": [
