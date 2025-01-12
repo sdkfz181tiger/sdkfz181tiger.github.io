@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/12 20:00:00",
+	"timestamp": "2025/01/12 23:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -23,34 +23,34 @@
 	"blocks": [
 		{
 			"format": "images/break/block_00_%02d.png",
-			"score": 0, "strength": 1
+			"key": "block", "score": 0, "strength": 1
 		}, {
 			"format": "images/break/block_01_%02d.png",
-			"score": 1, "strength": 1
+			"key": "block", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_02_%02d.png",
-			"score": 1, "strength": 1
+			"key": "block", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_03_%02d.png",
-			"score": 1, "strength": 1
+			"key": "block", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_04_%02d.png",
-			"score": 1, "strength": 1
+			"key": "block", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_05_%02d.png",
-			"score": 1, "strength": 1
+			"key": "block", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_06_%02d.png",
-			"score": 1, "strength": 1
+			"key": "block", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_07_%02d.png",
-			"score": 1, "strength": 1
+			"key": "block", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_08_%02d.png",
-			"score": 1, "strength": 1
+			"key": "block", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_99_%02d.png",
-			"score": 1, "strength": -1
+			"key": "block", "score": 0, "strength": -1
 		}
 	],
 	"capsules": [
