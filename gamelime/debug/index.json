@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/12 23:30:00",
+	"timestamp": "2025/01/13 12:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -23,34 +23,34 @@
 	"blocks": [
 		{
 			"format": "images/break/block_00_%02d.png",
-			"key": "block", "score": 0, "strength": 1
+			"key": "block0", "score": 0, "strength": 1
 		}, {
 			"format": "images/break/block_01_%02d.png",
-			"key": "block", "score": 1, "strength": 1
+			"key": "block1", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_02_%02d.png",
-			"key": "block", "score": 1, "strength": 1
+			"key": "block2", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_03_%02d.png",
-			"key": "block", "score": 1, "strength": 1
+			"key": "block3", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_04_%02d.png",
-			"key": "block", "score": 1, "strength": 1
+			"key": "block4", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_05_%02d.png",
-			"key": "block", "score": 1, "strength": 1
+			"key": "block5", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_06_%02d.png",
-			"key": "block", "score": 1, "strength": 1
+			"key": "block6", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_07_%02d.png",
-			"key": "block", "score": 1, "strength": 1
+			"key": "block7", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_08_%02d.png",
-			"key": "block", "score": 1, "strength": 1
+			"key": "block8", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_99_%02d.png",
-			"key": "block", "score": 0, "strength": -1
+			"key": "block9", "score": 0, "strength": -1
 		}
 	],
 	"capsules": [
