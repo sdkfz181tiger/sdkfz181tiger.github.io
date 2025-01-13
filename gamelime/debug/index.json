@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/13 19:00:00",
+	"timestamp": "2025/01/13 20:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -23,33 +23,43 @@
 	"blocks": [
 		{
 			"format": "images/break/block_00_%02d.png",
+			"icon": "images/foods/i_apple.png",
 			"key": "A0", "score": 0, "strength": 1
 		}, {
 			"format": "images/break/block_01_%02d.png",
+			"icon": "images/foods/i_banana.png",
 			"key": "A1", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_02_%02d.png",
+			"icon": "images/foods/i_blueberry.png",
 			"key": "A2", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_03_%02d.png",
+			"icon": "images/foods/i_broccoli.png",
 			"key": "A3", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_04_%02d.png",
+			"icon": "images/foods/i_cabbage.png",
 			"key": "A4", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_05_%02d.png",
+			"icon": "images/foods/i_carrot.png",
 			"key": "A5", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_06_%02d.png",
+			"icon": "images/foods/i_cherry.png",
 			"key": "A6", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_07_%02d.png",
+			"icon": "images/foods/i_corn.png",
 			"key": "A7", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_08_%02d.png",
+			"icon": "images/foods/i_eggplant.png",
 			"key": "A8", "score": 1, "strength": 1
 		}, {
 			"format": "images/break/block_99_%02d.png",
+			"icon": "images/foods/i_greenpep.png",
 			"key": "A9", "score": 0, "strength": -1
 		}
 	],
