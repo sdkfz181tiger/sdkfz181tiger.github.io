@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/13 21:00:00",
+	"timestamp": "2025/01/18 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -16,7 +16,7 @@
 		"normal": "player_bar_32",
 		"wide": "player_bar_48"
 	},
-	"bullet": {
+	"ball": {
 		"speed": 24,
 		"deg": 270
 	},
