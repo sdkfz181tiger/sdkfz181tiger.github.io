@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/18 23:30:00",
+	"timestamp": "2025/01/20 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -465,29 +465,16 @@
 		"images/yukkuri/reimu_01.png"
 	],
 	"ses": [
-		"sounds/se_fc_coin_01.wav",
-		"sounds/se_fc_down_01.wav", "sounds/se_fc_down_02.wav", 
-		"sounds/se_fc_hit_01.wav", "sounds/se_fc_hit_02.wav", "sounds/se_fc_hit_03.wav", "sounds/se_fc_hit_04.wav", 
-		"sounds/se_fc_hit_05.wav", "sounds/se_fc_hit_06.wav", "sounds/se_fc_hit_07.wav", "sounds/se_fc_hit_08.wav", 
-		"sounds/se_fc_hit_09.wav", "sounds/se_fc_hit_10.wav", "sounds/se_fc_hit_11.wav", "sounds/se_fc_hit_12.wav", 
-		"sounds/se_fc_hit_13.wav", 
-		"sounds/se_fc_jump_01.wav",
-		"sounds/se_fc_powerup_01.wav", "sounds/se_fc_powerup_02.wav", "sounds/se_fc_powerup_03.wav", "sounds/se_fc_powerup_04.wav", 
-		"sounds/se_fc_powerup_05.wav", "sounds/se_fc_powerup_06.wav", "sounds/se_fc_powerup_07.wav", "sounds/se_fc_powerup_08.wav", 
-		"sounds/se_fc_powerup_09.wav", "sounds/se_fc_powerup_10.wav", "sounds/se_fc_powerup_11.wav", 
-		"sounds/se_fc_select_01.wav", "sounds/se_fc_select_02.wav", "sounds/se_fc_select_03.wav", "sounds/se_fc_select_04.wav", 
-		"sounds/se_fc_select_05.wav", "sounds/se_fc_select_06.wav", "sounds/se_fc_select_07.wav", "sounds/se_fc_select_08.wav", 
-		"sounds/se_fc_select_09.wav", "sounds/se_fc_select_10.wav", "sounds/se_fc_select_11.wav", "sounds/se_fc_select_12.wav", 
-		"sounds/se_fc_shot_01.wav", "sounds/se_fc_shot_02.wav", "sounds/se_fc_shot_03.wav", "sounds/se_fc_shot_04.wav", 
-		"sounds/se_fc_shot_05.wav", "sounds/se_fc_shot_06.wav",
-		"sounds/jingle_fc_clear_01.wav", "sounds/jingle_fc_clear_02.wav",
-		"sounds/jingle_fc_curse_01.wav", "sounds/jingle_fc_curse_02.wav", "sounds/jingle_fc_curse_03.wav",
-		"sounds/jingle_fc_die_01.wav", "sounds/jingle_fc_die_02.wav", "sounds/jingle_fc_die_03.wav"
+		"sounds/jingle_gameclear_01.ogg", "sounds/jingle_gameclear_02.ogg", 
+		"sounds/jingle_gameover_01.ogg", "sounds/jingle_gameover_02.ogg", 
+		"sounds/se_bomg_01.ogg", "sounds/se_bomg_02.ogg", 
+		"sounds/se_bomg_03.ogg", "sounds/se_bomg_04.ogg", 
+		"sounds/se_bounce_01.ogg", "sounds/se_bounce_02.ogg", 
+		"sounds/se_btn_01.ogg", "sounds/se_btn_02.ogg"
 	],
 	"bgms": [
-		"sounds/bgm_iwa_donkusako.ogg",
-		"sounds/bgm_iwa_kami.ogg",
-		"sounds/bgm_iwa_yawarakai.ogg"
+		"sounds/bgm_sdd_c1.ogg",
+		"sounds/bgm_sdd_c7.ogg"
 	],
 	"sprite_sheets": [
 		{"file_name": "images/base/arr_m_w_7x7.png",    "frame_name": "arr_m_w_r",        "rows": 1, "cols": 5, "w":  7, "h":  7, "from":  0, "to":  4},
