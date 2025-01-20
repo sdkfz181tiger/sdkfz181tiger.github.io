@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/20 15:00:00",
+	"timestamp": "2025/01/20 16:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -467,8 +467,8 @@
 	"ses": [
 		"sounds/jingle_gameclear_01.ogg", "sounds/jingle_gameclear_02.ogg", 
 		"sounds/jingle_gameover_01.ogg", "sounds/jingle_gameover_02.ogg",
-		"sounds/se_bomg_01.ogg", "sounds/se_bomg_02.ogg", 
-		"sounds/se_bomg_03.ogg", "sounds/se_bomg_04.ogg", 
+		"sounds/se_bomb_01.ogg", "sounds/se_bomb_02.ogg", 
+		"sounds/se_bomb_03.ogg", "sounds/se_bomb_04.ogg", 
 		"sounds/se_bounce_01.ogg", "sounds/se_bounce_02.ogg", 
 		"sounds/se_btn_01.ogg", "sounds/se_btn_02.ogg",
 		"sounds/se_coin_01.ogg",
