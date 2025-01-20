@@ -466,15 +466,21 @@
 	],
 	"ses": [
 		"sounds/jingle_gameclear_01.ogg", "sounds/jingle_gameclear_02.ogg", 
-		"sounds/jingle_gameover_01.ogg", "sounds/jingle_gameover_02.ogg", 
+		"sounds/jingle_gameover_01.ogg", "sounds/jingle_gameover_02.ogg",
 		"sounds/se_bomg_01.ogg", "sounds/se_bomg_02.ogg", 
 		"sounds/se_bomg_03.ogg", "sounds/se_bomg_04.ogg", 
 		"sounds/se_bounce_01.ogg", "sounds/se_bounce_02.ogg", 
-		"sounds/se_btn_01.ogg", "sounds/se_btn_02.ogg"
+		"sounds/se_btn_01.ogg", "sounds/se_btn_02.ogg",
+		"sounds/se_coin_01.ogg",
+		"sounds/se_dialog_close_01.ogg",
+		"sounds/se_dialog_open_01.ogg",
+		"sounds/se_powerup_01.ogg", "sounds/se_powerup_02.ogg"
 	],
 	"bgms": [
 		"sounds/bgm_game_01.ogg", "sounds/bgm_game_02.ogg",
+		"sounds/bgm_ready_01.ogg",
 		"sounds/bgm_result_01.ogg", "sounds/bgm_result_02.ogg",
+		"sounds/bgm_stages_01.ogg",
 		"sounds/bgm_title_01.ogg", "sounds/bgm_title_02.ogg"
 	],
 	"sprite_sheets": [
