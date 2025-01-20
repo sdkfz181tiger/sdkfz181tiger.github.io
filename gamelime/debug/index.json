@@ -473,8 +473,9 @@
 		"sounds/se_btn_01.ogg", "sounds/se_btn_02.ogg"
 	],
 	"bgms": [
-		"sounds/bgm_sdd_c1.ogg",
-		"sounds/bgm_sdd_c7.ogg"
+		"sounds/bgm_game_01.ogg", "sounds/bgm_game_02.ogg",
+		"sounds/bgm_result_01.ogg", "sounds/bgm_result_02.ogg",
+		"sounds/bgm_title_01.ogg", "sounds/bgm_title_02.ogg"
 	],
 	"sprite_sheets": [
 		{"file_name": "images/base/arr_m_w_7x7.png",    "frame_name": "arr_m_w_r",        "rows": 1, "cols": 5, "w":  7, "h":  7, "from":  0, "to":  4},
