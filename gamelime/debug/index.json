@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/21 22:00:00",
+	"timestamp": "2025/01/22 23:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -59,15 +59,23 @@
 			"key": "A3", "strength": -1
 		}
 	],
-	"items": [
-		{"name": "",        "frame_name": "",          "weight": 20, "speed": -1, "split": -1},
-		{"name": "SLOW",    "frame_name": "capsule_s", "weight": 10, "speed":  8, "split": -1},
-		{"name": "FAST",    "frame_name": "capsule_f", "weight": 10, "speed": 48, "split": -1},
-		{"name": "NARROW",  "frame_name": "capsule_n", "weight": 10, "speed": -1, "split": -1},
-		{"name": "WIDE",    "frame_name": "capsule_w", "weight": 10, "speed": -1, "split": -1},
-		{"name": "DOUBLE",  "frame_name": "capsule_d", "weight": 10, "speed": -1, "split":  2},
-		{"name": "TRIPPLE", "frame_name": "capsule_t", "weight": 10, "speed": -1, "split":  16}
-	],
+	"items": {
+		"capsules": [
+			{"name": "",        "frame_name": "",          "weight": 20, "score": 0, "speed": -1, "split": -1},
+			{"name": "SLOW",    "frame_name": "capsule_s", "weight": 10, "score": 0, "speed":  8, "split": -1},
+			{"name": "FAST",    "frame_name": "capsule_f", "weight": 10, "score": 0, "speed": 48, "split": -1},
+			{"name": "NARROW",  "frame_name": "capsule_n", "weight": 10, "score": 0, "speed": -1, "split": -1},
+			{"name": "WIDE",    "frame_name": "capsule_w", "weight": 10, "score": 0, "speed": -1, "split": -1},
+			{"name": "DOUBLE",  "frame_name": "capsule_d", "weight": 10, "score": 0, "speed": -1, "split":  2},
+			{"name": "TRIPPLE", "frame_name": "capsule_t", "weight": 10, "score": 0, "speed": -1, "split": 16}
+		],
+		"fruits": [
+			{"name": "",        "file_name": "",                          "weight": 40, "score":  0},
+			{"name": "FRUITS",  "file_name": "images/foods/i_apple.png",  "weight": 30, "score": 10},
+			{"name": "FRUITS",  "file_name": "images/foods/i_banana.png", "weight": 20, "score": 20},
+			{"name": "FRUITS",  "file_name": "images/foods/i_cherry.png", "weight": 10, "score": 30}
+		]
+	},
 	"stages":[
 		{
 			"name": "00",
