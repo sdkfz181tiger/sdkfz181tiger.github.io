@@ -23,7 +23,7 @@
 	"scores": {
 		"A0": {"score": 0, "icon": ""},
 		"A1": {"score": 1, "icon": "images/foods/i_apple.png"},
-		"A2": {"score": 2, "icon": "images/foods/i_banana.png"},
+		"A2": {"score": 2, "icon": "images/foods/i_bberry.png"},
 		"A3": {"score": 3, "icon": "images/foods/i_cherry.png"}
 	},
 	"blocks": [
@@ -70,10 +70,10 @@
 			{"key": "TRIPPLE", "file_name": "images/base/box_12x12.png", "frame_name": "capsule_t", "weight": 10, "score": 0, "speed": -1, "split": 16}
 		],
 		"fruits": [
-			{"key": "",        "file_name": "images/base/box_12x12.png", "frame_name": "", "weight":  0, "score":  0, "speed": -1, "split": -1},
-			{"key": "FRUITS",  "file_name": "images/foods/i_apple.png",  "frame_name": "", "weight": 50, "score": 10, "speed": -1, "split": -1},
-			{"key": "FRUITS",  "file_name": "images/foods/i_banana.png", "frame_name": "", "weight": 30, "score": 20, "speed": -1, "split": -1},
-			{"key": "FRUITS",  "file_name": "images/foods/i_cherry.png", "frame_name": "", "weight": 20, "score": 30, "speed": -1, "split": -1}
+			{"key": "",        "file_name": "images/base/box_12x12.png", "frame_name": "",             "weight":  0, "score":  0, "speed": -1, "split": -1},
+			{"key": "FRUITS",  "file_name": "images/base/box_12x12.png", "frame_name": "i_apple_hop",  "weight": 50, "score": 10, "speed": -1, "split": -1},
+			{"key": "FRUITS",  "file_name": "images/base/box_12x12.png", "frame_name": "i_bberry_hop", "weight": 30, "score": 20, "speed": -1, "split": -1},
+			{"key": "FRUITS",  "file_name": "images/base/box_12x12.png", "frame_name": "i_cherry_hop", "weight": 20, "score": 30, "speed": -1, "split": -1}
 		]
 	},
 	"stages":[
