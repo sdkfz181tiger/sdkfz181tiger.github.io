@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/25 21:00:00",
+	"timestamp": "2025/01/25 22:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -614,9 +614,9 @@
 		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_sleep",       "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_search",      "rows":11, "cols": 5, "w": 16, "h": 16, "from": 50, "to": 54},
-		{"file_name": "images/foods/i_apple_hop.png",   "frame_name": "i_apple_hop",      "rows": 1, "cols": 6, "w":  8, "h":  8, "from":  0, "to":  5},
-		{"file_name": "images/foods/i_bberry_hop.png",  "frame_name": "i_bberry_hop",     "rows": 1, "cols": 6, "w":  8, "h":  8, "from":  0, "to":  5},
-		{"file_name": "images/foods/i_cherry_hop.png",  "frame_name": "i_cherry_hop",     "rows": 1, "cols": 6, "w":  8, "h":  8, "from":  0, "to":  5},
+		{"file_name": "images/foods/i_apple_hop.png",   "frame_name": "i_apple_hop",      "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
+		{"file_name": "images/foods/i_bberry_hop.png",  "frame_name": "i_bberry_hop",     "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
+		{"file_name": "images/foods/i_cherry_hop.png",  "frame_name": "i_cherry_hop",     "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
 		{"file_name": "images/post/postman_01.png",     "frame_name": "cat_drive",        "rows": 1, "cols": 5, "w": 50, "h": 50, "from":  0, "to":  4},
 		{"file_name": "images/post/postman_01.png",     "frame_name": "cat_down",         "rows": 2, "cols": 5, "w": 50, "h": 50, "from":  5, "to":  9},
 		{"file_name": "images/post/postman_01.png",     "frame_name": "cat_run",          "rows": 3, "cols": 5, "w": 50, "h": 50, "from": 10, "to": 14},
