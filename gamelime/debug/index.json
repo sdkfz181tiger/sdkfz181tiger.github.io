@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/26 14:00:00",
+	"timestamp": "2025/01/26 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -19,14 +19,6 @@
 	"ball": {
 		"speed": 24,
 		"deg": 270
-	},
-	"scores": {
-		"APPLE":    {"score": 1, "icon": "images/foods/i_apple.png"},
-		"BANANA":   {"score": 2, "icon": "images/foods/i_banana.png"},
-		"BBERRY":   {"score": 3, "icon": "images/foods/i_cherry.png"},
-		"BROCCOLI": {"score": 4, "icon": "images/foods/i_broccoli.png"},
-		"CABBAGE":  {"score": 5, "icon": "images/foods/i_cabbage.png"},
-		"CARROT":   {"score": 6, "icon": "images/foods/i_carrot.png"}
 	},
 	"blocks": [
 		{
@@ -51,6 +43,14 @@
 			"format": "images/break/block_99_%02d.png", "strength": -1
 		}
 	],
+	"scores": {
+		"APPLE":    {"score": 1, "icon": "images/foods/i_apple.png"},
+		"BANANA":   {"score": 2, "icon": "images/foods/i_banana.png"},
+		"BBERRY":   {"score": 3, "icon": "images/foods/i_cherry.png"},
+		"BROCCOLI": {"score": 4, "icon": "images/foods/i_broccoli.png"},
+		"CABBAGE":  {"score": 5, "icon": "images/foods/i_cabbage.png"},
+		"CARROT":   {"score": 6, "icon": "images/foods/i_carrot.png"}
+	},
 	"items": {
 		"capsules": [
 			{"key": "",        "file_name": "",                           "frame_name": "",          "weight":  0, "speed": -1, "split": -1},
@@ -61,7 +61,7 @@
 			{"key": "DOUBLE",  "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_d", "weight": 10, "speed": -1, "split":  2},
 			{"key": "TRIPPLE", "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_t", "weight": 10, "speed": -1, "split": 16}
 		],
-		"fruits": [
+		"foods": [
 			{"key": "",         "file_name": "",                          "frame_name": "",           "weight": 50, "speed": -1, "split": -1},
 			{"key": "APPLE",    "file_name": "images/base/box_12x12.png", "frame_name": "i_apple",    "weight": 10, "speed": -1, "split": -1},
 			{"key": "BANANA",   "file_name": "images/base/box_12x12.png", "frame_name": "i_banana",   "weight": 10, "speed": -1, "split": -1},
