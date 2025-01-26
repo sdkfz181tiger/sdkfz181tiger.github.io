@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/01/26 13:00:00",
+	"timestamp": "2025/01/26 14:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -59,10 +59,10 @@
 			{"key": "TRIPPLE", "file_name": "images/base/box_12x12.png", "frame_name": "capsule_t", "weight": 10, "speed": -1, "split": 16}
 		],
 		"fruits": [
-			{"key": "",       "file_name": "",                          "frame_name": "",             "weight": 80, "speed": -1, "split": -1},
-			{"key": "APPLE",  "file_name": "images/base/box_12x12.png", "frame_name": "i_apple_hop",  "weight": 10, "speed": -1, "split": -1},
-			{"key": "BBERRY", "file_name": "images/base/box_12x12.png", "frame_name": "i_bberry_hop", "weight": 10, "speed": -1, "split": -1},
-			{"key": "CHERRY", "file_name": "images/base/box_12x12.png", "frame_name": "i_cherry_hop", "weight": 10, "speed": -1, "split": -1}
+			{"key": "",        "file_name": "",                          "frame_name": "",          "weight": 80, "speed": -1, "split": -1},
+			{"key": "APPLE",   "file_name": "images/base/box_12x12.png", "frame_name": "i_apple",   "weight": 10, "speed": -1, "split": -1},
+			{"key": "BBERRY",  "file_name": "images/base/box_12x12.png", "frame_name": "i_bberry",  "weight": 10, "speed": -1, "split": -1},
+			{"key": "CHERRY",  "file_name": "images/base/box_12x12.png", "frame_name": "i_cherry",  "weight": 10, "speed": -1, "split": -1}
 		]
 	},
 	"stages":[
@@ -367,7 +367,7 @@
 		"images/foods/i_sberry.png",
 		"images/foods/i_soybeans.png",
 		"images/foods/i_tomato.png",
-		"images/foods/i_watermelon.png",
+		"images/foods/i_wmelon.png",
 		"images/post/mail_01.png",
 		"images/post/postman_01.png",
 		"images/post/c_boy_01.png",
@@ -603,9 +603,29 @@
 		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_sleep",       "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 		{"file_name": "images/chickens/wolf_01.png",    "frame_name": "wolf_search",      "rows":11, "cols": 5, "w": 16, "h": 16, "from": 50, "to": 54},
-		{"file_name": "images/foods/i_apple_hop.png",   "frame_name": "i_apple_hop",      "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
-		{"file_name": "images/foods/i_bberry_hop.png",  "frame_name": "i_bberry_hop",     "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
-		{"file_name": "images/foods/i_cherry_hop.png",  "frame_name": "i_cherry_hop",     "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_apple",          "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_banana",         "rows": 2, "cols":10, "w":  8, "h":  8, "from": 10, "to": 19},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_bberry",         "rows": 3, "cols":10, "w":  8, "h":  8, "from": 20, "to": 29},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_broccoli",       "rows": 4, "cols":10, "w":  8, "h":  8, "from": 30, "to": 39},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_cabbage",        "rows": 5, "cols":10, "w":  8, "h":  8, "from": 40, "to": 49},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_carrot",         "rows": 6, "cols":10, "w":  8, "h":  8, "from": 50, "to": 59},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_cherry",         "rows": 7, "cols":10, "w":  8, "h":  8, "from": 60, "to": 69},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_corn",           "rows": 8, "cols":10, "w":  8, "h":  8, "from": 70, "to": 79},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_eggplant",       "rows": 9, "cols":10, "w":  8, "h":  8, "from": 80, "to": 89},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_greenpep",       "rows":10, "cols":10, "w":  8, "h":  8, "from": 90, "to": 99},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_leek",           "rows":11, "cols":10, "w":  8, "h":  8, "from":100, "to":109},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_lemon",          "rows":12, "cols":10, "w":  8, "h":  8, "from":110, "to":119},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_onion",          "rows":13, "cols":10, "w":  8, "h":  8, "from":120, "to":129},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_orange",         "rows":14, "cols":10, "w":  8, "h":  8, "from":130, "to":139},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_peach",          "rows":15, "cols":10, "w":  8, "h":  8, "from":140, "to":149},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_persimmon",      "rows":16, "cols":10, "w":  8, "h":  8, "from":150, "to":159},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_pumpkin",        "rows":17, "cols":10, "w":  8, "h":  8, "from":160, "to":169},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_radish",         "rows":18, "cols":10, "w":  8, "h":  8, "from":170, "to":179},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_redhot",         "rows":19, "cols":10, "w":  8, "h":  8, "from":180, "to":189},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_sberry",         "rows":20, "cols":10, "w":  8, "h":  8, "from":190, "to":199},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_soybeans",       "rows":21, "cols":10, "w":  8, "h":  8, "from":200, "to":209},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_tomato",         "rows":22, "cols":10, "w":  8, "h":  8, "from":210, "to":219},
+		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_wmelon",         "rows":23, "cols":10, "w":  8, "h":  8, "from":220, "to":229},
 		{"file_name": "images/post/postman_01.png",     "frame_name": "cat_drive",        "rows": 1, "cols": 5, "w": 50, "h": 50, "from":  0, "to":  4},
 		{"file_name": "images/post/postman_01.png",     "frame_name": "cat_down",         "rows": 2, "cols": 5, "w": 50, "h": 50, "from":  5, "to":  9},
 		{"file_name": "images/post/postman_01.png",     "frame_name": "cat_run",          "rows": 3, "cols": 5, "w": 50, "h": 50, "from": 10, "to": 14},
