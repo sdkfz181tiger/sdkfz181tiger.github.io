@@ -71,6 +71,9 @@
 			{"key": "CARROT",   "file_name": "images/base/box_12x12.png", "frame_name": "i_carrot",   "weight": 10, "speed": -1, "split": -1}
 		]
 	},
+	"monsters": {
+		"KAPPA": {"strength": 10}
+	},
 	"stages":[
 		{
 			"name": "00",
