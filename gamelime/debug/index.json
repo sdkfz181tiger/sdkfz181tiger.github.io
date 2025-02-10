@@ -64,7 +64,7 @@
 			{"key": "WIDE",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_w", "weight": 10, "speed": -1, "split": -1},
 			{"key": "DOUBLE",  "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_d", "weight": 10, "speed": -1, "split":  8},
 			{"key": "TRIPPLE", "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_t", "weight": 10, "speed": -1, "split": 16},
-			{"key": "",        "file_name": "",                           "frame_name": "",          "weight": 90, "speed": -1, "split": -1}
+			{"key": "",        "file_name": "images/base/box_12x12.png",  "frame_name": "",          "weight": 90, "speed": -1, "split": -1}
 		],
 		"foods": [
 			{"key": "APPLE",    "file_name": "images/base/box_12x12.png", "frame_name": "i_apple",    "weight": 10, "speed": -1, "split": -1},
@@ -73,7 +73,7 @@
 			{"key": "BROCCOLI", "file_name": "images/base/box_12x12.png", "frame_name": "i_broccoli", "weight": 10, "speed": -1, "split": -1},
 			{"key": "CABBAGE",  "file_name": "images/base/box_12x12.png", "frame_name": "i_cabbage",  "weight": 10, "speed": -1, "split": -1},
 			{"key": "CARROT",   "file_name": "images/base/box_12x12.png", "frame_name": "i_carrot",   "weight": 10, "speed": -1, "split": -1},
-			{"key": "",         "file_name": "",                          "frame_name": "",           "weight": 50, "speed": -1, "split": -1}
+			{"key": "",         "file_name": "images/base/box_12x12.png", "frame_name": "",           "weight": 50, "speed": -1, "split": -1}
 		]
 	},
 	"monsters": {
