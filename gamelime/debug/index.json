@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/07 16:00:00",
+	"timestamp": "2025/02/10 16:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -43,6 +43,11 @@
 			"format": "images/break/block_99_%02d.png", "strength": -1
 		}
 	],
+	"monsters": [
+		{
+			"frames": "kappa_%s", "life": 1
+		}
+	],
 	"scores": {
 		"APPLE":    {"score": 1, "icon": "images/foods/i_apple.png"},
 		"BANANA":   {"score": 2, "icon": "images/foods/i_banana.png"},
@@ -54,12 +59,7 @@
 	"items": {
 		"capsules": [
 			{"key": "",        "file_name": "",                           "frame_name": "",          "weight":  0, "speed": -1, "split": -1},
-			{"key": "SLOW",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_s", "weight": 10, "speed":  8, "split": -1},
-			{"key": "FAST",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_f", "weight": 10, "speed": 48, "split": -1},
-			{"key": "NARROW",  "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_n", "weight": 10, "speed": -1, "split": -1},
-			{"key": "WIDE",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_w", "weight": 10, "speed": -1, "split": -1},
-			{"key": "DOUBLE",  "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_d", "weight": 10, "speed": -1, "split":  2},
-			{"key": "TRIPPLE", "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_t", "weight": 10, "speed": -1, "split": 16}
+			{"key": "SLOW",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_s", "weight": 10, "speed":  8, "split": -1}
 		],
 		"foods": [
 			{"key": "",         "file_name": "",                          "frame_name": "",           "weight": 50, "speed": -1, "split": -1},
