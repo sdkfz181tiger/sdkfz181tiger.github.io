@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/10 23:00:00",
+	"timestamp": "2025/02/11 13:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -547,6 +547,8 @@
 		{"file_name": "images/break/player_bar_24.png", "frame_name": "player_bar_24",    "rows": 1, "cols": 5, "w": 24, "h":  8, "from":  0, "to":  4},
 		{"file_name": "images/break/player_bar_32.png", "frame_name": "player_bar_32",    "rows": 1, "cols": 5, "w": 32, "h":  8, "from":  0, "to":  4},
 		{"file_name": "images/break/player_bar_48.png", "frame_name": "player_bar_48",    "rows": 1, "cols": 5, "w": 48, "h":  8, "from":  0, "to":  4},
+		{"file_name": "images/break/spawner_01.png",    "frame_name": "spawner_r",        "rows": 1, "cols": 8, "w": 12, "h": 12, "from":  0, "to":  7},
+		{"file_name": "images/break/spawner_01.png",    "frame_name": "spawner_l",        "rows": 2, "cols": 8, "w": 12, "h": 12, "from":  8, "to": 15},
 		{"file_name": "images/chickens/egg_a.png",      "frame_name": "egg_a",            "rows": 3, "cols": 5, "w":  5, "h":  8, "from":  0, "to": 14},
 		{"file_name": "images/chickens/egg_b.png",      "frame_name": "egg_b",            "rows": 3, "cols": 5, "w": 10, "h": 12, "from":  0, "to": 14},
 		{"file_name": "images/chickens/chick_a.png",    "frame_name": "chick_a_f",        "rows": 1, "cols": 5, "w":  9, "h":  9, "from":  0, "to":  4},
