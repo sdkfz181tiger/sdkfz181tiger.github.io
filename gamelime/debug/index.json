@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/15 20:00:00",
+	"timestamp": "2025/02/15 21:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -30,22 +30,22 @@
 	},
 	"items": {
 		"capsules": [
-			{"key": "SLOW",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_s", "weight":  0, "speed":  8, "split": -1},
-			{"key": "FAST",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_f", "weight": 10, "speed": 48, "split": -1},
-			{"key": "NARROW",  "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_n", "weight":  0, "speed": -1, "split": -1},
-			{"key": "WIDE",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_w", "weight":  0, "speed": -1, "split": -1},
-			{"key": "DOUBLE",  "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_d", "weight":  0, "speed": -1, "split":  8},
-			{"key": "TRIPPLE", "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_t", "weight": 10, "speed": -1, "split": 16},
-			{"key": "",        "file_name": "images/base/box_12x12.png",  "frame_name": "",          "weight":  0, "speed": -1, "split": -1}
+			{"key": "",        "file_name": "images/base/box_12x12.png",  "frame_name": "",          "weight": 70, "speed": -1, "split": -1},
+			{"key": "SLOW",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_s", "weight": 60, "speed":  8, "split": -1},
+			{"key": "FAST",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_f", "weight": 50, "speed": 48, "split": -1},
+			{"key": "NARROW",  "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_n", "weight": 40, "speed": -1, "split": -1},
+			{"key": "WIDE",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_w", "weight": 30, "speed": -1, "split": -1},
+			{"key": "DOUBLE",  "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_d", "weight": 20, "speed": -1, "split":  8},
+			{"key": "TRIPPLE", "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_t", "weight": 10, "speed": -1, "split": 16}
 		],
 		"foods": [
+			{"key": "",        "file_name": "images/base/box_12x12.png", "frame_name": "",           "weight": 60, "speed": -1, "split": -1},
 			{"key": "APPLE",   "file_name": "images/base/box_12x12.png", "frame_name": "i_apple",    "weight": 40, "speed": -1, "split": -1},
 			{"key": "BANANA",  "file_name": "images/base/box_12x12.png", "frame_name": "i_banana",   "weight": 30, "speed": -1, "split": -1},
 			{"key": "CHERRY",  "file_name": "images/base/box_12x12.png", "frame_name": "i_cherry",   "weight": 20, "speed": -1, "split": -1},
 			{"key": "BLBERRY", "file_name": "images/base/box_12x12.png", "frame_name": "i_bberry",   "weight": 10, "speed": -1, "split": -1},
 			{"key": "STBERRY", "file_name": "images/base/box_12x12.png", "frame_name": "i_sberry",   "weight":  8, "speed": -1, "split": -1},
-			{"key": "PEACH",   "file_name": "images/base/box_12x12.png", "frame_name": "i_peach",    "weight":  2, "speed": -1, "split": -1},
-			{"key": "",        "file_name": "images/base/box_12x12.png", "frame_name": "",           "weight":  0, "speed": -1, "split": -1}
+			{"key": "PEACH",   "file_name": "images/base/box_12x12.png", "frame_name": "i_peach",    "weight":  2, "speed": -1, "split": -1}
 		]
 	},
 	"objects": {
