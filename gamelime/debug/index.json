@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/16 15:00:00",
+	"timestamp": "2025/02/16 12:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -372,10 +372,10 @@
 		"images/base/frame_left.png",
 		"images/base/frame_right.png",
 		"images/base/frame_top.png",
-		"images/break/bkg_8x8_01.png",
-		"images/break/bkg_16x16_01.png",
-		"images/break/bkg_16x32_01.png",
-		"images/break/bkg_24x24_01.png",
+		"images/break/bkg_01.png",
+		"images/break/bkg_02.png",
+		"images/break/bkg_03.png",
+		"images/break/bkg_04.png",
 		"images/break/block_00_01.png",
 		"images/break/block_01_01.png",
 		"images/break/block_02_01.png",
