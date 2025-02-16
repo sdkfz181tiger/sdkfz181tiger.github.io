@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/16 12:00:00",
+	"timestamp": "2025/02/16 13:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -181,7 +181,7 @@
 				"09999099990"
 			]
 		}, {
-			"name": "06",
+			"name": "07",
 			"title": "WINDING1",
 			"bkg": {
 				"file_name": "images/break/bkg_01.png",
@@ -200,7 +200,7 @@
 				"00555555555"
 			]
 		}, {
-			"name": "07",
+			"name": "08",
 			"title": "WINDING2",
 			"bkg": {
 				"file_name": "images/break/bkg_02.png",
@@ -219,7 +219,7 @@
 				"99999999900"
 			]
 		}, {
-			"name": "07",
+			"name": "09",
 			"title": "WINDING3",
 			"bkg": {
 				"file_name": "images/break/bkg_03.png",
