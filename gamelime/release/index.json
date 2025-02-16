@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/15 16:00:00",
+	"timestamp": "2025/02/16 13:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -21,31 +21,31 @@
 		"deg": 270
 	},
 	"scores": {
-		"APPLE":    {"score": 1, "icon": "images/foods/i_apple.png"},
-		"BANANA":   {"score": 2, "icon": "images/foods/i_banana.png"},
-		"BBERRY":   {"score": 3, "icon": "images/foods/i_cherry.png"},
-		"BROCCOLI": {"score": 4, "icon": "images/foods/i_broccoli.png"},
-		"CABBAGE":  {"score": 5, "icon": "images/foods/i_cabbage.png"},
-		"CARROT":   {"score": 6, "icon": "images/foods/i_carrot.png"}
+		"APPLE":   {"score":  2, "icon": "images/foods/i_apple.png"},
+		"BANANA":  {"score":  4, "icon": "images/foods/i_banana.png"},
+		"CHERRY":  {"score":  8, "icon": "images/foods/i_cherry.png"},
+		"BLBERRY": {"score": 16, "icon": "images/foods/i_bberry.png"},
+		"STBERRY": {"score": 32, "icon": "images/foods/i_sberry.png"},
+		"PEACH":   {"score": 64, "icon": "images/foods/i_peach.png"}
 	},
 	"items": {
 		"capsules": [
-			{"key": "SLOW",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_s", "weight":  0, "speed":  8, "split": -1},
-			{"key": "FAST",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_f", "weight": 10, "speed": 48, "split": -1},
-			{"key": "NARROW",  "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_n", "weight":  0, "speed": -1, "split": -1},
-			{"key": "WIDE",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_w", "weight":  0, "speed": -1, "split": -1},
-			{"key": "DOUBLE",  "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_d", "weight":  0, "speed": -1, "split":  8},
-			{"key": "TRIPPLE", "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_t", "weight": 10, "speed": -1, "split": 16},
-			{"key": "",        "file_name": "images/base/box_12x12.png",  "frame_name": "",          "weight":  0, "speed": -1, "split": -1}
+			{"key": "",        "file_name": "images/base/box_12x12.png",  "frame_name": "",          "weight": 70, "speed": -1, "split": -1},
+			{"key": "SLOW",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_s", "weight": 60, "speed":  8, "split": -1},
+			{"key": "FAST",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_f", "weight": 50, "speed": 48, "split": -1},
+			{"key": "NARROW",  "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_n", "weight": 40, "speed": -1, "split": -1},
+			{"key": "WIDE",    "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_w", "weight": 30, "speed": -1, "split": -1},
+			{"key": "DOUBLE",  "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_d", "weight": 20, "speed": -1, "split":  8},
+			{"key": "TRIPPLE", "file_name": "images/base/box_12x12.png",  "frame_name": "capsule_t", "weight": 10, "speed": -1, "split": 16}
 		],
 		"foods": [
-			{"key": "APPLE",    "file_name": "images/base/box_12x12.png", "frame_name": "i_apple",    "weight": 10, "speed": -1, "split": -1},
-			{"key": "BANANA",   "file_name": "images/base/box_12x12.png", "frame_name": "i_banana",   "weight": 10, "speed": -1, "split": -1},
-			{"key": "BBERRY",   "file_name": "images/base/box_12x12.png", "frame_name": "i_bberry",   "weight": 10, "speed": -1, "split": -1},
-			{"key": "BROCCOLI", "file_name": "images/base/box_12x12.png", "frame_name": "i_broccoli", "weight": 10, "speed": -1, "split": -1},
-			{"key": "CABBAGE",  "file_name": "images/base/box_12x12.png", "frame_name": "i_cabbage",  "weight": 10, "speed": -1, "split": -1},
-			{"key": "CARROT",   "file_name": "images/base/box_12x12.png", "frame_name": "i_carrot",   "weight": 10, "speed": -1, "split": -1},
-			{"key": "",         "file_name": "images/base/box_12x12.png", "frame_name": "",           "weight":  0, "speed": -1, "split": -1}
+			{"key": "",        "file_name": "images/base/box_12x12.png", "frame_name": "",           "weight": 60, "speed": -1, "split": -1},
+			{"key": "APPLE",   "file_name": "images/base/box_12x12.png", "frame_name": "i_apple",    "weight": 40, "speed": -1, "split": -1},
+			{"key": "BANANA",  "file_name": "images/base/box_12x12.png", "frame_name": "i_banana",   "weight": 30, "speed": -1, "split": -1},
+			{"key": "CHERRY",  "file_name": "images/base/box_12x12.png", "frame_name": "i_cherry",   "weight": 20, "speed": -1, "split": -1},
+			{"key": "BLBERRY", "file_name": "images/base/box_12x12.png", "frame_name": "i_bberry",   "weight": 10, "speed": -1, "split": -1},
+			{"key": "STBERRY", "file_name": "images/base/box_12x12.png", "frame_name": "i_sberry",   "weight":  8, "speed": -1, "split": -1},
+			{"key": "PEACH",   "file_name": "images/base/box_12x12.png", "frame_name": "i_peach",    "weight":  2, "speed": -1, "split": -1}
 		]
 	},
 	"objects": {
@@ -54,91 +54,191 @@
 		"2": {"type": "block",   "format": "images/break/block_02_%02d.png", "life": 1},
 		"3": {"type": "block",   "format": "images/break/block_03_%02d.png", "life": 1},
 		"4": {"type": "block",   "format": "images/break/block_04_%02d.png", "life": 1},
-		"5": {"type": "block",   "format": "images/break/block_05_%02d.png", "life": 1},
-		"6": {"type": "block",   "format": "images/break/block_06_%02d.png", "life": 1},
-		"7": {"type": "block",   "format": "images/break/block_07_%02d.png", "life": 1},
-		"8": {"type": "block",   "format": "images/break/block_08_%02d.png", "life": 1},
-		"9": {"type": "block",   "format": "images/break/block_99_%02d.png", "life": -1},
+		"5": {"type": "block",   "format": "images/break/block_05_%02d.png", "life": 3},
+		"6": {"type": "block",   "format": "images/break/block_06_%02d.png", "life": 4},
+		"7": {"type": "block",   "format": "images/break/block_07_%02d.png", "life": 5},
+		"8": {"type": "block",   "format": "images/break/rock_01_%02d.png",  "life": 8},
+		"9": {"type": "block",   "format": "images/break/wall_01_%02d.png",  "life":-1},
 		"a": {"type": "monster", "format": "bozu",  "life": 3},
 		"b": {"type": "monster", "format": "kappa", "life": 3},
 		"c": {"type": "monster", "format": "oni_b", "life": 3}
 	},
 	"stages":[
 		{
-			"name": "00",
-			"bkg": {
-				"file_name": "images/break/bkg_8x8_01.png",
-				"color": [33, 33, 33]
-			},
-			"map": [
-				"00000000000",
-				"00a00b00c00",
-				"00000000000",
-				"00111111100",
-				"00222222200",
-				"00333333300"
-			]
-		}, {
 			"name": "01",
+			"title": "WELCOME",
 			"bkg": {
-				"file_name": "images/break/bkg_8x8_01.png",
+				"file_name": "images/break/bkg_01.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
 				"00000000000",
 				"00000a00000",
 				"00000000000",
-				"00110001100",
-				"02222022220",
-				"00330002200"
+				"00111111100",
+				"00222222200",
+				"00333333300"
 			]
 		}, {
 			"name": "02",
+			"title": "DOUBLE",
 			"bkg": {
-				"file_name": "images/break/bkg_16x16_01.png",
+				"file_name": "images/break/bkg_02.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
 				"00000000000",
-				"00a00a00a00",
+				"000a000a000",
 				"00000000000",
-				"00011111000",
+				"00111111100",
 				"00222222200",
-				"03333333330",
+				"00333333300",
+				"00000000000",
+				"00000a00000",
+				"00000000000",
+				"00111111100",
 				"00222222200",
-				"00011111000"
+				"00333333300"
 			]
 		}, {
 			"name": "03",
+			"title": "TRIPPLE",
 			"bkg": {
-				"file_name": "images/break/bkg_16x32_01.png",
+				"file_name": "images/break/bkg_03.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
 				"00000000000",
-				"00a00a00a00",
+				"00000c00000",
 				"00000000000",
-				"00011111000",
+				"00111111100",
 				"00222222200",
-				"03333333330",
-				"00222222200",
-				"00011111000"
+				"00000000000",
+				"00000b00000",
+				"33300000333",
+				"44400000444",
+				"00000a00000",
+				"00000000000",
+				"00555555500",
+				"00666666600"
 			]
 		}, {
 			"name": "04",
+			"title": "PYRAMID",
 			"bkg": {
-				"file_name": "images/break/bkg_24x24_01.png",
+				"file_name": "images/break/bkg_01.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
 				"00000000000",
-				"00a00a00a00",
+				"00000b00000",
+				"00a00000a00",
+				"00000100000",
+				"00002220000",
+				"00033333000",
+				"00440004400",
+				"05550c05550",
+				"00440004400",
+				"00033333000",
+				"00002220000",
+				"00000100000"
+			]
+		}, {
+			"name": "05",
+			"title": "HOUSE1",
+			"bkg": {
+				"file_name": "images/break/bkg_02.png",
+				"color": [33, 33, 33]
+			},
+			"map": [
 				"00000000000",
-				"00011111000",
-				"00222222200",
-				"03333333330",
-				"00222222200",
-				"00011111000"
+				"00000000000",
+				"00003330000",
+				"00022222000",
+				"00111111100",
+				"00900000900",
+				"0090b0b0900",
+				"00900c00900",
+				"00900000900",
+				"00900000900",
+				"00999999900"
+			]
+		}, {
+			"name": "06",
+			"title": "HOUSE2",
+			"bkg": {
+				"file_name": "images/break/bkg_03.png",
+				"color": [33, 33, 33]
+			},
+			"map": [
+				"00000000000",
+				"00000a00000",
+				"00220002200",
+				"01111011110",
+				"09009090090",
+				"090b909b090",
+				"09009090090",
+				"09999099990"
+			]
+		}, {
+			"name": "07",
+			"title": "WINDING1",
+			"bkg": {
+				"file_name": "images/break/bkg_01.png",
+				"color": [33, 33, 33]
+			},
+			"map": [
+				"00000000000",
+				"0c0b0000000",
+				"00000000000",
+				"666666660c0",
+				"00000000000",
+				"00000000000",
+				"0b055555555",
+				"00000000000",
+				"00000000000",
+				"666666660a0",
+				"00000000000",
+				"00000000000",
+				"00555555555"
+			]
+		}, {
+			"name": "08",
+			"title": "WINDING2",
+			"bkg": {
+				"file_name": "images/break/bkg_02.png",
+				"color": [33, 33, 33]
+			},
+			"map": [
+				"00000000000",
+				"0000000b0c0",
+				"00000000000",
+				"00999999999",
+				"00500050000",
+				"0050a050500",
+				"00505050500",
+				"00a050a0500",
+				"00005000500",
+				"99999999900"
+			]
+		}, {
+			"name": "09",
+			"title": "WINDING3",
+			"bkg": {
+				"file_name": "images/break/bkg_03.png",
+				"color": [33, 33, 33]
+			},
+			"map": [
+				"00000000000",
+				"0c0b0000000",
+				"00000000000",
+				"77777770001",
+				"6666660a022",
+				"55555000333",
+				"44440a04444",
+				"33300055555",
+				"22000666666",
+				"10007777777"
 			]
 		}
 	],
@@ -275,10 +375,10 @@
 		"images/base/frame_left.png",
 		"images/base/frame_right.png",
 		"images/base/frame_top.png",
-		"images/break/bkg_8x8_01.png",
-		"images/break/bkg_16x16_01.png",
-		"images/break/bkg_16x32_01.png",
-		"images/break/bkg_24x24_01.png",
+		"images/break/bkg_01.png",
+		"images/break/bkg_02.png",
+		"images/break/bkg_03.png",
+		"images/break/bkg_04.png",
 		"images/break/block_00_01.png",
 		"images/break/block_01_01.png",
 		"images/break/block_02_01.png",
@@ -299,22 +399,23 @@
 		"images/break/block_17_01.png",
 		"images/break/block_18_01.png",
 		"images/break/block_19_01.png",
-		"images/break/block_99_01.png",
-		"images/break/block_99_02.png",
-		"images/break/block_99_03.png",
-		"images/break/block_99_04.png",
-		"images/break/block_99_05.png",
-		"images/break/block_99_06.png",
-		"images/break/block_99_07.png",
-		"images/break/block_99_08.png",
-		"images/break/block_99_09.png",
-		"images/break/block_99_10.png",
-		"images/break/block_99_11.png",
-		"images/break/block_99_12.png",
 		"images/break/handle_bkg.png",
 		"images/break/handle_c.png",
 		"images/break/handle_l.png",
 		"images/break/handle_r.png",
+		"images/break/rock_01_01.png",
+		"images/break/wall_01_01.png",
+		"images/break/wall_01_02.png",
+		"images/break/wall_01_03.png",
+		"images/break/wall_01_04.png",
+		"images/break/wall_01_05.png",
+		"images/break/wall_01_06.png",
+		"images/break/wall_01_07.png",
+		"images/break/wall_01_08.png",
+		"images/break/wall_01_09.png",
+		"images/break/wall_01_10.png",
+		"images/break/wall_01_11.png",
+		"images/break/wall_01_12.png",
 		"images/chickens/bkg_01.png",
 		"images/chickens/bkg_02.png",
 		"images/chickens/bush_01.png",
