@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/16 13:00:00",
+	"timestamp": "2025/02/16 14:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -83,7 +83,7 @@
 			"name": "02",
 			"title": "DOUBLE",
 			"bkg": {
-				"file_name": "images/break/bkg_8x8_01.png",
+				"file_name": "images/break/bkg_8x8_02.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
@@ -104,7 +104,7 @@
 			"name": "03",
 			"title": "TRIPPLE",
 			"bkg": {
-				"file_name": "images/break/bkg_16x16_01.png",
+				"file_name": "images/break/bkg_16x16_03.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
@@ -145,22 +145,39 @@
 			]
 		}, {
 			"name": "05",
-			"title": "PRISON1",
+			"title": "HOUSE1",
 			"bkg": {
-				"file_name": "images/break/bkg_16x32_01.png",
+				"file_name": "images/break/bkg_16x32_02.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
 				"00000000000",
 				"00000000000",
-				"00000000000",
-				"00911111900",
+				"00003330000",
+				"00022222000",
+				"00111111100",
 				"00900000900",
 				"00900000900",
 				"00900c00900",
 				"00900000900",
 				"00900000900",
 				"00999999900"
+			]
+		}, {
+			"name": "06",
+			"title": "HOUSE2",
+			"bkg": {
+				"file_name": "images/break/bkg_16x32_03.png",
+				"color": [33, 33, 33]
+			},
+			"map": [
+				"00000000000",
+				"00000000000",
+				"00220002200",
+				"01111011110",
+				"090a909a090",
+				"09009090090",
+				"09999099990",
 			]
 		}
 	],
