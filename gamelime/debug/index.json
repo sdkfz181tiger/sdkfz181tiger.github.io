@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/16 13:00:00",
+	"timestamp": "2025/02/16 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -126,7 +126,7 @@
 			"name": "04",
 			"title": "PYRAMID",
 			"bkg": {
-				"file_name": "images/break/bkg_01.png",
+				"file_name": "images/break/bkg_04.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
@@ -145,9 +145,9 @@
 			]
 		}, {
 			"name": "05",
-			"title": "HOUSE1",
+			"title": "HOUSE",
 			"bkg": {
-				"file_name": "images/break/bkg_02.png",
+				"file_name": "images/break/bkg_01.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
@@ -165,26 +165,30 @@
 			]
 		}, {
 			"name": "06",
-			"title": "HOUSE2",
+			"title": "CASTLE",
 			"bkg": {
-				"file_name": "images/break/bkg_03.png",
+				"file_name": "images/break/bkg_02.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
 				"00000000000",
-				"00000a00000",
-				"00220002200",
-				"01111011110",
-				"09009090090",
-				"090b909b090",
-				"09009090090",
-				"09999099990"
+				"00000100000",
+				"00002220000",
+				"00033333000",
+				"00090009000",
+				"00090c09000",
+				"00090009000",
+				"00991119900",
+				"00900000900",
+				"0090a0b0900",
+				"00900000900",
+				"00999999900"
 			]
 		}, {
 			"name": "07",
 			"title": "WINDING1",
 			"bkg": {
-				"file_name": "images/break/bkg_01.png",
+				"file_name": "images/break/bkg_03.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
@@ -206,7 +210,7 @@
 			"name": "08",
 			"title": "WINDING2",
 			"bkg": {
-				"file_name": "images/break/bkg_02.png",
+				"file_name": "images/break/bkg_04.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
@@ -225,7 +229,7 @@
 			"name": "09",
 			"title": "WINDING3",
 			"bkg": {
-				"file_name": "images/break/bkg_03.png",
+				"file_name": "images/break/bkg_01.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
@@ -239,6 +243,26 @@
 				"33300055555",
 				"22000666666",
 				"10007777777"
+			]
+		}, {
+			"name": "10",
+			"title": "ASTEROIDS",
+			"bkg": {
+				"file_name": "images/break/bkg_02.png",
+				"color": [33, 33, 33]
+			},
+			"map": [
+				"00000000000",
+				"00100c00100",
+				"02220002220",
+				"00100300100",
+				"0a0044400b0",
+				"00100300100",
+				"02220002220",
+				"00100000100",
+				"00000300000",
+				"00004440000",
+				"00000300000"
 			]
 		}
 	],
