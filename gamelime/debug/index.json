@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/17 11:00:00",
+	"timestamp": "2025/02/17 12:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -59,9 +59,11 @@
 		"7": {"type": "block",   "format": "images/break/block_07_%02d.png", "life": 5},
 		"8": {"type": "block",   "format": "images/break/rock_01_%02d.png",  "life": 8},
 		"9": {"type": "block",   "format": "images/break/wall_01_%02d.png",  "life":-1},
-		"a": {"type": "monster", "format": "bozu",  "life": 3},
-		"b": {"type": "monster", "format": "kappa", "life": 3},
-		"c": {"type": "monster", "format": "oni_b", "life": 3}
+		"a": {"type": "monster", "format": "kasa",    "life": 1},
+		"b": {"type": "monster", "format": "hitotsu", "life": 2},
+		"c": {"type": "monster", "format": "kappa",   "life": 3},
+		"d": {"type": "monster", "format": "oni_b",   "life": 4},
+		"e": {"type": "monster", "format": "tengu",   "life": 5}
 	},
 	"stages":[
 		{
@@ -73,7 +75,7 @@
 			},
 			"map": [
 				"00000000000",
-				"00000a00000",
+				"0a0b0c0d0e0",
 				"00000000000",
 				"00111111100",
 				"00222222200",
