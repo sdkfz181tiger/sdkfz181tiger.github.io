@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/17 15:00:00",
+	"timestamp": "2025/02/17 16:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -60,8 +60,8 @@
 		"8": {"type": "block",   "format": "images/break/rock_01_%02d.png",  "life": 8},
 		"9": {"type": "block",   "format": "images/break/wall_01_%02d.png",  "life":-1},
 		"a": {"type": "monster", "format": "tsuru_b", "life": 1},
-		"b": {"type": "monster", "format": "kasa",    "life": 2},
-		"c": {"type": "monster", "format": "hitotsu", "life": 2},
+		"b": {"type": "monster", "format": "tsuru_g", "life": 2},
+		"c": {"type": "monster", "format": "tsuru_r", "life": 2},
 		"d": {"type": "monster", "format": "kappa",   "life": 3},
 		"e": {"type": "monster", "format": "suna",    "life": 4},
 		"f": {"type": "monster", "format": "kona",    "life": 5},
@@ -79,9 +79,9 @@
 				"color": [33, 33, 33]
 			},
 			"map": [
-				"00a0b0c0d00",
-				"0e0f0g0h0i0",
-				"00j00000000",
+				"00000000000",
+				"00a00b00c00",
+				"00000000000",
 				"00111111100",
 				"00222222200"
 			]
@@ -349,7 +349,7 @@
 				"11111111111"
 			]
 		}, {
-			"name": "PRYSON",
+			"name": "INVADER",
 			"title": "15",
 			"bkg": {
 				"file_name": "images/break/bkg_03.png",
@@ -357,10 +357,20 @@
 			},
 			"map": [
 				"00000000000",
-				"00000j00000",
-				"00000000000",
-				"00000000000",
-				"11111111111"
+				"00300j00300",
+				"00030003000",
+				"00030003000",
+				"00333333300",
+				"00333333300",
+				"00331313300",
+				"00331313300",
+				"03333333330",
+				"03333333330",
+				"03033333030",
+				"03030003030",
+				"03030003030",
+				"00003030000",
+				"00003030000"
 			]
 		}, {
 			"name": "FINAL",
