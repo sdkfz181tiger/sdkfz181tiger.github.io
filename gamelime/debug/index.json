@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/17 12:00:00",
+	"timestamp": "2025/02/17 13:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -59,11 +59,16 @@
 		"7": {"type": "block",   "format": "images/break/block_07_%02d.png", "life": 5},
 		"8": {"type": "block",   "format": "images/break/rock_01_%02d.png",  "life": 8},
 		"9": {"type": "block",   "format": "images/break/wall_01_%02d.png",  "life":-1},
-		"a": {"type": "monster", "format": "kasa",    "life": 1},
-		"b": {"type": "monster", "format": "hitotsu", "life": 2},
-		"c": {"type": "monster", "format": "kappa",   "life": 3},
-		"d": {"type": "monster", "format": "oni_b",   "life": 4},
-		"e": {"type": "monster", "format": "tengu",   "life": 5}
+		"a": {"type": "monster", "format": "tsuru",   "life": 1},
+		"b": {"type": "monster", "format": "kasa",    "life": 2},
+		"c": {"type": "monster", "format": "hitotsu", "life": 2},
+		"d": {"type": "monster", "format": "kappa",   "life": 3},
+		"e": {"type": "monster", "format": "suna",    "life": 4},
+		"f": {"type": "monster", "format": "kona",    "life": 5},
+		"g": {"type": "monster", "format": "oni_r",   "life": 6},
+		"h": {"type": "monster", "format": "karasu",  "life": 7},
+		"i": {"type": "monster", "format": "tengu",   "life": 8},
+		"j": {"type": "monster", "format": "wanyu",   "life":10}
 	},
 	"stages":[
 		{
@@ -74,9 +79,9 @@
 				"color": [33, 33, 33]
 			},
 			"map": [
-				"00000000000",
-				"0a0b0c0d0e0",
-				"00000000000",
+				"00a0b0c0d00",
+				"0e0f0g0h0i0",
+				"00j00000000",
 				"00111111100",
 				"00222222200",
 				"00333333300"
