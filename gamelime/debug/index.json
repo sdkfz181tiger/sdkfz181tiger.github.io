@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/17 14:00:00",
+	"timestamp": "2025/02/17 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -59,7 +59,7 @@
 		"7": {"type": "block",   "format": "images/break/block_07_%02d.png", "life": 5},
 		"8": {"type": "block",   "format": "images/break/rock_01_%02d.png",  "life": 8},
 		"9": {"type": "block",   "format": "images/break/wall_01_%02d.png",  "life":-1},
-		"a": {"type": "monster", "format": "tsuru",   "life": 1},
+		"a": {"type": "monster", "format": "tsuru_b", "life": 1},
 		"b": {"type": "monster", "format": "kasa",    "life": 2},
 		"c": {"type": "monster", "format": "hitotsu", "life": 2},
 		"d": {"type": "monster", "format": "kappa",   "life": 3},
@@ -72,8 +72,8 @@
 	},
 	"stages":[
 		{
-			"name": "01",
-			"title": "WELCOME",
+			"name": "HELLO",
+			"title": "01",
 			"bkg": {
 				"file_name": "images/break/bkg_01.png",
 				"color": [33, 33, 33]
@@ -86,8 +86,8 @@
 				"00222222200"
 			]
 		}, {
-			"name": "02",
-			"title": "DOUBLE",
+			"name": "2LINE",
+			"title": "02",
 			"bkg": {
 				"file_name": "images/break/bkg_02.png",
 				"color": [33, 33, 33]
@@ -105,8 +105,8 @@
 				"00222222200"
 			]
 		}, {
-			"name": "03",
-			"title": "TRIPPLE",
+			"name": "3LINE",
+			"title": "03",
 			"bkg": {
 				"file_name": "images/break/bkg_03.png",
 				"color": [33, 33, 33]
@@ -127,8 +127,8 @@
 				"00666666600"
 			]
 		}, {
-			"name": "04",
-			"title": "DIAMOND",
+			"name": "DIAMOND",
+			"title": "04",
 			"bkg": {
 				"file_name": "images/break/bkg_04.png",
 				"color": [33, 33, 33]
@@ -148,8 +148,8 @@
 				"00000100000"
 			]
 		}, {
-			"name": "05",
-			"title": "HOUSE",
+			"name": "HOUSE",
+			"title": "05",
 			"bkg": {
 				"file_name": "images/break/bkg_01.png",
 				"color": [33, 33, 33]
@@ -168,8 +168,8 @@
 				"00999999900"
 			]
 		}, {
-			"name": "06",
-			"title": "CASTLE",
+			"name": "CASTLE",
+			"title": "06",
 			"bkg": {
 				"file_name": "images/break/bkg_02.png",
 				"color": [33, 33, 33]
@@ -189,8 +189,8 @@
 				"00999999900"
 			]
 		}, {
-			"name": "07",
-			"title": "WINDING1",
+			"name": "WINDING1",
+			"title": "07",
 			"bkg": {
 				"file_name": "images/break/bkg_03.png",
 				"color": [33, 33, 33]
@@ -211,8 +211,8 @@
 				"00555555555"
 			]
 		}, {
-			"name": "08",
-			"title": "WINDING2",
+			"name": "WINDING2",
+			"title": "08",
 			"bkg": {
 				"file_name": "images/break/bkg_04.png",
 				"color": [33, 33, 33]
@@ -233,8 +233,8 @@
 				"99999999500"
 			]
 		}, {
-			"name": "09",
-			"title": "WINDING3",
+			"name": "WINDING3",
+			"title": "09",
 			"bkg": {
 				"file_name": "images/break/bkg_01.png",
 				"color": [33, 33, 33]
@@ -252,8 +252,8 @@
 				"10007777777"
 			]
 		}, {
-			"name": "10",
-			"title": "ASTEROIDS",
+			"name": "ASTEROIDS",
+			"title": "10",
 			"bkg": {
 				"file_name": "images/break/bkg_02.png",
 				"color": [33, 33, 33]
@@ -274,10 +274,10 @@
 				"00100000100"
 			]
 		}, {
-			"name": "11",
-			"title": "FUJIYAMA",
+			"name": "FUJIYAMA",
+			"title": "11",
 			"bkg": {
-				"file_name": "images/break/bkg_02.png",
+				"file_name": "images/break/bkg_03.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
@@ -291,10 +291,10 @@
 				"55555555555"
 			]
 		}, {
-			"name": "12",
-			"title": "JUNGLE",
+			"name": "JUNGLE",
+			"title": "12",
 			"bkg": {
-				"file_name": "images/break/bkg_02.png",
+				"file_name": "images/break/bkg_04.png",
 				"color": [33, 33, 33]
 			},
 			"map": [
@@ -309,6 +309,72 @@
 				"80808080808",
 				"02020202020",
 				"08080808080"
+			]
+		}, {
+			"name": "BOXES",
+			"title": "13",
+			"bkg": {
+				"file_name": "images/break/bkg_01.png",
+				"color": [33, 33, 33]
+			},
+			"map": [
+				"00000000000",
+				"05550005550",
+				"05150i05150",
+				"05550005550",
+				"00005550000",
+				"00a05250a00",
+				"00005550000",
+				"00000000000",
+				"05550005550",
+				"05150b05150",
+				"05550005550"
+			]
+		}, {
+			"name": "WALL",
+			"title": "14",
+			"bkg": {
+				"file_name": "images/break/bkg_02.png",
+				"color": [33, 33, 33]
+			},
+			"map": [
+				"00000000000",
+				"00i00j00h00",
+				"00000000000",
+				"09990009990",
+				"55555555555",
+				"44444444444",
+				"33339993333",
+				"22222222222",
+				"11111111111"
+			]
+		}, {
+			"name": "PRYSON",
+			"title": "15",
+			"bkg": {
+				"file_name": "images/break/bkg_03.png",
+				"color": [33, 33, 33]
+			},
+			"map": [
+				"00000000000",
+				"00000j00000",
+				"00000000000",
+				"00000000000",
+				"11111111111"
+			]
+		}, {
+			"name": "FINAL",
+			"title": "16",
+			"bkg": {
+				"file_name": "images/break/bkg_04.png",
+				"color": [33, 33, 33]
+			},
+			"map": [
+				"00000000000",
+				"00000j00000",
+				"00000000000",
+				"00000000000",
+				"11111111111"
 			]
 		}
 	],
