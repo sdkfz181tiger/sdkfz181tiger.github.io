@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/02/17 21:00:00",
+	"timestamp": "2025/02/18 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -12,9 +12,9 @@
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"player": {
-		"narrow": "player_bar_24",
-		"normal": "player_bar_32",
-		"wide": "player_bar_48"
+		"narrow": "player_dok_24",
+		"normal": "player_dok_32",
+		"wide": "player_dok_48"
 	},
 	"ball": {
 		"speed": 24,
@@ -792,6 +792,9 @@
 		{"file_name": "images/break/player_bar_24.png", "frame_name": "player_bar_24",    "rows": 1, "cols": 5, "w": 24, "h":  8, "from":  0, "to":  4},
 		{"file_name": "images/break/player_bar_32.png", "frame_name": "player_bar_32",    "rows": 1, "cols": 5, "w": 32, "h":  8, "from":  0, "to":  4},
 		{"file_name": "images/break/player_bar_48.png", "frame_name": "player_bar_48",    "rows": 1, "cols": 5, "w": 48, "h":  8, "from":  0, "to":  4},
+		{"file_name": "images/break/player_dok_24.png", "frame_name": "player_dok_24",    "rows": 1, "cols": 5, "w": 24, "h":  8, "from":  0, "to":  4},
+		{"file_name": "images/break/player_dok_32.png", "frame_name": "player_dok_32",    "rows": 1, "cols": 5, "w": 32, "h":  8, "from":  0, "to":  4},
+		{"file_name": "images/break/player_dok_48.png", "frame_name": "player_dok_48",    "rows": 1, "cols": 5, "w": 48, "h":  8, "from":  0, "to":  4},
 		{"file_name": "images/break/spawner_01.png",    "frame_name": "spawner_r",        "rows": 1, "cols": 8, "w": 12, "h": 12, "from":  0, "to":  7},
 		{"file_name": "images/break/spawner_01.png",    "frame_name": "spawner_l",        "rows": 2, "cols": 8, "w": 12, "h": 12, "from":  8, "to": 15},
 		{"file_name": "images/chickens/egg_a.png",      "frame_name": "egg_a",            "rows": 3, "cols": 5, "w":  5, "h":  8, "from":  0, "to": 14},
