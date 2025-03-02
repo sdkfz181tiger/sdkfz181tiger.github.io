@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/02 15:00:00",
+	"timestamp": "2025/03/02 22:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -27,12 +27,12 @@
 	},
 	"walls": {
 		"0": {"file": ""},
-		"a": {"file": "images/grave/cell_b_01.png"},
-		"b": {"file": "images/grave/cell_b_02.png"},
-		"c": {"file": "images/grave/cell_b_03.png"},
-		"d": {"file": "images/grave/cell_g_01.png"},
-		"e": {"file": "images/grave/cell_g_02.png"},
-		"f": {"file": "images/grave/cell_g_03.png"}
+		"a": {"file": "images/grave/cell_01.png"},
+		"b": {"file": "images/grave/cell_02.png"},
+		"c": {"file": "images/grave/cell_03.png"},
+		"d": {"file": "images/grave/cell_04.png"},
+		"e": {"file": "images/grave/cell_05.png"},
+		"f": {"file": "images/grave/cell_06.png"}
 	},
 	"stages":[
 		{
@@ -42,15 +42,15 @@
 				"color": [33, 33, 33]
 			},
 			"map": [
-				"0000000",
-				"abc0def",
-				"0000000",
-				"0000000",
-				"0000000",
-				"0000000",
-				"0000000",
-				"0000000",
-				"0000000"
+				"ec00000",
+				"0f000a0",
+				"00000bd",
+				"0c000ef",
+				"a000000",
+				"0000a00",
+				"d000def",
+				"b0c0000",
+				"e000f00"
 			]
 		}, {
 			"title": "STG02",
@@ -282,12 +282,12 @@
 		"images/foods/i_tomato.png",
 		"images/foods/i_wmelon.png",
 		"images/grave/bkg_01.png",
-		"images/grave/cell_b_01.png",
-		"images/grave/cell_b_02.png",
-		"images/grave/cell_b_03.png",
-		"images/grave/cell_g_01.png",
-		"images/grave/cell_g_02.png",
-		"images/grave/cell_g_03.png",
+		"images/grave/cell_01.png",
+		"images/grave/cell_02.png",
+		"images/grave/cell_03.png",
+		"images/grave/cell_04.png",
+		"images/grave/cell_05.png",
+		"images/grave/cell_06.png",
 		"images/post/mail_01.png",
 		"images/post/postman_01.png",
 		"images/post/c_boy_01.png",
