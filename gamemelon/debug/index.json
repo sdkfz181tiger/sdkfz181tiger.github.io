@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/02 13:00:00",
+	"timestamp": "2025/03/02 14:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -36,6 +36,14 @@
 		"e": {"format": "hitotsu", "life": 2},
 		"f": {"format": "kappa", "life": 2}
 	},
+	"walls": {
+		"a": {"file": "images/grave/cell_b_01.png"},
+		"b": {"file": "images/grave/cell_b_02.png"},
+		"c": {"file": "images/grave/cell_b_03.png"},
+		"d": {"file": "images/grave/cell_g_01.png"},
+		"e": {"file": "images/grave/cell_g_02.png"},
+		"f": {"file": "images/grave/cell_g_03.png"}
+	},
 	"stages":[
 		{
 			"title": "STG01",
@@ -45,7 +53,7 @@
 			},
 			"map": [
 				"0000000",
-				"0000000",
+				"abc0def",
 				"0000000",
 				"0000000",
 				"0000000",
