@@ -26,13 +26,13 @@
 		"f": {"format": "kappa", "life": 2}
 	},
 	"walls": {
-		"0": {"wall": 0, "file": ""},
-		"a": {"wall": 1, "file": "images/grave/cell_01.png"},
-		"b": {"wall": 1, "file": "images/grave/cell_02.png"},
-		"c": {"wall": 1, "file": "images/grave/cell_03.png"},
-		"d": {"wall": 1, "file": "images/grave/cell_04.png"},
-		"e": {"wall": 1, "file": "images/grave/cell_05.png"},
-		"f": {"wall": 1, "file": "images/grave/cell_06.png"}
+		"0": {"type": 0, "file": ""},
+		"a": {"type": 1, "file": "images/grave/cell_01.png"},
+		"b": {"type": 1, "file": "images/grave/cell_02.png"},
+		"c": {"type": 1, "file": "images/grave/cell_03.png"},
+		"d": {"type": 1, "file": "images/grave/cell_04.png"},
+		"e": {"type": 1, "file": "images/grave/cell_05.png"},
+		"f": {"type": 1, "file": "images/grave/cell_06.png"}
 	},
 	"stages":[
 		{
