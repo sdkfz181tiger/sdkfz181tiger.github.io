@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/02 14:00:00",
+	"timestamp": "2025/03/02 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -16,19 +16,8 @@
 		"normal": "player_dok_32",
 		"wide": "player_dok_48"
 	},
-	"ball": {
-		"speed": 24,
-		"deg": 270
-	},
-	"scores": {
-		"APPLE":   {"score":  2, "icon": "images/foods/i_apple.png"},
-		"BANANA":  {"score":  4, "icon": "images/foods/i_banana.png"},
-		"CHERRY":  {"score":  8, "icon": "images/foods/i_cherry.png"},
-		"BLBERRY": {"score": 16, "icon": "images/foods/i_bberry.png"},
-		"STBERRY": {"score": 32, "icon": "images/foods/i_sberry.png"},
-		"PEACH":   {"score": 64, "icon": "images/foods/i_peach.png"}
-	},
 	"monsters": {
+		"0": {"format": "", "life": 0},
 		"a": {"format": "tsuru_g", "life": 1},
 		"b": {"format": "tsuru_b", "life": 1},
 		"c": {"format": "tsuru_r", "life": 1},
@@ -37,6 +26,7 @@
 		"f": {"format": "kappa", "life": 2}
 	},
 	"walls": {
+		"0": {"file": ""},
 		"a": {"file": "images/grave/cell_b_01.png"},
 		"b": {"file": "images/grave/cell_b_02.png"},
 		"c": {"file": "images/grave/cell_b_03.png"},
