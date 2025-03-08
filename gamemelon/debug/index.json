@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/04 15:00:00",
+	"timestamp": "2025/03/09 10:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -17,13 +17,13 @@
 		"wide": "player_dok_48"
 	},
 	"monsters": {
-		"0": {"format": "", "life": 0},
-		"a": {"format": "tsuru_g", "life": 1},
-		"b": {"format": "tsuru_b", "life": 1},
-		"c": {"format": "tsuru_r", "life": 1},
-		"d": {"format": "kasa", "life": 1},
-		"e": {"format": "hitotsu", "life": 2},
-		"f": {"format": "kappa", "life": 2}
+		"0": {"name": "", "life": 0},
+		"a": {"name": "tsuru_g", "life": 1},
+		"b": {"name": "tsuru_b", "life": 1},
+		"c": {"name": "tsuru_r", "life": 1},
+		"d": {"name": "kasa", "life": 1},
+		"e": {"name": "hitotsu", "life": 2},
+		"f": {"name": "kappa", "life": 2}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
