@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/09 22:00:00",
+	"timestamp": "2025/03/10 21:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -17,13 +17,13 @@
 		"wide": "player_dok_48"
 	},
 	"monsters": {
-		"0": {"name": "", "spd": 0},
-		"a": {"name": "tsuru_g", "spd": 2},
-		"b": {"name": "tsuru_b", "spd": 2},
-		"c": {"name": "tsuru_r", "spd": 4},
-		"d": {"name": "kasa", "spd": 6},
-		"e": {"name": "hitotsu", "spd": 8},
-		"f": {"name": "kappa", "spd": 12}
+		"0": {"name": "",        "spd": 0,  "score": 0},
+		"a": {"name": "tsuru_g", "spd": 2,  "score": 2},
+		"b": {"name": "tsuru_b", "spd": 2,  "score": 2},
+		"c": {"name": "tsuru_r", "spd": 4,  "score": 2},
+		"d": {"name": "kasa",    "spd": 6,  "score": 4},
+		"e": {"name": "hitotsu", "spd": 8,  "score": 6},
+		"f": {"name": "kappa",   "spd": 12, "score": 8}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
