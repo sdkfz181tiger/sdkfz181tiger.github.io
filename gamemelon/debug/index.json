@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/11 23:00:00",
+	"timestamp": "2025/03/12 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -662,6 +662,7 @@
 		{"file_name": "images/yokai/hitotsu_01.png",    "frame_name": "hitotsu_roll_r",   "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
 		{"file_name": "images/yokai/hitotsu_01.png",    "frame_name": "hitotsu_roll_l",   "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
 		{"file_name": "images/yokai/hitotsu_01.png",    "frame_name": "hitotsu_jump_f",   "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
+		{"file_name": "images/yokai/hitodama_01.png",   "frame_name": "hitodama",         "rows": 1, "cols": 4, "w":  6, "h": 10, "from":  0, "to":  3},
 		{"file_name": "images/yokai/kappa_01.png",      "frame_name": "kappa_f",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/yokai/kappa_01.png",      "frame_name": "kappa_b",          "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
 		{"file_name": "images/yokai/kappa_01.png",      "frame_name": "kappa_r",          "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
