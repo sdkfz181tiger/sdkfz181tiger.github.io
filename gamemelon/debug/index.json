@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/12 21:00:00",
+	"timestamp": "2025/03/12 22:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -12,7 +12,7 @@
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"player": {
-		"name": "kasa",
+		"name": "osho",
 		"life": 1, 
 		"spd": 4,  
 		"score": 0
