@@ -1,20 +1,21 @@
 {
-	"timestamp": "2025/03/12 15:00:00",
+	"timestamp": "2025/03/12 20:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
 		"tmx.zip"
 	],
 	"title_anims":[
-		"hitotsu_f", "kasa_f", "kona_f", "suna_f"
+		"kasa_f", "hitotsu_f", "kappa_f"
 	],
 	"ready_anims":[
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"player": {
-		"narrow": "player_dok_24",
-		"normal": "player_dok_32",
-		"wide": "player_dok_48"
+		"name": "osho",
+		"life": 1, 
+		"spd": 4,  
+		"score": 0
 	},
 	"monsters": {
 		"0": {"name": "",        "life": 0, "spd": 0,  "score": 0},
