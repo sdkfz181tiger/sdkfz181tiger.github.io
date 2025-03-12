@@ -17,15 +17,6 @@
 		"spd": 4,  
 		"score": 0
 	},
-	"monsters": {
-		"0": {"name": "",        "life": 0, "spd": 0,  "score": 0},
-		"a": {"name": "tsuru_g", "life": 1, "spd": 2,  "score": 2},
-		"b": {"name": "tsuru_b", "life": 1, "spd": 2,  "score": 2},
-		"c": {"name": "tsuru_r", "life": 1, "spd": 4,  "score": 2},
-		"d": {"name": "kasa",    "life": 1, "spd": 6,  "score": 4},
-		"e": {"name": "hitotsu", "life": 1, "spd": 12, "score": 6},
-		"f": {"name": "kappa",   "life": 1, "spd": 24, "score": 8}
-	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
 		"a": {"type": 1, "file": "images/grave/cell_01.png"},
@@ -34,6 +25,15 @@
 		"d": {"type": 1, "file": "images/grave/cell_04.png"},
 		"e": {"type": 1, "file": "images/grave/cell_05.png"},
 		"f": {"type": 1, "file": "images/grave/cell_06.png"}
+	},
+	"monsters": {
+		"0": {"name": "",        "life": 0, "spd": 0,  "score": 0},
+		"a": {"name": "tsuru_g", "life": 1, "spd": 2,  "score": 2},
+		"b": {"name": "tsuru_b", "life": 1, "spd": 2,  "score": 2},
+		"c": {"name": "tsuru_r", "life": 1, "spd": 4,  "score": 2},
+		"d": {"name": "kasa",    "life": 1, "spd": 6,  "score": 4},
+		"e": {"name": "hitotsu", "life": 1, "spd": 12, "score": 6},
+		"f": {"name": "kappa",   "life": 1, "spd": 24, "score": 8}
 	},
 	"stages":[
 		{
