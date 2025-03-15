@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/15 18:00:00",
+	"timestamp": "2025/03/15 21:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -25,6 +25,13 @@
 		"d": {"name": "kasa",    "life": 3, "spd": 5, "score": 4},
 		"e": {"name": "hitotsu", "life": 3, "spd": 6, "score": 6},
 		"f": {"name": "kappa",   "life": 3, "spd": 7, "score": 8}
+	},
+	"items": {
+		"0": {"name": "",      },
+		"a": {"name": "i_candle"},
+		"b": {"name": "i_juzu"},
+		"c": {"name": "i_koban"},
+		"d": {"name": "i_mokugyo"}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
