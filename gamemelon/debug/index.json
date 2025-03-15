@@ -27,7 +27,7 @@
 		"f": {"name": "kappa",   "life": 3, "spd": 7, "score": 8}
 	},
 	"items": {
-		"0": {"name": "",      },
+		"0": {"name": ""},
 		"a": {"name": "i_candle"},
 		"b": {"name": "i_juzu"},
 		"c": {"name": "i_koban"},
