@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/16 16:00:00",
+	"timestamp": "2025/03/16 17:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -501,15 +501,6 @@
 		{"file_name": "images/tower/okyo_01.png",       "frame_name": "okyo_05",          "rows": 5, "cols": 6, "w": 13, "h": 13, "from": 24, "to": 29},
 		{"file_name": "images/tower/okyo_01.png",       "frame_name": "okyo_06",          "rows": 6, "cols": 6, "w": 13, "h": 13, "from": 30, "to": 35},
 
-		{"file_name": "images/yokai/jumper_28x14.png",  "frame_name": "jumper_28_w",      "rows": 1, "cols": 5, "w": 28, "h": 14, "from":  0, "to":  4},
-		{"file_name": "images/yokai/jumper_28x14.png",  "frame_name": "jumper_28_r",      "rows": 2, "cols": 5, "w": 28, "h": 14, "from":  5, "to":  9},
-		{"file_name": "images/yokai/jumper_28x14.png",  "frame_name": "jumper_28_g",      "rows": 3, "cols": 5, "w": 28, "h": 14, "from": 10, "to": 14},
-		{"file_name": "images/yokai/jumper_28x14.png",  "frame_name": "jumper_28_b",      "rows": 4, "cols": 5, "w": 28, "h": 14, "from": 15, "to": 19},
-		{"file_name": "images/yokai/jumper_42x14.png",  "frame_name": "jumper_42_w",      "rows": 1, "cols": 5, "w": 42, "h": 14, "from":  0, "to":  4},
-		{"file_name": "images/yokai/jumper_42x14.png",  "frame_name": "jumper_42_r",      "rows": 2, "cols": 5, "w": 42, "h": 14, "from":  5, "to":  9},
-		{"file_name": "images/yokai/jumper_42x14.png",  "frame_name": "jumper_42_g",      "rows": 3, "cols": 5, "w": 42, "h": 14, "from": 10, "to": 14},
-		{"file_name": "images/yokai/jumper_42x14.png",  "frame_name": "jumper_42_b",      "rows": 4, "cols": 5, "w": 42, "h": 14, "from": 15, "to": 19},
-
 		{"file_name": "images/yokai/hitotsu_01.png",    "frame_name": "hitotsu_f",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/yokai/hitotsu_01.png",    "frame_name": "hitotsu_b",        "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
 		{"file_name": "images/yokai/hitotsu_01.png",    "frame_name": "hitotsu_r",        "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
@@ -523,6 +514,15 @@
 
 		{"file_name": "images/yokai/hitodama_01.png",   "frame_name": "hitodama",         "rows": 1, "cols": 4, "w":  6, "h": 10, "from":  0, "to":  3},
 
+		{"file_name": "images/yokai/jumper_28x14.png",  "frame_name": "jumper_28_w",      "rows": 1, "cols": 5, "w": 28, "h": 14, "from":  0, "to":  4},
+		{"file_name": "images/yokai/jumper_28x14.png",  "frame_name": "jumper_28_r",      "rows": 2, "cols": 5, "w": 28, "h": 14, "from":  5, "to":  9},
+		{"file_name": "images/yokai/jumper_28x14.png",  "frame_name": "jumper_28_g",      "rows": 3, "cols": 5, "w": 28, "h": 14, "from": 10, "to": 14},
+		{"file_name": "images/yokai/jumper_28x14.png",  "frame_name": "jumper_28_b",      "rows": 4, "cols": 5, "w": 28, "h": 14, "from": 15, "to": 19},
+		{"file_name": "images/yokai/jumper_42x14.png",  "frame_name": "jumper_42_w",      "rows": 1, "cols": 5, "w": 42, "h": 14, "from":  0, "to":  4},
+		{"file_name": "images/yokai/jumper_42x14.png",  "frame_name": "jumper_42_r",      "rows": 2, "cols": 5, "w": 42, "h": 14, "from":  5, "to":  9},
+		{"file_name": "images/yokai/jumper_42x14.png",  "frame_name": "jumper_42_g",      "rows": 3, "cols": 5, "w": 42, "h": 14, "from": 10, "to": 14},
+		{"file_name": "images/yokai/jumper_42x14.png",  "frame_name": "jumper_42_b",      "rows": 4, "cols": 5, "w": 42, "h": 14, "from": 15, "to": 19},
+
 		{"file_name": "images/yokai/kappa_01.png",      "frame_name": "kappa_f",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/yokai/kappa_01.png",      "frame_name": "kappa_b",          "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
 		{"file_name": "images/yokai/kappa_01.png",      "frame_name": "kappa_r",          "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
@@ -534,8 +534,16 @@
 		{"file_name": "images/yokai/kappa_01.png",      "frame_name": "kappa_jump_f",     "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/yokai/kappa_01.png",      "frame_name": "kappa_sleep",      "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
-		{"file_name": "images/yokai/needle_01.png",     "frame_name": "needle_up",        "rows": 1, "cols": 6, "w": 28, "h": 14, "from":  0, "to":  5},
-		{"file_name": "images/yokai/needle_01.png",     "frame_name": "needle_down",      "rows": 2, "cols": 6, "w": 28, "h": 14, "from":  6, "to": 11},
+		{"file_name": "images/yokai/kasa_01.png",       "frame_name": "kasa_f",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/yokai/kasa_01.png",       "frame_name": "kasa_b",           "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
+		{"file_name": "images/yokai/kasa_01.png",       "frame_name": "kasa_r",           "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/yokai/kasa_01.png",       "frame_name": "kasa_l",           "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/yokai/kasa_01.png",       "frame_name": "kasa_damage",      "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/yokai/kasa_01.png",       "frame_name": "kasa_byebye",      "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/yokai/kasa_01.png",       "frame_name": "kasa_roll_r",      "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/yokai/kasa_01.png",       "frame_name": "kasa_roll_l",      "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/yokai/kasa_01.png",       "frame_name": "kasa_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
+		{"file_name": "images/yokai/kasa_01.png",       "frame_name": "kasa_sleep",       "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
 		{"file_name": "images/yokai/sojo_01.png",       "frame_name": "sojo_f",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/yokai/sojo_01.png",       "frame_name": "sojo_b",           "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
