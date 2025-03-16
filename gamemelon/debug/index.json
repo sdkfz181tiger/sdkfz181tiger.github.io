@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/16 17:00:00",
+	"timestamp": "2025/03/16 19:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -178,6 +178,7 @@
 		"images/base/e_qs_01.png",
 		"images/base/e_qs_02.png",
 		"images/base/e_surprise.png",
+		"images/base/e_zzz_01.png",
 		"images/base/ene_kan_m.png",
 		"images/base/ene_kan_s.png",
 		"images/base/ene_meter_jump.png",
