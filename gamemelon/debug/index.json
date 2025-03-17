@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/17 23:00:00",
+	"timestamp": "2025/03/17 23:30:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -50,6 +50,7 @@
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
+			"bgm": "sounds/bgm_game_01.ogg",
 			"map": [
 				"0c00000",
 				"000bba0",
@@ -67,6 +68,7 @@
 				"file_name": "images/yokai/bkg_02.png",
 				"color": [33, 33, 33]
 			},
+			"bgm": "sounds/bgm_game_01.ogg",
 			"map": [
 				"0000000",
 				"0000000",
