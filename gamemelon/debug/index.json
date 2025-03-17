@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/17 22:00:00",
+	"timestamp": "2025/03/17 23:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -235,8 +235,8 @@
 		"sounds/se_powerup_01.ogg", "sounds/se_powerup_02.ogg"
 	],
 	"bgms": [
-		"sounds/bgm_game_01.ogg", "sounds/bgm_game_02.ogg", "sounds/bgm_game_03.ogg",
-		"sounds/bgm_game_04.ogg", "sounds/bgm_game_05.ogg",
+		"sounds/bgm_game_01.ogg", "sounds/bgm_game_02.ogg", 
+		"sounds/bgm_game_03.ogg", "sounds/bgm_game_04.ogg",
 		"sounds/bgm_ready_01.ogg", "sounds/bgm_ready_02.ogg",
 		"sounds/bgm_stages_01.ogg",
 		"sounds/bgm_title_01.ogg", "sounds/bgm_title_02.ogg"
