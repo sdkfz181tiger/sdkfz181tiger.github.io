@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/17 11:00:00",
+	"timestamp": "2025/03/17 10:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -284,6 +284,9 @@
 		{"file_name": "images/base/smk_s_01.png",       "frame_name": "smk_s_01",         "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
 		{"file_name": "images/base/smk_s_02.png",       "frame_name": "smk_s_02",         "rows": 2, "cols": 6, "w": 16, "h": 16, "from":  0, "to": 11},
 
+		{"file_name": "images/break/bomb_m_01.png",     "frame_name": "block_bomb_m_01",  "rows": 1, "cols": 6, "w": 12, "h": 12, "from":  0, "to":  5},
+		{"file_name": "images/break/bomb_s_01.png",     "frame_name": "block_bomb_s_01",  "rows": 1, "cols":15, "w":  4, "h":  4, "from":  0, "to": 14},
+
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_apple",          "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_banana",         "rows": 2, "cols":10, "w":  8, "h":  8, "from": 10, "to": 19},
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_bberry",         "rows": 3, "cols":10, "w":  8, "h":  8, "from": 20, "to": 29},
@@ -454,17 +457,6 @@
 		{"file_name": "images/yokai/w_sonic_01.png",    "frame_name": "w_sonic_r_l",      "rows": 6, "cols": 4, "w": 28, "h": 10, "from": 20, "to": 23},
 		{"file_name": "images/yokai/w_snow_01.png",     "frame_name": "w_snow_01",        "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
 		{"file_name": "images/yokai/w_sword_01.png",    "frame_name": "w_sword_r",        "rows": 1, "cols": 7, "w": 16, "h": 16, "from":  0, "to":  6},
-		{"file_name": "images/yokai/w_sword_01.png",    "frame_name": "w_sword_l",        "rows": 2, "cols": 7, "w": 16, "h": 16, "from":  7, "to": 13},
-
-		{"file_name": "images/yukkuri/marisa_01.png",   "frame_name": "marisa_good",      "rows": 1, "cols": 4, "w": 62, "h": 49, "from":  0, "to":  3},
-		{"file_name": "images/yukkuri/marisa_01.png",   "frame_name": "marisa_like",      "rows": 2, "cols": 4, "w": 62, "h": 49, "from":  4, "to":  7},
-		{"file_name": "images/yukkuri/marisa_01.png",   "frame_name": "marisa_bad",       "rows": 3, "cols": 4, "w": 62, "h": 49, "from":  8, "to": 11},
-		{"file_name": "images/yukkuri/marisa_01.png",   "frame_name": "marisa_stun",      "rows": 4, "cols": 4, "w": 62, "h": 49, "from": 12, "to": 15},
-		{"file_name": "images/yukkuri/marisa_01.png",   "frame_name": "marisa_shy",       "rows": 5, "cols": 4, "w": 62, "h": 49, "from": 16, "to": 19},
-		{"file_name": "images/yukkuri/reimu_01.png",    "frame_name": "reimu_good",       "rows": 1, "cols": 4, "w": 46, "h": 39, "from":  0, "to":  3},
-		{"file_name": "images/yukkuri/reimu_01.png",    "frame_name": "reimu_like",       "rows": 2, "cols": 4, "w": 46, "h": 39, "from":  4, "to":  7},
-		{"file_name": "images/yukkuri/reimu_01.png",    "frame_name": "reimu_bad",        "rows": 3, "cols": 4, "w": 46, "h": 39, "from":  8, "to": 11},
-		{"file_name": "images/yukkuri/reimu_01.png",    "frame_name": "reimu_stun",       "rows": 4, "cols": 4, "w": 46, "h": 39, "from": 12, "to": 15},
-		{"file_name": "images/yukkuri/reimu_01.png",    "frame_name": "reimu_shy",        "rows": 5, "cols": 4, "w": 46, "h": 39, "from": 16, "to": 19}
+		{"file_name": "images/yokai/w_sword_01.png",    "frame_name": "w_sword_l",        "rows": 2, "cols": 7, "w": 16, "h": 16, "from":  7, "to": 13}
 	]
 }
