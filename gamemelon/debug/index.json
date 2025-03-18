@@ -282,6 +282,7 @@
 		{"file_name": "images/base/flakes_01.png",      "frame_name": "flk_t_r_r",        "rows":11, "cols": 4, "w":  4, "h":  4, "from": 40, "to": 43},
 		{"file_name": "images/base/flakes_01.png",      "frame_name": "flk_t_r_l",        "rows":12, "cols": 4, "w":  4, "h":  4, "from": 44, "to": 47},
 		{"file_name": "images/base/heart_01.png",       "frame_name": "heart_01",         "rows": 1, "cols": 6, "w": 13, "h": 13, "from":  0, "to":  5},
+		{"file_name": "images/base/noframe_01.png",     "frame_name": "noframe",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/base/smk_m_01.png",       "frame_name": "smk_m_01",         "rows": 2, "cols": 6, "w": 50, "h": 50, "from":  0, "to": 11},
 		{"file_name": "images/base/smk_m_02.png",       "frame_name": "smk_m_02",         "rows": 3, "cols": 6, "w": 50, "h": 50, "from":  0, "to": 17},
 		{"file_name": "images/base/smk_s_01.png",       "frame_name": "smk_s_01",         "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
@@ -289,6 +290,15 @@
 
 		{"file_name": "images/break/bomb_m_01.png",     "frame_name": "block_bomb_m_01",  "rows": 1, "cols": 6, "w": 12, "h": 12, "from":  0, "to":  5},
 		{"file_name": "images/break/bomb_s_01.png",     "frame_name": "block_bomb_s_01",  "rows": 1, "cols":15, "w":  4, "h":  4, "from":  0, "to": 14},
+
+		{"file_name": "images/grave/i_candle_01.png",   "frame_name": "i_candle",         "rows": 1, "cols": 6, "w":  6, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/grave/i_juzu_01.png",     "frame_name": "i_juzu",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/grave/i_koban_1_01.png",  "frame_name": "i_koban_1",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/grave/i_koban_2_01.png",  "frame_name": "i_koban_2",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/grave/i_koban_3_01.png",  "frame_name": "i_koban_3",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/grave/i_mokugyo_01.png",  "frame_name": "i_mokugyo",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/grave/i_ofuda_01.png",    "frame_name": "i_ofuda",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/grave/i_zeni_01.png",     "frame_name": "i_zehi",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_apple",          "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_banana",         "rows": 2, "cols":10, "w":  8, "h":  8, "from": 10, "to": 19},
@@ -314,11 +324,6 @@
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_tomato",         "rows":22, "cols":10, "w":  8, "h":  8, "from":210, "to":219},
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_wmelon",         "rows":23, "cols":10, "w":  8, "h":  8, "from":220, "to":229},
 
-		{"file_name": "images/tower/bero_01.png",       "frame_name": "bero_f",           "rows": 3, "cols": 1, "w":170, "h": 75, "from":  0, "to":  2},
-		{"file_name": "images/tower/i_candle_01.png",   "frame_name": "i_candle",         "rows": 1, "cols": 6, "w":  6, "h": 16, "from":  0, "to":  5},
-		{"file_name": "images/tower/i_juzu_01.png",     "frame_name": "i_juzu",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
-		{"file_name": "images/tower/i_koban_01.png",    "frame_name": "i_koban",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
-		{"file_name": "images/tower/i_mokugyo_01.png",  "frame_name": "i_mokugyo",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv1",        "rows": 1, "cols": 6, "w": 10, "h": 10, "from":  0, "to":  5},
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv2",        "rows": 2, "cols": 6, "w": 10, "h": 10, "from":  6, "to": 11},
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv3",        "rows": 3, "cols": 6, "w": 10, "h": 10, "from": 12, "to": 17},
