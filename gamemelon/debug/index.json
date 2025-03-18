@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/17 23:00:00",
+	"timestamp": "2025/03/18 11:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -31,8 +31,12 @@
 		"0": {"name": ""},
 		"a": {"name": "i_candle"},
 		"b": {"name": "i_juzu"},
-		"c": {"name": "i_koban"},
-		"d": {"name": "i_mokugyo"}
+		"c": {"name": "i_koban_1"},
+		"c": {"name": "i_koban_2"},
+		"c": {"name": "i_koban_3"},
+		"d": {"name": "i_mokugyo"},
+		"d": {"name": "i_ofuda"},
+		"d": {"name": "i_zeni"}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
