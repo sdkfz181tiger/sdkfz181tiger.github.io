@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/19 14:00:00",
+	"timestamp": "2025/03/19 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -56,7 +56,7 @@
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c"],
-			"items": ["a", "b", "c"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "h"],
 			"map": [
 				"0c00000",
 				"000bba0",
@@ -76,7 +76,7 @@
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["d", "e", "f"],
-			"items": ["d", "e", "f"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "h"],
 			"map": [
 				"0000000",
 				"00abc00",
