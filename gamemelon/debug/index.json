@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/19 19:00:00",
+	"timestamp": "2025/03/19 20:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -29,14 +29,16 @@
 	},
 	"items": {
 		"0": {"name": "",          "score": 0, "icon": ""},
-		"a": {"name": "i_zeni",    "score": 1, "icon": "i_zeni"},
-		"b": {"name": "i_candle",  "score": 2, "icon": "i_candle"},
-		"c": {"name": "i_ofuda",   "score": 3, "icon": "i_ofuda"},
-		"d": {"name": "i_koban_1", "score": 4, "icon": "i_koban_1"},
-		"e": {"name": "i_koban_2", "score": 5, "icon": "i_koban_2"},
-		"f": {"name": "i_koban_3", "score": 6, "icon": "i_koban_3"},
-		"g": {"name": "i_juzu",    "score": 7, "icon": "i_juzu"},
-		"h": {"name": "i_mokugyo", "score": 8, "icon": "i_mokugyo"}
+		"a": {"name": "i_candle",  "score": 2, "icon": "i_candle"},
+		"b": {"name": "i_ofuda",   "score": 2, "icon": "i_ofuda"},
+		"c": {"name": "i_coin_1",  "score": 1, "icon": "i_coin_1"},
+		"d": {"name": "i_coin_2",  "score": 2, "icon": "i_coin_2"},
+		"e": {"name": "i_coin_3",  "score": 3, "icon": "i_coin_3"},
+		"f": {"name": "i_koban_1", "score": 4, "icon": "i_koban_1"},
+		"g": {"name": "i_koban_2", "score": 5, "icon": "i_koban_2"},
+		"h": {"name": "i_koban_3", "score": 6, "icon": "i_koban_3"},
+		"i": {"name": "i_juzu",    "score": 7, "icon": "i_juzu"},
+		"j": {"name": "i_mokugyo", "score": 8, "icon": "i_mokugyo"}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
@@ -56,7 +58,7 @@
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c"],
-			"items": ["a", "b", "c", "d", "e", "f", "g", "h"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"map": [
 				"0c00000",
 				"000bba0",
@@ -76,7 +78,7 @@
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["d", "e", "f"],
-			"items": ["a", "b", "c", "d", "e", "f", "g", "h"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"map": [
 				"0000000",
 				"00abc00",
@@ -300,13 +302,15 @@
 		{"file_name": "images/break/bomb_s_01.png",     "frame_name": "block_bomb_s_01",  "rows": 1, "cols":15, "w":  4, "h":  4, "from":  0, "to": 14},
 
 		{"file_name": "images/grave/i_candle_01.png",   "frame_name": "i_candle",         "rows": 1, "cols": 6, "w":  6, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/grave/i_coin_1_01.png",   "frame_name": "i_coin_1",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/grave/i_coin_2_01.png",   "frame_name": "i_coin_2",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/grave/i_coin_3_01.png",   "frame_name": "i_coin_3",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_juzu_01.png",     "frame_name": "i_juzu",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_koban_1_01.png",  "frame_name": "i_koban_1",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_koban_2_01.png",  "frame_name": "i_koban_2",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_koban_3_01.png",  "frame_name": "i_koban_3",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_mokugyo_01.png",  "frame_name": "i_mokugyo",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_ofuda_01.png",    "frame_name": "i_ofuda",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
-		{"file_name": "images/grave/i_zeni_01.png",     "frame_name": "i_zeni",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_apple",          "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_banana",         "rows": 2, "cols":10, "w":  8, "h":  8, "from": 10, "to": 19},
