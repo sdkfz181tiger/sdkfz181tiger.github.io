@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/19 08:00:00",
+	"timestamp": "2025/03/19 14:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -28,15 +28,15 @@
 		"g": {"name": "kappa",   "score": 8, "life": 2, "spd": 5}
 	},
 	"items": {
-		"0": {"name": "",          "score": 0},
-		"a": {"name": "i_zeni",    "score": 1},
-		"b": {"name": "i_candle",  "score": 2},
-		"c": {"name": "i_ofuda",   "score": 3},
-		"d": {"name": "i_koban_1", "score": 4},
-		"e": {"name": "i_koban_2", "score": 5},
-		"f": {"name": "i_koban_3", "score": 6},
-		"g": {"name": "i_juzu",    "score": 7},
-		"h": {"name": "i_mokugyo", "score": 8}
+		"0": {"name": "",          "score": 0, "icon": ""},
+		"a": {"name": "i_zeni",    "score": 1, "icon": "images/yokai/food_mac_01.png"},
+		"b": {"name": "i_candle",  "score": 2, "icon": "images/yokai/food_mac_02.png"},
+		"c": {"name": "i_ofuda",   "score": 3, "icon": "images/yokai/food_mac_03.png"},
+		"d": {"name": "i_koban_1", "score": 4, "icon": "images/yokai/food_mac_01.png"},
+		"e": {"name": "i_koban_2", "score": 5, "icon": "images/yokai/food_mac_02.png"},
+		"f": {"name": "i_koban_3", "score": 6, "icon": "images/yokai/food_mac_03.png"},
+		"g": {"name": "i_juzu",    "score": 7, "icon": "images/yokai/food_mac_01.png"},
+		"h": {"name": "i_mokugyo", "score": 8, "icon": "images/yokai/food_mac_02.png"}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
