@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/19 20:30:00",
+	"timestamp": "2025/03/20 13:30:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -29,16 +29,16 @@
 	},
 	"items": {
 		"0": {"name": "",          "score": 0, "icon": ""},
-		"a": {"name": "i_candle",  "score": 2, "icon": "i_candle"},
-		"b": {"name": "i_ofuda",   "score": 2, "icon": "i_ofuda"},
-		"c": {"name": "i_coin_1",  "score": 1, "icon": "i_coin_1"},
-		"d": {"name": "i_coin_2",  "score": 2, "icon": "i_coin_2"},
-		"e": {"name": "i_coin_3",  "score": 3, "icon": "i_coin_3"},
-		"f": {"name": "i_koban_1", "score": 4, "icon": "i_koban_1"},
-		"g": {"name": "i_koban_2", "score": 5, "icon": "i_koban_2"},
-		"h": {"name": "i_koban_3", "score": 6, "icon": "i_koban_3"},
-		"i": {"name": "i_juzu",    "score": 7, "icon": "i_juzu"},
-		"j": {"name": "i_mokugyo", "score": 8, "icon": "i_mokugyo"}
+		"a": {"name": "i_coin_1",  "score": 1, "icon": "i_coin_1"},
+		"b": {"name": "i_coin_2",  "score": 2, "icon": "i_coin_2"},
+		"c": {"name": "i_coin_3",  "score": 3, "icon": "i_coin_3"},
+		"d": {"name": "i_koban_1", "score": 4, "icon": "i_koban_1"},
+		"e": {"name": "i_koban_2", "score": 5, "icon": "i_koban_2"},
+		"f": {"name": "i_koban_3", "score": 6, "icon": "i_koban_3"},
+		"g": {"name": "i_candle",  "score": 0, "icon": "i_candle"},
+		"h": {"name": "i_ofuda",   "score": 0, "icon": "i_ofuda"},
+		"i": {"name": "i_juzu",    "score": 0, "icon": "i_juzu"},
+		"j": {"name": "i_mokugyo", "score": 0, "icon": "i_mokugyo"}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
@@ -58,7 +58,7 @@
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c"],
-			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"items": ["a", "b", "c", "d", "e", "f"],
 			"map": [
 				"0c00000",
 				"000bba0",
