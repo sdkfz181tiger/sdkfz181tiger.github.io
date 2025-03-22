@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/22 11:00:00",
+	"timestamp": "2025/03/22 12:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -13,8 +13,8 @@
 	],
 	"player": {
 		"name": "sojo",
-		"life": 1, 
-		"spd": 8,  
+		"life": 1,
+		"spd": 8,
 		"score": 0
 	},
 	"monsters": {
@@ -37,8 +37,8 @@
 		"f": {"name": "i_koban_3", "score": 6, "t_okyo": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_koban_3"},
 		"g": {"name": "i_candle",  "score": 0, "t_okyo": 0.0, "t_sleep": 4.0, "se": "sounds/se_powerup_01.ogg", "icon": "i_candle"},
 		"h": {"name": "i_ofuda",   "score": 0, "t_okyo": 0.0, "t_sleep": 8.0, "se": "sounds/se_powerup_01.ogg", "icon": "i_ofuda"},
-		"i": {"name": "i_juzu",    "score": 0, "t_okyo": 1.0, "t_sleep": 0.0, "se": "sounds/se_powerup_02.ogg", "icon": "i_juzu"},
-		"j": {"name": "i_mokugyo", "score": 0, "t_okyo": 4.0, "t_sleep": 0.0, "se": "sounds/se_powerup_02.ogg", "icon": "i_mokugyo"}
+		"i": {"name": "i_juzu",    "score": 0, "t_okyo":10.0, "t_sleep": 0.0, "se": "sounds/se_powerup_02.ogg", "icon": "i_juzu"},
+		"j": {"name": "i_mokugyo", "score": 0, "t_okyo":30.0, "t_sleep": 0.0, "se": "sounds/se_powerup_02.ogg", "icon": "i_mokugyo"}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
