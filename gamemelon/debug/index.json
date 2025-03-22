@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/21 14:00:00",
+	"timestamp": "2025/03/22 10:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -312,6 +312,13 @@
 		{"file_name": "images/grave/i_mokugyo_01.png",  "frame_name": "i_mokugyo",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_ofuda_01.png",    "frame_name": "i_ofuda",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 
+		{"file_name": "images/grave/okyo_01.png",       "frame_name": "okyo_01",          "rows": 1, "cols": 6, "w": 13, "h": 13, "from":  0, "to":  5},
+		{"file_name": "images/grave/okyo_01.png",       "frame_name": "okyo_02",          "rows": 2, "cols": 6, "w": 13, "h": 13, "from":  6, "to": 11},
+		{"file_name": "images/grave/okyo_01.png",       "frame_name": "okyo_03",          "rows": 3, "cols": 6, "w": 13, "h": 13, "from": 12, "to": 17},
+		{"file_name": "images/grave/okyo_01.png",       "frame_name": "okyo_04",          "rows": 4, "cols": 6, "w": 13, "h": 13, "from": 18, "to": 23},
+		{"file_name": "images/grave/okyo_01.png",       "frame_name": "okyo_05",          "rows": 5, "cols": 6, "w": 13, "h": 13, "from": 24, "to": 29},
+		{"file_name": "images/grave/okyo_01.png",       "frame_name": "okyo_06",          "rows": 6, "cols": 6, "w": 13, "h": 13, "from": 30, "to": 35},
+
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_apple",          "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_banana",         "rows": 2, "cols":10, "w":  8, "h":  8, "from": 10, "to": 19},
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_bberry",         "rows": 3, "cols":10, "w":  8, "h":  8, "from": 20, "to": 29},
@@ -343,12 +350,6 @@
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv5",        "rows": 5, "cols": 6, "w": 10, "h": 10, "from": 24, "to": 29},
 		{"file_name": "images/tower/mhand_r_01.png",    "frame_name": "mhand_r",          "rows": 1, "cols": 6, "w": 32, "h": 80, "from":  0, "to":  5},
 		{"file_name": "images/tower/mhand_l_01.png",    "frame_name": "mhand_l",          "rows": 1, "cols": 6, "w": 32, "h": 80, "from":  0, "to":  5},
-		{"file_name": "images/tower/okyo_01.png",       "frame_name": "okyo_01",          "rows": 1, "cols": 6, "w": 13, "h": 13, "from":  0, "to":  5},
-		{"file_name": "images/tower/okyo_01.png",       "frame_name": "okyo_02",          "rows": 2, "cols": 6, "w": 13, "h": 13, "from":  6, "to": 11},
-		{"file_name": "images/tower/okyo_01.png",       "frame_name": "okyo_03",          "rows": 3, "cols": 6, "w": 13, "h": 13, "from": 12, "to": 17},
-		{"file_name": "images/tower/okyo_01.png",       "frame_name": "okyo_04",          "rows": 4, "cols": 6, "w": 13, "h": 13, "from": 18, "to": 23},
-		{"file_name": "images/tower/okyo_01.png",       "frame_name": "okyo_05",          "rows": 5, "cols": 6, "w": 13, "h": 13, "from": 24, "to": 29},
-		{"file_name": "images/tower/okyo_01.png",       "frame_name": "okyo_06",          "rows": 6, "cols": 6, "w": 13, "h": 13, "from": 30, "to": 35},
 
 		{"file_name": "images/yokai/dokuro_01.png",    "frame_name": "dokuro_f",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/yokai/dokuro_01.png",    "frame_name": "dokuro_b",          "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
