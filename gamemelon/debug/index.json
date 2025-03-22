@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/22 20:00:00",
+	"timestamp": "2025/03/22 21:30:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -19,13 +19,13 @@
 	},
 	"monsters": {
 		"0": {"name": "",        "score": 0, "life": 0, "spd": 0},
-		"a": {"name": "tsuru_g", "score": 2, "life": 2, "spd": 2},
-		"b": {"name": "tsuru_b", "score": 2, "life": 2, "spd": 2},
-		"c": {"name": "tsuru_r", "score": 2, "life": 2, "spd": 2},
-		"d": {"name": "kasa",    "score": 4, "life": 2, "spd": 3},
-		"e": {"name": "dokuro",  "score": 6, "life": 2, "spd": 3},
-		"f": {"name": "hitotsu", "score": 8, "life": 2, "spd": 4},
-		"g": {"name": "kappa",   "score": 8, "life": 2, "spd": 5}
+		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 2},
+		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 2},
+		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 2},
+		"d": {"name": "kasa",    "score": 4, "life": 1, "spd": 3},
+		"e": {"name": "dokuro",  "score": 6, "life": 1, "spd": 3},
+		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 4},
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 5}
 	},
 	"items": {
 		"0": {"name": "",          "score": 0, "t_bonji": 0.0, "t_sleep": 0.0, "se": "",                         "icon": ""},
