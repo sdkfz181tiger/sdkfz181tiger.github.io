@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/24 15:00:00",
+	"timestamp": "2025/03/24 16:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -18,27 +18,27 @@
 		"score": 0
 	},
 	"monsters": {
-		"0": {"name": "",        "score": 0, "life": 0, "spd": 0},
-		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 2},
-		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 2},
-		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 2},
-		"d": {"name": "kasa",    "score": 4, "life": 1, "spd": 3},
-		"e": {"name": "dokuro",  "score": 6, "life": 1, "spd": 3},
-		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 4},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 5}
+		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "icon": ""},
+		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 2, "icon": "i_monsters_01"},
+		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 2, "icon": "i_monsters_01"},
+		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 2, "icon": "i_monsters_01"},
+		"d": {"name": "kasa",    "score": 4, "life": 1, "spd": 3, "icon": "i_monsters_01"},
+		"e": {"name": "dokuro",  "score": 6, "life": 1, "spd": 3, "icon": "i_monsters_01"},
+		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 4, "icon": "i_monsters_01"},
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 5, "icon": "i_monsters_01"}
 	},
 	"items": {
 		"0": {"name": "",          "score": 0, "t_bonji": 0.0, "t_sleep": 0.0, "se": "",                         "icon": ""},
-		"a": {"name": "i_coin_1",  "score": 1, "t_bonji": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_coin_1"},
-		"b": {"name": "i_coin_2",  "score": 2, "t_bonji": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_coin_2"},
-		"c": {"name": "i_coin_3",  "score": 3, "t_bonji": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_coin_3"},
-		"d": {"name": "i_koban_1", "score": 4, "t_bonji": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_koban_1"},
-		"e": {"name": "i_koban_2", "score": 5, "t_bonji": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_koban_2"},
-		"f": {"name": "i_koban_3", "score": 6, "t_bonji": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_koban_3"},
-		"g": {"name": "i_candle",  "score": 0, "t_bonji": 0.0, "t_sleep": 4.0, "se": "sounds/se_powerup_01.ogg", "icon": "i_candle"},
-		"h": {"name": "i_ofuda",   "score": 0, "t_bonji": 0.0, "t_sleep": 8.0, "se": "sounds/se_powerup_01.ogg", "icon": "i_ofuda"},
-		"i": {"name": "i_juzu",    "score": 0, "t_bonji":10.0, "t_sleep": 0.0, "se": "sounds/se_powerup_02.ogg", "icon": "i_juzu"},
-		"j": {"name": "i_mokugyo", "score": 0, "t_bonji":30.0, "t_sleep": 0.0, "se": "sounds/se_powerup_02.ogg", "icon": "i_mokugyo"}
+		"a": {"name": "i_coin_1",  "score": 1, "t_bonji": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_coins"},
+		"b": {"name": "i_coin_2",  "score": 2, "t_bonji": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_coins"},
+		"c": {"name": "i_coin_3",  "score": 3, "t_bonji": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_coins"},
+		"d": {"name": "i_koban_1", "score": 4, "t_bonji": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_kobans"},
+		"e": {"name": "i_koban_2", "score": 5, "t_bonji": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_kobans"},
+		"f": {"name": "i_koban_3", "score": 6, "t_bonji": 0.0, "t_sleep": 0.0, "se": "sounds/se_coin_01.ogg",    "icon": "i_kobans"},
+		"g": {"name": "i_candle",  "score": 0, "t_bonji": 0.0, "t_sleep": 4.0, "se": "sounds/se_powerup_01.ogg", "icon": ""},
+		"h": {"name": "i_ofuda",   "score": 0, "t_bonji": 0.0, "t_sleep": 8.0, "se": "sounds/se_powerup_01.ogg", "icon": ""},
+		"i": {"name": "i_juzu",    "score": 0, "t_bonji":10.0, "t_sleep": 0.0, "se": "sounds/se_powerup_02.ogg", "icon": ""},
+		"j": {"name": "i_mokugyo", "score": 0, "t_bonji":30.0, "t_sleep": 0.0, "se": "sounds/se_powerup_02.ogg", "icon": ""}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
