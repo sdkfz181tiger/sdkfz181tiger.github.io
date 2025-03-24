@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/24 11:00:00",
+	"timestamp": "2025/03/24 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -313,11 +313,14 @@
 		{"file_name": "images/grave/i_coin_1_01.png",   "frame_name": "i_coin_1",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_coin_2_01.png",   "frame_name": "i_coin_2",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_coin_3_01.png",   "frame_name": "i_coin_3",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/grave/i_coins_01.png",    "frame_name": "i_coins",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_juzu_01.png",     "frame_name": "i_juzu",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_koban_1_01.png",  "frame_name": "i_koban_1",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_koban_2_01.png",  "frame_name": "i_koban_2",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_koban_3_01.png",  "frame_name": "i_koban_3",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/grave/i_kobans_01.png",   "frame_name": "i_kobans",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_mokugyo_01.png",  "frame_name": "i_mokugyo",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/grave/i_monsters_01.png", "frame_name": "i_monsters",       "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/grave/i_ofuda_01.png",    "frame_name": "i_ofuda",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 
 		{"file_name": "images/foods/i_foods_01.png",    "frame_name": "i_apple",          "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
