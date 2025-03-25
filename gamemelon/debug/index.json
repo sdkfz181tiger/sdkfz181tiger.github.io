@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/25 14:00:00",
+	"timestamp": "2025/03/25 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -182,7 +182,6 @@
 		"images/base/dot_4x4.png",
 		"images/base/dot_6x6.png",
 		"images/base/dot_8x8.png",
-
 		"images/base/e_angry.png",
 		"images/base/e_bad.png",
 		"images/base/e_dead.png",
@@ -196,7 +195,6 @@
 		"images/base/e_sleep.png",
 		"images/base/e_surprise.png",
 		"images/base/e_think.png",
-
 		"images/base/ene_kan_m.png",
 		"images/base/ene_kan_s.png",
 		"images/base/ene_meter_jump.png",
@@ -214,6 +212,17 @@
 		"images/base/ladder_18x28_02.png",
 		"images/base/ladder_28x28_01.png",
 		"images/base/ladder_28x28_02.png",
+		"images/base/marker_16x16.png",
+		"images/base/msg_bad.png",
+		"images/base/msg_get.png",
+		"images/base/msg_go.png",
+		"images/base/msg_good.png",
+		"images/base/msg_here.png",
+		"images/base/msg_no.png",
+		"images/base/msg_omg.png",
+		"images/base/msg_open.png",
+		"images/base/msg_yes.png",
+		"images/base/msg_you.png",
 		"images/base/smk_m_01.png",
 		"images/base/smk_m_02.png",
 		"images/base/smk_s_01.png",
@@ -299,6 +308,7 @@
 		{"file_name": "images/base/heart_01.png",       "frame_name": "heart_01",         "rows": 1, "cols": 6, "w": 13, "h": 13, "from":  0, "to":  5},
 		{"file_name": "images/base/noframe_01.png",     "frame_name": "noframe",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/base/marker_16x16.png",   "frame_name": "marker_16x16",     "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+
 		{"file_name": "images/base/smk_m_01.png",       "frame_name": "smk_m_01",         "rows": 2, "cols": 6, "w": 50, "h": 50, "from":  0, "to": 11},
 		{"file_name": "images/base/smk_m_02.png",       "frame_name": "smk_m_02",         "rows": 3, "cols": 6, "w": 50, "h": 50, "from":  0, "to": 17},
 		{"file_name": "images/base/smk_s_01.png",       "frame_name": "smk_s_01",         "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
