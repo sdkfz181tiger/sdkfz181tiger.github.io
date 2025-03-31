@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/32 16:00:00",
+	"timestamp": "2025/03/31 20:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -42,16 +42,16 @@
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
-		"a": {"type": 1, "file": "images/grave/cell_01.png"},
-		"b": {"type": 1, "file": "images/grave/cell_02.png"},
-		"c": {"type": 1, "file": "images/grave/cell_03.png"},
-		"d": {"type": 1, "file": "images/grave/cell_04.png"},
-		"e": {"type": 1, "file": "images/grave/cell_05.png"},
-		"f": {"type": 1, "file": "images/grave/cell_06.png"},
-		"g": {"type": 1, "file": "images/grave/cell_07.png"},
-		"h": {"type": 1, "file": "images/grave/cell_08.png"},
-		"i": {"type": 1, "file": "images/grave/cell_09.png"},
-		"j": {"type": 1, "file": "images/grave/cell_10.png"}
+		"a": {"type": 1, "file": "images/grave/wall_01.png"},
+		"b": {"type": 1, "file": "images/grave/wall_02.png"},
+		"c": {"type": 1, "file": "images/grave/wall_03.png"},
+		"d": {"type": 1, "file": "images/grave/wall_04.png"},
+		"e": {"type": 1, "file": "images/grave/wall_05.png"},
+		"f": {"type": 1, "file": "images/grave/wall_06.png"},
+		"g": {"type": 1, "file": "images/grave/wall_07.png"},
+		"h": {"type": 1, "file": "images/grave/wall_08.png"},
+		"i": {"type": 1, "file": "images/grave/wall_09.png"},
+		"j": {"type": 1, "file": "images/grave/wall_10.png"}
 	},
 	"stages":[
 		{
