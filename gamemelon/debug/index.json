@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/03/29 21:00:00",
+	"timestamp": "2025/03/32 16:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -50,7 +50,8 @@
 		"f": {"type": 1, "file": "images/grave/cell_06.png"},
 		"g": {"type": 1, "file": "images/grave/cell_07.png"},
 		"h": {"type": 1, "file": "images/grave/cell_08.png"},
-		"i": {"type": 1, "file": "images/grave/cell_09.png"}
+		"i": {"type": 1, "file": "images/grave/cell_09.png"},
+		"j": {"type": 1, "file": "images/grave/cell_10.png"}
 	},
 	"stages":[
 		{
@@ -64,13 +65,13 @@
 			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"map": [
 				"0000000",
+				"0abcde0",
 				"0000000",
 				"0000000",
 				"0000000",
 				"0000000",
 				"0000000",
-				"0000000",
-				"0000000",
+				"0fgihj0",
 				"0000000"
 			]
 		}, {
@@ -88,10 +89,10 @@
 				"0e00000",
 				"000f0gh",
 				"i000000",
-				"00a0b0c",
+				"00a0b0j",
 				"d0e0f0g",
 				"00h000i",
-				"a000b00"
+				"a000j00"
 			]
 		}, {
 			"title": "STG02",
@@ -104,13 +105,13 @@
 			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"map": [
 				"0000000",
-				"00abc00",
+				"00ajc00",
 				"0000000",
-				"00def00",
+				"0b0ef00",
 				"0000000",
-				"00ghi00",
+				"00gh0d0",
 				"0000000",
-				"00abc00",
+				"0j0a0b0",
 				"0000000"
 			]
 		}
