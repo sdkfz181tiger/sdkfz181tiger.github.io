@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/04/06 15:00:00",
+	"timestamp": "2025/04/06 17:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -63,7 +63,8 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["d"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
+			"sapawn_limit": 3,
+			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
 			"map": [
 				"000000000",
 				"b0de0ab0d",
@@ -84,7 +85,8 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
+			"sapawn_limit": 3,
+			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
 			"map": [
 				"0a00000",
 				"000bcd0",
@@ -105,7 +107,8 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["d", "e", "f", "g"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
+			"sapawn_limit": 3,
+			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
 			"map": [
 				"0000000",
 				"00ajc00",
