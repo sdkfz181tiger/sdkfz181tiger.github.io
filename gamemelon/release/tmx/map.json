@@ -1,0 +1,44 @@
+{ "compressionlevel":-1,
+ "height":13,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+            3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+            3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+            3, 0, 0, 2, 2, 0, 2, 2, 0, 0, 3,
+            3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+            3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+            3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+            3, 0, 2, 2, 0, 0, 0, 2, 2, 0, 3,
+            3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+            3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+            3, 0, 0, 0, 2, 2, 2, 0, 0, 0, 3,
+            3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+            3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3],
+         "height":13,
+         "id":1,
+         "name":"blocks",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":11,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":10,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"left-down",
+ "tiledversion":"1.10.2",
+ "tileheight":28,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"blocks.tsx"
+        }],
+ "tilewidth":28,
+ "type":"map",
+ "version":"1.10",
+ "width":11
+}
