@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/04/29 13:00:00",
+	"timestamp": "2025/04/29 14:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -66,6 +66,8 @@
 			"spawn_limit": 3,
 			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
 			"map": [
+				"hhhhhh0hhhhhh",
+				"ggggg000ggggg",
 				"ffff00000ffff",
 				"eee0000000eee",
 				"dd000000000dd",
@@ -78,7 +80,9 @@
 				"c00000000000c",
 				"dd000000000dd",
 				"eee0000000eee",
-				"ffff00000ffff"
+				"ffff00000ffff",
+				"ggggg000ggggg",
+				"hhhhhh0hhhhhh"
 			]
 		}, {
 			"title": "HAKA02",
