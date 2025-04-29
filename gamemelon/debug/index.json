@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/04/29 20:00:00",
+	"timestamp": "2025/04/29 21:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -18,14 +18,14 @@
 		"score": 0
 	},
 	"monsters": {
-		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "icon": ""},
-		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 2, "icon": "i_monsters"},
-		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 2, "icon": "i_monsters"},
-		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 2, "icon": "i_monsters"},
-		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 3, "icon": "i_monsters"},
-		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 3, "icon": "i_monsters"},
-		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 4, "icon": "i_monsters"},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 5, "icon": "i_monsters"}
+		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "aim": 0, "icon": ""},
+		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 2, "aim": 0, "icon": "i_monsters"},
+		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 2, "aim": 0, "icon": "i_monsters"},
+		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 2, "aim": 0, "icon": "i_monsters"},
+		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 3, "aim": 5, "icon": "i_monsters"},
+		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 3, "aim": 5, "icon": "i_monsters"},
+		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters"},
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 5, "aim": 5, "icon": "i_monsters"}
 	},
 	"items": {
 		"0": {"name": "",          "score": 0, "icon": "",         "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
