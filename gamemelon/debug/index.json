@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/04/29 20:00:00",
+	"timestamp": "2025/04/29 21:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -55,7 +55,7 @@
 	},
 	"stages":[
 		{
-			"title": "HAKA01",
+			"title": "HK01",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -80,7 +80,7 @@
 				"0aa0aa0a0aa0aa0"
 			]
 		}, {
-			"title": "HAKA02",
+			"title": "HK02",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -102,7 +102,7 @@
 				"a000j00"
 			]
 		}, {
-			"title": "HAKA03",
+			"title": "HK03",
 			"bkg": {
 				"file_name": "images/yokai/bkg_02.png",
 				"color": [33, 33, 33]
