@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/04/30 21:00:00",
+	"timestamp": "2025/04/30 22:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -67,7 +67,7 @@
 			"spawn_limit": 3,
 			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
 			"map": [
-				"aa0000aaa0000aa",
+				"xa0000aaa0000aa",
 				"a00aa00000aa00a",
 				"a0000000000000a",
 				"a00aa00000aa00a",
