@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/04/30 22:00:00",
+	"timestamp": "2025/04/30 20:10:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -41,7 +41,7 @@
 		"j": {"name": "i_mokugyo", "score": 0, "icon": "",         "se": "sounds/se_powerup_02.ogg", "t_bonji":90.0, "t_sleep": 0.0}
 	},
 	"walls": {
-		"0": {"type": 0, "file": ""},
+		" ": {"type": 0, "file": ""},
 		"a": {"type": 1, "file": "images/grave/wall_01.png"},
 		"b": {"type": 1, "file": "images/grave/wall_02.png"},
 		"c": {"type": 1, "file": "images/grave/wall_03.png"},
@@ -67,11 +67,11 @@
 			"spawn_limit": 3,
 			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
 			"map": [
-				"xx    xxx    xx",
-				"x  xx     xx  x",
-				" x           x ",
-				"x  xx     xx  x",
-				"xx    xxx    xx"
+				"aa    aaa    aa",
+				"a  aa     aa  a",
+				" a           a ",
+				"a  aa     aa  a",
+				"aa    aaa    aa"
 			]
 		}, {
 			"title": "HK02",
