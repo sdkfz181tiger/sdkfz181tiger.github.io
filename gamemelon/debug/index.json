@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/04/30 20:00:00",
+	"timestamp": "2025/04/30 21:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -67,13 +67,11 @@
 			"spawn_limit": 3,
 			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
 			"map": [
-				"x     xxx     x",
-				"xxx         xxx",
-				"   x x   x x   ",
-				" x           x ",
-				"   x x   x x   ",
-				"xxx         xxx",
-				"x     xxx     x"
+				"a00000a0a00000a",
+				"000a0a000a0a000",
+				"0a00000000000a0",
+				"0aaa0a000a0aaa0",
+				"a00000a0a00000a"
 			]
 		}, {
 			"title": "HK02",
