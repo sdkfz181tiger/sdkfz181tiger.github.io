@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/04/30 22:30:00",
+	"timestamp": "2025/05/03 13:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -63,15 +63,15 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["d"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"walls": ["a", "b", "c"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"spawn_limit": 3,
 			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
 			"map": [
-				"xx0000xxx0000xx",
-				"x00xx00000xx00x",
-				"x0000000000000x",
-				"x00xx00000xx00x",
-				"xx0000xxx0000xx"
+				"000xxx000",
+				"xx00000xx",
+				"000000000",
+				"xx00000xx",
+				"000xxx000"
 			]
 		}, {
 			"title": "HK02",
@@ -82,6 +82,7 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"spawn_limit": 3,
 			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
 			"map": [
@@ -100,6 +101,7 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["d", "e", "f", "g"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"spawn_limit": 3,
 			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
 			"map": [
