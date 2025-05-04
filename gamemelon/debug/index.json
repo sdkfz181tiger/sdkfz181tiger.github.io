@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/05/04 12:30:00",
+	"timestamp": "2025/05/04 12:40:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -77,6 +77,8 @@
 				"x00000x",
 				"00xxx00",
 				"x00000x",
+				"xx0x0xx",
+				"xx000xx",
 				"xxxxxxx"
 			]
 		}, {
