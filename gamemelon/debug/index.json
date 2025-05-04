@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/05/04 12:40:00",
+	"timestamp": "2025/05/04 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -67,7 +67,6 @@
 			"spawn_limit": 3,
 			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
 			"map": [
-				"xxxxxxx",
 				"x00000x",
 				"00xxx00",
 				"x00000x",
@@ -94,16 +93,17 @@
 			"spawn_limit": 3,
 			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
 			"map": [
-				"xxxxxxx",
-				"0000000",
+				"000x000",
+				"0x000x0",
 				"0xx0xx0",
-				"00x0x00",
+				"0000000",
 				"x0x0x0x",
 				"x00000x",
 				"x0x0x0x",
 				"00x0x00",
 				"0xx0xx0",
-				"0000000",
+				"0x000x0",
+				"000x000",
 				"xxxxxxx"
 			]
 		}, {
