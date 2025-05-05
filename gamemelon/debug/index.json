@@ -61,11 +61,11 @@
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"monsters": [],
+			"monsters": ["a"],
 			"items": ["a", "a", "a"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"spawn_limit": 3,
-			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
+			"spawn_intervals": [3.0],
 			"map": [
 				"xxxxxxxxx",
 				"xxxxxxxxx",
