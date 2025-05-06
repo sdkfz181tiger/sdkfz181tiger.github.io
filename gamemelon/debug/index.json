@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/05/06 12:00:00",
+	"timestamp": "2025/05/06 13:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -70,7 +70,9 @@
 				"xxxxxxx",
 				"x00000x",
 				"x0x0x0x",
+				"x0x0x0x",
 				"x00000x",
+				"x0x0x0x",
 				"x0x0x0x",
 				"x00000x",
 				"xxxxxxx"
@@ -88,19 +90,13 @@
 			"spawn_limit": 1,
 			"spawn_intervals": [3.0],
 			"map": [
-				"xxxxxxxxx",
-				"xxxxxxxxx",
-				"xxxxxxxxx",
-				"xxxxxxxxx",
-				"xx00000xx",
-				"xx0x0x0xx",
-				"xx00000xx",
-				"xx0x0x0xx",
-				"xx00000xx",
-				"xxxxxxxxx",
-				"xxxxxxxxx",
-				"xxxxxxxxx",
-				"xxxxxxxxx"
+				"xxxxxxx",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"xxxxxxx"
 			]
 		}, {
 			"title": "HK01",
