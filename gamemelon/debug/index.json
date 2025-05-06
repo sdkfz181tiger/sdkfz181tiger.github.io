@@ -68,6 +68,27 @@
 			"spawn_intervals": [3.0],
 			"map": [
 				"xxxxxxxxx",
+				"xx00000xx",
+				"xx0x0x0xx",
+				"xx00000xx",
+				"xx0x0x0xx",
+				"xx00000xx",
+				"xxxxxxxxx",
+			]
+		}, {
+			"title": "HK01",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [33, 33, 33]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"monsters": ["a"],
+			"items": ["a", "a", "a"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 1,
+			"spawn_intervals": [3.0],
+			"map": [
+				"xxxxxxxxx",
 				"xxxxxxxxx",
 				"xxxxxxxxx",
 				"xxxxxxxxx",
