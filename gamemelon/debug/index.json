@@ -57,7 +57,7 @@
 		{
 			"title": "HK01",
 			"bkg": {
-				"file_name": "",
+				"file_name": "images/yokai/bkg_01.png",
 				"color": [11, 33, 11]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
@@ -157,7 +157,7 @@
 		}, {
 			"title": "HK03",
 			"bkg": {
-				"file_name": "images/yokai/bkg_02.png",
+				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
