@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/05/06 15:00:00",
+	"timestamp": "2025/05/06 16:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -163,6 +163,33 @@
 			"items": ["a", "a", "a", "a", "a", "a", "a", "g", "g", "g"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"spawn_limit": 6,
+			"spawn_intervals": [3.0, 4.0, 8.0, 12.0, 16.0, 8.0],
+			"map": [
+				"000xxxxxxx000",
+				"0x0000x0000x0",
+				"0x0xx0x0xx0x0",
+				"000000x000000",
+				"xx0x0xxx0x0xx",
+				"000x0xxx0x000",
+				"0x000000000x0",
+				"000x0xxx0x000",
+				"xx0x0xxx0x0xx",
+				"000x00x00x000",
+				"0x0xx000xx0x0",
+				"0x0xxxxxxx0x0",
+				"000xxxxxxx000"
+			]
+		}, {
+			"title": "HK06",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [33, 33, 33]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"monsters": ["b", "c", "d", "e", "f"],
+			"items": ["a", "a", "a", "a", "a", "a", "a", "g", "g", "g"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 8,
 			"spawn_intervals": [3.0, 4.0, 8.0, 12.0, 16.0, 8.0],
 			"map": [
 				"000xx000xx000",
