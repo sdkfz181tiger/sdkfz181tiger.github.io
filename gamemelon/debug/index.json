@@ -64,10 +64,9 @@
 			"monsters": ["a"],
 			"items": ["a", "a", "a"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 1,
+			"spawn_limit": 6,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
-				"xxxxxxxxxxxxx",
 				"x000x0x000x0x",
 				"x0x0x0x0x0x0x",
 				"x0x0000000x0x",
@@ -78,8 +77,7 @@
 				"x0x0xxx0x0x0x",
 				"x0x0000000x0x",
 				"x0x0x0x0x0x0x",
-				"x000x0x000x0x",
-				"xxxxxxxxxxxxx"
+				"x000x0x000x0x"
 			]
 		}, {
 			"title": "HK01",
@@ -112,7 +110,7 @@
 			"monsters": ["a"],
 			"items": ["a", "a", "a"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 1,
+			"spawn_limit": 2,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
 				"xx000xx",
@@ -135,7 +133,7 @@
 			"monsters": ["a", "b", "c", "d"],
 			"items": ["a", "a", "a", "a", "a", "a", "a", "g", "g", "g"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 4,
+			"spawn_limit": 3,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
 				"xx00000xx",
