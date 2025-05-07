@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/05/06 16:00:00",
+	"timestamp": "2025/05/07 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -55,6 +55,33 @@
 	},
 	"stages":[
 		{
+			"title": "TEST",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"monsters": ["a"],
+			"items": ["a", "a", "a"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 1,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"map": [
+				"xxxxxxxxxxxxx",
+				"x000x0x000x0x",
+				"x0x0x0x0x0x0x",
+				"x0x0000000x0x",
+				"x0xxx0xxx0x0x",
+				"x00000x00000x",
+				"xxx0xxxxx0xxx",
+				"x00000x00000x",
+				"x0x0xxx0x0x0x",
+				"x0x0000000x0x",
+				"x0x0x0x0x0x0x",
+				"x000x0x000x0x",
+				"xxxxxxxxxxxxx"
+			]
+		}, {
 			"title": "HK01",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
