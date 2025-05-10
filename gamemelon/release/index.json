@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/04/29 14:00:00",
+	"timestamp": "2025/05/08 22:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -18,14 +18,14 @@
 		"score": 0
 	},
 	"monsters": {
-		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "icon": ""},
-		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 2, "icon": "i_monsters"},
-		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 2, "icon": "i_monsters"},
-		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 2, "icon": "i_monsters"},
-		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 3, "icon": "i_monsters"},
-		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 3, "icon": "i_monsters"},
-		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 4, "icon": "i_monsters"},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 5, "icon": "i_monsters"}
+		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "aim": 0, "icon": ""},
+		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 2, "aim": 0, "icon": "i_monsters"},
+		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 2, "aim": 0, "icon": "i_monsters"},
+		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 2, "aim": 0, "icon": "i_monsters"},
+		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 3, "aim": 2, "icon": "i_monsters"},
+		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 3, "aim": 2, "icon": "i_monsters"},
+		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 4, "aim": 3, "icon": "i_monsters"},
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 5, "aim": 4, "icon": "i_monsters"}
 	},
 	"items": {
 		"0": {"name": "",          "score": 0, "icon": "",         "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
@@ -35,10 +35,10 @@
 		"d": {"name": "i_koban_1", "score": 4, "icon": "i_kobans", "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
 		"e": {"name": "i_koban_2", "score": 5, "icon": "i_kobans", "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
 		"f": {"name": "i_koban_3", "score": 6, "icon": "i_kobans", "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
-		"g": {"name": "i_candle",  "score": 0, "icon": "",         "se": "sounds/se_powerup_01.ogg", "t_bonji": 0.0, "t_sleep": 4.0},
-		"h": {"name": "i_ofuda",   "score": 0, "icon": "",         "se": "sounds/se_powerup_01.ogg", "t_bonji": 0.0, "t_sleep": 8.0},
-		"i": {"name": "i_juzu",    "score": 0, "icon": "",         "se": "sounds/se_powerup_02.ogg", "t_bonji":60.0, "t_sleep": 0.0},
-		"j": {"name": "i_mokugyo", "score": 0, "icon": "",         "se": "sounds/se_powerup_02.ogg", "t_bonji":90.0, "t_sleep": 0.0}
+		"g": {"name": "i_candle",  "score": 0, "icon": "",         "se": "sounds/se_powerup_01.ogg", "t_bonji": 0.0, "t_sleep":10.0},
+		"h": {"name": "i_ofuda",   "score": 0, "icon": "",         "se": "sounds/se_powerup_01.ogg", "t_bonji": 0.0, "t_sleep":20.0},
+		"i": {"name": "i_juzu",    "score": 0, "icon": "",         "se": "sounds/se_powerup_02.ogg", "t_bonji":20.0, "t_sleep": 0.0},
+		"j": {"name": "i_mokugyo", "score": 0, "icon": "",         "se": "sounds/se_powerup_02.ogg", "t_bonji":30.0, "t_sleep": 0.0}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
@@ -55,78 +55,255 @@
 	},
 	"stages":[
 		{
-			"title": "HAKA01",
+			"title": "TEST",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"monsters": ["a"],
+			"items": ["a", "a", "a"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 3,
+			"spawn_intervals": [3.0],
+			"map": [
+				"xxx0xxx0xxx0x",
+				"x000x000x000x",
+				"x0xxx0xxx0x0x",
+				"x0x0000000x0x",
+				"x0x0xxx0x0x0x",
+				"x000x0x00000x",
+				"xxx0x000xxx0x",
+				"x000x000x000x",
+				"x0x0xxx0x0x0x",
+				"x0x0000000x0x",
+				"x0xxx0xxx0x0x",
+				"x000x000x000x",
+				"x0xxx0xxx0xxx"
+			]
+		}, {
+			"title": "HK01",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"monsters": ["a"],
+			"items": ["a", "a", "a"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 1,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"map": [
+				"xxxxxxx",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"xxxxxxx"
+			]
+		}, {
+			"title": "HK02",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"monsters": ["d"],
-			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 3,
-			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
+			"monsters": ["a"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 2,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
-				"hhhhhh0hhhhhh",
-				"ggggg000ggggg",
-				"ffff00000ffff",
-				"eee0000000eee",
-				"dd000000000dd",
-				"c00000000000c",
-				"000b0b0b0b000",
-				"0abc00000abc0",
+				"xx000xx",
+				"x00x00x",
+				"x0xxx0x",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x0xxx0x",
+				"x00x00x",
+				"xx000xx"
+			]
+		}, {
+			"title": "HK03",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [33, 33, 33]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"monsters": ["a", "b", "c", "d"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 3,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"map": [
+				"xx00000xx",
+				"x00xxx00x",
+				"xx00000xx",
+				"xx0x0x0xx",
+				"x0000000x",
+				"xx0x0x0xx",
+				"xx00000xx",
+				"x00xxx00x",
+				"xx00000xx",
+				"xxx0x0xxx",
+				"xxx000xxx"
+			]
+		}, {
+			"title": "HK04",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [33, 33, 33]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"monsters": ["a", "b", "c", "d", "e"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 4,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"map": [
+				"x000x000x",
+				"x0x000x0x",
+				"x0xx0xx0x",
+				"x0000000x",
+				"xx0x0x0xx",
+				"xx00000xx",
+				"xx0x0x0xx",
+				"x00x0x00x",
+				"x0xx0xx0x",
+				"x0x000x0x",
+				"x000x000x"
+			]
+		}, {
+			"title": "HK05",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [33, 33, 33]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"monsters": ["b", "c", "d", "e", "f"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 5,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"map": [
+				"000000x000000",
+				"0xx0x0x0x0xx0",
+				"000000x000000",
+				"xx0x0xxx0x0xx",
+				"000x0xxx0x000",
+				"0x000000000x0",
+				"000x0xxx0x000",
+				"0x0x0xxx0x0x0",
+				"000x00x00x000",
+				"xxxxx000xxxxx"
+			]
+		}, {
+			"title": "HK06",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [33, 33, 33]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"monsters": ["b", "c", "d", "e", "f"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 6,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"map": [
+				"000xx000xx000",
+				"0x0000x0000x0",
+				"0x0xx0x0xx0x0",
 				"0000000000000",
-				"0abc00000abc0",
-				"000b0b0b0b000",
-				"c00000000000c",
-				"dd000000000dd",
-				"eee0000000eee",
-				"ffff00000ffff",
-				"ggggg000ggggg",
-				"hhhhhh0hhhhhh"
+				"xx0x0xxx0x0xx",
+				"000x00x00x000",
+				"0x0xx000xx0x0",
+				"000x00x00x000",
+				"xx0x0xxx0x0xx",
+				"0000000000000",
+				"0x0xx0x0xx0x0",
+				"0x0000x0000x0",
+				"000xx000xx000"
 			]
 		}, {
-			"title": "HAKA02",
+			"title": "HK07",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"monsters": ["a", "b", "c", "d", "e", "f", "g"],
-			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 3,
-			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
+			"monsters": ["b", "c", "d", "e", "f"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 7,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
-				"0a00000",
-				"000bcd0",
-				"0e00000",
-				"000f0gh",
-				"i000000",
-				"00a0b0j",
-				"d0e0f0g",
-				"00h000i",
-				"a000j00"
+				"x000x0x00000x",
+				"x0x0x0x0xxx0x",
+				"x0x0000000x0x",
+				"x0xxx0xxx000x",
+				"x00000x000x0x",
+				"xxx0x000x0xxx",
+				"x00000x000x0x",
+				"x0x0xxx0x000x",
+				"x0x0000000x0x",
+				"x0x0x0x0xxx0x",
+				"x000x0x00000x"
 			]
 		}, {
-			"title": "HAKA03",
+			"title": "HK08",
 			"bkg": {
-				"file_name": "images/yokai/bkg_02.png",
+				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"monsters": ["d", "e", "f", "g"],
-			"items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 3,
-			"spawn_intervals": [1.0, 8.0, 7.0, 6.0, 5.0, 4.0],
+			"monsters": ["b", "c", "d", "e", "f"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 8,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
-				"0000000",
-				"00ajc00",
-				"0000000",
-				"0b0ef00",
-				"0000000",
-				"00gh0d0",
-				"0000000",
-				"0j0a0b0",
-				"0000000"
+				"xxx000x000xxx",
+				"x000x0x0x000x",
+				"x0xxx0x0xxx0x",
+				"000000x000000",
+				"x0xxx000xxx0x",
+				"x000x0x0x000x",
+				"xxx0x000x0xxx",
+				"x000x0x0x000x",
+				"x0xxx000xxx0x",
+				"000000x000000",
+				"x0xxx0x0xxx0x",
+				"x000x0x0x000x",
+				"xxx000x000xxx"
+			]
+		}, {
+			"title": "HK09",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [33, 33, 33]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"monsters": ["b", "c", "d", "e", "f"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"spawn_limit": 8,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"map": [
+				"xxx0xxx0xxx0x",
+				"x000x000x000x",
+				"x0xxx0xxx0x0x",
+				"x0x0000000x0x",
+				"x0x0xxx0x0x0x",
+				"x000x0x00000x",
+				"xxx0x000xxx0x",
+				"x000x000x000x",
+				"x0x0xxx0x0x0x",
+				"x0x0000000x0x",
+				"x0xxx0xxx0x0x",
+				"x000x000x000x",
+				"x0xxx0xxx0xxx"
 			]
 		}
 	],
