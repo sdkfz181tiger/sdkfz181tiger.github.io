@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/05/12 22:00:00",
+	"timestamp": "2025/05/12 23:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -25,7 +25,10 @@
 		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 3, "aim": 2, "icon": "i_monsters"},
 		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 3, "aim": 2, "icon": "i_monsters"},
 		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 4, "aim": 3, "icon": "i_monsters"},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 5, "aim": 4, "icon": "i_monsters"}
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 5, "aim": 4, "icon": "i_monsters"},
+		"h": {"name": "suna",    "score":10, "life": 1, "spd": 6, "aim": 5, "icon": "i_monsters"},
+		"i": {"name": "kona",    "score":12, "life": 1, "spd": 7, "aim": 6, "icon": "i_monsters"},
+		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 8, "aim": 8, "icon": "i_monsters"}
 	},
 	"items": {
 		"0": {"name": "",          "score": 0, "icon": "",         "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
@@ -709,6 +712,17 @@
 		{"file_name": "images/yokai/kasa_01.png",       "frame_name": "kasa_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/yokai/kasa_01.png",       "frame_name": "kasa_sleep",       "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
+		{"file_name": "images/yokai/kona_01.png",       "frame_name": "kona_f",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/yokai/kona_01.png",       "frame_name": "kona_b",           "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
+		{"file_name": "images/yokai/kona_01.png",       "frame_name": "kona_r",           "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/yokai/kona_01.png",       "frame_name": "kona_l",           "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/yokai/kona_01.png",       "frame_name": "kona_damage",      "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/yokai/kona_01.png",       "frame_name": "kona_byebye",      "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/yokai/kona_01.png",       "frame_name": "kona_roll_r",      "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/yokai/kona_01.png",       "frame_name": "kona_roll_l",      "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/yokai/kona_01.png",       "frame_name": "kona_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
+		{"file_name": "images/yokai/kona_01.png",       "frame_name": "kona_sleep",       "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
+
 		{"file_name": "images/yokai/sojo_01.png",       "frame_name": "sojo_f",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/yokai/sojo_01.png",       "frame_name": "sojo_b",           "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
 		{"file_name": "images/yokai/sojo_01.png",       "frame_name": "sojo_r",           "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
@@ -726,6 +740,28 @@
 		{"file_name": "images/yokai/soul_01.png",       "frame_name": "soul_b",           "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
 		{"file_name": "images/yokai/soul_01.png",       "frame_name": "soul_y",           "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
 		{"file_name": "images/yokai/soul_01.png",       "frame_name": "soul_p",           "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+
+		{"file_name": "images/yokai/suna_01.png",       "frame_name": "suna_f",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/yokai/suna_01.png",       "frame_name": "suna_b",           "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
+		{"file_name": "images/yokai/suna_01.png",       "frame_name": "suna_r",           "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/yokai/suna_01.png",       "frame_name": "suna_l",           "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/yokai/suna_01.png",       "frame_name": "suna_damage",      "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/yokai/suna_01.png",       "frame_name": "suna_byebye",      "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/yokai/suna_01.png",       "frame_name": "suna_roll_r",      "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/yokai/suna_01.png",       "frame_name": "suna_roll_l",      "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/yokai/suna_01.png",       "frame_name": "suna_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
+		{"file_name": "images/yokai/suna_01.png",       "frame_name": "suna_sleep",       "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
+
+		{"file_name": "images/yokai/tengu_01.png",      "frame_name": "tengu_f",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/yokai/tengu_01.png",      "frame_name": "tengu_b",          "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
+		{"file_name": "images/yokai/tengu_01.png",      "frame_name": "tengu_r",          "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/yokai/tengu_01.png",      "frame_name": "tengu_l",          "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/yokai/tengu_01.png",      "frame_name": "tengu_damage",     "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/yokai/tengu_01.png",      "frame_name": "tengu_byebye",     "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/yokai/tengu_01.png",      "frame_name": "tengu_roll_r",     "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/yokai/tengu_01.png",      "frame_name": "tengu_roll_l",     "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/yokai/tengu_01.png",      "frame_name": "tengu_jump_f",     "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
+		{"file_name": "images/yokai/tengu_01.png",      "frame_name": "tengu_sleep",      "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
 		{"file_name": "images/yokai/tsuru_b_01.png",    "frame_name": "tsuru_b_f",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/yokai/tsuru_b_01.png",    "frame_name": "tsuru_b_b",        "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
