@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/05/19 15:00:00",
+	"timestamp": "2025/05/24 21:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -93,7 +93,7 @@
 			"monsters": ["a"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 2,
+			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
 				"xxxxxxx",
@@ -119,7 +119,7 @@
 			"monsters": ["a", "b", "c", "d"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 3,
+			"spawn_limit": 2,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
 				"x00000x",
@@ -145,7 +145,7 @@
 			"monsters": ["a", "b", "c", "d", "e"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 4,
+			"spawn_limit": 2,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
 				"000x000",
@@ -171,7 +171,7 @@
 			"monsters": ["a", "b", "c", "d", "e", "f"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 4,
+			"spawn_limit": 3,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
 				"000000x000000",
@@ -197,7 +197,7 @@
 			"monsters": ["a", "b", "c", "d", "e", "f", "g"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 4,
+			"spawn_limit": 3,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
 				"000xx000xx000",
@@ -223,7 +223,7 @@
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 5,
+			"spawn_limit": 4,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
 				"x000x0x00000x",
@@ -249,7 +249,7 @@
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 5,
+			"spawn_limit": 4,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
 				"xxx000x000xxx",
@@ -301,7 +301,7 @@
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 6,
+			"spawn_limit": 5,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
 				"000xx00xxx000",
