@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/01 13:00:00",
+	"timestamp": "2025/06/01 14:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -57,7 +57,7 @@
 	},
 	"stages":[
 		{
-			"title": "STAGE01",
+			"title": "01",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [11, 33, 11]
@@ -83,7 +83,7 @@
 				"xxxxxxx"
 			]
 		}, {
-			"title": "STAGE02",
+			"title": "02",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -109,7 +109,7 @@
 				"xxxxxxx"
 			]
 		}, {
-			"title": "STAGE03",
+			"title": "03",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -135,7 +135,7 @@
 				"xxxxxxx"
 			]
 		}, {
-			"title": "STAGE04",
+			"title": "04",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -161,7 +161,7 @@
 				"xx000xx"
 			]
 		}, {
-			"title": "STAGE05",
+			"title": "05",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -187,7 +187,7 @@
 				"xx000xxx000xx"
 			]
 		}, {
-			"title": "STAGE06",
+			"title": "06",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -213,7 +213,7 @@
 				"000x00000x000"
 			]
 		}, {
-			"title": "STAGE07",
+			"title": "07",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -239,7 +239,7 @@
 				"xxxxx000xxxxx"
 			]
 		}, {
-			"title": "STAGE08",
+			"title": "08",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -265,7 +265,7 @@
 				"x00000x00000x"
 			]
 		}, {
-			"title": "STAGE09",
+			"title": "09",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -291,7 +291,7 @@
 				"x000x00000x0x"
 			]
 		}, {
-			"title": "STAGE10",
+			"title": "10",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -317,7 +317,7 @@
 				"0x0000x00000x"
 			]
 		}, {
-			"title": "STAGE11",
+			"title": "11",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -343,7 +343,7 @@
 				"0x0xx0000x000"
 			]
 		}, {
-			"title": "STAGE12",
+			"title": "12",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
