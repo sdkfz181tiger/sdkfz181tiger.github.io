@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/05/31 15:00:00",
+	"timestamp": "2025/06/01 13:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -57,7 +57,7 @@
 	},
 	"stages":[
 		{
-			"title": "HK01",
+			"title": "STAGE01",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [11, 33, 11]
@@ -83,7 +83,7 @@
 				"xxxxxxx"
 			]
 		}, {
-			"title": "HK02",
+			"title": "STAGE02",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -109,7 +109,7 @@
 				"xxxxxxx"
 			]
 		}, {
-			"title": "HK03",
+			"title": "STAGE03",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -135,7 +135,7 @@
 				"xxxxxxx"
 			]
 		}, {
-			"title": "HK04",
+			"title": "STAGE04",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -161,7 +161,7 @@
 				"xx000xx"
 			]
 		}, {
-			"title": "HK05",
+			"title": "STAGE05",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -187,7 +187,7 @@
 				"xx000xxx000xx"
 			]
 		}, {
-			"title": "HK06",
+			"title": "STAGE06",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -213,7 +213,7 @@
 				"000x00000x000"
 			]
 		}, {
-			"title": "HK07",
+			"title": "STAGE07",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -239,7 +239,7 @@
 				"xxxxx000xxxxx"
 			]
 		}, {
-			"title": "HK08",
+			"title": "STAGE08",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -265,7 +265,7 @@
 				"x00000x00000x"
 			]
 		}, {
-			"title": "HK09",
+			"title": "STAGE09",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -291,7 +291,7 @@
 				"x000x00000x0x"
 			]
 		}, {
-			"title": "HK10",
+			"title": "STAGE10",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -317,7 +317,7 @@
 				"0x0000x00000x"
 			]
 		}, {
-			"title": "HK11",
+			"title": "STAGE11",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -343,7 +343,7 @@
 				"0x0xx0000x000"
 			]
 		}, {
-			"title": "HK12",
+			"title": "STAGE12",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -369,7 +369,7 @@
 				"0x0x00x0000x0"
 			]
 		}, {
-			"title": "LAST",
+			"title": "TEST",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [11, 33, 11]
