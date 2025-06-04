@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/04 15:00:00",
+	"timestamp": "2025/06/04 16:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -45,29 +45,29 @@
 	"walls": {
 		"0": {"type": 0, "file": ""},
 		"a": {"type": 1, "file": "images/grave/wall_a_01.png"},
-		"b": {"type": 1, "file": "images/grave/wall_a_02.png"},
+		"b": {"type": 1, "file": "images/grave/wall_b_02.png"},
 		"c": {"type": 1, "file": "images/grave/wall_a_03.png"},
-		"d": {"type": 1, "file": "images/grave/wall_a_04.png"},
+		"d": {"type": 1, "file": "images/grave/wall_b_04.png"},
 		"e": {"type": 1, "file": "images/grave/wall_a_05.png"},
-		"f": {"type": 1, "file": "images/grave/wall_a_06.png"},
+		"f": {"type": 1, "file": "images/grave/wall_b_06.png"},
 		"g": {"type": 1, "file": "images/grave/wall_a_07.png"},
-		"h": {"type": 1, "file": "images/grave/wall_a_08.png"},
+		"h": {"type": 1, "file": "images/grave/wall_b_08.png"},
 		"i": {"type": 1, "file": "images/grave/wall_a_09.png"},
-		"j": {"type": 1, "file": "images/grave/wall_a_10.png"},
+		"j": {"type": 1, "file": "images/grave/wall_b_10.png"},
 		"k": {"type": 1, "file": "images/grave/wall_a_11.png"},
-		"l": {"type": 1, "file": "images/grave/wall_a_12.png"},
+		"l": {"type": 1, "file": "images/grave/wall_b_12.png"},
 		"m": {"type": 1, "file": "images/grave/wall_a_13.png"},
-		"n": {"type": 1, "file": "images/grave/wall_a_14.png"},
+		"n": {"type": 1, "file": "images/grave/wall_b_14.png"},
 		"o": {"type": 1, "file": "images/grave/wall_a_15.png"},
-		"p": {"type": 1, "file": "images/grave/wall_a_16.png"},
+		"p": {"type": 1, "file": "images/grave/wall_b_16.png"},
 		"q": {"type": 1, "file": "images/grave/wall_a_17.png"},
-		"r": {"type": 1, "file": "images/grave/wall_a_18.png"},
+		"r": {"type": 1, "file": "images/grave/wall_b_18.png"},
 		"s": {"type": 1, "file": "images/grave/wall_a_19.png"},
-		"t": {"type": 1, "file": "images/grave/wall_a_20.png"},
+		"t": {"type": 1, "file": "images/grave/wall_b_20.png"},
 		"u": {"type": 1, "file": "images/grave/wall_a_21.png"},
-		"v": {"type": 1, "file": "images/grave/wall_a_22.png"},
+		"v": {"type": 1, "file": "images/grave/wall_b_22.png"},
 		"w": {"type": 1, "file": "images/grave/wall_a_23.png"},
-		"x": {"type": 1, "file": "images/grave/wall_a_24.png"}
+		"x": {"type": 1, "file": "images/grave/wall_b_24.png"}
 	},
 	"stages":[
 		{
