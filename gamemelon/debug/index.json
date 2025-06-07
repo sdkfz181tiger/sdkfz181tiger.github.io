@@ -407,7 +407,7 @@
 				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
 			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
-			"map": [,
+			"map": [
 				"xxxxxxx",
 				"xxxxxxx",
 				"xxxxxxx",
