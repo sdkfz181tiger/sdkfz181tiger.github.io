@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/05/12 23:00:00",
+	"timestamp": "2025/06/08 22:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -19,16 +19,16 @@
 	},
 	"monsters": {
 		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "aim": 0, "icon": ""},
-		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 2, "aim": 0, "icon": "i_monsters"},
-		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 2, "aim": 0, "icon": "i_monsters"},
-		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 2, "aim": 0, "icon": "i_monsters"},
-		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 3, "aim": 2, "icon": "i_monsters"},
-		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 3, "aim": 2, "icon": "i_monsters"},
-		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 4, "aim": 3, "icon": "i_monsters"},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 4, "aim": 4, "icon": "i_monsters"},
-		"h": {"name": "suna",    "score":10, "life": 1, "spd": 5, "aim": 5, "icon": "i_monsters"},
-		"i": {"name": "kona",    "score":12, "life": 1, "spd": 5, "aim": 6, "icon": "i_monsters"},
-		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 6, "aim": 8, "icon": "i_monsters"}
+		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters"},
+		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters"},
+		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters"},
+		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters"},
+		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters"},
+		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters"},
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters"},
+		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters"},
+		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters"},
+		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters"}
 	},
 	"items": {
 		"0": {"name": "",          "score": 0, "icon": "",         "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
@@ -38,27 +38,40 @@
 		"d": {"name": "i_koban_1", "score": 4, "icon": "i_kobans", "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
 		"e": {"name": "i_koban_2", "score": 5, "icon": "i_kobans", "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
 		"f": {"name": "i_koban_3", "score": 6, "icon": "i_kobans", "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
-		"g": {"name": "i_candle",  "score": 0, "icon": "",         "se": "sounds/se_powerup_01.ogg", "t_bonji": 0.0, "t_sleep":10.0},
-		"h": {"name": "i_ofuda",   "score": 0, "icon": "",         "se": "sounds/se_powerup_01.ogg", "t_bonji": 0.0, "t_sleep":20.0},
-		"i": {"name": "i_juzu",    "score": 0, "icon": "",         "se": "sounds/se_powerup_02.ogg", "t_bonji":20.0, "t_sleep": 0.0},
-		"j": {"name": "i_mokugyo", "score": 0, "icon": "",         "se": "sounds/se_powerup_02.ogg", "t_bonji":30.0, "t_sleep": 0.0}
+		"g": {"name": "i_ofuda",   "score": 0, "icon": "",         "se": "sounds/se_powerup_01.ogg", "t_bonji": 0.0, "t_sleep":20.0},
+		"h": {"name": "i_juzu",    "score": 0, "icon": "",         "se": "sounds/se_powerup_02.ogg", "t_bonji":20.0, "t_sleep": 0.0},
+		"i": {"name": "i_mokugyo", "score": 0, "icon": "",         "se": "sounds/se_powerup_02.ogg", "t_bonji":30.0, "t_sleep": 0.0}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
-		"a": {"type": 1, "file": "images/grave/wall_01.png"},
-		"b": {"type": 1, "file": "images/grave/wall_02.png"},
-		"c": {"type": 1, "file": "images/grave/wall_03.png"},
-		"d": {"type": 1, "file": "images/grave/wall_04.png"},
-		"e": {"type": 1, "file": "images/grave/wall_05.png"},
-		"f": {"type": 1, "file": "images/grave/wall_06.png"},
-		"g": {"type": 1, "file": "images/grave/wall_07.png"},
-		"h": {"type": 1, "file": "images/grave/wall_08.png"},
-		"i": {"type": 1, "file": "images/grave/wall_09.png"},
-		"j": {"type": 1, "file": "images/grave/wall_10.png"}
+		"a": {"type": 1, "file": "images/grave/wall_a_01.png"},
+		"b": {"type": 1, "file": "images/grave/wall_b_02.png"},
+		"c": {"type": 1, "file": "images/grave/wall_a_03.png"},
+		"d": {"type": 1, "file": "images/grave/wall_b_04.png"},
+		"e": {"type": 1, "file": "images/grave/wall_a_05.png"},
+		"f": {"type": 1, "file": "images/grave/wall_b_06.png"},
+		"g": {"type": 1, "file": "images/grave/wall_a_07.png"},
+		"h": {"type": 1, "file": "images/grave/wall_b_08.png"},
+		"i": {"type": 1, "file": "images/grave/wall_a_09.png"},
+		"j": {"type": 1, "file": "images/grave/wall_b_10.png"},
+		"k": {"type": 1, "file": "images/grave/wall_a_11.png"},
+		"l": {"type": 1, "file": "images/grave/wall_b_12.png"},
+		"m": {"type": 1, "file": "images/grave/wall_a_13.png"},
+		"n": {"type": 1, "file": "images/grave/wall_b_14.png"},
+		"o": {"type": 1, "file": "images/grave/wall_a_15.png"},
+		"p": {"type": 1, "file": "images/grave/wall_b_16.png"},
+		"q": {"type": 1, "file": "images/grave/wall_a_17.png"},
+		"r": {"type": 1, "file": "images/grave/wall_b_18.png"},
+		"s": {"type": 1, "file": "images/grave/wall_a_19.png"},
+		"t": {"type": 1, "file": "images/grave/wall_b_20.png"},
+		"u": {"type": 1, "file": "images/grave/wall_a_21.png"},
+		"v": {"type": 1, "file": "images/grave/wall_b_22.png"},
+		"w": {"type": 1, "file": "images/grave/wall_a_23.png"},
+		"x": {"type": 1, "file": "images/grave/wall_b_24.png"}
 	},
 	"stages":[
 		{
-			"title": "HK01",
+			"title": "01",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [11, 33, 11]
@@ -66,20 +79,26 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a"],
 			"items": ["a", "a", "a"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
 			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
 				"xxxxxxx",
 				"x00000x",
 				"x0x0x0x",
 				"x00000x",
 				"x0x0x0x",
 				"x00000x",
+				"xxxxxxx",
+				"xxxxxxx",
 				"xxxxxxx"
 			]
 		}, {
-			"title": "HK02",
+			"title": "02",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -87,10 +106,13 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 2,
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
+				"xxxxxxx",
+				"xxxxxxx",
 				"xx000xx",
 				"x00x00x",
 				"x0xxx0x",
@@ -99,10 +121,11 @@
 				"x00000x",
 				"x0xxx0x",
 				"x00x00x",
-				"xx000xx"
+				"xx000xx",
+				"xxxxxxx"
 			]
 		}, {
-			"title": "HK03",
+			"title": "03",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -110,24 +133,26 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c", "d"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 3,
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"spawn_limit": 2,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
-				"xx00000xx",
-				"x00xxx00x",
-				"xx00000xx",
-				"xx0x0x0xx",
-				"x0000000x",
-				"xx0x0x0xx",
-				"xx00000xx",
-				"x00xxx00x",
-				"xx00000xx",
-				"xxx0x0xxx",
-				"xxx000xxx"
+				"xxxxxxx",
+				"x00000x",
+				"x0xxx0x",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x0xxx0x",
+				"x00x00x",
+				"xx000xx",
+				"xxxxxxx"
 			]
 		}, {
-			"title": "HK04",
+			"title": "04",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -135,10 +160,12 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c", "d", "e"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 4,
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"spawn_limit": 2,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
+				"xxxxxxxxx",
 				"x000x000x",
 				"x0x000x0x",
 				"x0xx0xx0x",
@@ -146,13 +173,13 @@
 				"xx0x0x0xx",
 				"xx00000xx",
 				"xx0x0x0xx",
-				"x00x0x00x",
+				"x0000000x",
 				"x0xx0xx0x",
 				"x0x000x0x",
-				"x000x000x"
+				"xxxxxxxxx"
 			]
 		}, {
-			"title": "HK05",
+			"title": "05",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -160,23 +187,26 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 4,
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"spawn_limit": 3,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
-				"000000x000000",
-				"0xx0x0x0x0xx0",
-				"000000x000000",
+				"xxxxxxxxxxxxx",
+				"x00000x00000x",
+				"x0x0x0x0x0x0x",
+				"x00000x00000x",
 				"xx0x0xxx0x0xx",
-				"000x0xxx0x000",
-				"0x000000000x0",
-				"000x0xxx0x000",
-				"0x0x0xxx0x0x0",
-				"000x00x00x000",
-				"xxxxx000xxxxx"
+				"x00x0xxx0x00x",
+				"xx000000000xx",
+				"x00x0x0x0x00x",
+				"xx0x0x0x0x0xx",
+				"x00x00000x00x",
+				"xx000xxx000xx",
+				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "HK06",
+			"title": "06",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -184,26 +214,26 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 4,
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"spawn_limit": 3,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
-				"000xx000xx000",
-				"0x0000x0000x0",
-				"0x0xx0x0xx0x0",
-				"0000000000000",
-				"xx0x0xxx0x0xx",
-				"000x00x00x000",
-				"0x0xx000xx0x0",
-				"000x00x00x000",
-				"xx0x0xxx0x0xx",
-				"0000000000000",
-				"0x0xx0x0xx0x0",
-				"0x0000x0000x0",
-				"000xx000xx000"
+				"xxxxxxxxxxxxx",
+				"x00xx000xx00x",
+				"xx0000x0000xx",
+				"xx0xx0x0xx0xx",
+				"x00x00000x00x",
+				"x0xx0x0x0x0xx",
+				"x00x00000x00x",
+				"xx0xx0x0xx0xx",
+				"x00x00x0xx00x",
+				"x0xxx0000x0xx",
+				"x00000xx000xx",
+				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "HK07",
+			"title": "07",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -211,10 +241,12 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 5,
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"spawn_limit": 4,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
+				"xxxxxxxxxxxxx",
 				"x000x0x00000x",
 				"x0x0x0x0xxx0x",
 				"x0x0000000x0x",
@@ -223,12 +255,12 @@
 				"xxx0x000x0xxx",
 				"x00000x000x0x",
 				"x0x0xxx0x000x",
-				"x0x0000000x0x",
-				"x0x0x0x0xxx0x",
-				"x000x0x00000x"
+				"x0x000x0x0x0x",
+				"x0x0x000x0x0x",
+				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "HK08",
+			"title": "08",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -236,26 +268,26 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 5,
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"spawn_limit": 4,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
+				"xxxxxxxxxxxxx",
 				"xxx000x000xxx",
 				"x000x0x0x000x",
 				"x0xxx0x0xxx0x",
-				"000000x000000",
-				"x0xxx000xxx0x",
-				"x000x0x0x000x",
-				"xxx0x000x0xxx",
-				"x000x0x0x000x",
-				"x0xxx000xxx0x",
-				"000000x000000",
-				"x0xxx0x0xxx0x",
-				"x000x0x0x000x",
-				"xxx000x000xxx"
+				"x000x0000000x",
+				"x0xxxx0xxxx0x",
+				"x000x000x000x",
+				"xxx0x0x0x0xxx",
+				"x00000x0x000x",
+				"x0x0x000xxx0x",
+				"x000xxx00000x",
+				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "HK09",
+			"title": "09",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -263,26 +295,80 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
 			"spawn_limit": 5,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
+				"xxxxxxxxxxxxx",
 				"xxx000x0xxx0x",
 				"x000x000x000x",
 				"x0xxx0xxx0x0x",
-				"x0x0000000x0x",
-				"x0x0xxx0x0x0x",
-				"x000x0x00000x",
-				"xxx0x000xxx0x",
+				"x0x000x000x0x",
+				"x0x0x0x0x0x0x",
+				"x000x0000000x",
+				"xxx0x0x0xxx0x",
 				"x000x0x0x000x",
-				"x0x0xxx0x0x0x",
-				"x0x0000000x0x",
-				"x0xxx0xxx0x0x",
+				"x0xxx0x0x0x0x",
+				"x0000000x000x",
+				"xxxxxxxxxxxxx"
+			]
+		}, {
+			"title": "10",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [33, 33, 33]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"spawn_limit": 5,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"map": [
+				"xxxxxxxxxxxxx",
+				"x00xx00xxx00x",
+				"xx0000x0000xx",
+				"xx0xx0x0xx0xx",
+				"x00000000000x",
+				"x0x0xx0x0xxxx",
+				"x000000x000xx",
+				"xxx0xx000x00x",
+				"x0000x0xxxx0x",
+				"x0x0x000x000x",
+				"x0x000x000xxx",
+				"xxxxxxxxxxxxx"
+			]
+		}, {
+			"title": "11",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [33, 33, 33]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"spawn_limit": 6,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"map": [
+				"xxxxxxxxxxxxx",
+				"xx000x000xx0x",
+				"xx0x000x0000x",
+				"x00x0xxxx0x0x",
+				"x0x000x0000xx",
+				"x000x000xx0xx",
+				"xxx0xx0xx000x",
+				"x0000000x0xxx",
+				"xx0x0xx00000x",
+				"xx0x00x0xx0xx",
 				"x000x000x000x",
-				"x0x000xxx0xxx"
+				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "HK10",
+			"title": "12",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
@@ -290,77 +376,50 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
 			"spawn_limit": 6,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
-				"000xx00xxx000",
-				"0x0000x0000x0",
-				"0x0xx000xx0x0",
-				"000000x000000",
-				"x0x0xxxx0xxxx",
-				"0000000x000x0",
-				"0xx0xx000x000",
-				"0x000x0xx00xx",
-				"x0x0xx00x0x0x",
-				"000000x000000",
-				"0x0xx000xx0x0",
-				"0x0x00x0000x0",
-				"000xx00xxx000"
+				"xxxxxxxxxxxxx",
+				"x0x000x00000x",
+				"x000x0x0x0xxx",
+				"xx0xx000x0xxx",
+				"x000x0x00000x",
+				"x0x0x000xxx0x",
+				"x0xx0x0x0x00x",
+				"x00x000x0x0xx",
+				"xx000x000x00x",
+				"xxx0xxx0xxx0x",
+				"x00000x00000x",
+				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "HK11",
+			"title": "TEST",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
-				"color": [33, 33, 33]
+				"color": [11, 33, 11]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 6,
+			"monsters": ["a"],
+			"items": ["a", "a", "a"],
+			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
+				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
-				"0x000x000xx00",
-				"0x0x000x0000x",
-				"000x0xxxx0x00",
-				"xx0000x0000x0",
-				"00x0x0x0xx0x0",
-				"0xx0xxx00x000",
-				"00x00000xx0x0",
-				"x000x0x00x000",
-				"0xx0x0x0xx0xx",
-				"00x00000x0000",
-				"x000x0xxx0x0x",
-				"0x0xx0000x000",
-				"000000xx000x0"
-			]
-		}, {
-			"title": "HK12",
-			"bkg": {
-				"file_name": "images/yokai/bkg_01.png",
-				"color": [33, 33, 33]
-			},
-			"bgm": "sounds/bgm_game_01.ogg",
-			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
-			"spawn_limit": 6,
-			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
-			"map": [
-				"00x000x000x00",
-				"0x00x0x0x00x0",
-				"0x0xx000xx0x0",
-				"0000x0x000000",
-				"x0x0xxx0xxx0x",
-				"000x0x0x0x000",
-				"0x0x000x0x0x0",
-				"0x000x000x000",
-				"x0x0xxx0xxx0x",
-				"000000x000000",
-				"0x0xx000xx0x0",
-				"0x0x00x0x00x0",
-				"00000xx000x00"
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx"
 			]
 		}
 	],
