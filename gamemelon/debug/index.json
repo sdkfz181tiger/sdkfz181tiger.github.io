@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/08 22:00:00",
+	"timestamp": "2025/06/11 13:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -395,7 +395,7 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "TEST",
+			"title": "FINAL",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [11, 33, 11]
