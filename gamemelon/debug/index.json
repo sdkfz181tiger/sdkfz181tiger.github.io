@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/11 15:00:00",
+	"timestamp": "2025/06/11 21:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -103,7 +103,7 @@
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_02.ogg",
 			"monsters": ["a"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
@@ -130,7 +130,7 @@
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_03.ogg",
 			"monsters": ["a", "b", "c", "d"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
@@ -157,7 +157,7 @@
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_04.ogg",
 			"monsters": ["a", "b", "c", "d", "e"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
@@ -211,7 +211,7 @@
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_02.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
@@ -238,7 +238,7 @@
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_03.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
@@ -265,7 +265,7 @@
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_04.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
@@ -319,7 +319,7 @@
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_02.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
@@ -346,7 +346,7 @@
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_03.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
@@ -373,7 +373,7 @@
 				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_04.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
 			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
