@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/11 21:00:00",
+	"timestamp": "2025/06/13 06:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -44,30 +44,12 @@
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
-		"a": {"type": 1, "file": "images/grave/wall_a_01.png"},
-		"b": {"type": 1, "file": "images/grave/wall_b_02.png"},
-		"c": {"type": 1, "file": "images/grave/wall_a_03.png"},
-		"d": {"type": 1, "file": "images/grave/wall_b_04.png"},
-		"e": {"type": 1, "file": "images/grave/wall_a_05.png"},
-		"f": {"type": 1, "file": "images/grave/wall_b_06.png"},
-		"g": {"type": 1, "file": "images/grave/wall_a_07.png"},
-		"h": {"type": 1, "file": "images/grave/wall_b_08.png"},
-		"i": {"type": 1, "file": "images/grave/wall_a_09.png"},
-		"j": {"type": 1, "file": "images/grave/wall_b_10.png"},
-		"k": {"type": 1, "file": "images/grave/wall_a_11.png"},
-		"l": {"type": 1, "file": "images/grave/wall_b_12.png"},
-		"m": {"type": 1, "file": "images/grave/wall_a_13.png"},
-		"n": {"type": 1, "file": "images/grave/wall_b_14.png"},
-		"o": {"type": 1, "file": "images/grave/wall_a_15.png"},
-		"p": {"type": 1, "file": "images/grave/wall_b_16.png"},
-		"q": {"type": 1, "file": "images/grave/wall_a_17.png"},
-		"r": {"type": 1, "file": "images/grave/wall_b_18.png"},
-		"s": {"type": 1, "file": "images/grave/wall_a_19.png"},
-		"t": {"type": 1, "file": "images/grave/wall_b_20.png"},
-		"u": {"type": 1, "file": "images/grave/wall_a_21.png"},
-		"v": {"type": 1, "file": "images/grave/wall_b_22.png"},
-		"w": {"type": 1, "file": "images/grave/wall_a_23.png"},
-		"x": {"type": 1, "file": "images/grave/wall_b_24.png"}
+		"a": {"type": 1, "file": "images/grave/wall_a_%01d.png"},
+		"b": {"type": 1, "file": "images/grave/wall_b_%01d.png"},
+		"c": {"type": 1, "file": "images/grave/wall_c_%01d.png"},
+		"d": {"type": 1, "file": "images/grave/wall_d_%01d.png"},
+		"e": {"type": 1, "file": "images/grave/wall_e_%01d.png"},
+		"f": {"type": 1, "file": "images/grave/wall_f_%01d.png"}
 	},
 	"stages":[
 		{
@@ -79,8 +61,7 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a"],
 			"items": ["a", "a", "a"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
@@ -106,8 +87,7 @@
 			"bgm": "sounds/bgm_game_02.ogg",
 			"monsters": ["a"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
@@ -133,8 +113,7 @@
 			"bgm": "sounds/bgm_game_03.ogg",
 			"monsters": ["a", "b", "c", "d"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 2,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
@@ -160,8 +139,7 @@
 			"bgm": "sounds/bgm_game_04.ogg",
 			"monsters": ["a", "b", "c", "d", "e"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 2,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
@@ -187,8 +165,7 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 3,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
@@ -214,8 +191,7 @@
 			"bgm": "sounds/bgm_game_02.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 3,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
@@ -241,8 +217,7 @@
 			"bgm": "sounds/bgm_game_03.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 4,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
@@ -268,8 +243,7 @@
 			"bgm": "sounds/bgm_game_04.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 4,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
@@ -295,8 +269,7 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 5,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
@@ -322,8 +295,7 @@
 			"bgm": "sounds/bgm_game_02.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 5,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
@@ -349,8 +321,7 @@
 			"bgm": "sounds/bgm_game_03.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 6,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
@@ -376,8 +347,7 @@
 			"bgm": "sounds/bgm_game_04.ogg",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"items": ["a", "b", "c", "d", "e", "f", "g", "i"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 6,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
@@ -403,8 +373,7 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": ["a"],
 			"items": ["a", "a", "a"],
-			"walls": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-				 "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x"],
+			"walls": ["a", "b", "c", "d", "e", "f"],
 			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"map": [
