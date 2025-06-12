@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/13 06:00:00",
+	"timestamp": "2025/06/13 04:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -44,12 +44,12 @@
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
-		"a": {"type": 1, "file": "images/grave/wall_a_%01d.png"},
-		"b": {"type": 1, "file": "images/grave/wall_b_%01d.png"},
-		"c": {"type": 1, "file": "images/grave/wall_c_%01d.png"},
-		"d": {"type": 1, "file": "images/grave/wall_d_%01d.png"},
-		"e": {"type": 1, "file": "images/grave/wall_e_%01d.png"},
-		"f": {"type": 1, "file": "images/grave/wall_f_%01d.png"}
+		"a": {"type": 1, "file": "images/grave/wall_a_%02d.png"},
+		"b": {"type": 1, "file": "images/grave/wall_b_%02d.png"},
+		"c": {"type": 1, "file": "images/grave/wall_c_%02d.png"},
+		"d": {"type": 1, "file": "images/grave/wall_d_%02d.png"},
+		"e": {"type": 1, "file": "images/grave/wall_e_%02d.png"},
+		"f": {"type": 1, "file": "images/grave/wall_f_%02d.png"}
 	},
 	"stages":[
 		{
