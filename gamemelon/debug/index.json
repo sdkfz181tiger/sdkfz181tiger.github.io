@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/13 13:00:00",
+	"timestamp": "2025/06/14 21:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -607,6 +607,7 @@
 		{"file_name": "images/base/flakes_01.png",      "frame_name": "flk_t_g_l",        "rows":10, "cols": 4, "w":  4, "h":  4, "from": 36, "to": 39},
 		{"file_name": "images/base/flakes_01.png",      "frame_name": "flk_t_r_r",        "rows":11, "cols": 4, "w":  4, "h":  4, "from": 40, "to": 43},
 		{"file_name": "images/base/flakes_01.png",      "frame_name": "flk_t_r_l",        "rows":12, "cols": 4, "w":  4, "h":  4, "from": 44, "to": 47},
+		{"file_name": "images/base/hand_tap_01.png",    "frame_name": "hand_tap_01",      "rows": 1, "cols": 5, "w": 32, "h": 32, "from":  0, "to":  4},
 		{"file_name": "images/base/heart_01.png",       "frame_name": "heart_01",         "rows": 1, "cols": 6, "w": 13, "h": 13, "from":  0, "to":  5},
 		{"file_name": "images/base/noframe_01.png",     "frame_name": "noframe",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/base/marker_16x16.png",   "frame_name": "marker_16x16",     "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
