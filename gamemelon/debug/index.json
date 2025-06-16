@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/16 22:00:00",
+	"timestamp": "2025/06/17 08:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -40,10 +40,10 @@
 		"f": {"name": "i_koban_3", "score": 6, "icon": "i_kobans", "se": "sounds/se_coin_01.ogg"}
 	},
 	"items": {
-		"0": {"name": "",          "score": 0, "icon": "", "se": "sounds/se_coin_01.ogg",    "t_ofuda": false, "t_bonji": 0.0, "t_sleep": 0.0},
-		"a": {"name": "i_ofuda",   "score": 0, "icon": "", "se": "sounds/se_powerup_01.ogg", "t_ofuda": true,  "t_bonji": 0.0, "t_sleep": 0.0},
-		"b": {"name": "i_juzu",    "score": 0, "icon": "", "se": "sounds/se_powerup_02.ogg", "t_ofuda": false, "t_bonji": 0.0, "t_sleep":20.0},
-		"c": {"name": "i_mokugyo", "score": 0, "icon": "", "se": "sounds/se_powerup_02.ogg", "t_ofuda": false, "t_bonji":30.0, "t_sleep": 0.0}
+		"0": {"name": "",          "score": 0, "icon": "", "se": "sounds/se_coin_01.ogg",    "f_ofuda": false, "t_bonji": 0.0, "t_sleep": 0.0},
+		"a": {"name": "i_ofuda",   "score": 0, "icon": "", "se": "sounds/se_powerup_01.ogg", "f_ofuda": true,  "t_bonji": 0.0, "t_sleep": 0.0},
+		"b": {"name": "i_juzu",    "score": 0, "icon": "", "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji": 0.0, "t_sleep":20.0},
+		"c": {"name": "i_mokugyo", "score": 0, "icon": "", "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji":30.0, "t_sleep": 0.0}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
