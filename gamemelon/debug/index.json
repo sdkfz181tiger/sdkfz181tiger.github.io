@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/16 19:00:00",
+	"timestamp": "2025/06/16 22:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -38,8 +38,8 @@
 		"d": {"name": "i_koban_1", "score": 4, "icon": "i_kobans", "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
 		"e": {"name": "i_koban_2", "score": 5, "icon": "i_kobans", "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
 		"f": {"name": "i_koban_3", "score": 6, "icon": "i_kobans", "se": "sounds/se_coin_01.ogg",    "t_bonji": 0.0, "t_sleep": 0.0},
-		"g": {"name": "i_ofuda",   "score": 0, "icon": "",         "se": "sounds/se_powerup_01.ogg", "t_bonji": 0.0, "t_sleep":20.0},
-		"h": {"name": "i_juzu",    "score": 0, "icon": "",         "se": "sounds/se_powerup_02.ogg", "t_bonji":20.0, "t_sleep": 0.0},
+		"g": {"name": "i_ofuda",   "score": 0, "icon": "",         "se": "sounds/se_powerup_01.ogg", "t_bonji": 0.0, "t_sleep": 0.0},
+		"h": {"name": "i_juzu",    "score": 0, "icon": "",         "se": "sounds/se_powerup_02.ogg", "t_bonji": 0.0, "t_sleep":20.0},
 		"i": {"name": "i_mokugyo", "score": 0, "icon": "",         "se": "sounds/se_powerup_02.ogg", "t_bonji":30.0, "t_sleep": 0.0}
 	},
 	"walls": {
@@ -59,7 +59,7 @@
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
 			"monsters": [],
-			"items": ["a", "a", "a"],
+			"items": ["a", "a", "a", "g", "h", "i"],
 			"walls": ["a", "b"],
 			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
@@ -69,9 +69,9 @@
 				"xxxxxxx",
 				"xxxxxxx",
 				"x00000x",
-				"x0aaa0x",
-				"x0a000x",
-				"x0aaaax",
+				"x0xxx0x",
+				"x0x000x",
+				"x0xxxxx",
 				"x00000x",
 				"xxxxxxx",
 				"xxxxxxx",
