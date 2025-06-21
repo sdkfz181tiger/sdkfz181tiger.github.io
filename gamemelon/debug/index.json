@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/21 23:00:00",
+	"timestamp": "2025/06/21 22:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -61,7 +61,7 @@
 				"color": [11, 33, 11]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "SWIPE RIGHT TO MOVE!!",
 			"monsters": [],
 			"coins": [],
 			"items": ["a"],
