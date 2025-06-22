@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/22 13:00:00",
+	"timestamp": "2025/06/22 12:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -61,10 +61,10 @@
 				"color": [11, 33, 11]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "SWIPE RIGHT TO GO,\nAND GET TICKET!!",
+			"message": "SWIPE TO MOVE!!",
 			"monsters": [],
 			"coins": [],
-			"items": ["a"],
+			"items": [],
 			"walls": ["a", "b"],
 			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
@@ -88,10 +88,100 @@
 			"title": "02",
 			"bkg": {
 				"file_name": "images/yokai/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "GET ALL TICKETS!!",
+			"monsters": [],
+			"coins": [],
+			"items": ["a", "a", "a"],
+			"walls": ["a", "b"],
+			"spawn_limit": 1,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"spawn_start": {"r": 6, "c": 3},
+			"spawn_goal": {"r": 6, "c": 3},
+			"map": [
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxx0xxx",
+				"xxx0xxx",
+				"x00000x",
+				"xxx0xxx",
+				"xxx0xxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx"
+			]
+		}, {
+			"title": "03",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "ENEMY TO SLEEP!!",
+			"monsters": ["a"],
+			"coins": [],
+			"items": ["a", "a", "a", "b"],
+			"walls": ["a", "b"],
+			"spawn_limit": 1,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"spawn_start": {"r": 6, "c": 3},
+			"spawn_goal": {"r": 6, "c": 3},
+			"map": [
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx"
+			]
+		}, {
+			"title": "04",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "ENEMY TO DEFEAT!!",
+			"monsters": ["a"],
+			"coins": [],
+			"items": ["a", "a", "a", "c"],
+			"walls": ["a", "b"],
+			"spawn_limit": 1,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"spawn_start": {"r": 6, "c": 3},
+			"spawn_goal": {"r": 6, "c": 3},
+			"map": [
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx"
+			]
+		}, {
+			"title": "05",
+			"bkg": {
+				"file_name": "images/yokai/bkg_01.png",
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "",
 			"monsters": ["a"],
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
@@ -121,7 +211,7 @@
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "",
 			"monsters": ["a", "b", "c", "d"],
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
@@ -151,7 +241,7 @@
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "",
 			"monsters": ["a", "b", "c", "d", "e"],
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
@@ -181,7 +271,7 @@
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_02.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "",
 			"monsters": ["a", "b", "c", "d", "e", "f"],
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
@@ -211,7 +301,7 @@
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_02.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g"],
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
@@ -241,7 +331,7 @@
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_02.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h"],
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
@@ -271,7 +361,7 @@
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_02.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i"],
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
@@ -301,7 +391,7 @@
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_03.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
@@ -331,7 +421,7 @@
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_03.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
@@ -361,7 +451,7 @@
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_04.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
@@ -391,7 +481,7 @@
 				"color": [33, 33, 33]
 			},
 			"bgm": "sounds/bgm_game_04.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "",
 			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
@@ -421,7 +511,7 @@
 				"color": [11, 33, 11]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "HELLO\nWORLD\nHOW\nARE\nYOU?",
+			"message": "",
 			"monsters": ["a"],
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
