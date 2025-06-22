@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/22 12:00:00",
+	"timestamp": "2025/06/22 13:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -188,8 +188,8 @@
 			"walls": ["b", "c"],
 			"spawn_limit": 3,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
-			"spawn_start": {"r": 6, "c": 7},
-			"spawn_goal": {"r": 6, "c": 7},
+			"spawn_start": {"r": 6, "c": 6},
+			"spawn_goal": {"r": 6, "c": 6},
 			"map": [
 				"xxxxxxxxxxxxx",
 				"x00000x00000x",
@@ -218,8 +218,8 @@
 			"walls": ["b", "c"],
 			"spawn_limit": 3,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
-			"spawn_start": {"r": 6, "c": 7},
-			"spawn_goal": {"r": 6, "c": 7},
+			"spawn_start": {"r": 6, "c": 6},
+			"spawn_goal": {"r": 6, "c": 6},
 			"map": [
 				"xxxxxxxxxxxxx",
 				"x00xx000xx00x",
@@ -248,8 +248,8 @@
 			"walls": ["b", "c"],
 			"spawn_limit": 4,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
-			"spawn_start": {"r": 6, "c": 7},
-			"spawn_goal": {"r": 6, "c": 7},
+			"spawn_start": {"r": 6, "c": 6},
+			"spawn_goal": {"r": 6, "c": 6},
 			"map": [
 				"xxxxxxxxxxxxx",
 				"x000x0x00000x",
@@ -278,8 +278,8 @@
 			"walls": ["b", "c"],
 			"spawn_limit": 4,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
-			"spawn_start": {"r": 6, "c": 7},
-			"spawn_goal": {"r": 6, "c": 7},
+			"spawn_start": {"r": 6, "c": 6},
+			"spawn_goal": {"r": 6, "c": 6},
 			"map": [
 				"xxxxxxxxxxxxx",
 				"xxx000x000xxx",
@@ -308,8 +308,8 @@
 			"walls": ["c", "d"],
 			"spawn_limit": 5,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
-			"spawn_start": {"r": 6, "c": 7},
-			"spawn_goal": {"r": 6, "c": 7},
+			"spawn_start": {"r": 6, "c": 6},
+			"spawn_goal": {"r": 6, "c": 6},
 			"map": [
 				"xxxxxxxxxxxxx",
 				"xxx000x0xxx0x",
@@ -338,8 +338,8 @@
 			"walls": ["c", "d"],
 			"spawn_limit": 5,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
-			"spawn_start": {"r": 6, "c": 7},
-			"spawn_goal": {"r": 6, "c": 7},
+			"spawn_start": {"r": 6, "c": 6},
+			"spawn_goal": {"r": 6, "c": 6},
 			"map": [
 				"xxxxxxxxxxxxx",
 				"x00xx00xxx00x",
@@ -368,8 +368,8 @@
 			"walls": ["d", "e"],
 			"spawn_limit": 6,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
-			"spawn_start": {"r": 6, "c": 7},
-			"spawn_goal": {"r": 6, "c": 7},
+			"spawn_start": {"r": 6, "c": 6},
+			"spawn_goal": {"r": 6, "c": 6},
 			"map": [
 				"xxxxxxxxxxxxx",
 				"xx000x000xx0x",
@@ -398,8 +398,8 @@
 			"walls": ["d", "e"],
 			"spawn_limit": 6,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
-			"spawn_start": {"r": 6, "c": 7},
-			"spawn_goal": {"r": 6, "c": 7},
+			"spawn_start": {"r": 6, "c": 6},
+			"spawn_goal": {"r": 6, "c": 6},
 			"map": [
 				"xxxxxxxxxxxxx",
 				"x0x000x00000x",
