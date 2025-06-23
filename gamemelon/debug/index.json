@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/22 14:00:00",
+	"timestamp": "2025/06/23 13:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -52,6 +52,11 @@
 		"c": {"type": 1, "file": "images/grave/wall_c_%02d.png"},
 		"d": {"type": 1, "file": "images/grave/wall_d_%02d.png"},
 		"e": {"type": 1, "file": "images/grave/wall_e_%02d.png"}
+	},
+	"bullets": {
+		"0": {"name": "",             "life": 0.0},
+		"a": {"name": "blt_enemy_01", "life": 8.0},
+		"b": {"name": "blt_enemy_02", "life": 10.0}
 	},
 	"stages":[
 		{
