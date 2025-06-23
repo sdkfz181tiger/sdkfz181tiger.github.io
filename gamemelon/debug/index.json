@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/23 16:00:00",
+	"timestamp": "2025/06/23 17:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -55,8 +55,8 @@
 	},
 	"bullets": {
 		"0": {"name": "",           "life": 0.0, "spd": 0},
-		"a": {"name": "w_shuri_01", "life": 4.0, "spd": 8},
-		"b": {"name": "w_storm_01", "life": 8.0, "spd": 4}
+		"a": {"name": "w_shuri_01", "life": 1.0, "spd": 8},
+		"b": {"name": "w_storm_01", "life": 2.0, "spd": 4}
 	},
 	"stages":[
 		{
