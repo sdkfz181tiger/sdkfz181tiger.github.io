@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/23 17:00:00",
+	"timestamp": "2025/06/24 18:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -18,17 +18,17 @@
 		"score": 0
 	},
 	"monsters": {
-		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "aim": 0, "icon": ""},
-		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters"},
-		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters"},
-		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters"},
-		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters"},
-		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters"},
-		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters"},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters"},
-		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters"},
-		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters"},
-		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters"}
+		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "aim": 0, "icon": "",           "bullet": ""},
+		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": ""},
+		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": ""},
+		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": ""},
+		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "a"},
+		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "a"},
+		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": "a"},
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters", "bullet": "a"},
+		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters", "bullet": "a"},
+		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters", "bullet": "a"},
+		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters", "bullet": "a"}
 	},
 	"coins": {
 		"0": {"name": "",          "score": 0, "icon": "",         "se": "sounds/se_coin_01.ogg"},
