@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/29 10:00:00",
+	"timestamp": "2025/06/29 13:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -55,12 +55,12 @@
 	},
 	"bullets": {
 		"0": {"name": "",           "life": 0.0, "spd": 0},
-		"a": {"name": "w_shuri_01", "life": 1.0, "spd": 8},
-		"b": {"name": "w_fb_b_l",   "life": 1.0, "spd": 4},
+		"a": {"name": "w_fb_r_l",   "life": 1.0, "spd": 8},
+		"b": {"name": "w_fb_g_l",   "life": 1.0, "spd": 4},
 		"c": {"name": "w_fb_b_r",   "life": 1.0, "spd": 4},
-		"d": {"name": "w_fb_g_l",   "life": 2.0, "spd": 5},
+		"d": {"name": "w_fb_r_l",   "life": 2.0, "spd": 5},
 		"e": {"name": "w_fb_g_r",   "life": 2.0, "spd": 5},
-		"f": {"name": "w_fb_r_l",   "life": 3.0, "spd": 6},
+		"f": {"name": "w_fb_b_l",   "life": 3.0, "spd": 6},
 		"g": {"name": "w_fb_r_r",   "life": 3.0, "spd": 6}
 	},
 	"stages":[
@@ -972,12 +972,12 @@
 
 		{"file_name": "images/ghosts/w_arrow_01.png",    "frame_name": "w_arrow_r",        "rows": 1, "cols": 4, "w": 16, "h":  3, "from":  0, "to":  3},
 		{"file_name": "images/ghosts/w_arrow_01.png",    "frame_name": "w_arrow_l",        "rows": 2, "cols": 4, "w": 16, "h":  3, "from":  4, "to":  7},
-		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_b_r",         "rows": 1, "cols": 8, "w": 16, "h": 16, "from":  0, "to":  7},
-		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_b_l",         "rows": 2, "cols": 8, "w": 16, "h": 16, "from":  8, "to": 15},
+		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_r_r",         "rows": 1, "cols": 8, "w": 16, "h": 16, "from":  0, "to":  7},
+		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_r_l",         "rows": 2, "cols": 8, "w": 16, "h": 16, "from":  8, "to": 15},
 		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_g_r",         "rows": 3, "cols": 8, "w": 16, "h": 16, "from": 16, "to": 23},
 		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_g_l",         "rows": 4, "cols": 8, "w": 16, "h": 16, "from": 24, "to": 31},
-		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_r_r",         "rows": 5, "cols": 8, "w": 16, "h": 16, "from": 32, "to": 39},
-		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_r_l",         "rows": 6, "cols": 8, "w": 16, "h": 16, "from": 40, "to": 47},
+		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_b_r",         "rows": 5, "cols": 8, "w": 16, "h": 16, "from": 32, "to": 39},
+		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_b_l",         "rows": 6, "cols": 8, "w": 16, "h": 16, "from": 40, "to": 47},
 		{"file_name": "images/ghosts/w_kami_01.png",     "frame_name": "w_kami_01",        "rows": 2, "cols": 4, "w": 16, "h":  6, "from":  0, "to":  7},
 		{"file_name": "images/ghosts/w_kami_02.png",     "frame_name": "w_kami_02",        "rows": 2, "cols": 4, "w":  6, "h": 16, "from":  0, "to":  7},
 		{"file_name": "images/ghosts/w_kami_03.png",     "frame_name": "w_kami_03",        "rows": 2, "cols": 4, "w": 16, "h": 16, "from":  0, "to":  7},
@@ -992,6 +992,8 @@
 		{"file_name": "images/ghosts/w_snow_01.png",     "frame_name": "w_snow_01",        "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
 		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_r",        "rows": 1, "cols": 7, "w": 16, "h": 16, "from":  0, "to":  6},
 		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_l",        "rows": 2, "cols": 7, "w": 16, "h": 16, "from":  7, "to": 13},
+		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_u",        "rows": 3, "cols": 7, "w": 16, "h": 16, "from": 14, "to": 20},
+		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_d",        "rows": 4, "cols": 7, "w": 16, "h": 16, "from": 21, "to": 27},
 
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv1",        "rows": 1, "cols": 6, "w": 10, "h": 10, "from":  0, "to":  5},
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv2",        "rows": 2, "cols": 6, "w": 10, "h": 10, "from":  6, "to": 11},
