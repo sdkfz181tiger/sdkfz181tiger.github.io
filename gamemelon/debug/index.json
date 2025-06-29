@@ -127,7 +127,7 @@
 				"color": [11, 33, 11]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "ENEMY TO SLEEP!!",
+			"message": "GHOSTS TO SLEEP!!",
 			"monsters": ["a"],
 			"coins": [],
 			"items": ["a", "a", "a", "b"],
@@ -157,7 +157,7 @@
 				"color": [11, 33, 11]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "ENEMY TO DEFEAT!!",
+			"message": "GHOSTS TO DEFEAT!!",
 			"monsters": ["a"],
 			"coins": [],
 			"items": ["a", "a", "a", "c"],
