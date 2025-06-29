@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/29 14:00:00",
+	"timestamp": "2025/06/29 15:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -55,9 +55,9 @@
 	},
 	"bullets": {
 		"0": {"name": "",          "life": 0.0, "spd": 0},
-		"a": {"name": "w_fb_r_%c", "life": 3.0, "spd": 8},
-		"b": {"name": "w_fb_g_%c", "life": 3.0, "spd": 8},
-		"c": {"name": "w_fb_b_%c", "life": 3.0, "spd": 8}
+		"a": {"name": "w_fb_r_%s", "life": 3.0, "spd": 8},
+		"b": {"name": "w_fb_g_%s", "life": 3.0, "spd": 8},
+		"c": {"name": "w_fb_b_%s", "life": 3.0, "spd": 8}
 	},
 	"stages":[
 		{
