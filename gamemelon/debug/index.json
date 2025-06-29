@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/29 13:00:00",
+	"timestamp": "2025/06/29 14:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -25,10 +25,10 @@
 		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "a"},
 		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "b"},
 		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": "c"},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters", "bullet": "d"},
-		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters", "bullet": "e"},
-		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters", "bullet": "f"},
-		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters", "bullet": "g"}
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters", "bullet": "a"},
+		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters", "bullet": "b"},
+		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters", "bullet": "c"},
+		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters", "bullet": "a"}
 	},
 	"coins": {
 		"0": {"name": "",          "score": 0, "icon": "",         "se": "sounds/se_coin_01.ogg"},
@@ -54,14 +54,10 @@
 		"e": {"type": 1, "file": "images/grave/wall_e_%02d.png"}
 	},
 	"bullets": {
-		"0": {"name": "",           "life": 0.0, "spd": 0},
-		"a": {"name": "w_fb_r_l",   "life": 1.0, "spd": 8},
-		"b": {"name": "w_fb_g_l",   "life": 1.0, "spd": 4},
-		"c": {"name": "w_fb_b_r",   "life": 1.0, "spd": 4},
-		"d": {"name": "w_fb_r_l",   "life": 2.0, "spd": 5},
-		"e": {"name": "w_fb_g_r",   "life": 2.0, "spd": 5},
-		"f": {"name": "w_fb_b_l",   "life": 3.0, "spd": 6},
-		"g": {"name": "w_fb_r_r",   "life": 3.0, "spd": 6}
+		"0": {"name": "",          "life": 0.0, "spd": 0},
+		"a": {"name": "w_fb_r_%c", "life": 3.0, "spd": 8},
+		"b": {"name": "w_fb_g_%c", "life": 3.0, "spd": 8},
+		"c": {"name": "w_fb_b_%c", "life": 3.0, "spd": 8}
 	},
 	"stages":[
 		{
@@ -974,10 +970,16 @@
 		{"file_name": "images/ghosts/w_arrow_01.png",    "frame_name": "w_arrow_l",        "rows": 2, "cols": 4, "w": 16, "h":  3, "from":  4, "to":  7},
 		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_r_r",         "rows": 1, "cols": 8, "w": 16, "h": 16, "from":  0, "to":  7},
 		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_r_l",         "rows": 2, "cols": 8, "w": 16, "h": 16, "from":  8, "to": 15},
+		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_r_u",         "rows": 1, "cols": 8, "w": 16, "h": 16, "from":  0, "to":  7},
+		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_r_d",         "rows": 2, "cols": 8, "w": 16, "h": 16, "from":  8, "to": 15},
 		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_g_r",         "rows": 3, "cols": 8, "w": 16, "h": 16, "from": 16, "to": 23},
 		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_g_l",         "rows": 4, "cols": 8, "w": 16, "h": 16, "from": 24, "to": 31},
+		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_g_u",         "rows": 3, "cols": 8, "w": 16, "h": 16, "from": 16, "to": 23},
+		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_g_d",         "rows": 4, "cols": 8, "w": 16, "h": 16, "from": 24, "to": 31},
 		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_b_r",         "rows": 5, "cols": 8, "w": 16, "h": 16, "from": 32, "to": 39},
 		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_b_l",         "rows": 6, "cols": 8, "w": 16, "h": 16, "from": 40, "to": 47},
+		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_b_u",         "rows": 5, "cols": 8, "w": 16, "h": 16, "from": 32, "to": 39},
+		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_b_d",         "rows": 6, "cols": 8, "w": 16, "h": 16, "from": 40, "to": 47},
 		{"file_name": "images/ghosts/w_kami_01.png",     "frame_name": "w_kami_01",        "rows": 2, "cols": 4, "w": 16, "h":  6, "from":  0, "to":  7},
 		{"file_name": "images/ghosts/w_kami_02.png",     "frame_name": "w_kami_02",        "rows": 2, "cols": 4, "w":  6, "h": 16, "from":  0, "to":  7},
 		{"file_name": "images/ghosts/w_kami_03.png",     "frame_name": "w_kami_03",        "rows": 2, "cols": 4, "w": 16, "h": 16, "from":  0, "to":  7},
