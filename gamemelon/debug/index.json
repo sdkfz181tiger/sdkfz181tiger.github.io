@@ -17,19 +17,6 @@
 		"spd": 8,
 		"score": 0
 	},
-	"monsters": {
-		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "aim": 0, "icon": "",           "bullet": ""},
-		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": ""},
-		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": ""},
-		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": ""},
-		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "a"},
-		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "a"},
-		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": "a"},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters", "bullet": "a"},
-		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters", "bullet": "a"},
-		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters", "bullet": "a"},
-		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters", "bullet": "a"}
-	},
 	"coins": {
 		"0": {"name": "",          "score": 0, "icon": "",         "se": "sounds/se_coin_01.ogg"},
 		"a": {"name": "i_coin_1",  "score": 1, "icon": "i_coins",  "se": "sounds/se_coin_01.ogg"},
@@ -44,6 +31,19 @@
 		"a": {"name": "i_ofuda",   "score": 2, "icon": "i_ofuda",   "se": "sounds/se_powerup_01.ogg", "f_ofuda": true,  "t_bonji": 0.0, "t_sleep": 0.0},
 		"b": {"name": "i_juzu",    "score": 3, "icon": "i_juzu",    "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji": 0.0, "t_sleep":10.0},
 		"c": {"name": "i_mokugyo", "score": 4, "icon": "i_mokugyo", "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji":10.0, "t_sleep": 0.0}
+	},
+	"monsters": {
+		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "aim": 0, "icon": "",           "bullet": ""},
+		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": ""},
+		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": ""},
+		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": ""},
+		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "a"},
+		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "a"},
+		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": "a"},
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters", "bullet": "a"},
+		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters", "bullet": "a"},
+		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters", "bullet": "a"},
+		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters", "bullet": "a"}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
