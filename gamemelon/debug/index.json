@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/30 20:00:00",
+	"timestamp": "2025/06/30 21:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -61,11 +61,11 @@
 		"d": {"name": "w_fb_r_%s",   "life": 2.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
 		"e": {"name": "w_fb_g_%s",   "life": 2.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
 		"f": {"name": "w_fb_b_%s",   "life": 2.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
-		"g": {"name": "w_sand_s_%s", "life": 2.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
-		"h": {"name": "w_storm_%s",  "life": 2.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
-		"i": {"name": "w_snow_%s",   "life": 2.0, "spd": 8, "se": "sounds/se_ice_01.ogg"},
-		"j": {"name": "w_kami_a_%s", "life": 2.0, "spd": 8, "se": "sounds/se_kami_01.ogg"},
-		"k": {"name": "w_kami_b_%s", "life": 2.0, "spd": 8, "se": "sounds/se_kami_01.ogg"}
+		"g": {"name": "w_sand_s_%s", "life": 1.0, "spd":12, "se": "sounds/se_fire_01.ogg"},
+		"h": {"name": "w_storm_%s",  "life":32.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
+		"i": {"name": "w_snow_%s",   "life": 1.0, "spd":12, "se": "sounds/se_ice_01.ogg"},
+		"j": {"name": "w_kami_a_%s", "life": 1.0, "spd":16, "se": "sounds/se_kami_01.ogg"},
+		"k": {"name": "w_kami_b_%s", "life": 1.0, "spd":16, "se": "sounds/se_kami_01.ogg"}
 	},
 	"stages":[
 		{
