@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/30 19:00:00",
+	"timestamp": "2025/06/30 20:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -528,7 +528,7 @@
 			"message": "",
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
-			"monsters": ["a"],
+			"monsters": ["a", "b", "c"],
 			"walls": ["e"],
 			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
