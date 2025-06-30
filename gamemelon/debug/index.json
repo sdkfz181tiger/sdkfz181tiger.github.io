@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025/06/30 23:00:00",
+	"timestamp": "2025/07/01 09:00:00",
 	"todos": [
-		"monsters -> ghosts",
+		"vectorの配列名をmonsters -> ghosts",
 		"SpriteMonsterの行動パターン制御(離れたマス数基準で攻撃か移動か)",
-		"プレイヤーを発見する基準をどうするか?"
+		"プレイヤーを発見する基準をどうするか?",
+		"Sleep時にzzz..."
 	],
 	"admob_int": 30,
 	"archives":[
