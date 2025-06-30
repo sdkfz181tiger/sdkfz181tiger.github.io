@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/30 21:00:00",
+	"timestamp": "2025/06/30 18:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -34,9 +34,9 @@
 	},
 	"monsters": {
 		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "aim": 0, "icon": "",           "bullet": ""},
-		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": "g"},
-		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": "h"},
-		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": "i"},
+		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": "a"},
+		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": "b"},
+		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": "c"},
 		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "d"},
 		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "e"},
 		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": "f"},
@@ -528,9 +528,9 @@
 			"message": "",
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
-			"monsters": ["a", "b", "c"],
+			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"walls": ["e"],
-			"spawn_limit": 3,
+			"spawn_limit": 12,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 3},
