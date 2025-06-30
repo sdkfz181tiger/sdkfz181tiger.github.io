@@ -1,5 +1,10 @@
 {
-	"timestamp": "2025/06/30 21:30:00",
+	"timestamp": "2025/06/30 22:00:00",
+	"todos": [
+		"monsters -> ghosts",
+		"SpriteMonsterの行動パターン制御(離れたマス数基準で攻撃か移動か)",
+		"プレイヤーを発見する基準をどうするか?"
+	],
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
