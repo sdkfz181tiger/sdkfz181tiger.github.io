@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/30 13:00:00",
+	"timestamp": "2025/06/30 19:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -39,11 +39,11 @@
 		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": "c"},
 		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "d"},
 		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "e"},
-		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": "a"},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters", "bullet": "b"},
-		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters", "bullet": "c"},
-		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters", "bullet": "d"},
-		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters", "bullet": "e"}
+		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": "f"},
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters", "bullet": "g"},
+		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters", "bullet": "h"},
+		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters", "bullet": "i"},
+		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters", "bullet": "j"}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
@@ -54,12 +54,18 @@
 		"e": {"type": 1, "file": "images/grave/wall_e_%02d.png"}
 	},
 	"bullets": {
-		"0": {"name": "",          "life": 0.0, "spd": 0, "se": ""},
-		"a": {"name": "w_fb_r_%s", "life": 3.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
-		"b": {"name": "w_fb_g_%s", "life": 3.0, "spd": 8, "se": "sounds/se_ice_01.ogg"},
-		"c": {"name": "w_fb_b_%s", "life": 3.0, "spd": 8, "se": "sounds/se_magic_01.ogg"},
-		"d": {"name": "w_fb_r_%s", "life": 3.0, "spd": 8, "se": "sounds/se_sword_01.ogg"},
-		"e": {"name": "w_fb_g_%s", "life": 3.0, "spd": 8, "se": "sounds/se_thunder_01.ogg"}
+		"0": {"name": "",            "life": 0.0, "spd": 0, "se": ""},
+		"a": {"name": "w_shuri_%s",  "life": 4.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
+		"b": {"name": "w_sword_%s",  "life": 4.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
+		"c": {"name": "w_arrow_%s",  "life": 4.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
+		"d": {"name": "w_fb_r_%s",   "life": 4.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
+		"e": {"name": "w_fb_g_%s",   "life": 4.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
+		"f": {"name": "w_fb_b_%s",   "life": 4.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
+		"g": {"name": "w_sand_s_%s", "life": 4.0, "spd": 6, "se": "sounds/se_magic_01.ogg"},
+		"h": {"name": "w_storm_%s",  "life": 4.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
+		"i": {"name": "w_snow_%s",   "life": 4.0, "spd": 6, "se": "sounds/se_ice_01.ogg"},
+		"j": {"name": "w_kami_a_%s", "life": 4.0, "spd": 6, "se": "sounds/se_kami_01.ogg"},
+		"k": {"name": "w_kami_b_%s", "life": 4.0, "spd": 6, "se": "sounds/se_kami_01.ogg"}
 	},
 	"stages":[
 		{
@@ -703,13 +709,13 @@
 		"sounds/se_dialog_open_01.ogg",
 		"sounds/se_fire_01.ogg",
 		"sounds/se_ice_01.ogg",
+		"sounds/se_kami_01.ogg",
 		"sounds/se_magic_01.ogg",
 		"sounds/se_obake_01.ogg", "sounds/se_obake_02.ogg", 
 		"sounds/se_obake_03.ogg",
 		"sounds/se_paku_01.ogg",
 		"sounds/se_powerup_01.ogg", "sounds/se_powerup_02.ogg",
-		"sounds/se_sword_01.ogg",
-		"sounds/se_thunder_01.ogg"
+		"sounds/se_sword_01.ogg"
 	],
 	"bgms": [
 		"sounds/bgm_ending_01.ogg", "sounds/bgm_ending_02.ogg", 
@@ -975,6 +981,8 @@
 
 		{"file_name": "images/ghosts/w_arrow_01.png",    "frame_name": "w_arrow_r",        "rows": 1, "cols": 4, "w": 16, "h":  3, "from":  0, "to":  3},
 		{"file_name": "images/ghosts/w_arrow_01.png",    "frame_name": "w_arrow_l",        "rows": 2, "cols": 4, "w": 16, "h":  3, "from":  4, "to":  7},
+		{"file_name": "images/ghosts/w_arrow_02.png",    "frame_name": "w_arrow_u",        "rows": 1, "cols": 8, "w":  3, "h": 16, "from":  0, "to":  3},
+		{"file_name": "images/ghosts/w_arrow_02.png",    "frame_name": "w_arrow_d",        "rows": 1, "cols": 8, "w":  3, "h": 16, "from":  4, "to":  7},
 
 		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_r_r",         "rows": 1, "cols": 8, "w": 16, "h": 16, "from":  0, "to":  7},
 		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_r_l",         "rows": 2, "cols": 8, "w": 16, "h": 16, "from":  8, "to": 15},
@@ -991,18 +999,36 @@
 		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_b_u",         "rows": 5, "cols": 8, "w": 16, "h": 16, "from": 32, "to": 39},
 		{"file_name": "images/ghosts/w_fireball_01.png", "frame_name": "w_fb_b_d",         "rows": 6, "cols": 8, "w": 16, "h": 16, "from": 40, "to": 47},
 
-		{"file_name": "images/ghosts/w_kami_01.png",     "frame_name": "w_kami_01",        "rows": 2, "cols": 4, "w": 16, "h":  6, "from":  0, "to":  7},
-		{"file_name": "images/ghosts/w_kami_02.png",     "frame_name": "w_kami_02",        "rows": 2, "cols": 4, "w":  6, "h": 16, "from":  0, "to":  7},
-		{"file_name": "images/ghosts/w_kami_03.png",     "frame_name": "w_kami_03",        "rows": 2, "cols": 4, "w": 16, "h": 16, "from":  0, "to":  7},
-		{"file_name": "images/ghosts/w_shuri_01.png",    "frame_name": "w_shuri_01",       "rows": 1, "cols": 4, "w": 10, "h": 10, "from":  0, "to":  3},
-		{"file_name": "images/ghosts/w_storm_01.png",    "frame_name": "w_storm_01",       "rows": 2, "cols": 5, "w": 12, "h": 17, "from":  0, "to":  9},
-		{"file_name": "images/ghosts/w_sonic_01.png",    "frame_name": "w_sonic_b_r",      "rows": 1, "cols": 4, "w": 28, "h": 10, "from":  0, "to":  3},
-		{"file_name": "images/ghosts/w_sonic_01.png",    "frame_name": "w_sonic_b_l",      "rows": 2, "cols": 4, "w": 28, "h": 10, "from":  4, "to":  7},
-		{"file_name": "images/ghosts/w_sonic_01.png",    "frame_name": "w_sonic_g_r",      "rows": 3, "cols": 4, "w": 28, "h": 10, "from":  8, "to": 11},
-		{"file_name": "images/ghosts/w_sonic_01.png",    "frame_name": "w_sonic_g_l",      "rows": 4, "cols": 4, "w": 28, "h": 10, "from": 12, "to": 15},
-		{"file_name": "images/ghosts/w_sonic_01.png",    "frame_name": "w_sonic_r_r",      "rows": 5, "cols": 4, "w": 28, "h": 10, "from": 16, "to": 19},
-		{"file_name": "images/ghosts/w_sonic_01.png",    "frame_name": "w_sonic_r_l",      "rows": 6, "cols": 4, "w": 28, "h": 10, "from": 20, "to": 23},
-		{"file_name": "images/ghosts/w_snow_01.png",     "frame_name": "w_snow_01",        "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
+		{"file_name": "images/ghosts/w_kami_a_01.png",   "frame_name": "w_kami_a_r",       "rows": 2, "cols": 4, "w": 16, "h":  6, "from":  0, "to":  7},
+		{"file_name": "images/ghosts/w_kami_a_01.png",   "frame_name": "w_kami_a_l",       "rows": 2, "cols": 4, "w": 16, "h":  6, "from":  0, "to":  7},
+		{"file_name": "images/ghosts/w_kami_a_02.png",   "frame_name": "w_kami_a_u",       "rows": 2, "cols": 4, "w":  6, "h": 16, "from":  0, "to":  7},
+		{"file_name": "images/ghosts/w_kami_a_02.png",   "frame_name": "w_kami_a_d",       "rows": 2, "cols": 4, "w":  6, "h": 16, "from":  0, "to":  7},
+
+		{"file_name": "images/ghosts/w_kami_b_01.png",   "frame_name": "w_kami_b_r",       "rows": 2, "cols": 4, "w": 16, "h": 16, "from":  0, "to":  7},
+		{"file_name": "images/ghosts/w_kami_b_01.png",   "frame_name": "w_kami_b_l",       "rows": 2, "cols": 4, "w": 16, "h": 16, "from":  0, "to":  7},
+		{"file_name": "images/ghosts/w_kami_b_01.png",   "frame_name": "w_kami_b_u",       "rows": 2, "cols": 4, "w": 16, "h": 16, "from":  0, "to":  7},
+		{"file_name": "images/ghosts/w_kami_b_01.png",   "frame_name": "w_kami_b_d",       "rows": 2, "cols": 4, "w": 16, "h": 16, "from":  0, "to":  7},
+
+		{"file_name": "images/ghosts/w_shuri_01.png",    "frame_name": "w_shuri_r",        "rows": 1, "cols": 4, "w": 10, "h": 10, "from":  0, "to":  3},
+		{"file_name": "images/ghosts/w_shuri_01.png",    "frame_name": "w_shuri_l",        "rows": 1, "cols": 4, "w": 10, "h": 10, "from":  0, "to":  3},
+		{"file_name": "images/ghosts/w_shuri_01.png",    "frame_name": "w_shuri_u",        "rows": 1, "cols": 4, "w": 10, "h": 10, "from":  0, "to":  3},
+		{"file_name": "images/ghosts/w_shuri_01.png",    "frame_name": "w_shuri_d",        "rows": 1, "cols": 4, "w": 10, "h": 10, "from":  0, "to":  3},
+
+		{"file_name": "images/ghosts/w_sand_s_01.png",   "frame_name": "w_sand_s_r",       "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/ghosts/w_sand_s_01.png",   "frame_name": "w_sand_s_l",       "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/ghosts/w_sand_s_01.png",   "frame_name": "w_sand_s_u",       "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/ghosts/w_sand_s_01.png",   "frame_name": "w_sand_s_d",       "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
+
+		{"file_name": "images/ghosts/w_storm_01.png",    "frame_name": "w_storm_r",        "rows": 2, "cols": 5, "w": 12, "h": 17, "from":  0, "to":  9},
+		{"file_name": "images/ghosts/w_storm_01.png",    "frame_name": "w_storm_l",        "rows": 2, "cols": 5, "w": 12, "h": 17, "from":  0, "to":  9},
+		{"file_name": "images/ghosts/w_storm_01.png",    "frame_name": "w_storm_u",        "rows": 2, "cols": 5, "w": 12, "h": 17, "from":  0, "to":  9},
+		{"file_name": "images/ghosts/w_storm_01.png",    "frame_name": "w_storm_d",        "rows": 2, "cols": 5, "w": 12, "h": 17, "from":  0, "to":  9},
+
+		{"file_name": "images/ghosts/w_snow_01.png",     "frame_name": "w_snow_r",         "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
+		{"file_name": "images/ghosts/w_snow_01.png",     "frame_name": "w_snow_l",         "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
+		{"file_name": "images/ghosts/w_snow_01.png",     "frame_name": "w_snow_u",         "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
+		{"file_name": "images/ghosts/w_snow_01.png",     "frame_name": "w_snow_d",         "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
+		
 		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_r",        "rows": 1, "cols": 7, "w": 16, "h": 16, "from":  0, "to":  6},
 		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_l",        "rows": 2, "cols": 7, "w": 16, "h": 16, "from":  7, "to": 13},
 		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_u",        "rows": 3, "cols": 7, "w": 16, "h": 16, "from": 14, "to": 20},
@@ -1013,6 +1039,7 @@
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv3",        "rows": 3, "cols": 6, "w": 10, "h": 10, "from": 12, "to": 17},
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv4",        "rows": 4, "cols": 6, "w": 10, "h": 10, "from": 18, "to": 23},
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv5",        "rows": 5, "cols": 6, "w": 10, "h": 10, "from": 24, "to": 29},
+
 		{"file_name": "images/tower/mhand_r_01.png",    "frame_name": "mhand_r",          "rows": 1, "cols": 6, "w": 32, "h": 80, "from":  0, "to":  5},
 		{"file_name": "images/tower/mhand_l_01.png",    "frame_name": "mhand_l",          "rows": 1, "cols": 6, "w": 32, "h": 80, "from":  0, "to":  5}
 	]
