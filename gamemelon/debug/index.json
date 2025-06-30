@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/29 23:00:00",
+	"timestamp": "2025/06/30 12:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -54,10 +54,10 @@
 		"e": {"type": 1, "file": "images/grave/wall_e_%02d.png"}
 	},
 	"bullets": {
-		"0": {"name": "",          "life": 0.0, "spd": 0},
-		"a": {"name": "w_fb_r_%s", "life": 3.0, "spd": 8},
-		"b": {"name": "w_fb_g_%s", "life": 3.0, "spd": 8},
-		"c": {"name": "w_fb_b_%s", "life": 3.0, "spd": 8}
+		"0": {"name": "",          "life": 0.0, "spd": 0, "se": ""},
+		"a": {"name": "w_fb_r_%s", "life": 3.0, "spd": 8, "se": "sounds/se_coin_01.ogg"},
+		"b": {"name": "w_fb_g_%s", "life": 3.0, "spd": 8, "se": "sounds/se_coin_01.ogg"},
+		"c": {"name": "w_fb_b_%s", "life": 3.0, "spd": 8, "se": "sounds/se_coin_01.ogg"}
 	},
 	"stages":[
 		{
