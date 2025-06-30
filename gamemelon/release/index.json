@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/30 14:00:00",
+	"timestamp": "2025/06/30 18:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -39,11 +39,11 @@
 		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": "c"},
 		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "d"},
 		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "e"},
-		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": "a"},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters", "bullet": "b"},
-		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters", "bullet": "c"},
-		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters", "bullet": "d"},
-		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters", "bullet": "e"}
+		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": "f"},
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters", "bullet": "g"},
+		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters", "bullet": "h"},
+		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters", "bullet": "i"},
+		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters", "bullet": "j"}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
@@ -55,17 +55,17 @@
 	},
 	"bullets": {
 		"0": {"name": "",            "life": 0.0, "spd": 0, "se": ""},
-		"a": {"name": "w_fb_r_%s",   "life": 4.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
-		"b": {"name": "w_fb_g_%s",   "life": 4.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
-		"c": {"name": "w_fb_b_%s",   "life": 4.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
-		"d": {"name": "w_arrow_%s",  "life": 4.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
-		"e": {"name": "w_kami_a_%s", "life": 4.0, "spd": 6, "se": "sounds/se_kami_01.ogg"},
-		"f": {"name": "w_kami_b_%s", "life": 4.0, "spd": 6, "se": "sounds/se_kami_01.ogg"},
-		"g": {"name": "w_shuri_%s",  "life": 4.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
-		"h": {"name": "w_sand_s_%s", "life": 4.0, "spd": 6, "se": "sounds/se_magic_01.ogg"},
-		"i": {"name": "w_storm_%s",  "life": 4.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
-		"j": {"name": "w_snow_%s",   "life": 4.0, "spd": 6, "se": "sounds/se_ice_01.ogg"},
-		"k": {"name": "w_sword_%s",  "life": 4.0, "spd": 6, "se": "sounds/se_sword_01.ogg"}
+		"a": {"name": "w_shuri_%s",  "life": 2.0, "spd": 8, "se": "sounds/se_sword_01.ogg"},
+		"b": {"name": "w_sword_%s",  "life": 1.0, "spd":12, "se": "sounds/se_sword_01.ogg"},
+		"c": {"name": "w_arrow_%s",  "life": 2.0, "spd": 8, "se": "sounds/se_sword_01.ogg"},
+		"d": {"name": "w_fb_r_%s",   "life": 2.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
+		"e": {"name": "w_fb_g_%s",   "life": 2.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
+		"f": {"name": "w_fb_b_%s",   "life": 2.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
+		"g": {"name": "w_sand_s_%s", "life": 1.0, "spd":12, "se": "sounds/se_fire_01.ogg"},
+		"h": {"name": "w_storm_%s",  "life":32.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
+		"i": {"name": "w_snow_%s",   "life": 1.0, "spd":12, "se": "sounds/se_ice_01.ogg"},
+		"j": {"name": "w_kami_a_%s", "life": 1.0, "spd":16, "se": "sounds/se_kami_01.ogg"},
+		"k": {"name": "w_kami_b_%s", "life": 1.0, "spd":16, "se": "sounds/se_kami_01.ogg"}
 	},
 	"stages":[
 		{
@@ -528,9 +528,9 @@
 			"message": "",
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "c"],
-			"monsters": ["a"],
+			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
 			"walls": ["e"],
-			"spawn_limit": 1,
+			"spawn_limit": 12,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 3},
