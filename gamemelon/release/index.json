@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/30 18:00:00",
+	"timestamp": "2025/06/30 20:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -55,17 +55,17 @@
 	},
 	"bullets": {
 		"0": {"name": "",            "life": 0.0, "spd": 0, "se": ""},
-		"a": {"name": "w_shuri_%s",  "life": 2.0, "spd": 8, "se": "sounds/se_sword_01.ogg"},
-		"b": {"name": "w_sword_%s",  "life": 1.0, "spd":12, "se": "sounds/se_sword_01.ogg"},
-		"c": {"name": "w_arrow_%s",  "life": 2.0, "spd": 8, "se": "sounds/se_sword_01.ogg"},
-		"d": {"name": "w_fb_r_%s",   "life": 2.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
-		"e": {"name": "w_fb_g_%s",   "life": 2.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
-		"f": {"name": "w_fb_b_%s",   "life": 2.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
-		"g": {"name": "w_sand_s_%s", "life": 1.0, "spd":12, "se": "sounds/se_fire_01.ogg"},
+		"a": {"name": "w_shuri_%s",  "life": 1.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
+		"b": {"name": "w_sword_%s",  "life": 1.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
+		"c": {"name": "w_arrow_%s",  "life": 1.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
+		"d": {"name": "w_fb_r_%s",   "life": 1.0, "spd": 4, "se": "sounds/se_fire_01.ogg"},
+		"e": {"name": "w_fb_g_%s",   "life": 1.0, "spd": 4, "se": "sounds/se_fire_01.ogg"},
+		"f": {"name": "w_fb_b_%s",   "life": 1.0, "spd": 4, "se": "sounds/se_fire_01.ogg"},
+		"g": {"name": "w_sand_%s",   "life": 1.0, "spd": 4, "se": "sounds/se_fire_01.ogg"},
 		"h": {"name": "w_storm_%s",  "life":32.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
-		"i": {"name": "w_snow_%s",   "life": 1.0, "spd":12, "se": "sounds/se_ice_01.ogg"},
-		"j": {"name": "w_kami_a_%s", "life": 1.0, "spd":16, "se": "sounds/se_kami_01.ogg"},
-		"k": {"name": "w_kami_b_%s", "life": 1.0, "spd":16, "se": "sounds/se_kami_01.ogg"}
+		"i": {"name": "w_snow_%s",   "life":32.0, "spd": 8, "se": "sounds/se_ice_01.ogg"},
+		"j": {"name": "w_kami_a_%s", "life":32.0, "spd": 8, "se": "sounds/se_kami_01.ogg"},
+		"k": {"name": "w_kami_b_%s", "life":32.0, "spd": 8, "se": "sounds/se_kami_01.ogg"}
 	},
 	"stages":[
 		{
@@ -1014,10 +1014,10 @@
 		{"file_name": "images/ghosts/w_shuri_01.png",    "frame_name": "w_shuri_u",        "rows": 1, "cols": 4, "w": 10, "h": 10, "from":  0, "to":  3},
 		{"file_name": "images/ghosts/w_shuri_01.png",    "frame_name": "w_shuri_d",        "rows": 1, "cols": 4, "w": 10, "h": 10, "from":  0, "to":  3},
 
-		{"file_name": "images/ghosts/w_sand_s_01.png",   "frame_name": "w_sand_s_r",       "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
-		{"file_name": "images/ghosts/w_sand_s_01.png",   "frame_name": "w_sand_s_l",       "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
-		{"file_name": "images/ghosts/w_sand_s_01.png",   "frame_name": "w_sand_s_u",       "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
-		{"file_name": "images/ghosts/w_sand_s_01.png",   "frame_name": "w_sand_s_d",       "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/ghosts/w_sand_01.png",     "frame_name": "w_sand_r",         "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/ghosts/w_sand_01.png",     "frame_name": "w_sand_l",         "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/ghosts/w_sand_01.png",     "frame_name": "w_sand_u",         "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/ghosts/w_sand_01.png",     "frame_name": "w_sand_d",         "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
 
 		{"file_name": "images/ghosts/w_storm_01.png",    "frame_name": "w_storm_r",        "rows": 2, "cols": 5, "w": 12, "h": 17, "from":  0, "to":  9},
 		{"file_name": "images/ghosts/w_storm_01.png",    "frame_name": "w_storm_l",        "rows": 2, "cols": 5, "w": 12, "h": 17, "from":  0, "to":  9},
