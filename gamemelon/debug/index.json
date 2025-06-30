@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/06/30 12:00:00",
+	"timestamp": "2025/06/30 13:00:00",
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -699,10 +699,15 @@
 		"sounds/se_damage_01.ogg",
 		"sounds/se_dialog_close_01.ogg",
 		"sounds/se_dialog_open_01.ogg",
+		"sounds/se_fire_01.ogg",
+		"sounds/se_ice_01.ogg",
+		"sounds/se_magic_01.ogg",
 		"sounds/se_obake_01.ogg", "sounds/se_obake_02.ogg", 
 		"sounds/se_obake_03.ogg",
 		"sounds/se_paku_01.ogg",
-		"sounds/se_powerup_01.ogg", "sounds/se_powerup_02.ogg"
+		"sounds/se_powerup_01.ogg", "sounds/se_powerup_02.ogg",
+		"sounds/se_sword_01.ogg",
+		"sounds/se_thunder_01.ogg"
 	],
 	"bgms": [
 		"sounds/bgm_ending_01.ogg", "sounds/bgm_ending_02.ogg", 
