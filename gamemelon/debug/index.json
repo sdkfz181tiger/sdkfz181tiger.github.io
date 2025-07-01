@@ -1,10 +1,12 @@
 {
-	"timestamp": "2025/07/01 23:00:00",
+	"timestamp": "2025/07/02 08:00:00",
 	"todos": [
 		"vectorの配列名をmonsters -> ghosts",
 		"SpriteMonsterの行動パターン制御(離れたマス数基準で攻撃か移動か)",
 		"Sleep時にzzz...",
-		"Sleep中に数珠アタックで直ぐ死なないバグ?"
+		"Sleep中に数珠アタックで直ぐ死なないバグ? -> timersをクリアする?",
+		"各ステージにクリアボーナス?",
+		"各スプライトのパラメータは全てjsonオブジェクトで?"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -39,18 +41,18 @@
 		"c": {"name": "i_mokugyo", "score": 4, "icon": "i_mokugyo", "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji":20.0, "t_sleep": 0.0}
 	},
 	"monsters": {
-		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "aim": 0, "icon": "",           "bullet": ""},
-		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": ""},
-		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": ""},
-		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": ""},
-		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": ""},
-		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": ""},
-		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": ""},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": ""},
-		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 4, "icon": "i_monsters", "bullet": "g"},
-		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 4, "icon": "i_monsters", "bullet": ""},
-		"j": {"name": "musha_d", "score":14, "life": 1, "spd": 5, "aim": 5, "icon": "i_monsters", "bullet": "b"},
-		"k": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 5, "icon": "i_monsters", "bullet": "h"}
+		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "notice": 0, "icon": "",           "bullet": "",  "shot_range": 0},
+		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "g", "shot_range": 3},
+		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"j": {"name": "musha_d", "score":14, "life": 1, "spd": 5, "notice": 5, "icon": "i_monsters", "bullet": "b", "shot_range": 3},
+		"k": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "notice": 5, "icon": "i_monsters", "bullet": "h", "shot_range": 3}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
