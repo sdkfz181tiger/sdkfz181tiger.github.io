@@ -1,10 +1,10 @@
 {
-	"timestamp": "2025/07/01 20:00:00",
+	"timestamp": "2025/07/01 23:00:00",
 	"todos": [
 		"vectorの配列名をmonsters -> ghosts",
 		"SpriteMonsterの行動パターン制御(離れたマス数基準で攻撃か移動か)",
 		"Sleep時にzzz...",
-		"一歩下のマスにいる時、敵は逃げないバグ?"
+		"Sleep中に数珠アタックで直ぐ死なないバグ?"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -35,8 +35,8 @@
 	"items": {
 		"0": {"name": "",          "score": 0, "icon": "",          "se": "sounds/se_coin_01.ogg",    "f_ofuda": false, "t_bonji": 0.0, "t_sleep": 0.0},
 		"a": {"name": "i_ofuda",   "score": 2, "icon": "i_ofuda",   "se": "sounds/se_powerup_01.ogg", "f_ofuda": true,  "t_bonji": 0.0, "t_sleep": 0.0},
-		"b": {"name": "i_juzu",    "score": 3, "icon": "i_juzu",    "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji": 0.0, "t_sleep":10.0},
-		"c": {"name": "i_mokugyo", "score": 4, "icon": "i_mokugyo", "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji":10.0, "t_sleep": 0.0}
+		"b": {"name": "i_juzu",    "score": 3, "icon": "i_juzu",    "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji": 0.0, "t_sleep":16.0},
+		"c": {"name": "i_mokugyo", "score": 4, "icon": "i_mokugyo", "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji":20.0, "t_sleep": 0.0}
 	},
 	"monsters": {
 		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "aim": 0, "icon": "",           "bullet": ""},
