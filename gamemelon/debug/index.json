@@ -1,10 +1,10 @@
 {
-	"timestamp": "2025/07/01 09:00:00",
+	"timestamp": "2025/07/01 20:00:00",
 	"todos": [
 		"vectorの配列名をmonsters -> ghosts",
 		"SpriteMonsterの行動パターン制御(離れたマス数基準で攻撃か移動か)",
-		"プレイヤーを発見する基準をどうするか?",
-		"Sleep時にzzz..."
+		"Sleep時にzzz...",
+		"一歩下のマスにいる時、敵は逃げないバグ?"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -46,11 +46,11 @@
 		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": ""},
 		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": ""},
 		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": ""},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters", "bullet": ""},
-		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters", "bullet": "g"},
-		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters", "bullet": ""},
-		"j": {"name": "musha_d", "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters", "bullet": "b"},
-		"k": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters", "bullet": "h"}
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": ""},
+		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 4, "icon": "i_monsters", "bullet": "g"},
+		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 4, "icon": "i_monsters", "bullet": ""},
+		"j": {"name": "musha_d", "score":14, "life": 1, "spd": 5, "aim": 5, "icon": "i_monsters", "bullet": "b"},
+		"k": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 5, "icon": "i_monsters", "bullet": "h"}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
