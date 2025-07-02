@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/07/02 13:00:00",
+	"timestamp": "2025/07/02 14:00:00",
 	"todos": [
 		"vectorの配列名をmonsters -> ghosts",
 		"Sleep時にzzz...",
@@ -64,7 +64,7 @@
 	"bullets": {
 		"0": {"name": "",            "life": 0.0, "spd": 0, "se": ""},
 		"a": {"name": "w_shuri_%s",  "life":32.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
-		"b": {"name": "w_sword_%s",  "life": 1.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
+		"b": {"name": "w_sword_%s",  "life": 0.8, "spd":12, "se": "sounds/se_sword_01.ogg"},
 		"c": {"name": "w_arrow_%s",  "life":32.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
 		"d": {"name": "w_fb_r_%s",   "life":32.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
 		"e": {"name": "w_fb_g_%s",   "life":32.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
