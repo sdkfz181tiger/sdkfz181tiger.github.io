@@ -1,5 +1,11 @@
 {
-	"timestamp": "2025/06/30 20:00:00",
+	"timestamp": "2025/07/02 14:00:00",
+	"todos": [
+		"vectorの配列名をmonsters -> ghosts",
+		"Sleep時にzzz...と秒数?",
+		"各ステージにクリアボーナス?",
+		"各スプライトのパラメータは全てjsonオブジェクトで?"
+	],
 	"admob_int": 30,
 	"archives":[
 		"images.zip",
@@ -29,21 +35,22 @@
 	"items": {
 		"0": {"name": "",          "score": 0, "icon": "",          "se": "sounds/se_coin_01.ogg",    "f_ofuda": false, "t_bonji": 0.0, "t_sleep": 0.0},
 		"a": {"name": "i_ofuda",   "score": 2, "icon": "i_ofuda",   "se": "sounds/se_powerup_01.ogg", "f_ofuda": true,  "t_bonji": 0.0, "t_sleep": 0.0},
-		"b": {"name": "i_juzu",    "score": 3, "icon": "i_juzu",    "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji": 0.0, "t_sleep":10.0},
-		"c": {"name": "i_mokugyo", "score": 4, "icon": "i_mokugyo", "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji":10.0, "t_sleep": 0.0}
+		"b": {"name": "i_juzu",    "score": 3, "icon": "i_juzu",    "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji": 0.0, "t_sleep":16.0},
+		"c": {"name": "i_mokugyo", "score": 4, "icon": "i_mokugyo", "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji":20.0, "t_sleep": 0.0}
 	},
 	"monsters": {
-		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "aim": 0, "icon": "",           "bullet": ""},
-		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": "a"},
-		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": "b"},
-		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "aim": 0, "icon": "i_monsters", "bullet": "c"},
-		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "d"},
-		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "aim": 2, "icon": "i_monsters", "bullet": "e"},
-		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "aim": 3, "icon": "i_monsters", "bullet": "f"},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "aim": 4, "icon": "i_monsters", "bullet": "g"},
-		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "aim": 5, "icon": "i_monsters", "bullet": "h"},
-		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "aim": 6, "icon": "i_monsters", "bullet": "i"},
-		"j": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "aim": 8, "icon": "i_monsters", "bullet": "j"}
+		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "notice": 0, "icon": "",           "bullet": "",  "shot_range": 0},
+		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "g", "shot_range": 3},
+		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
+		"j": {"name": "musha_d", "score":14, "life": 1, "spd": 5, "notice": 5, "icon": "i_monsters", "bullet": "b", "shot_range": 3},
+		"k": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "notice": 5, "icon": "i_monsters", "bullet": "h", "shot_range": 3}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
@@ -55,17 +62,17 @@
 	},
 	"bullets": {
 		"0": {"name": "",            "life": 0.0, "spd": 0, "se": ""},
-		"a": {"name": "w_shuri_%s",  "life": 1.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
-		"b": {"name": "w_sword_%s",  "life": 1.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
-		"c": {"name": "w_arrow_%s",  "life": 1.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
-		"d": {"name": "w_fb_r_%s",   "life": 1.0, "spd": 4, "se": "sounds/se_fire_01.ogg"},
-		"e": {"name": "w_fb_g_%s",   "life": 1.0, "spd": 4, "se": "sounds/se_fire_01.ogg"},
-		"f": {"name": "w_fb_b_%s",   "life": 1.0, "spd": 4, "se": "sounds/se_fire_01.ogg"},
-		"g": {"name": "w_sand_%s",   "life": 1.0, "spd": 4, "se": "sounds/se_fire_01.ogg"},
+		"a": {"name": "w_shuri_%s",  "life":32.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
+		"b": {"name": "w_sword_%s",  "life": 0.8, "spd":12, "se": "sounds/se_sword_01.ogg"},
+		"c": {"name": "w_arrow_%s",  "life":32.0, "spd": 6, "se": "sounds/se_sword_01.ogg"},
+		"d": {"name": "w_fb_r_%s",   "life":32.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
+		"e": {"name": "w_fb_g_%s",   "life":32.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
+		"f": {"name": "w_fb_b_%s",   "life":32.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
+		"g": {"name": "w_sand_%s",   "life": 1.0, "spd": 6, "se": "sounds/se_fire_01.ogg"},
 		"h": {"name": "w_storm_%s",  "life":32.0, "spd": 8, "se": "sounds/se_fire_01.ogg"},
 		"i": {"name": "w_snow_%s",   "life":32.0, "spd": 8, "se": "sounds/se_ice_01.ogg"},
-		"j": {"name": "w_kami_a_%s", "life":32.0, "spd": 8, "se": "sounds/se_kami_01.ogg"},
-		"k": {"name": "w_kami_b_%s", "life":32.0, "spd": 8, "se": "sounds/se_kami_01.ogg"}
+		"j": {"name": "w_kami_a_%s", "life":32.0, "spd":12, "se": "sounds/se_kami_01.ogg"},
+		"k": {"name": "w_kami_b_%s", "life":32.0, "spd":12, "se": "sounds/se_kami_01.ogg"}
 	},
 	"stages":[
 		{
@@ -527,25 +534,25 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"message": "",
 			"coins": ["a", "b", "c"],
-			"items": ["a", "a", "a", "b", "c"],
-			"monsters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+			"items": ["a", "b", "c", "b", "b", "c", "c"],
+			"monsters": ["j", "k"],
 			"walls": ["e"],
-			"spawn_limit": 12,
+			"spawn_limit": 4,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 3},
 			"map": [
 				"xxxxxxx",
 				"xxxxxxx",
-				"xxxxxxx",
-				"xxxxxxx",
 				"x00000x",
 				"x0x0x0x",
 				"x00000x",
 				"x0x0x0x",
 				"x00000x",
-				"xxxxxxx",
-				"xxxxxxx",
+				"x0x0x0x",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
 				"xxxxxxx"
 			]
 		}
@@ -840,16 +847,16 @@
 		{"file_name": "images/ghosts/cho_01.png",        "frame_name": "cho_jump_f",       "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/ghosts/cho_01.png",        "frame_name": "cho_sleep",        "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
-		{"file_name": "images/ghosts/dokuro_01.png",    "frame_name": "dokuro_f",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
-		{"file_name": "images/ghosts/dokuro_01.png",    "frame_name": "dokuro_b",          "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
-		{"file_name": "images/ghosts/dokuro_01.png",    "frame_name": "dokuro_r",          "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
-		{"file_name": "images/ghosts/dokuro_01.png",    "frame_name": "dokuro_l",          "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
-		{"file_name": "images/ghosts/dokuro_01.png",    "frame_name": "dokuro_damage",     "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
-		{"file_name": "images/ghosts/dokuro_01.png",    "frame_name": "dokuro_byebye",     "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
-		{"file_name": "images/ghosts/dokuro_01.png",    "frame_name": "dokuro_roll_r",     "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
-		{"file_name": "images/ghosts/dokuro_01.png",    "frame_name": "dokuro_roll_l",     "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
-		{"file_name": "images/ghosts/dokuro_01.png",    "frame_name": "dokuro_jump_f",     "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
-		{"file_name": "images/ghosts/dokuro_01.png",    "frame_name": "dokuro_sleep",      "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
+		{"file_name": "images/ghosts/dokuro_01.png",     "frame_name": "dokuro_f",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/ghosts/dokuro_01.png",     "frame_name": "dokuro_b",          "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
+		{"file_name": "images/ghosts/dokuro_01.png",     "frame_name": "dokuro_r",          "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/ghosts/dokuro_01.png",     "frame_name": "dokuro_l",          "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/ghosts/dokuro_01.png",     "frame_name": "dokuro_damage",     "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/ghosts/dokuro_01.png",     "frame_name": "dokuro_byebye",     "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/ghosts/dokuro_01.png",     "frame_name": "dokuro_roll_r",     "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/ghosts/dokuro_01.png",     "frame_name": "dokuro_roll_l",     "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/ghosts/dokuro_01.png",     "frame_name": "dokuro_jump_f",     "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
+		{"file_name": "images/ghosts/dokuro_01.png",     "frame_name": "dokuro_sleep",      "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
 		{"file_name": "images/ghosts/hitotsu_01.png",    "frame_name": "hitotsu_f",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/ghosts/hitotsu_01.png",    "frame_name": "hitotsu_b",        "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
@@ -905,6 +912,17 @@
 		{"file_name": "images/ghosts/kona_01.png",       "frame_name": "kona_roll_l",      "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
 		{"file_name": "images/ghosts/kona_01.png",       "frame_name": "kona_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/ghosts/kona_01.png",       "frame_name": "kona_sleep",       "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
+
+		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_f",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_b",        "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
+		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_r",        "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_l",        "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_damage",   "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_byebye",   "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_roll_r",   "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_roll_l",   "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_jump_f",   "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
+		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_sleep",    "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
 		{"file_name": "images/ghosts/sojo_01.png",       "frame_name": "sojo_f",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/ghosts/sojo_01.png",       "frame_name": "sojo_b",           "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
@@ -1029,10 +1047,10 @@
 		{"file_name": "images/ghosts/w_snow_01.png",     "frame_name": "w_snow_u",         "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
 		{"file_name": "images/ghosts/w_snow_01.png",     "frame_name": "w_snow_d",         "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
 		
-		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_r",        "rows": 1, "cols": 7, "w": 16, "h": 16, "from":  0, "to":  6},
-		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_l",        "rows": 2, "cols": 7, "w": 16, "h": 16, "from":  7, "to": 13},
-		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_u",        "rows": 3, "cols": 7, "w": 16, "h": 16, "from": 14, "to": 20},
-		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_d",        "rows": 4, "cols": 7, "w": 16, "h": 16, "from": 21, "to": 27},
+		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_r",        "rows": 1, "cols": 9, "w": 16, "h": 16, "from":  0, "to":  8},
+		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_l",        "rows": 2, "cols": 9, "w": 16, "h": 16, "from":  9, "to": 17},
+		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_u",        "rows": 3, "cols": 9, "w": 16, "h": 16, "from": 18, "to": 27},
+		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_d",        "rows": 4, "cols": 9, "w": 16, "h": 16, "from": 28, "to": 37},
 
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv1",        "rows": 1, "cols": 6, "w": 10, "h": 10, "from":  0, "to":  5},
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv2",        "rows": 2, "cols": 6, "w": 10, "h": 10, "from":  6, "to": 11},

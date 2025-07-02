@@ -2,8 +2,7 @@
 	"timestamp": "2025/07/02 14:00:00",
 	"todos": [
 		"vectorの配列名をmonsters -> ghosts",
-		"Sleep時にzzz...",
-		"Sleep中に数珠アタックで直ぐ死なないバグ? -> timersをクリアする?",
+		"Sleep時にzzz...と秒数?",
 		"各ステージにクリアボーナス?",
 		"各スプライトのパラメータは全てjsonオブジェクトで?"
 	],
