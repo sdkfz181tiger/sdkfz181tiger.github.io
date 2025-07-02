@@ -1,8 +1,7 @@
 {
-	"timestamp": "2025/07/02 08:00:00",
+	"timestamp": "2025/07/02 12:00:00",
 	"todos": [
 		"vectorの配列名をmonsters -> ghosts",
-		"SpriteMonsterの行動パターン制御(離れたマス数基準で攻撃か移動か)",
 		"Sleep時にzzz...",
 		"Sleep中に数珠アタックで直ぐ死なないバグ? -> timersをクリアする?",
 		"各ステージにクリアボーナス?",
@@ -536,7 +535,7 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"message": "",
 			"coins": ["a", "b", "c"],
-			"items": ["a", "a", "a", "b", "c"],
+			"items": ["a", "b", "c", "b", "b", "c", "c"],
 			"monsters": ["j", "k"],
 			"walls": ["e"],
 			"spawn_limit": 4,
