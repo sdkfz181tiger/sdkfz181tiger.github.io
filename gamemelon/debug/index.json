@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/07/02 20:00:00",
+	"timestamp": "2025/07/12 15:00:00",
 	"todos": [
 		"vectorの配列名をmonsters -> ghosts",
 		"Sleep時にzzz...と秒数?",
@@ -144,7 +144,7 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"message": "GHOSTS TO SLEEP!!",
 			"coins": [],
-			"items": ["a", "a", "a", "b"],
+			"items": ["a", "b"],
 			"monsters": ["a"],
 			"walls": ["a", "b"],
 			"spawn_limit": 1,
@@ -174,7 +174,7 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"message": "GHOSTS TO DEFEAT!!",
 			"coins": [],
-			"items": ["a", "b"],
+			"items": ["a", "c"],
 			"monsters": ["a"],
 			"walls": ["a", "b"],
 			"spawn_limit": 1,
