@@ -1,10 +1,8 @@
 {
-	"timestamp": "2025/07/12 15:00:00",
+	"timestamp": "2025/07/13 23:00:00",
 	"todos": [
-		"vectorの配列名をmonsters -> ghosts",
 		"Sleep時にzzz...と秒数?",
-		"各ステージにクリアボーナス?",
-		"各スプライトのパラメータは全てjsonオブジェクトで?"
+		"各ステージにクリアボーナス?"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -537,7 +535,7 @@
 			"items": ["a", "b", "c", "b", "b", "c", "c"],
 			"monsters": ["j", "k"],
 			"walls": ["e"],
-			"spawn_limit": 4,
+			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 3},
