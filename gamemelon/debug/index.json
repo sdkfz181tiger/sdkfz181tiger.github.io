@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/07/14 12:00:00",
+	"timestamp": "2025/07/14 11:00:00",
 	"todos": [
 		"Sleep時にzzz...と秒数?",
 		"各ステージにクリアボーナス?",
@@ -538,7 +538,7 @@
 			"monsters": ["j", "k"],
 			"walls": ["e"],
 			"spawn_limit": 999,
-			"spawn_intervals": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5],
+			"spawn_intervals": [1.0, 30.0, 30.0, 30.0, 30.0, 30.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 3},
 			"map": [
