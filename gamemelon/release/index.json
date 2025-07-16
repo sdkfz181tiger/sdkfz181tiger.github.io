@@ -1,10 +1,9 @@
 {
-	"timestamp": "2025/07/02 20:00:00",
+	"timestamp": "2025/07/16 23:00:00",
 	"todos": [
-		"vectorの配列名をmonsters -> ghosts",
-		"Sleep時にzzz...と秒数?",
 		"各ステージにクリアボーナス?",
-		"各スプライトのパラメータは全てjsonオブジェクトで?"
+		"無敵時、隣にいると逃げないバグ",
+		"ステージ選択画面のボタンもJSONから指定"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -39,18 +38,18 @@
 		"c": {"name": "i_mokugyo", "score": 4, "icon": "i_mokugyo", "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji":20.0, "t_sleep": 0.0}
 	},
 	"monsters": {
-		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "notice": 0, "icon": "",           "bullet": "",  "shot_range": 0},
-		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
-		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
-		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
-		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
-		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
-		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
-		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
-		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "g", "shot_range": 3},
-		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "",  "shot_range": 3},
-		"j": {"name": "musha_d", "score":14, "life": 1, "spd": 5, "notice": 5, "icon": "i_monsters", "bullet": "b", "shot_range": 3},
-		"k": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "notice": 5, "icon": "i_monsters", "bullet": "h", "shot_range": 3}
+		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "notice": 0, "icon": "",           "bullet": "",  "bullet_range": 0, "duplicate": ""},
+		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": "a"},
+		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": "b"},
+		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": "c"},
+		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
+		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
+		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
+		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
+		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "g", "bullet_range": 3, "duplicate": ""},
+		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
+		"j": {"name": "musha_d", "score":14, "life": 1, "spd": 5, "notice": 5, "icon": "i_monsters", "bullet": "b", "bullet_range": 3, "duplicate": ""},
+		"k": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "notice": 5, "icon": "i_monsters", "bullet": "h", "bullet_range": 3, "duplicate": ""}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
@@ -77,6 +76,8 @@
 	"stages":[
 		{
 			"title": "01",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -107,6 +108,8 @@
 			]
 		}, {
 			"title": "02",
+			"btn_on": "images/ghosts/btn_stage_02_on.png",
+			"btn_off": "images/ghosts/btn_stage_02_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -137,42 +140,14 @@
 			]
 		}, {
 			"title": "03",
+			"btn_on": "images/ghosts/btn_stage_03_on.png",
+			"btn_off": "images/ghosts/btn_stage_03_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
 			"message": "GHOSTS TO SLEEP!!",
-			"coins": [],
-			"items": ["a", "a", "a", "b"],
-			"monsters": ["a"],
-			"walls": ["a", "b"],
-			"spawn_limit": 1,
-			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
-			"spawn_start": {"r": 6, "c": 3},
-			"spawn_goal": {"r": 6, "c": 3},
-			"map": [
-				"xxxxxxx",
-				"xxxxxxx",
-				"xxxxxxx",
-				"xxxxxxx",
-				"x00000x",
-				"x0x0x0x",
-				"x00000x",
-				"x0x0x0x",
-				"x00000x",
-				"xxxxxxx",
-				"xxxxxxx",
-				"xxxxxxx"
-			]
-		}, {
-			"title": "04",
-			"bkg": {
-				"file_name": "images/ghosts/bkg_01.png",
-				"color": [11, 33, 11]
-			},
-			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "GHOSTS TO DEFEAT!!",
 			"coins": [],
 			"items": ["a", "b"],
 			"monsters": ["a"],
@@ -196,7 +171,41 @@
 				"xxxxxxx"
 			]
 		}, {
+			"title": "04",
+			"btn_on": "images/ghosts/btn_stage_04_on.png",
+			"btn_off": "images/ghosts/btn_stage_04_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "GHOSTS TO DEFEAT!!",
+			"coins": [],
+			"items": ["a", "c"],
+			"monsters": ["a"],
+			"walls": ["a", "b"],
+			"spawn_limit": 1,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"spawn_start": {"r": 6, "c": 3},
+			"spawn_goal": {"r": 6, "c": 3},
+			"map": [
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx"
+			]
+		}, {
 			"title": "05",
+			"btn_on": "images/ghosts/btn_stage_05_on.png",
+			"btn_off": "images/ghosts/btn_stage_05_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -226,7 +235,9 @@
 				"xxxxxxx"
 			]
 		}, {
-			"title": "03",
+			"title": "06",
+			"btn_on": "images/ghosts/btn_stage_06_on.png",
+			"btn_off": "images/ghosts/btn_stage_06_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -256,7 +267,9 @@
 				"xxxxxxx"
 			]
 		}, {
-			"title": "04",
+			"title": "07",
+			"btn_on": "images/ghosts/btn_stage_07_on.png",
+			"btn_off": "images/ghosts/btn_stage_07_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -286,7 +299,9 @@
 				"xxxxxxxxx"
 			]
 		}, {
-			"title": "05",
+			"title": "08",
+			"btn_on": "images/ghosts/btn_stage_08_on.png",
+			"btn_off": "images/ghosts/btn_stage_08_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -316,7 +331,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "06",
+			"title": "09",
+			"btn_on": "images/ghosts/btn_stage_09_on.png",
+			"btn_off": "images/ghosts/btn_stage_09_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -346,7 +363,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "07",
+			"title": "10",
+			"btn_on": "images/ghosts/btn_stage_10_on.png",
+			"btn_off": "images/ghosts/btn_stage_10_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -376,7 +395,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "08",
+			"title": "11",
+			"btn_on": "images/ghosts/btn_stage_11_on.png",
+			"btn_off": "images/ghosts/btn_stage_11_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -406,7 +427,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "09",
+			"title": "12",
+			"btn_on": "images/ghosts/btn_stage_12_on.png",
+			"btn_off": "images/ghosts/btn_stage_12_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -436,7 +459,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "10",
+			"title": "13",
+			"btn_on": "images/ghosts/btn_stage_13_on.png",
+			"btn_off": "images/ghosts/btn_stage_13_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -466,7 +491,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "11",
+			"title": "14",
+			"btn_on": "images/ghosts/btn_stage_14_on.png",
+			"btn_off": "images/ghosts/btn_stage_14_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -496,7 +523,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "12",
+			"title": "15",
+			"btn_on": "images/ghosts/btn_stage_15_on.png",
+			"btn_off": "images/ghosts/btn_stage_15_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -527,6 +556,8 @@
 			]
 		}, {
 			"title": "TEST",
+			"btn_on": "images/ghosts/btn_stage_16_on.png",
+			"btn_off": "images/ghosts/btn_stage_16_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -537,8 +568,8 @@
 			"items": ["a", "b", "c", "b", "b", "c", "c"],
 			"monsters": ["j", "k"],
 			"walls": ["e"],
-			"spawn_limit": 4,
-			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"spawn_limit": 999,
+			"spawn_intervals": [1.0, 30.0, 30.0, 30.0, 30.0, 30.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 3},
 			"map": [
@@ -777,6 +808,7 @@
 		{"file_name": "images/base/marker_16x16.png",   "frame_name": "marker_16x16",     "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/base/spawner_01.png",     "frame_name": "spawner_01",       "rows": 2, "cols": 5, "w": 24, "h": 24, "from":  0, "to":  9},
 		{"file_name": "images/base/spawner_02.png",     "frame_name": "spawner_02",       "rows": 2, "cols": 5, "w": 24, "h": 24, "from":  0, "to":  9},
+		{"file_name": "images/base/zzz_01.png",         "frame_name": "zzz_01",           "rows": 7, "cols": 1, "w": 18, "h":  5, "from":  0, "to":  6},
 
 		{"file_name": "images/base/smk_m_01.png",       "frame_name": "smk_m_01",         "rows": 2, "cols": 6, "w": 50, "h": 50, "from":  0, "to": 11},
 		{"file_name": "images/base/smk_m_02.png",       "frame_name": "smk_m_02",         "rows": 3, "cols": 6, "w": 50, "h": 50, "from":  0, "to": 17},
