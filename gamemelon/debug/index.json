@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/07/16 21:00:00",
+	"timestamp": "2025/07/16 22:00:00",
 	"todos": [
 		"各ステージにクリアボーナス?",
 		"無敵時、隣にいると逃げないバグ",
@@ -76,8 +76,8 @@
 	"stages":[
 		{
 			"title": "01",
-			"btn_on": "images/ghost/btn_stage_01_on.png",
-			"btn_off": "images/ghost/btn_stage_01_off.png",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -108,8 +108,8 @@
 			]
 		}, {
 			"title": "02",
-			"btn_on": "images/ghost/btn_stage_02_on.png",
-			"btn_off": "images/ghost/btn_stage_02_off.png",
+			"btn_on": "images/ghosts/btn_stage_02_on.png",
+			"btn_off": "images/ghosts/btn_stage_02_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
