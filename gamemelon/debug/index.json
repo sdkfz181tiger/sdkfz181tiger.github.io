@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/07/16 22:00:00",
+	"timestamp": "2025/07/16 23:00:00",
 	"todos": [
 		"各ステージにクリアボーナス?",
 		"無敵時、隣にいると逃げないバグ",
@@ -140,8 +140,8 @@
 			]
 		}, {
 			"title": "03",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"btn_on": "images/ghosts/btn_stage_03_on.png",
+			"btn_off": "images/ghosts/btn_stage_03_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -172,8 +172,8 @@
 			]
 		}, {
 			"title": "04",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"btn_on": "images/ghosts/btn_stage_04_on.png",
+			"btn_off": "images/ghosts/btn_stage_04_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -204,8 +204,8 @@
 			]
 		}, {
 			"title": "05",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"btn_on": "images/ghosts/btn_stage_05_on.png",
+			"btn_off": "images/ghosts/btn_stage_05_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -235,9 +235,9 @@
 				"xxxxxxx"
 			]
 		}, {
-			"title": "03",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"title": "06",
+			"btn_on": "images/ghosts/btn_stage_06_on.png",
+			"btn_off": "images/ghosts/btn_stage_06_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -267,9 +267,9 @@
 				"xxxxxxx"
 			]
 		}, {
-			"title": "04",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"title": "07",
+			"btn_on": "images/ghosts/btn_stage_07_on.png",
+			"btn_off": "images/ghosts/btn_stage_07_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -299,9 +299,9 @@
 				"xxxxxxxxx"
 			]
 		}, {
-			"title": "05",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"title": "08",
+			"btn_on": "images/ghosts/btn_stage_08_on.png",
+			"btn_off": "images/ghosts/btn_stage_08_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -331,9 +331,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "06",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"title": "09",
+			"btn_on": "images/ghosts/btn_stage_09_on.png",
+			"btn_off": "images/ghosts/btn_stage_09_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -363,9 +363,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "07",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"title": "10",
+			"btn_on": "images/ghosts/btn_stage_10_on.png",
+			"btn_off": "images/ghosts/btn_stage_10_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -395,9 +395,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "08",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"title": "11",
+			"btn_on": "images/ghosts/btn_stage_11_on.png",
+			"btn_off": "images/ghosts/btn_stage_11_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -427,9 +427,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "09",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"title": "12",
+			"btn_on": "images/ghosts/btn_stage_12_on.png",
+			"btn_off": "images/ghosts/btn_stage_12_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -459,9 +459,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "10",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"title": "13",
+			"btn_on": "images/ghosts/btn_stage_13_on.png",
+			"btn_off": "images/ghosts/btn_stage_13_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -491,9 +491,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "11",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"title": "14",
+			"btn_on": "images/ghosts/btn_stage_14_on.png",
+			"btn_off": "images/ghosts/btn_stage_14_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -523,9 +523,9 @@
 				"xxxxxxxxxxxxx"
 			]
 		}, {
-			"title": "12",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"title": "15",
+			"btn_on": "images/ghosts/btn_stage_15_on.png",
+			"btn_off": "images/ghosts/btn_stage_15_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -556,8 +556,8 @@
 			]
 		}, {
 			"title": "TEST",
-			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
-			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
+			"btn_on": "images/ghosts/btn_stage_16_on.png",
+			"btn_off": "images/ghosts/btn_stage_16_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
