@@ -1,9 +1,9 @@
 {
-	"timestamp": "2025/07/15 22:00:00",
+	"timestamp": "2025/07/16 20:00:00",
 	"todos": [
 		"各ステージにクリアボーナス?",
 		"無敵時、隣にいると逃げないバグ",
-		"コールバックで分身しまくると落ちる?"
+		"ステージ選択画面のボタンもJSONから指定"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -76,6 +76,8 @@
 	"stages":[
 		{
 			"title": "01",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -106,6 +108,8 @@
 			]
 		}, {
 			"title": "02",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -136,6 +140,8 @@
 			]
 		}, {
 			"title": "03",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -166,6 +172,8 @@
 			]
 		}, {
 			"title": "04",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -196,6 +204,8 @@
 			]
 		}, {
 			"title": "05",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -226,6 +236,8 @@
 			]
 		}, {
 			"title": "03",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -256,6 +268,8 @@
 			]
 		}, {
 			"title": "04",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -286,6 +300,8 @@
 			]
 		}, {
 			"title": "05",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -316,6 +332,8 @@
 			]
 		}, {
 			"title": "06",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -346,6 +364,8 @@
 			]
 		}, {
 			"title": "07",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -376,6 +396,8 @@
 			]
 		}, {
 			"title": "08",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -406,6 +428,8 @@
 			]
 		}, {
 			"title": "09",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -436,6 +460,8 @@
 			]
 		}, {
 			"title": "10",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -466,6 +492,8 @@
 			]
 		}, {
 			"title": "11",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -496,6 +524,8 @@
 			]
 		}, {
 			"title": "12",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [33, 33, 33]
@@ -526,6 +556,8 @@
 			]
 		}, {
 			"title": "TEST",
+			"btn_on": "images/base/btn_bkg_32x32_lock_01.png",
+			"btn_off": "images/base/btn_bkg_32x32_lock_02.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
