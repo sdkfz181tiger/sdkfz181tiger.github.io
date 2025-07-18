@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/07/18 15:00:00",
+	"timestamp": "2025/07/18 12:00:00",
 	"todos": [
 		"各ステージにクリアボーナス?",
 		"無敵時、隣にいると逃げないバグ"
@@ -50,7 +50,7 @@
 		"j": {"name": "musha_d", "score":12, "life": 1, "spd": 5, "notice": 4, "icon": "i_monsters", "bullet": "b", "bullet_range": 3, "duplicate": ""},
 		"k": {"name": "karasu",  "score":14, "life": 1, "spd": 6, "notice": 5, "icon": "i_monsters", "bullet": "h", "bullet_range": 3, "duplicate": ""},
 		"l": {"name": "tengu",   "score":14, "life": 1, "spd": 6, "notice": 5, "icon": "i_monsters", "bullet": "h", "bullet_range": 3, "duplicate": ""},
-		"m": {"name": "kasha",   "score":16, "life": 1, "spd": 7, "notice": 6, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""}
+		"m": {"name": "wanyu",   "score":16, "life": 1, "spd": 7, "notice": 6, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
@@ -1084,6 +1084,17 @@
 		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_l",        "rows": 2, "cols": 9, "w": 16, "h": 16, "from":  9, "to": 17},
 		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_u",        "rows": 3, "cols": 9, "w": 16, "h": 16, "from": 18, "to": 27},
 		{"file_name": "images/ghosts/w_sword_01.png",    "frame_name": "w_sword_d",        "rows": 4, "cols": 9, "w": 16, "h": 16, "from": 28, "to": 37},
+
+		{"file_name": "images/ghosts/wanyu_01.png",      "frame_name": "wanyu_f",          "rows": 1, "cols": 6, "w": 22, "h": 22, "from":  0, "to":  5},
+		{"file_name": "images/ghosts/wanyu_01.png",      "frame_name": "wanyu_b",          "rows": 2, "cols": 6, "w": 22, "h": 22, "from":  6, "to": 11},
+		{"file_name": "images/ghosts/wanyu_01.png",      "frame_name": "wanyu_r",          "rows": 3, "cols": 6, "w": 22, "h": 22, "from": 12, "to": 17},
+		{"file_name": "images/ghosts/wanyu_01.png",      "frame_name": "wanyu_l",          "rows": 4, "cols": 6, "w": 22, "h": 22, "from": 18, "to": 23},
+		{"file_name": "images/ghosts/wanyu_01.png",      "frame_name": "wanyu_damage",     "rows": 5, "cols": 6, "w": 22, "h": 22, "from": 24, "to": 29},
+		{"file_name": "images/ghosts/wanyu_01.png",      "frame_name": "wanyu_byebye",     "rows": 6, "cols": 6, "w": 22, "h": 22, "from": 30, "to": 35},
+		{"file_name": "images/ghosts/wanyu_01.png",      "frame_name": "wanyu_roll_r",     "rows": 7, "cols": 6, "w": 22, "h": 22, "from": 36, "to": 41},
+		{"file_name": "images/ghosts/wanyu_01.png",      "frame_name": "wanyu_roll_l",     "rows": 8, "cols": 6, "w": 22, "h": 22, "from": 42, "to": 47},
+		{"file_name": "images/ghosts/wanyu_01.png",      "frame_name": "wanyu_jump_f",     "rows": 9, "cols": 6, "w": 22, "h": 22, "from": 48, "to": 53},
+		{"file_name": "images/ghosts/wanyu_01.png",      "frame_name": "wanyu_sleep",      "rows":10, "cols": 6, "w": 22, "h": 22, "from": 54, "to": 59},
 
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv1",        "rows": 1, "cols": 6, "w": 10, "h": 10, "from":  0, "to":  5},
 		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv2",        "rows": 2, "cols": 6, "w": 10, "h": 10, "from":  6, "to": 11},
