@@ -1,9 +1,8 @@
 {
-	"timestamp": "2025/07/17 22:00:00",
+	"timestamp": "2025/07/18 13:00:00",
 	"todos": [
 		"各ステージにクリアボーナス?",
-		"無敵時、隣にいると逃げないバグ",
-		"ステージ選択画面のボタンもJSONから指定"
+		"無敵時、隣にいると逃げないバグ"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -42,12 +41,12 @@
 		"a": {"name": "tsuru_g", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": "a"},
 		"b": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": "b"},
 		"c": {"name": "tsuru_r", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": "c"},
-		"d": {"name": "cho",     "score": 4, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
-		"e": {"name": "kasa",    "score": 6, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
+		"d": {"name": "kasa",    "score": 4, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
+		"e": {"name": "cho",     "score": 6, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
 		"f": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
 		"g": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
-		"h": {"name": "suna",    "score":10, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "g", "bullet_range": 3, "duplicate": ""},
-		"i": {"name": "kona",    "score":12, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
+		"h": {"name": "kona",    "score":10, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "g", "bullet_range": 3, "duplicate": ""},
+		"i": {"name": "suna",    "score":12, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
 		"j": {"name": "musha_d", "score":14, "life": 1, "spd": 5, "notice": 5, "icon": "i_monsters", "bullet": "b", "bullet_range": 3, "duplicate": ""},
 		"k": {"name": "tengu",   "score":14, "life": 1, "spd": 5, "notice": 5, "icon": "i_monsters", "bullet": "h", "bullet_range": 3, "duplicate": ""}
 	},
