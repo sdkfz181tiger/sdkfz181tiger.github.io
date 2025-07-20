@@ -51,7 +51,7 @@
 		"k": {"name": "tengu",   "score":14, "life": 1, "spd": 6, "notice": 5, "icon": "i_monsters", "bullet": "h", "bullet_range": 3, "duplicate": ""},
 		"l": {"name": "wanyu",   "score":16, "life": 1, "spd": 7, "notice": 6, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
 		"m": {"name": "oni_g",   "score":12, "life": 1, "spd": 5, "notice": 4, "icon": "i_monsters", "bullet": "j", "bullet_range": 3, "duplicate": ""},
-		"n": {"name": "enma",    "score":16, "life": 1, "spd": 7, "notice": 6, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""}
+		"n": {"name": "enma",    "score":16, "life": 1, "spd": 2, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": "m"}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
