@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/07/20 20:00:00",
+	"timestamp": "2025/07/20 21:00:00",
 	"todos": [
 		"各ステージにクリアボーナス?",
 		"無敵時、隣にいると逃げないバグ"
@@ -1157,13 +1157,24 @@
 		{"file_name": "images/ghosts/wanyu_01.png",      "frame_name": "wanyu_jump_f",     "rows": 9, "cols": 6, "w": 22, "h": 22, "from": 48, "to": 53},
 		{"file_name": "images/ghosts/wanyu_01.png",      "frame_name": "wanyu_sleep",      "rows":10, "cols": 6, "w": 22, "h": 22, "from": 54, "to": 59},
 
-		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv1",        "rows": 1, "cols": 6, "w": 10, "h": 10, "from":  0, "to":  5},
-		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv2",        "rows": 2, "cols": 6, "w": 10, "h": 10, "from":  6, "to": 11},
-		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv3",        "rows": 3, "cols": 6, "w": 10, "h": 10, "from": 12, "to": 17},
-		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv4",        "rows": 4, "cols": 6, "w": 10, "h": 10, "from": 18, "to": 23},
-		{"file_name": "images/tower/light_01.png",      "frame_name": "light_lv5",        "rows": 5, "cols": 6, "w": 10, "h": 10, "from": 24, "to": 29},
+		{"file_name": "images/ghosts/yuki_01.png",       "frame_name": "yuki_f",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/ghosts/yuki_01.png",       "frame_name": "yuki_b",           "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
+		{"file_name": "images/ghosts/yuki_01.png",       "frame_name": "yuki_r",           "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/ghosts/yuki_01.png",       "frame_name": "yuki_l",           "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/ghosts/yuki_01.png",       "frame_name": "yuki_damage",      "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/ghosts/yuki_01.png",       "frame_name": "yuki_byebye",      "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/ghosts/yuki_01.png",       "frame_name": "yuki_roll_r",      "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/ghosts/yuki_01.png",       "frame_name": "yuki_roll_l",      "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/ghosts/yuki_01.png",       "frame_name": "yuki_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
+		{"file_name": "images/ghosts/yuki_01.png",       "frame_name": "yuki_sleep",       "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
-		{"file_name": "images/tower/mhand_r_01.png",    "frame_name": "mhand_r",          "rows": 1, "cols": 6, "w": 32, "h": 80, "from":  0, "to":  5},
-		{"file_name": "images/tower/mhand_l_01.png",    "frame_name": "mhand_l",          "rows": 1, "cols": 6, "w": 32, "h": 80, "from":  0, "to":  5}
+		{"file_name": "images/tower/light_01.png",       "frame_name": "light_lv1",        "rows": 1, "cols": 6, "w": 10, "h": 10, "from":  0, "to":  5},
+		{"file_name": "images/tower/light_01.png",       "frame_name": "light_lv2",        "rows": 2, "cols": 6, "w": 10, "h": 10, "from":  6, "to": 11},
+		{"file_name": "images/tower/light_01.png",       "frame_name": "light_lv3",        "rows": 3, "cols": 6, "w": 10, "h": 10, "from": 12, "to": 17},
+		{"file_name": "images/tower/light_01.png",       "frame_name": "light_lv4",        "rows": 4, "cols": 6, "w": 10, "h": 10, "from": 18, "to": 23},
+		{"file_name": "images/tower/light_01.png",       "frame_name": "light_lv5",        "rows": 5, "cols": 6, "w": 10, "h": 10, "from": 24, "to": 29},
+ 
+		{"file_name": "images/tower/mhand_r_01.png",     "frame_name": "mhand_r",          "rows": 1, "cols": 6, "w": 32, "h": 80, "from":  0, "to":  5},
+		{"file_name": "images/tower/mhand_l_01.png",     "frame_name": "mhand_l",          "rows": 1, "cols": 6, "w": 32, "h": 80, "from":  0, "to":  5}
 	]
 }
