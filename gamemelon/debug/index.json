@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/07/20 21:00:00",
+	"timestamp": "2025/07/20 22:00:00",
 	"todos": [
 		"各ステージにクリアボーナス?",
 		"無敵時、隣にいると逃げないバグ"
@@ -951,6 +951,17 @@
 		{"file_name": "images/ghosts/kappa_01.png",      "frame_name": "kappa_roll_l",     "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
 		{"file_name": "images/ghosts/kappa_01.png",      "frame_name": "kappa_jump_f",     "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/ghosts/kappa_01.png",      "frame_name": "kappa_sleep",      "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
+
+		{"file_name": "images/ghosts/karasu_01.png",     "frame_name": "karasu_f",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/ghosts/karasu_01.png",     "frame_name": "karasu_b",         "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
+		{"file_name": "images/ghosts/karasu_01.png",     "frame_name": "karasu_r",         "rows": 3, "cols": 5, "w": 16, "h": 16, "from": 10, "to": 14},
+		{"file_name": "images/ghosts/karasu_01.png",     "frame_name": "karasu_l",         "rows": 4, "cols": 5, "w": 16, "h": 16, "from": 15, "to": 19},
+		{"file_name": "images/ghosts/karasu_01.png",     "frame_name": "karasu_damage",    "rows": 5, "cols": 5, "w": 16, "h": 16, "from": 20, "to": 24},
+		{"file_name": "images/ghosts/karasu_01.png",     "frame_name": "karasu_byebye",    "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
+		{"file_name": "images/ghosts/karasu_01.png",     "frame_name": "karasu_roll_r",    "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
+		{"file_name": "images/ghosts/karasu_01.png",     "frame_name": "karasu_roll_l",    "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
+		{"file_name": "images/ghosts/karasu_01.png",     "frame_name": "karasu_jump_f",    "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
+		{"file_name": "images/ghosts/karasu_01.png",     "frame_name": "karasu_sleep",     "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
 		{"file_name": "images/ghosts/kasa_01.png",       "frame_name": "kasa_f",           "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/ghosts/kasa_01.png",       "frame_name": "kasa_b",           "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
