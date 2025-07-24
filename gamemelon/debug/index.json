@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/07/20 22:00:00",
+	"timestamp": "2025/07/24 17:00:00",
 	"todos": [
 		"各ステージにクリアボーナス?",
 		"無敵時、隣にいると逃げないバグ"
@@ -37,21 +37,21 @@
 		"c": {"name": "i_mokugyo", "score": 4, "icon": "i_mokugyo", "se": "sounds/se_powerup_02.ogg", "f_ofuda": false, "t_bonji":20.0, "t_sleep": 0.0}
 	},
 	"monsters": {
-		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "notice": 0, "icon": "",           "bullet": "",  "bullet_range": 0, "duplicate": ""},
-		"a": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": "b"},
-		"b": {"name": "kasa",    "score": 4, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
-		"c": {"name": "cho",     "score": 6, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
-		"d": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
-		"e": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
-		"f": {"name": "kona",    "score":10, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
-		"g": {"name": "suna",    "score":10, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "g", "bullet_range": 3, "duplicate": ""},
-		"h": {"name": "yuki",    "score":10, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "i", "bullet_range": 3, "duplicate": ""},
-		"i": {"name": "musha_d", "score":12, "life": 1, "spd": 5, "notice": 4, "icon": "i_monsters", "bullet": "b", "bullet_range": 3, "duplicate": ""},
-		"j": {"name": "karasu",  "score":14, "life": 1, "spd": 6, "notice": 5, "icon": "i_monsters", "bullet": "h", "bullet_range": 3, "duplicate": ""},
-		"k": {"name": "tengu",   "score":14, "life": 1, "spd": 6, "notice": 5, "icon": "i_monsters", "bullet": "h", "bullet_range": 3, "duplicate": ""},
-		"l": {"name": "wanyu",   "score":16, "life": 1, "spd": 7, "notice": 6, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": ""},
-		"m": {"name": "oni_g",   "score":12, "life": 1, "spd": 5, "notice": 4, "icon": "i_monsters", "bullet": "j", "bullet_range": 3, "duplicate": ""},
-		"n": {"name": "enma",    "score":16, "life": 1, "spd": 2, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "duplicate": "m"}
+		"0": {"name": "",        "score": 0, "life": 0, "spd": 0, "notice": 0, "icon": "",           "bullet": "",  "bullet_range": 0, "dupl": "",  "dupl_rate": 0.0},
+		"a": {"name": "tsuru_b", "score": 2, "life": 1, "spd": 1, "notice": 0, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"b": {"name": "kasa",    "score": 4, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"c": {"name": "cho",     "score": 6, "life": 1, "spd": 2, "notice": 2, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"d": {"name": "hitotsu", "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"e": {"name": "kappa",   "score": 8, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"f": {"name": "kona",    "score":10, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"g": {"name": "suna",    "score":10, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "g", "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"h": {"name": "yuki",    "score":10, "life": 1, "spd": 4, "notice": 4, "icon": "i_monsters", "bullet": "i", "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"i": {"name": "musha_d", "score":12, "life": 1, "spd": 5, "notice": 4, "icon": "i_monsters", "bullet": "b", "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"j": {"name": "karasu",  "score":14, "life": 1, "spd": 6, "notice": 5, "icon": "i_monsters", "bullet": "h", "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"k": {"name": "tengu",   "score":14, "life": 1, "spd": 6, "notice": 5, "icon": "i_monsters", "bullet": "h", "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"l": {"name": "wanyu",   "score":16, "life": 1, "spd": 7, "notice": 6, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"m": {"name": "oni_g",   "score":12, "life": 1, "spd": 5, "notice": 4, "icon": "i_monsters", "bullet": "j", "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"n": {"name": "enma",    "score":16, "life": 1, "spd": 2, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "dupl": "m", "dupl_rate": 0.4}
 	},
 	"walls": {
 		"0": {"type": 0, "file": ""},
