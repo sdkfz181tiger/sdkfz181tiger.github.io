@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/07/27 12:00:00",
+	"timestamp": "2025/07/27 13:00:00",
 	"todos": [
 		"各ステージにクリアボーナス?",
 		"無敵時、隣にいると逃げないバグ"
@@ -583,7 +583,7 @@
 			"message": "",
 			"coins": ["a", "b", "c"],
 			"items": ["a", "b", "c", "b", "b", "c", "c"],
-			"monsters_def": [""],
+			"monsters_def": [],
 			"monsters": ["m"],
 			"walls": ["e"],
 			"spawn_limit": 1,
