@@ -1,8 +1,7 @@
 {
-	"timestamp": "2025/07/30 08:00:00",
+	"timestamp": "2025/07/30 11:00:00",
 	"todos": [
-		"各ステージにクリアボーナス?",
-		"Ticket取得時に演出?"
+		"各ステージにクリアボーナス?"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -18,7 +17,7 @@
 	"player": {
 		"name": "sojo",
 		"life": 1,
-		"spd": 8,
+		"spd": 10,
 		"score": 0
 	},
 	"coins": {
