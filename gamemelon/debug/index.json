@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/08/02 23:00:00",
+	"timestamp": "2025/08/03 15:00:00",
 	"todos": [
 		"各ステージにクリアボーナス?"
 	],
@@ -50,6 +50,7 @@
 		"k": {"name": "tengu",   "score":14, "life": 1, "spd": 6, "notice": 5, "icon": "i_monsters", "bullet": "h", "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
 		"l": {"name": "wanyu",   "score":16, "life": 1, "spd": 7, "notice": 6, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
 		"m": {"name": "kabe",    "score":18, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
+		"n": {"name": "ittan",   "score":18, "life": 1, "spd": 3, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
 		"y": {"name": "oni_g",   "score":12, "life": 1, "spd": 5, "notice": 4, "icon": "i_monsters", "bullet": "j", "bullet_range": 3, "dupl": "",  "dupl_rate": 0.0},
 		"z": {"name": "enma",    "score":20, "life": 1, "spd": 2, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 0, "dupl": "y", "dupl_rate": 0.8}
 	},
@@ -583,8 +584,8 @@
 			"message": "",
 			"coins": ["a", "b", "c"],
 			"items": ["a", "b", "c", "b", "b", "c", "c"],
-			"monsters_def": ["m"],
-			"monsters": [],
+			"monsters_def": ["z"],
+			"monsters": ["m", "n"],
 			"walls": ["e"],
 			"spawn_limit": 5,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
@@ -931,6 +932,17 @@
 		{"file_name": "images/ghosts/hitotsu_01.png",    "frame_name": "hitotsu_sleep",    "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
 		{"file_name": "images/ghosts/hitodama_01.png",   "frame_name": "hitodama",         "rows": 1, "cols": 4, "w":  6, "h": 10, "from":  0, "to":  3},
+
+		{"file_name": "images/ghosts/ittan_01.png",      "frame_name": "ittan_f",          "rows": 1, "cols": 5, "w": 18, "h": 20, "from":  0, "to":  4},
+		{"file_name": "images/ghosts/ittan_01.png",      "frame_name": "ittan_b",          "rows": 2, "cols": 5, "w": 18, "h": 20, "from":  5, "to":  9},
+		{"file_name": "images/ghosts/ittan_01.png",      "frame_name": "ittan_r",          "rows": 3, "cols": 5, "w": 18, "h": 20, "from": 10, "to": 14},
+		{"file_name": "images/ghosts/ittan_01.png",      "frame_name": "ittan_l",          "rows": 4, "cols": 5, "w": 18, "h": 20, "from": 15, "to": 19},
+		{"file_name": "images/ghosts/ittan_01.png",      "frame_name": "ittan_damage",     "rows": 5, "cols": 5, "w": 18, "h": 20, "from": 20, "to": 24},
+		{"file_name": "images/ghosts/ittan_01.png",      "frame_name": "ittan_byebye",     "rows": 6, "cols": 5, "w": 18, "h": 20, "from": 25, "to": 29},
+		{"file_name": "images/ghosts/ittan_01.png",      "frame_name": "ittan_roll_r",     "rows": 7, "cols": 5, "w": 18, "h": 20, "from": 30, "to": 34},
+		{"file_name": "images/ghosts/ittan_01.png",      "frame_name": "ittan_roll_l",     "rows": 8, "cols": 5, "w": 18, "h": 20, "from": 35, "to": 39},
+		{"file_name": "images/ghosts/ittan_01.png",      "frame_name": "ittan_jump_f",     "rows": 9, "cols": 5, "w": 18, "h": 20, "from": 40, "to": 44},
+		{"file_name": "images/ghosts/ittan_01.png",      "frame_name": "ittan_sleep",      "rows":10, "cols": 5, "w": 18, "h": 20, "from": 45, "to": 49},
 
 		{"file_name": "images/ghosts/jumper_28x14.png",  "frame_name": "jumper_28_w",      "rows": 1, "cols": 5, "w": 28, "h": 14, "from":  0, "to":  4},
 		{"file_name": "images/ghosts/jumper_28x14.png",  "frame_name": "jumper_28_r",      "rows": 2, "cols": 5, "w": 28, "h": 14, "from":  5, "to":  9},
