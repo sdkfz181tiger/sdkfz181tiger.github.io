@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/08/04 17:00:00",
+	"timestamp": "2025/08/05 11:00:00",
 	"todos": [
 		"各ステージにクリアボーナス?"
 	],
@@ -96,6 +96,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 1},
 			"spawn_goal": {"r": 6, "c": 5},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxx",
 				"xxxxxxx",
@@ -129,6 +130,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 1},
 			"spawn_goal": {"r": 6, "c": 5},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxx",
 				"xxxxxxx",
@@ -162,6 +164,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 3},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxx",
 				"xxxxxxx",
@@ -195,6 +198,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 3},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxx",
 				"xxxxxxx",
@@ -228,6 +232,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 3},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxx",
 				"xxxxxxx",
@@ -261,6 +266,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 3},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxx",
 				"x00000x",
@@ -294,6 +300,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 4},
 			"spawn_goal": {"r": 6, "c": 4},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxxxx",
 				"x000x000x",
@@ -327,6 +334,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 6},
 			"spawn_goal": {"r": 6, "c": 6},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxxxxxxxx",
 				"x00000x00000x",
@@ -360,6 +368,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 6},
 			"spawn_goal": {"r": 6, "c": 6},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxxxxxxxx",
 				"x00xx000xx00x",
@@ -393,6 +402,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 6},
 			"spawn_goal": {"r": 6, "c": 6},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxxxxxxxx",
 				"x000x0x00000x",
@@ -426,6 +436,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 6},
 			"spawn_goal": {"r": 6, "c": 6},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxxxxxxxx",
 				"xxx000x000xxx",
@@ -459,6 +470,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 6},
 			"spawn_goal": {"r": 6, "c": 6},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxxxxxxxx",
 				"xxx000x0xxx0x",
@@ -492,6 +504,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 6},
 			"spawn_goal": {"r": 6, "c": 6},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxxxxxxxx",
 				"x00xx00xxx00x",
@@ -525,6 +538,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 6},
 			"spawn_goal": {"r": 6, "c": 6},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxxxxxxxx",
 				"xx000x000xx0x",
@@ -558,6 +572,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 6},
 			"spawn_goal": {"r": 6, "c": 6},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxxxxxxxx",
 				"x0x000x00000x",
@@ -591,6 +606,7 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 3},
+			"wave_intervals": [5, 3, 5, 3, 5, 3],
 			"map": [
 				"xxxxxxx",
 				"xxxxxxx",
@@ -952,6 +968,7 @@
 		{"file_name": "images/ghosts/jumper_42x14.png",  "frame_name": "jumper_42_r",     "rows": 2, "cols": 5, "w": 42, "h": 14, "from":  5, "to":  9},
 		{"file_name": "images/ghosts/jumper_42x14.png",  "frame_name": "jumper_42_g",     "rows": 3, "cols": 5, "w": 42, "h": 14, "from": 10, "to": 14},
 		{"file_name": "images/ghosts/jumper_42x14.png",  "frame_name": "jumper_42_b",     "rows": 4, "cols": 5, "w": 42, "h": 14, "from": 15, "to": 19},
+		
 		{"file_name": "images/ghosts/kabe_01.png",       "frame_name": "kabe_f",          "rows": 1, "cols": 6, "w": 22, "h": 22, "from":  0, "to":  5},
 		{"file_name": "images/ghosts/kabe_01.png",       "frame_name": "kabe_b",          "rows": 2, "cols": 6, "w": 22, "h": 22, "from":  6, "to": 11},
 		{"file_name": "images/ghosts/kabe_01.png",       "frame_name": "kabe_r",          "rows": 3, "cols": 6, "w": 22, "h": 22, "from": 12, "to": 17},
