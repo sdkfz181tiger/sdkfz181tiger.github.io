@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/08/05 11:00:00",
+	"timestamp": "2025/08/06 21:00:00",
 	"todos": [
 		"各ステージにクリアボーナス?"
 	],
@@ -334,7 +334,8 @@
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 6},
 			"spawn_goal": {"r": 6, "c": 6},
-			"wave_intervals": [5.0, 3.0, 5.0, 3.0, 5.0, 3.0],			"wave_intervals": [5.0, 3.0, 5.0, 3.0, 5.0, 3.0],
+			"wave_intervals": [5.0, 3.0, 5.0, 3.0, 5.0, 3.0],
+			"wave_intervals": [5.0, 3.0, 5.0, 3.0, 5.0, 3.0],
 			"map": [
 				"xxxxxxxxxxxxx",
 				"x00000x00000x",
@@ -599,10 +600,10 @@
 			"message": "",
 			"coins": ["a", "b", "c"],
 			"items": ["a", "a", "a", "b", "b", "c"],
-			"monsters_def": ["z"],
+			"monsters_def": [],
 			"monsters": ["m", "n"],
 			"walls": ["e"],
-			"spawn_limit": 5,
+			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 3},
