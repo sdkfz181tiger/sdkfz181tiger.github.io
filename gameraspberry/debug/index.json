@@ -1,7 +1,7 @@
 {
-	"timestamp": "2025/08/11 21:00:00",
+	"timestamp": "2025/08/12 15:00:00",
 	"todos": [
-		"各ステージにクリアボーナス?"
+		"倉庫番の様な動きを実装してみる"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -78,6 +78,40 @@
 	},
 	"stages":[
 		{
+			"title": "00",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "THIS IS TEST!!",
+			"coins": [],
+			"items": [],
+			"monsters_def": [],
+			"monsters": [],
+			"walls": ["a", "b"],
+			"spawn_limit": 1,
+			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"spawn_start": {"r": 6, "c": 1},
+			"spawn_goal": {"r": 6, "c": 5},
+			"wave_intervals": [30.0, 10.0],
+			"map": [
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"x00000x",
+				"x0xbx0x",
+				"x00000x",
+				"x0xbx0x",
+				"x00000x",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx"
+			]
+		}, {
 			"title": "01",
 			"btn_on": "images/ghosts/btn_stage_01_on.png",
 			"btn_off": "images/ghosts/btn_stage_01_off.png",
