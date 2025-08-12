@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/08/12 15:00:00",
+	"timestamp": "2025/08/12 16:00:00",
 	"todos": [
 		"倉庫番の様な動きを実装してみる"
 	],
@@ -55,7 +55,7 @@
 		"z": {"name": "enma",    "score":20, "life": 1, "spd": 2, "notice": 3, "icon": "i_monsters", "bullet": "",  "bullet_range": 0, "dupl": "y", "dupl_rate": 0.8}
 	},
 	"walls": {
-		"0": {"type": 0, "file": ""},
+		"0": {"type": 0, "file": "images/grave/road_%02d.png"},
 		"a": {"type": 1, "file": "images/grave/wall_a_%02d.png"},
 		"b": {"type": 1, "file": "images/grave/wall_b_%02d.png"},
 		"c": {"type": 1, "file": "images/grave/wall_c_%02d.png"},
