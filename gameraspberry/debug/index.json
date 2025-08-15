@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/08/15 13:00:00",
+	"timestamp": "2025/08/15 14:00:00",
 	"todos": [
 		"倉庫番の様な動きを実装してみる"
 	],
@@ -94,7 +94,7 @@
 			"walls": ["a", "b"],
 			"spawn_limit": 10,
 			"spawn_intervals": [3.0, 3.0, 3.0, 3.0, 3.0, 3.0],
-			"spawn_start": {"r": 6, "c": 1},
+			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 6, "c": 5},
 			"wave_intervals": [30.0, 10.0],
 			"map": [
