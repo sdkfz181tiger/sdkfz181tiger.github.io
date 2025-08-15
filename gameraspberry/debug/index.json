@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/08/12 17:00:00",
+	"timestamp": "2025/08/15 13:00:00",
 	"todos": [
 		"倉庫番の様な動きを実装してみる"
 	],
@@ -90,25 +90,25 @@
 			"coins": [],
 			"items": [],
 			"monsters_def": [],
-			"monsters": [],
+			"monsters": ["a", "b", "c", "d"],
 			"walls": ["a", "b"],
-			"spawn_limit": 1,
-			"spawn_intervals": [3.0, 4.0, 8.0, 16.0, 24.0, 8.0],
+			"spawn_limit": 10,
+			"spawn_intervals": [3.0, 3.0, 3.0, 3.0, 3.0, 3.0],
 			"spawn_start": {"r": 6, "c": 1},
 			"spawn_goal": {"r": 6, "c": 5},
 			"wave_intervals": [30.0, 10.0],
 			"map": [
 				"xxxxxxx",
-				"xxxxxxx",
-				"xxxxxxx",
-				"xxxxxxx",
+				"xx000xx",
+				"xx0x0xx",
+				"xx0x0xx",
 				"x00000x",
 				"x0x0x0x",
-				"x00000x",
 				"x0x0x0x",
 				"x00000x",
-				"xxxxxxx",
-				"xxxxxxx",
+				"xx0x0xx",
+				"xx0x0xx",
+				"xx000xx",
 				"xxxxxxx"
 			]
 		}, {
