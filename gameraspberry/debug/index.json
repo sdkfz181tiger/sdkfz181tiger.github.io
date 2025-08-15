@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/08/15 15:00:00",
+	"timestamp": "2025/08/15 15:30:00",
 	"todos": [
 		"倉庫番の様な動きを実装してみる"
 	],
@@ -90,9 +90,9 @@
 			"coins": [],
 			"items": [],
 			"monsters_def": [],
-			"monsters": ["a", "b", "c", "d"],
+			"monsters": ["d"],
 			"walls": ["a", "b"],
-			"spawn_limit": 10,
+			"spawn_limit": 1,
 			"spawn_intervals": [3.0, 3.0, 3.0, 3.0, 3.0, 3.0],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
