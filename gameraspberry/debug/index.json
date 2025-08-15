@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/08/15 14:00:00",
+	"timestamp": "2025/08/15 15:00:00",
 	"todos": [
 		"倉庫番の様な動きを実装してみる"
 	],
@@ -95,7 +95,7 @@
 			"spawn_limit": 10,
 			"spawn_intervals": [3.0, 3.0, 3.0, 3.0, 3.0, 3.0],
 			"spawn_start": {"r": 6, "c": 3},
-			"spawn_goal": {"r": 6, "c": 5},
+			"spawn_goal": {"r": 1, "c": 3},
 			"wave_intervals": [30.0, 10.0],
 			"map": [
 				"xxxxxxx",
@@ -104,7 +104,7 @@
 				"xx0x0xx",
 				"x00000x",
 				"x0x0x0x",
-				"x0x0x0x",
+				"x00000x",
 				"x00000x",
 				"xx0x0xx",
 				"xx0x0xx",
