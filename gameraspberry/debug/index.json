@@ -38,7 +38,7 @@
 				"color": [11, 33, 11]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "THIS IS TEST!!",
+			"message": "SOKOBAN!!",
 			"walls": ["a", "b"],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
