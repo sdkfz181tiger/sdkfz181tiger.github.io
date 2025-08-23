@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/08/23 00:30:00",
+	"timestamp": "2025/08/23 13:30:00",
 	"todos": [
 		"倉庫番の様な動きを実装してみる"
 	],
@@ -30,33 +30,6 @@
 	},
 	"stages":[
 		{
-			"title": "00",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
-			"bkg": {
-				"file_name": "images/ghosts/bkg_01.png",
-				"color": [11, 33, 11]
-			},
-			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "SOKOBAN!!",
-			"walls": ["a", "b"],
-			"spawn_start": {"r": 6, "c": 3},
-			"spawn_goal": {"r": 1, "c": 3},
-			"map": [
-				"xxxxxxx",
-				"xx000xx",
-				"xx0x0xx",
-				"xx0x0xx",
-				"x00000x",
-				"x0x0x0x",
-				"x00000x",
-				"x00000x",
-				"xx000xx",
-				"xx0x0xx",
-				"xx000xx",
-				"xxxxxxx"
-			]
-		}, {
 			"title": "01",
 			"btn_on": "images/ghosts/btn_stage_01_on.png",
 			"btn_off": "images/ghosts/btn_stage_01_off.png",
@@ -166,6 +139,141 @@
 			]
 		}, {
 			"title": "05",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "SOKOBAN!!",
+			"walls": ["a", "b"],
+			"spawn_start": {"r": 6, "c": 3},
+			"spawn_goal": {"r": 1, "c": 3},
+			"map": [
+				"xxxxxxx",
+				"xx000xx",
+				"xx0x0xx",
+				"xx0x0xx",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x00000x",
+				"xx000xx",
+				"xx0x0xx",
+				"xx000xx",
+				"xxxxxxx"
+			]
+		}, {
+			"title": "06",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "SOKOBAN!!",
+			"walls": ["a", "b"],
+			"spawn_start": {"r": 6, "c": 3},
+			"spawn_goal": {"r": 1, "c": 3},
+			"map": [
+				"xxxxxxx",
+				"xx000xx",
+				"xx0x0xx",
+				"xx0x0xx",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x00000x",
+				"xx000xx",
+				"xx0x0xx",
+				"xx000xx",
+				"xxxxxxx"
+			]
+		}, {
+			"title": "07",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "SOKOBAN!!",
+			"walls": ["a", "b"],
+			"spawn_start": {"r": 6, "c": 3},
+			"spawn_goal": {"r": 1, "c": 3},
+			"map": [
+				"xxxxxxx",
+				"xx000xx",
+				"xx0x0xx",
+				"xx0x0xx",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x00000x",
+				"xx000xx",
+				"xx0x0xx",
+				"xx000xx",
+				"xxxxxxx"
+			]
+		}, {
+			"title": "08",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "SOKOBAN!!",
+			"walls": ["a", "b"],
+			"spawn_start": {"r": 6, "c": 3},
+			"spawn_goal": {"r": 1, "c": 3},
+			"map": [
+				"xxxxxxx",
+				"xx000xx",
+				"xx0x0xx",
+				"xx0x0xx",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x00000x",
+				"xx000xx",
+				"xx0x0xx",
+				"xx000xx",
+				"xxxxxxx"
+			]
+		}, {
+			"title": "09",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "SOKOBAN!!",
+			"walls": ["a", "b"],
+			"spawn_start": {"r": 6, "c": 3},
+			"spawn_goal": {"r": 1, "c": 3},
+			"map": [
+				"xxxxxxx",
+				"xx000xx",
+				"xx0x0xx",
+				"xx0x0xx",
+				"x00000x",
+				"x0x0x0x",
+				"x00000x",
+				"x00000x",
+				"xx000xx",
+				"xx0x0xx",
+				"xx000xx",
+				"xxxxxxx"
+			]
+		}, {
+			"title": "10",
 			"btn_on": "images/ghosts/btn_stage_01_on.png",
 			"btn_off": "images/ghosts/btn_stage_01_off.png",
 			"bkg": {
