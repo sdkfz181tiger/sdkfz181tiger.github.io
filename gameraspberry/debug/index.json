@@ -20,7 +20,7 @@
 		"spd": 18,
 		"score": 0
 	},
-	"mapobjs":{
+	"map_objs":{
 		"0": {"type": 0, "file": "images/grave/road_%02d.png"},
 		"x": {
 			"a": {"type": 1, "file": "images/grave/wall_a_%02d.png"},
