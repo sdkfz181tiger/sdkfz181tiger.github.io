@@ -1,7 +1,9 @@
 {
-	"timestamp": "2025/08/27 23:30:00",
+	"timestamp": "2025/08/29 18:00:00",
 	"todos": [
-		"倉庫番の様な動きを実装してみる"
+		"倉庫番の様な動きを実装してみる",
+		"2048で、5x5だったり6x6だったり...",
+		"2048で、窓をCleanupする掃除屋モチーフ"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -20,15 +22,9 @@
 		"spd": 18,
 		"score": 0
 	},
-	"map_obstacles":{
+	"map_obstacles": {
 		"0": {"type": 0, "file": "images/grave/road_%02d.png"},
-		"x": {
-			"a": {"type": 1, "file": "images/grave/wall_a_%02d.png"},
-			"b": {"type": 1, "file": "images/grave/wall_b_%02d.png"},
-			"c": {"type": 1, "file": "images/grave/wall_c_%02d.png"},
-			"d": {"type": 1, "file": "images/grave/wall_d_%02d.png"},
-			"e": {"type": 1, "file": "images/grave/wall_e_%02d.png"}
-		}
+		"x": {"type": 1, "file": "images/grave/wall_%s_%02d.png"}
 	},
 	"stages":[
 		{
