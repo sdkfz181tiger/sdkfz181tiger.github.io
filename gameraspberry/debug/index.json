@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/08/31 22:00:00",
+	"timestamp": "2025/08/31 23:00:00",
 	"todos": [
 		"倉庫番の様な動きを実装してみる",
 		"2048で、5x5だったり6x6だったり...",
@@ -43,7 +43,7 @@
 			"message": "LET'S\nENJOY\nSOKOBAN!!",
 			"roads": ["a"],
 			"walls": ["a", "b"],
-			"blocks": ["a"],
+			"blocks": ["r", "g", "b"],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
@@ -73,7 +73,7 @@
 			"message": "LET'S\nENJOY\nSOKOBAN!!",
 			"roads": ["a"],
 			"walls": ["a", "b"],
-			"blocks": ["a"],
+			"blocks": ["r", "g", "b"],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
