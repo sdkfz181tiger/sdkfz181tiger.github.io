@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/08/31 23:00:00",
+	"timestamp": "2025/08/31 23:30:00",
 	"todos": [
 		"倉庫番の様な動きを実装してみる",
 		"2048で、5x5だったり6x6だったり...",
@@ -27,8 +27,7 @@
 	},
 	"map_obstacles": {
 		"0": {"space": true,  "file": "images/grave/road_%s_%02d.png"},
-		"x": {"space": false, "file": "images/grave/wall_%s_%02d.png"},
-		"b": {"space": true,  "file": "images/grave/block_%s_%02d.png"}
+		"x": {"space": false, "file": "images/grave/wall_%s_%02d.png"}
 	},
 	"stages":[
 		{
@@ -49,15 +48,15 @@
 			"map": [
 				"xxxxxxx",
 				"xx000xx",
-				"xx0b0xx",
 				"xx0x0xx",
-				"xx0b0xx",
-				"x00000x",
-				"x0b0b0x",
-				"x00000x",
-				"x00b00x",
 				"xx000xx",
-				"xx0b0xx",
+				"xx0x0xx",
+				"x00000x",
+				"x00000x",
+				"x00000x",
+				"x00x00x",
+				"xx000xx",
+				"xx0x0xx",
 				"xx000xx",
 				"xxxxxxx"
 			]
@@ -79,15 +78,15 @@
 			"map": [
 				"xxxxxxx",
 				"xx000xx",
-				"xx0b0xx",
 				"xx0x0xx",
-				"xx0b0xx",
-				"x00000x",
-				"x0b0b0x",
-				"x00000x",
-				"x00b00x",
 				"xx000xx",
-				"xx0b0xx",
+				"xx0x0xx",
+				"x00000x",
+				"x00000x",
+				"x00000x",
+				"x00x00x",
+				"xx000xx",
+				"xx0x0xx",
 				"xx000xx",
 				"xxxxxxx"
 			]
