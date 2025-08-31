@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/08/31 18:00:00",
+	"timestamp": "2025/08/31 21:00:00",
 	"todos": [
 		"倉庫番の様な動きを実装してみる",
 		"2048で、5x5だったり6x6だったり...",
@@ -27,7 +27,8 @@
 	},
 	"map_obstacles": {
 		"0": {"type": 0, "file": "images/grave/road_%s_%02d.png"},
-		"x": {"type": 1, "file": "images/grave/wall_%s_%02d.png"}
+		"x": {"type": 1, "file": "images/grave/wall_%s_%02d.png"},
+		"b": {"type": 1, "file": "images/grave/block_%s_%02d.png"}
 	},
 	"stages":[
 		{
@@ -42,19 +43,21 @@
 			"message": "LET'S\nENJOY\nSOKOBAN!!",
 			"roads": ["a"],
 			"walls": ["a", "b"],
+			"blocks": ["a"],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
 				"xxxxxxx",
 				"xx000xx",
+				"xx0b0xx",
 				"xx0x0xx",
-				"xx0x0xx",
+				"xx0b0xx",
 				"x00000x",
-				"x0x0x0x",
+				"x0b0b0x",
 				"x00000x",
-				"x00000x",
+				"x00b00x",
 				"xx000xx",
-				"xx0x0xx",
+				"xx0b0xx",
 				"xx000xx",
 				"xxxxxxx"
 			]
@@ -70,19 +73,21 @@
 			"message": "LET'S\nENJOY\nSOKOBAN!!",
 			"roads": ["a"],
 			"walls": ["a", "b"],
+			"blocks": ["a"],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
 				"xxxxxxx",
 				"xx000xx",
+				"xx0b0xx",
 				"xx0x0xx",
-				"xx0x0xx",
+				"xx0b0xx",
 				"x00000x",
-				"x0x0x0x",
+				"x0b0b0x",
 				"x00000x",
-				"x00000x",
+				"x00b00x",
 				"xx000xx",
-				"xx0x0xx",
+				"xx0b0xx",
 				"xx000xx",
 				"xxxxxxx"
 			]
