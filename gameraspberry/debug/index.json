@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/01 22:30:00",
+	"timestamp": "2025/09/01 22:00:00",
 	"todos": [
 		"倉庫番の様な動きを実装してみる",
 		"2048で、5x5だったり6x6だったり...",
@@ -28,7 +28,7 @@
 	"map_obstacles": {
 		"x": {"space": false, "block":false, "bkg": "images/grave/wall_%s_%02d.png"},
 		"0": {"space": true,  "block":false, "bkg": "images/grave/road_%s_%02d.png"},
-		"b": {"space": true,  "block":true,  "bkg": "images/grave/block_%s_%02d.png"}
+		"b": {"space": true,  "block":true,  "bkg": "images/grave/road_%s_%02d.png"}
 	},
 	"stages":[
 		{
