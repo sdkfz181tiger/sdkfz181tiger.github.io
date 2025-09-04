@@ -22,10 +22,10 @@
 		"score": 0
 	},
 	"map_obstacles": {
-		"x": {"space": false, "block":false, "block":false, "bkg": "images/grave/wall_%s_%02d.png", "file": ""},
-		"0": {"space": true,  "block":false, "block":false, "bkg": "images/grave/road_%s_%02d.png", "file": ""},
-		"b": {"space": true,  "block":true,  "block":false, "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/block_%s_%02d.png"},
-		"g": {"space": true,  "block":true,  "block":true,  "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/block_%s_%02d.png"}
+		"x": {"space": false, "block":false, "goal":false, "bkg": "images/grave/wall_%s_%02d.png", "file": ""},
+		"0": {"space": true,  "block":false, "goal":false, "bkg": "images/grave/road_%s_%02d.png", "file": ""},
+		"b": {"space": true,  "block":true,  "goal":false, "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/block_%s_%02d.png"},
+		"g": {"space": true,  "block":false, "goal":true,  "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/block_%s_%02d.png"}
 	},
 	"stages":[
 		{
@@ -40,7 +40,7 @@
 			"message": "LET'S\nENJOY\nSOKOBAN!!",
 			"roads": ["a"],
 			"walls": ["a", "b"],
-			"blocks": ["r", "g", "b"],
+			"blocks": ["a", "b", "c"],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
@@ -70,7 +70,7 @@
 			"message": "LET'S\nENJOY\nSOKOBAN!!",
 			"roads": ["a"],
 			"walls": ["a", "b"],
-			"blocks": ["r", "g", "b"],
+			"blocks": ["a", "b", "c"],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
