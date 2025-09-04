@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/04 19:00:00",
+	"timestamp": "2025/09/04 23:00:00",
 	"todos": [
 		"1: 倉庫番の様な動きを実装してみる",
 		"2: ブロックをゴールに置いたらゴール"
@@ -46,17 +46,17 @@
 			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
 				"xxxxxxx",
-				"xx000xx",
-				"xx0x0xx",
-				"xx000xx",
-				"xx0x0xx",
-				"x00000x",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"x00g00x",
+				"x00b00x",
 				"xgb0bgx",
-				"x00000x",
-				"x00x00x",
-				"xx000xx",
-				"xx0x0xx",
-				"xx000xx",
+				"x00b00x",
+				"x00g00x",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
 				"xxxxxxx"
 			]
 		}, {
