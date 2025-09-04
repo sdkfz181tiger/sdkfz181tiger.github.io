@@ -1,9 +1,10 @@
 {
-	"timestamp": "2025/09/04 23:00:00",
+	"timestamp": "2025/09/04 23:30:00",
 	"todos": [
 		"1: 倉庫番の様な動きを実装してみる",
 		"2: ブロックをゴールに置いたらゴール",
-		"3: クリア後に1シーン&nextボタン"
+		"3: クリア後に1シーン&nextボタン",
+		"4: 壁のデザインを外壁と外でわかる様に差別化したい..."
 	],
 	"admob_int": 30,
 	"archives":[
@@ -41,8 +42,8 @@
 			"message": "LET'S\nENJOY\nSOKOBAN!!",
 			"roads": ["a"],
 			"walls": ["a", "b"],
-			"blocks": ["a", "b", "c"],
 			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
@@ -72,23 +73,23 @@
 			"message": "LET'S\nENJOY\nSOKOBAN!!",
 			"roads": ["a"],
 			"walls": ["a", "b"],
-			"blocks": ["a", "b", "c"],
 			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
 				"xxxxxxx",
-				"xx000xx",
-				"xx0x0xx",
-				"xx000xx",
-				"xx0x0xx",
-				"x00000x",
-				"x00000x",
-				"x00000x",
-				"x00x00x",
-				"xx000xx",
-				"xx0x0xx",
-				"xx000xx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
+				"x00g00x",
+				"x00b00x",
+				"xgb0bgx",
+				"x00b00x",
+				"x00g00x",
+				"xxxxxxx",
+				"xxxxxxx",
+				"xxxxxxx",
 				"xxxxxxx"
 			]
 		}
