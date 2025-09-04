@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/03 20:00:00",
+	"timestamp": "2025/09/04 17:00:00",
 	"todos": [
 		"倉庫番の様な動きを実装してみる",
 		"2048で、5x5だったり6x6だったり...",
@@ -49,16 +49,16 @@
 			"map": [
 				"xxxxxxx",
 				"xxb00xx",
-				"xxbxbxx",
-				"xx00bxx",
-				"xx0x0xx",
-				"x00000x",
-				"xb00b0x",
-				"x00b00x",
-				"x00x00x",
+				"xx0xbxx",
 				"xxb00xx",
-				"xxbxbxx",
-				"xx00bxx",
+				"xx0xbxx",
+				"x00000x",
+				"x00000x",
+				"x0b000x",
+				"x0bxb0x",
+				"xxb00xx",
+				"xx0xbxx",
+				"xx000xx",
 				"xxxxxxx"
 			]
 		}, {
