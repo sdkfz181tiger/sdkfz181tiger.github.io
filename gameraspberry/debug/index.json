@@ -25,7 +25,7 @@
 		"x": {"space": false, "block":false, "goal":false, "bkg": "images/grave/wall_%s_%02d.png", "file": ""},
 		"0": {"space": true,  "block":false, "goal":false, "bkg": "images/grave/road_%s_%02d.png", "file": ""},
 		"b": {"space": true,  "block":true,  "goal":false, "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/block_%s_%02d.png"},
-		"g": {"space": true,  "block":false, "goal":true,  "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/block_%s_%02d.png"}
+		"g": {"space": true,  "block":false, "goal":true,  "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/goal_%s_%02d.png"}
 	},
 	"stages":[
 		{
@@ -41,6 +41,7 @@
 			"roads": ["a"],
 			"walls": ["a", "b"],
 			"blocks": ["a", "b", "c"],
+			"goals": ["a"],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
@@ -71,6 +72,7 @@
 			"roads": ["a"],
 			"walls": ["a", "b"],
 			"blocks": ["a", "b", "c"],
+			"goals": ["a"],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
