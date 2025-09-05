@@ -24,8 +24,8 @@
 		"score": 0
 	},
 	"map_obstacles": {
-		"_": {"space": true,  "goal":false, "block":false, "bkg": "images/grave/road_%s_%02d.png", "file": ""},
-		"x": {"space": false, "goal":false, "block":false, "bkg": "images/grave/dark_%s_%02d.png", "file": ""},
+		".": {"space": true,  "goal":false, "block":false, "bkg": "images/grave/road_%s_%02d.png", "file": ""},
+		"o": {"space": false, "goal":false, "block":false, "bkg": "images/grave/outside_%s_%02d.png", "file": ""},
 		"w": {"space": false, "goal":false, "block":false, "bkg": "images/grave/wall_%s_%02d.png", "file": ""},
 		"b": {"space": true,  "goal":false, "block":true,  "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/block_%s_%02d.png"},
 		"g": {"space": true,  "goal":true,  "block":false, "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/goal_%s_%02d.png"}
@@ -42,25 +42,26 @@
 			"bgm": "sounds/bgm_game_01.ogg",
 			"message": "",
 			"roads": ["a"],
+			"outsides": ["a"],
 			"walls": ["a", "b"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"spawn_start": {"r": 6, "c": 3},
 			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
-				"xxxxxxx",
-				"xxxxxxx",
-				"xxxxxxx",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
 				"wwwwwww",
-				"w_wgw_w",
-				"w__b__w",
-				"wgb_bgw",
-				"w__b__w",
-				"w_wgw_w",
+				"w.....w",
+				"w.....w",
+				"w.....w",
+				"w.....w",
+				"w.....w",
 				"wwwwwww",
-				"xxxxxxx",
-				"xxxxxxx",
-				"xxxxxxx"
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
 			]
 		}, {
 			"title": "02",
