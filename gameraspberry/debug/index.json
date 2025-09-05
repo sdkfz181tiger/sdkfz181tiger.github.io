@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/04 23:30:00",
+	"timestamp": "2025/09/05 12:00:00",
 	"todos": [
 		"1: 倉庫番の様な動きを実装してみる",
 		"2: ブロックをゴールに置いたらゴール",
@@ -39,7 +39,7 @@
 				"color": [11, 33, 11]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "LET'S\nENJOY\nSOKOBAN!!",
+			"message": "",
 			"roads": ["a"],
 			"walls": ["a", "b"],
 			"goals": ["a"],
