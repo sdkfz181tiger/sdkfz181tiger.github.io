@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/05 12:00:00",
+	"timestamp": "2025/09/05 14:00:00",
 	"todos": [
 		"1: 倉庫番の様な動きを実装してみる",
 		"2: ブロックをゴールに置いたらゴール",
@@ -24,11 +24,11 @@
 		"score": 0
 	},
 	"map_obstacles": {
-		".": {"space": true,  "goal":false, "block":false, "bkg": "images/grave/road_%s_%02d.png", "file": ""},
-		"o": {"space": false, "goal":false, "block":false, "bkg": "images/grave/outside_%s_%02d.png", "file": ""},
-		"w": {"space": false, "goal":false, "block":false, "bkg": "images/grave/wall_%s_%02d.png", "file": ""},
-		"b": {"space": true,  "goal":false, "block":true,  "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/block_%s_%02d.png"},
-		"g": {"space": true,  "goal":true,  "block":false, "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/goal_%s_%02d.png"}
+		".": {"space": true,  "goal":false, "block":false, "file": "images/grave/road_%s_%02d.png"},
+		"o": {"space": false, "goal":false, "block":false, "file": "images/grave/outside_%s_%02d.png"},
+		"w": {"space": false, "goal":false, "block":false, "file": "images/grave/wall_%s_%02d.png"},
+		"b": {"space": true,  "goal":false, "block":true,  "file": "images/grave/block_%s_%02d.png"},
+		"g": {"space": true,  "goal":true,  "block":false, "file": "images/grave/goal_%s_%02d.png"}
 	},
 	"stages":[
 		{
