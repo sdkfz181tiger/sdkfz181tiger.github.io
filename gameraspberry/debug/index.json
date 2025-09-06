@@ -1,10 +1,12 @@
 {
-	"timestamp": "2025/09/05 14:00:00",
+	"timestamp": "2025/09/06 15:00:00",
 	"todos": [
-		"1: 倉庫番の様な動きを実装してみる",
-		"2: ブロックをゴールに置いたらゴール",
-		"3: クリア後に1シーン&nextボタン",
-		"4: 壁のデザインを外壁と外でわかる様に差別化したい..."
+		"1: o倉庫番の様な動きを実装してみる",
+		"2: oブロックをゴールに置いたらゴール",
+		"3:  クリア後に1シーン&nextボタン",
+		"4: o壁のデザインを外壁と外でわかる様に差別化したい...",
+		"5: oブロックに触ってからスライド開始",
+		"6:  クリア時にプレイヤーが喜ぶ演出"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -46,19 +48,18 @@
 			"walls": ["a", "b"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
-			"spawn_start": {"r": 6, "c": 3},
-			"spawn_goal": {"r": 1, "c": 3},
+			"spawn_start": {"r": 6, "c": 1},
 			"map": [
 				"ooooooo",
 				"ooooooo",
 				"ooooooo",
+				"ooooooo",
+				"ooooooo",
 				"wwwwwww",
-				"w..g..w",
-				"w..b..w",
-				"wgb.bgw",
-				"w..b..w",
-				"w..g..w",
+				"w..b.gw",
 				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
 				"ooooooo",
 				"ooooooo",
 				"ooooooo"
@@ -79,7 +80,6 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"spawn_start": {"r": 6, "c": 3},
-			"spawn_goal": {"r": 1, "c": 3},
 			"map": [
 				"ooooooo",
 				"ooooooo",
