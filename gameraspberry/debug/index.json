@@ -95,6 +95,502 @@
 				"ooooooo",
 				"ooooooo"
 			]
+		}, {
+			"title": "03",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "04",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "05",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "06",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "07",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "08",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "09",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "10",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "11",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "12",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "13",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "14",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "15",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "16",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "17",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
+		}, {
+			"title": "18",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "",
+			"roads": ["a"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 3},
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..g..w",
+				"w..b..w",
+				"wgb.bgw",
+				"w..b..w",
+				"w..g..w",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo"
+			]
 		}
 	],
 	"assets":[
