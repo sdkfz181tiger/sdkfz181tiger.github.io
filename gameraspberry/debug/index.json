@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/06 15:00:00",
+	"timestamp": "2025/09/06 16:00:00",
 	"todos": [
 		"1: o倉庫番の様な動きを実装してみる",
 		"2: oブロックをゴールに置いたらゴール",
@@ -48,7 +48,7 @@
 			"walls": ["a", "b"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
-			"spawn_start": {"r": 6, "c": 1},
+			"start": {"r": 6, "c": 1},
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -79,7 +79,7 @@
 			"walls": ["a", "b"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
-			"spawn_start": {"r": 6, "c": 3},
+			"start": {"r": 6, "c": 3},
 			"map": [
 				"ooooooo",
 				"ooooooo",
