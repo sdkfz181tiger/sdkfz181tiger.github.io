@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/07 14:00:00",
+	"timestamp": "2025/09/07 15:00:00",
 	"todos": [
 		"01:o 倉庫番の様な動きを実装してみる",
 		"02:o ブロックをゴールに置いたらゴール",
@@ -122,11 +122,11 @@
 				"ooooooo",
 				"ooooooo",
 				"wwwwwww",
-				"w..g..w",
-				"w..b..w",
-				"wgb.bgw",
-				"w..b..w",
-				"w..g..w",
+				"w.....w",
+				"w.w.w.w",
+				"w.g.b.w",
+				"w.w.w.w",
+				"w.....w",
 				"wwwwwww",
 				"ooooooo",
 				"ooooooo",
