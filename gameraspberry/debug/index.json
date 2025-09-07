@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/07 14:30:00",
+	"timestamp": "2025/09/07 20:00:00",
 	"todos": [
 		"01:o 倉庫番の様な動きを実装してみる",
 		"02:o ブロックをゴールに置いたらゴール",
@@ -10,9 +10,9 @@
 		"07:  ローディング後5秒オーバーでANR対策",
 		"08:o actHappy()の状態追加",
 		"09:  Demoステージ4つ",
-		"10:  Alpha版リリース",
+		"10:o Alpha版リリース",
 		"11:  roadの背景スプライト抜け?",
-		"12:  Game中のxボタンでのダイアログは、Stages,Retry?"
+		"12:o Game中のxボタンでのダイアログは、Stages,Retry?"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -121,14 +121,14 @@
 				"ooooooo",
 				"ooooooo",
 				"ooooooo",
-				"oowwwww",
-				"oow...w",
-				"www.w.w",
-				"wg..b.w",
-				"www.w.w",
-				"oow...w",
-				"oowwwww",
-				"ooooooo",
+				"wwwwwww",
+				"w.....w",
+				"w.b.b.w",
+				"w.....w",
+				"www.www",
+				"oowgwoo",
+				"oowgwoo",
+				"oowwwoo",
 				"ooooooo",
 				"ooooooo"
 			]
