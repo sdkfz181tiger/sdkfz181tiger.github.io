@@ -11,7 +11,8 @@
 		"8: o actHappy()の状態追加",
 		"9:   Demoステージ4つ",
 		"10:  Alpha版リリース",
-		"11:  roadの背景スプライト抜け?"
+		"11:  roadの背景スプライト抜け?",
+		"12:  Game中のxボタンでのダイアログは、Stages,Retry?"
 	],
 	"admob_int": 30,
 	"archives":[
