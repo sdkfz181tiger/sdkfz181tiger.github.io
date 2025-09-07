@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/07 13:00:00",
+	"timestamp": "2025/09/07 14:00:00",
 	"todos": [
 		"01:o 倉庫番の様な動きを実装してみる",
 		"02:o ブロックをゴールに置いたらゴール",
@@ -48,7 +48,7 @@
 				"color": [11, 33, 11]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "",
+			"message": "PUSH IT!!",
 			"roads": ["a"],
 			"outsides": ["a"],
 			"walls": ["a", "b"],
@@ -90,13 +90,13 @@
 				"ooooooo",
 				"ooooooo",
 				"ooooooo",
-				"wwwwwww",
-				"w..g..w",
-				"w..b..w",
+				"oowwwoo",
+				"oowgwoo",
+				"wwwbwww",
 				"wgb.bgw",
-				"w..b..w",
-				"w..g..w",
-				"wwwwwww",
+				"wwwbwww",
+				"oowgwoo",
+				"oowwwoo",
 				"ooooooo",
 				"ooooooo",
 				"ooooooo"
