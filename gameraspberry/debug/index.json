@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/07 21:10:00",
+	"timestamp": "2025/09/07 22:00:00",
 	"todos": [
 		"01:o 倉庫番の様な動きを実装してみる",
 		"02:o ブロックをゴールに置いたらゴール",
@@ -178,20 +178,20 @@
 			"walls": ["a", "b"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
-			"start": {"r": 6, "c": 3},
+			"start": {"r": 3, "c": 5},
 			"map": [
 				"ooooooo",
 				"ooooooo",
-				"ooooooo",
-				"wwwwwww",
-				"w..g..w",
-				"w..b..w",
-				"wgb.bgw",
-				"w..b..w",
-				"w..g..w",
-				"wwwwwww",
-				"ooooooo",
-				"ooooooo",
+				"oowwwww",
+				"oow...w",
+				"oowbb.w",
+				"www.b.w",
+				"w...www",
+				"w...woo",
+				"www.woo",
+				"ow..www",
+				"ow.gggw",
+				"owwwwww",
 				"ooooooo"
 			]
 		}, {
