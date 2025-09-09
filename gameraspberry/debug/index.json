@@ -1,15 +1,14 @@
 {
-	"timestamp": "2025/09/09 21:40:00",
+	"timestamp": "2025/09/09 22:40:00",
 	"todos": [
 		"01:o 倉庫番の様な動きを実装してみる",
 		"03:  クリア後に1シーンかます&nextボタン",
 		"07:  ローディング後5秒オーバーでANR対策",
-		"11:  roadの背景スプライト抜け?",
+		"11:> roadの背景スプライト抜け?",
 		"12:o Game中のxボタンでのダイアログは、Stages,Retry?",
 		"13:  ダイアログのボタンは文字ボタンでなくアイコンに",
 		"14:o プレイヤーのUndo, Redo",
 		"15:o BoxのUndo, Redo",
-		"16:o Undo, Redoでフリックコントロールが邪魔する",
 		"17:  ステージの背景(Road)をチェック柄に"
 	],
 	"admob_int": 30,
@@ -30,11 +29,11 @@
 		"score": 0
 	},
 	"map_obstacles": {
-		".": {"space": true,  "goal": false, "block": false, "file": "images/grave/road_%s_%02d.png"},
-		"o": {"space": false, "goal": false, "block": false, "file": "images/grave/outside_%s_%02d.png"},
-		"w": {"space": false, "goal": false, "block": false, "file": "images/grave/wall_%s_%02d.png"},
-		"b": {"space": true,  "goal": false, "block": true,  "file": "images/grave/block_%s_%02d.png"},
-		"g": {"space": true,  "goal": true,  "block": false, "file": "images/grave/goal_%s_%02d.png"}
+		".": {"space": true,  "goal": false, "block": false, "bkg": "images/grave/road_%s_%02d.png", "file": ""},
+		"o": {"space": false, "goal": false, "block": false, "bkg": "", "file": "images/grave/outside_%s_%02d.png"},
+		"w": {"space": false, "goal": false, "block": false, "bkg": "", "file": "images/grave/wall_%s_%02d.png"},
+		"b": {"space": true,  "goal": false, "block": true,  "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/block_%s_%02d.png"},
+		"g": {"space": true,  "goal": true,  "block": false, "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/goal_%s_%02d.png"}
 	},
 	"stages":[
 		{
