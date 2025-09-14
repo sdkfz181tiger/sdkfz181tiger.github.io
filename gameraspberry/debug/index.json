@@ -1,12 +1,13 @@
 {
-	"timestamp": "2025/09/14 13:00:00",
+	"timestamp": "2025/09/14 14:00:00",
 	"todos": [
 		"01:o 倉庫番の様な動きを実装してみる",
 		"03:  クリア後に1シーンかます&nextボタン",
 		"07:  ローディング後5秒オーバーでANR対策",
 		"20:o 左上xボタンは=メニューアイコンにした方が?",
 		"22:o Undo, Redoボタン",
-		"23:  クリア時にスコアリングをトゥルルルル...!!"
+		"23:  クリア時にスコアリングをトゥルルルル...!!",
+		"24:  箱->墓石に"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -49,7 +50,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 1},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -81,7 +82,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -113,7 +114,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -145,7 +146,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -177,7 +178,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -209,7 +210,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"owwwwoo",
@@ -241,7 +242,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 5, "c": 1},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -273,7 +274,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"wwwwwww",
@@ -305,7 +306,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 8, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"wwwoooo",
@@ -337,7 +338,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -369,7 +370,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -401,7 +402,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -433,7 +434,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -465,7 +466,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -497,7 +498,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -529,7 +530,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -561,7 +562,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -593,7 +594,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
-			"score": 100,
+			"bonus": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
