@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/13 21:00:00",
+	"timestamp": "2025/09/14 13:00:00",
 	"todos": [
 		"01:o 倉庫番の様な動きを実装してみる",
 		"03:  クリア後に1シーンかます&nextボタン",
@@ -49,6 +49,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 1},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -80,6 +81,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -111,6 +113,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -142,6 +145,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -173,6 +177,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -204,6 +209,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"owwwwoo",
@@ -235,6 +241,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 5, "c": 1},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -266,6 +273,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"wwwwwww",
@@ -297,6 +305,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 8, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"wwwoooo",
@@ -328,6 +337,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -359,6 +369,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -390,6 +401,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -421,6 +433,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -452,6 +465,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -483,6 +497,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -514,6 +529,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -545,6 +561,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
@@ -576,6 +593,7 @@
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
+			"score": 100,
 			"map": [
 				"ooooooo",
 				"ooooooo",
