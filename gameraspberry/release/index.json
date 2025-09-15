@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/14 17:00:00",
+	"timestamp": "2025/09/15 13:00:00",
 	"todos": [
 		"01:o 倉庫番の様な動きを実装してみる",
 		"03:  クリア後に1シーンかます&nextボタン",
@@ -177,7 +177,7 @@
 			"walls": ["a", "b"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
-			"start": {"r": 6, "c": 3},
+			"start": {"r": 7, "c": 3},
 			"score": 100,
 			"map": [
 				"ooooooo",
@@ -209,9 +209,10 @@
 			"walls": ["a", "b"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
-			"start": {"r": 6, "c": 3},
+			"start": {"r": 3, "c": 3},
 			"score": 100,
 			"map": [
+				"ooooooo",
 				"ooooooo",
 				"owwwwoo",
 				"ww..www",
@@ -223,7 +224,6 @@
 				"w..b.ww",
 				"www..wo",
 				"ooowwwo",
-				"ooooooo",
 				"ooooooo"
 			]
 		}, {
@@ -273,9 +273,10 @@
 			"walls": ["a", "b"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
-			"start": {"r": 6, "c": 3},
+			"start": {"r": 7, "c": 3},
 			"score": 100,
 			"map": [
+				"ooooooo",
 				"ooooooo",
 				"wwwwwww",
 				"w..g..w",
@@ -305,9 +306,10 @@
 			"walls": ["a", "b"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
-			"start": {"r": 8, "c": 3},
+			"start": {"r": 9, "c": 3},
 			"score": 100,
 			"map": [
+				"ooooooo",
 				"ooooooo",
 				"wwwoooo",
 				"wgwoooo",
@@ -319,7 +321,6 @@
 				"w...b.w",
 				"ww....w",
 				"owwwwww",
-				"ooooooo",
 				"ooooooo"
 			]
 		}, {
