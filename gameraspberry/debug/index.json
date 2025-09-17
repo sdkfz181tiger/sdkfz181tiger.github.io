@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/17 18:00:00",
+	"timestamp": "2025/09/17 19:00:00",
 	"todos": [
 		"01:o 倉庫番の様な動きを実装してみる",
 		"03:  クリア後に1シーンかます&nextボタン",
@@ -472,14 +472,14 @@
 				"ooooooo",
 				"ooooooo",
 				"ooooooo",
-				".......",
-				".......",
-				".......",
-				"....bg.",
-				".......",
-				".......",
-				".......",
-				"ooooooo",
+				"owwwwoo",
+				"ww..www",
+				"w.bg..w",
+				"w.gbg.w",
+				"w..gb.w",
+				"www.bww",
+				"oow..wo",
+				"oowwwwo",
 				"ooooooo",
 				"ooooooo"
 			]
