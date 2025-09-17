@@ -498,7 +498,7 @@
 			"walls": ["a", "b"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
-			"start": {"r": 6, "c": 3},
+			"start": {"r": 4, "c": 3},
 			"score": 16,
 			"map": [
 				"ooooooo",
@@ -509,8 +509,8 @@
 				"w..w..w",
 				"wwbwb.w",
 				"ow.b..w",
-				"ww.wgww",
-				"w.b.ggw",
+				"ww.w.ww",
+				"w..gggw",
 				"w..wg.w",
 				"wwwwwww",
 				"ooooooo"
