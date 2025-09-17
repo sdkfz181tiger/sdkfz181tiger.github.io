@@ -530,7 +530,7 @@
 			"walls": ["a", "b"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
-			"start": {"r": 6, "c": 3},
+			"start": {"r": 6, "c": 2},
 			"score": 16,
 			"map": [
 				"ooooooo",
