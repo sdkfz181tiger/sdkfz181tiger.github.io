@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/17 23:40:00",
+	"timestamp": "2025/09/17 23:10:00",
 	"todos": [
 		"01:o 倉庫番の様な動きを実装してみる",
 		"03:  クリア後に1シーンかます&nextボタン",
@@ -594,21 +594,21 @@
 			"walls": ["a", "b"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
-			"start": {"r": 6, "c": 3},
+			"start": {"r": 9, "c": 2},
 			"score": 18,
 			"map": [
 				"ooooooo",
 				"ooooooo",
-				"ooooooo",
-				".......",
-				".......",
-				".......",
-				"....bg.",
-				".......",
-				".......",
-				".......",
-				"ooooooo",
-				"ooooooo",
+				"wwwwwww",
+				"wgggggw",
+				"w.....w",
+				"www.bww",
+				"oowb.wo",
+				"www.bwo",
+				"w..b.ww",
+				"w...b.w",
+				"w.....w",
+				"wwwwwww",
 				"ooooooo"
 			]
 		}
