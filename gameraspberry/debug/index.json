@@ -1,11 +1,11 @@
 {
-	"timestamp": "2025/09/18 17:50:00",
+	"timestamp": "2025/09/18 21:00:00",
 	"todos": [
 		"01:o 倉庫番の様な動きを実装してみる",
 		"03:  クリア後に1シーンかます&nextボタン",
 		"07:  ローディング後5秒オーバーでANR対策",
 		"23:  クリア時にスコアリングをトゥルルルル...!!",
-		"24:  箱->墓石に",
+		"24:o 箱->墓石に",
 		"25:  ゲームクリア時SceneResultのスコア表示どうするか...",
 		"26:  定位置に墓石がハマると、Thanksお化け登場"
 	],
@@ -1024,6 +1024,17 @@
 		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_roll_l",  "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
 		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_jump_f",  "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_sleep",   "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
+
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_f",         "rows": 1, "cols": 5, "w": 12, "h": 14, "from":  0, "to":  4},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_b",         "rows": 2, "cols": 5, "w": 12, "h": 14, "from":  5, "to":  9},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_r",         "rows": 3, "cols": 5, "w": 12, "h": 14, "from": 10, "to": 14},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_l",         "rows": 4, "cols": 5, "w": 12, "h": 14, "from": 15, "to": 19},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_damage",    "rows": 5, "cols": 5, "w": 12, "h": 14, "from": 20, "to": 24},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_byebye",    "rows": 6, "cols": 5, "w": 12, "h": 14, "from": 25, "to": 29},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_roll_r",    "rows": 7, "cols": 5, "w": 12, "h": 14, "from": 30, "to": 34},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_roll_l",    "rows": 8, "cols": 5, "w": 12, "h": 14, "from": 35, "to": 39},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_jump_f",    "rows": 9, "cols": 5, "w": 12, "h": 14, "from": 40, "to": 44},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_sleep",     "rows":10, "cols": 5, "w": 12, "h": 14, "from": 45, "to": 49},
 
 		{"file_name": "images/ghosts/oni_b_01.png",      "frame_name": "oni_b_f",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/ghosts/oni_b_01.png",      "frame_name": "oni_b_b",         "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
