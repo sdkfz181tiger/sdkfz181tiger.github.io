@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/20 22:00:00",
+	"timestamp": "2025/09/20 23:00:00",
 	"todos": [
 		"07:  ローディング後5秒オーバーでANR対策",
 		"23:  クリア時にスコアリングをトゥルルルル...!?",
@@ -619,38 +619,6 @@
 				"w...b.w",
 				"w.....w",
 				"wwwwwww",
-				"ooooooo"
-			]
-		}, {
-			"title": "19",
-			"btn_on": "images/grave/btn_stage_01_on.png",
-			"btn_off": "images/grave/btn_stage_01_off.png",
-			"bkg": {
-				"file_name": "images/ghosts/bkg_01.png",
-				"color": [11, 33, 11]
-			},
-			"bgm": "sounds/bgm_game_01.ogg",
-			"message": "THIS IS TEST!!",
-			"roads": ["a", "b"],
-			"outsides": ["a"],
-			"walls": ["a", "b"],
-			"goals": ["a"],
-			"blocks": ["a", "b", "c"],
-			"start": {"r": 6, "c": 1},
-			"score": 2,
-			"map": [
-				"ooooooo",
-				"ooooooo",
-				"ooooooo",
-				"ooooooo",
-				"ooooooo",
-				"wwwwwww",
-				"w..b.gw",
-				"wwwwwww",
-				"ooooooo",
-				"ooooooo",
-				"ooooooo",
-				"ooooooo",
 				"ooooooo"
 			]
 		}
