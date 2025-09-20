@@ -1,19 +1,21 @@
 {
-	"timestamp": "2025/09/19 12:00:00",
+	"timestamp": "2025/09/20 13:00:00",
 	"todos": [
-		"01:o 倉庫番の様な動きを実装してみる",
 		"07:  ローディング後5秒オーバーでANR対策",
 		"23:  クリア時にスコアリングをトゥルルルル...!?",
-		"25:  ゲームクリア時SceneResultのスコア表示どうするか...",
+		"25:> ゲームクリア時SceneResultのスコア表示どうするか...",
 		"27:  ストア用のアイコン",
 		"28:  AdMob広告確保",
 		"29:  嘘でもリリース(9月中に...)",
-		"30:o Undo,Redoでキャラの向き",
 		"31:  箱の動きが軽い",
-		"32:o リセットボタンを上部ボタンに追加&位置調整",
 		"33:  ミニミニThanksお化け追加",
 		"34:  開始時、鬼が墓石位置をメチャクチャにする演出",
-		"35:  怪しい墓場感の空気エフェクト...!?"
+		"35:  怪しい墓場感の空気エフェクト...!?",
+		"36:  ちいさくてこわい「ちいこわ」",
+		"37:> 墓がゴールに乗ったらThanksお化け",
+		"37:> しばらく墓を放置していると、HurryUp!!",
+		"38:  ブロック踏みつけゲーム(サーカス)<- 車輪が来て乗っかる",
+		"39:  普通にGPTにBox2Dの使い方を学ぶ(素晴らしい)"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -615,6 +617,38 @@
 				"w...b.w",
 				"w.....w",
 				"wwwwwww",
+				"ooooooo"
+			]
+		}, {
+			"title": "19",
+			"btn_on": "images/ghosts/btn_stage_01_on.png",
+			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "THIS IS TEST!!",
+			"roads": ["a", "b"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 1},
+			"score": 2,
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..b.gw",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
 				"ooooooo"
 			]
 		}
