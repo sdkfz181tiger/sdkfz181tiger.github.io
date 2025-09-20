@@ -1,19 +1,23 @@
 {
-	"timestamp": "2025/09/19 12:00:00",
+	"timestamp": "2025/09/20 22:00:00",
 	"todos": [
-		"01:o 倉庫番の様な動きを実装してみる",
 		"07:  ローディング後5秒オーバーでANR対策",
 		"23:  クリア時にスコアリングをトゥルルルル...!?",
-		"25:  ゲームクリア時SceneResultのスコア表示どうするか...",
+		"25:> ゲームクリア時SceneResultのスコア表示どうするか...",
 		"27:  ストア用のアイコン",
 		"28:  AdMob広告確保",
 		"29:  嘘でもリリース(9月中に...)",
-		"30:o Undo,Redoでキャラの向き",
 		"31:  箱の動きが軽い",
-		"32:o リセットボタンを上部ボタンに追加&位置調整",
-		"33:  ミニミニThanksお化け追加",
 		"34:  開始時、鬼が墓石位置をメチャクチャにする演出",
-		"35:  怪しい墓場感の空気エフェクト...!?"
+		"35:  怪しい墓場感の空気エフェクト...!?",
+		"36:  ちいさくてこわい「ちいこわ」",
+		"37:o 墓がゴールに乗ったらThanksお化け",
+		"37:> しばらく墓を放置していると、HurryUp!!",
+		"38:  ブロック踏みつけゲーム(サーカス)<- 車輪が来て乗っかる",
+		"39:  普通にGPTにBox2Dの使い方を学ぶ(素晴らしい)",
+		"41:o アプリアイコン",
+		"42:  スクリーンショット",
+		"43:  大バナー(GPT)"
 	],
 	"admob_int": 30,
 	"archives":[
@@ -42,8 +46,8 @@
 	"stages":[
 		{
 			"title": "01",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_01_on.png",
+			"btn_off": "images/grave/btn_stage_01_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -74,8 +78,8 @@
 			]
 		}, {
 			"title": "02",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_01_on.png",
+			"btn_off": "images/grave/btn_stage_01_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -106,8 +110,8 @@
 			]
 		}, {
 			"title": "03",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_01_on.png",
+			"btn_off": "images/grave/btn_stage_01_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -138,8 +142,8 @@
 			]
 		}, {
 			"title": "04",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_01_on.png",
+			"btn_off": "images/grave/btn_stage_01_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -170,8 +174,8 @@
 			]
 		}, {
 			"title": "05",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_02_on.png",
+			"btn_off": "images/grave/btn_stage_02_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -202,8 +206,8 @@
 			]
 		}, {
 			"title": "06",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_02_on.png",
+			"btn_off": "images/grave/btn_stage_02_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -234,8 +238,8 @@
 			]
 		}, {
 			"title": "07",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_02_on.png",
+			"btn_off": "images/grave/btn_stage_02_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -244,7 +248,7 @@
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
-			"walls": ["a", "b"],
+			"walls": ["b", "c"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 5, "c": 1},
@@ -266,8 +270,8 @@
 			]
 		}, {
 			"title": "08",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_03_on.png",
+			"btn_off": "images/grave/btn_stage_03_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -276,7 +280,7 @@
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
-			"walls": ["a", "b"],
+			"walls": ["b", "c"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 7, "c": 3},
@@ -299,8 +303,8 @@
 			]
 		}, {
 			"title": "09",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_03_on.png",
+			"btn_off": "images/grave/btn_stage_03_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -309,7 +313,7 @@
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
-			"walls": ["a", "b"],
+			"walls": ["b", "c"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 9, "c": 3},
@@ -331,8 +335,8 @@
 			]
 		}, {
 			"title": "10",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_03_on.png",
+			"btn_off": "images/grave/btn_stage_03_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -341,7 +345,7 @@
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
-			"walls": ["a", "b"],
+			"walls": ["b", "c"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 5},
@@ -363,8 +367,8 @@
 			]
 		}, {
 			"title": "11",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_03_on.png",
+			"btn_off": "images/grave/btn_stage_03_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -373,7 +377,7 @@
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
-			"walls": ["a", "b"],
+			"walls": ["b", "c"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 8, "c": 3},
@@ -395,8 +399,8 @@
 			]
 		}, {
 			"title": "12",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_03_on.png",
+			"btn_off": "images/grave/btn_stage_03_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -405,7 +409,7 @@
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
-			"walls": ["a", "b"],
+			"walls": ["b", "c"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 4, "c": 3},
@@ -427,8 +431,8 @@
 			]
 		}, {
 			"title": "13",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_04_on.png",
+			"btn_off": "images/grave/btn_stage_04_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -437,7 +441,7 @@
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
-			"walls": ["a", "b"],
+			"walls": ["c", "d"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 3},
@@ -459,8 +463,8 @@
 			]
 		}, {
 			"title": "14",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_04_on.png",
+			"btn_off": "images/grave/btn_stage_04_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -469,7 +473,7 @@
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
-			"walls": ["a", "b"],
+			"walls": ["c", "d"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 5, "c": 4},
@@ -491,8 +495,8 @@
 			]
 		}, {
 			"title": "15",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_04_on.png",
+			"btn_off": "images/grave/btn_stage_04_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -501,7 +505,7 @@
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
-			"walls": ["a", "b"],
+			"walls": ["c", "d"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 4, "c": 3},
@@ -523,8 +527,8 @@
 			]
 		}, {
 			"title": "16",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_04_on.png",
+			"btn_off": "images/grave/btn_stage_04_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -533,7 +537,7 @@
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
-			"walls": ["a", "b"],
+			"walls": ["c", "d"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 6, "c": 2},
@@ -555,8 +559,8 @@
 			]
 		}, {
 			"title": "17",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_04_on.png",
+			"btn_off": "images/grave/btn_stage_04_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -565,7 +569,7 @@
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
-			"walls": ["a", "b"],
+			"walls": ["c", "d"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 4, "c": 2},
@@ -587,8 +591,8 @@
 			]
 		}, {
 			"title": "18",
-			"btn_on": "images/ghosts/btn_stage_01_on.png",
-			"btn_off": "images/ghosts/btn_stage_01_off.png",
+			"btn_on": "images/grave/btn_stage_04_on.png",
+			"btn_off": "images/grave/btn_stage_04_off.png",
 			"bkg": {
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
@@ -597,7 +601,7 @@
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
-			"walls": ["a", "b"],
+			"walls": ["c", "d"],
 			"goals": ["a"],
 			"blocks": ["a", "b", "c"],
 			"start": {"r": 9, "c": 2},
@@ -615,6 +619,38 @@
 				"w...b.w",
 				"w.....w",
 				"wwwwwww",
+				"ooooooo"
+			]
+		}, {
+			"title": "19",
+			"btn_on": "images/grave/btn_stage_01_on.png",
+			"btn_off": "images/grave/btn_stage_01_off.png",
+			"bkg": {
+				"file_name": "images/ghosts/bkg_01.png",
+				"color": [11, 33, 11]
+			},
+			"bgm": "sounds/bgm_game_01.ogg",
+			"message": "THIS IS TEST!!",
+			"roads": ["a", "b"],
+			"outsides": ["a"],
+			"walls": ["a", "b"],
+			"goals": ["a"],
+			"blocks": ["a", "b", "c"],
+			"start": {"r": 6, "c": 1},
+			"score": 2,
+			"map": [
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"wwwwwww",
+				"w..b.gw",
+				"wwwwwww",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
+				"ooooooo",
 				"ooooooo"
 			]
 		}
@@ -1031,16 +1067,27 @@
 		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_jump_f",  "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/ghosts/musha_d_01.png",    "frame_name": "musha_d_sleep",   "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
-		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_f",         "rows": 1, "cols": 5, "w": 12, "h": 14, "from":  0, "to":  4},
-		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_b",         "rows": 2, "cols": 5, "w": 12, "h": 14, "from":  5, "to":  9},
-		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_r",         "rows": 3, "cols": 5, "w": 12, "h": 14, "from": 10, "to": 14},
-		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_l",         "rows": 4, "cols": 5, "w": 12, "h": 14, "from": 15, "to": 19},
-		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_damage",    "rows": 5, "cols": 5, "w": 12, "h": 14, "from": 20, "to": 24},
-		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_byebye",    "rows": 6, "cols": 5, "w": 12, "h": 14, "from": 25, "to": 29},
-		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_roll_r",    "rows": 7, "cols": 5, "w": 12, "h": 14, "from": 30, "to": 34},
-		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_roll_l",    "rows": 8, "cols": 5, "w": 12, "h": 14, "from": 35, "to": 39},
-		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_jump_f",    "rows": 9, "cols": 5, "w": 12, "h": 14, "from": 40, "to": 44},
-		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_sleep",     "rows":10, "cols": 5, "w": 12, "h": 14, "from": 45, "to": 49},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_a_f",       "rows": 1, "cols": 5, "w":  8, "h": 12, "from":  0, "to":  4},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_a_b",       "rows": 2, "cols": 5, "w":  8, "h": 12, "from":  5, "to":  9},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_a_r",       "rows": 3, "cols": 5, "w":  8, "h": 12, "from": 10, "to": 14},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_a_l",       "rows": 4, "cols": 5, "w":  8, "h": 12, "from": 15, "to": 19},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_a_damage",  "rows": 5, "cols": 5, "w":  8, "h": 12, "from": 20, "to": 24},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_a_byebye",  "rows": 6, "cols": 5, "w":  8, "h": 12, "from": 25, "to": 29},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_a_roll_r",  "rows": 7, "cols": 5, "w":  8, "h": 12, "from": 30, "to": 34},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_a_roll_l",  "rows": 8, "cols": 5, "w":  8, "h": 12, "from": 35, "to": 39},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_a_jump_f",  "rows": 9, "cols": 5, "w":  8, "h": 12, "from": 40, "to": 44},
+		{"file_name": "images/ghosts/obake_01.png",      "frame_name": "obake_a_sleep",   "rows":10, "cols": 5, "w":  8, "h": 12, "from": 45, "to": 49},
+
+		{"file_name": "images/ghosts/obake_02.png",      "frame_name": "obake_b_f",       "rows": 1, "cols": 5, "w": 12, "h": 14, "from":  0, "to":  4},
+		{"file_name": "images/ghosts/obake_02.png",      "frame_name": "obake_b_b",       "rows": 2, "cols": 5, "w": 12, "h": 14, "from":  5, "to":  9},
+		{"file_name": "images/ghosts/obake_02.png",      "frame_name": "obake_b_r",       "rows": 3, "cols": 5, "w": 12, "h": 14, "from": 10, "to": 14},
+		{"file_name": "images/ghosts/obake_02.png",      "frame_name": "obake_b_l",       "rows": 4, "cols": 5, "w": 12, "h": 14, "from": 15, "to": 19},
+		{"file_name": "images/ghosts/obake_02.png",      "frame_name": "obake_b_damage",  "rows": 5, "cols": 5, "w": 12, "h": 14, "from": 20, "to": 24},
+		{"file_name": "images/ghosts/obake_02.png",      "frame_name": "obake_b_byebye",  "rows": 6, "cols": 5, "w": 12, "h": 14, "from": 25, "to": 29},
+		{"file_name": "images/ghosts/obake_02.png",      "frame_name": "obake_b_roll_r",  "rows": 7, "cols": 5, "w": 12, "h": 14, "from": 30, "to": 34},
+		{"file_name": "images/ghosts/obake_02.png",      "frame_name": "obake_b_roll_l",  "rows": 8, "cols": 5, "w": 12, "h": 14, "from": 35, "to": 39},
+		{"file_name": "images/ghosts/obake_02.png",      "frame_name": "obake_b_jump_f",  "rows": 9, "cols": 5, "w": 12, "h": 14, "from": 40, "to": 44},
+		{"file_name": "images/ghosts/obake_02.png",      "frame_name": "obake_b_sleep",   "rows":10, "cols": 5, "w": 12, "h": 14, "from": 45, "to": 49},
 
 		{"file_name": "images/ghosts/oni_b_01.png",      "frame_name": "oni_b_f",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/ghosts/oni_b_01.png",      "frame_name": "oni_b_b",         "rows": 2, "cols": 5, "w": 16, "h": 16, "from":  5, "to":  9},
