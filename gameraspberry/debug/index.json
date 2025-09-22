@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/09/21 14:00:00",
+	"timestamp": "2025/09/22 18:00:00",
 	"todos": [
 		"07:  ローディング後5秒オーバーでANR対策",
 		"23:  クリア時にスコアリングをトゥルルルル...!?",
@@ -14,7 +14,7 @@
 		"37:> しばらく墓を放置していると、HurryUp!!",
 		"38:  ブロック踏みつけゲーム(サーカス)<- 車輪が来て乗っかる, それこそニュートン",
 		"39:  普通にGPTにBox2Dの使い方を学ぶ(素晴らしい)",
-		"42:  スクリーンショット",
+		"42:o スクリーンショット",
 		"43:  大バナー(GPT)"
 	],
 	"admob_int": 30,
@@ -242,7 +242,7 @@
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_02.ogg",
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
@@ -274,7 +274,7 @@
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_02.ogg",
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
@@ -307,7 +307,7 @@
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_02.ogg",
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
@@ -339,7 +339,7 @@
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_02.ogg",
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
@@ -371,7 +371,7 @@
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_02.ogg",
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
@@ -403,7 +403,7 @@
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_02.ogg",
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
@@ -435,7 +435,7 @@
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_03.ogg",
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
@@ -467,7 +467,7 @@
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_03.ogg",
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
@@ -499,7 +499,7 @@
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_03.ogg",
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
@@ -531,7 +531,7 @@
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_03.ogg",
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
@@ -563,7 +563,7 @@
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_03.ogg",
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
@@ -595,7 +595,7 @@
 				"file_name": "images/ghosts/bkg_01.png",
 				"color": [11, 33, 11]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_game_03.ogg",
 			"message": "",
 			"roads": ["a", "b"],
 			"outsides": ["a"],
