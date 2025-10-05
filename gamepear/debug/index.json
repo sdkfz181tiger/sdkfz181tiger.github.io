@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/10/05 20:00:00",
+	"timestamp": "2025/10/05 20:30:00",
 	"todos": [
 		"01:  Match3パズルの下準備"
 	],
@@ -15,9 +15,9 @@
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"tiles": {
-		"a": {"file_name": "images/match3/tile_01.png", "icon_name": "images/sumo/mark_ok.png"},
-		"b": {"file_name": "images/match3/tile_02.png", "icon_name": "images/sumo/mark_ng.png"},
-		"c": {"file_name": "images/match3/tile_03.png", "icon_name": "images/sumo/mark_ok.png"}
+		"a": {"file_name": "images/match3/tile_01.png", "icon_name": "images/foods/i_apple.png"},
+		"b": {"file_name": "images/match3/tile_02.png", "icon_name": "images/foods/i_bberry.png"},
+		"c": {"file_name": "images/match3/tile_03.png", "icon_name": "images/foods/i_cherry.png"}
 	},
 	"stages":[
 		{
