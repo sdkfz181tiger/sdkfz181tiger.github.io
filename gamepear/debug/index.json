@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/10/05 17:00:00",
+	"timestamp": "2025/10/05 18:00:00",
 	"todos": [
 		"01:  Match3パズルの下準備"
 	],
@@ -14,7 +14,7 @@
 	"ready_anims":[
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
-	"tile_types": {
+	"tiles": {
 		"r": {"file_name": "images/match3/tile_01.png"},
 		"g": {"file_name": "images/match3/tile_02.png"},
 		"b": {"file_name": "images/match3/tile_03.png"}
