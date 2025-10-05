@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/10/05 14:00:00",
+	"timestamp": "2025/10/05 17:00:00",
 	"todos": [
 		"01:  Match3パズルの下準備"
 	],
@@ -14,32 +14,23 @@
 	"ready_anims":[
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
-	"player": {
-		"name": "kappa",
-		"score": 0,
-		"life": 1,
-		"spd": 20
-	},
-	"map_obstacles": {
-		".": {"space": true,  "goal": false, "block": false, "bkg": "images/grave/road_%s_%02d.png", "file": ""},
-		"o": {"space": false, "goal": false, "block": false, "bkg": "", "file": "images/grave/outside_%s_%02d.png"},
-		"w": {"space": false, "goal": false, "block": false, "bkg": "", "file": "images/grave/wall_%s_%02d.png"},
-		"b": {"space": true,  "goal": false, "block": true,  "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/block_%s_%02d.png"},
-		"g": {"space": true,  "goal": true,  "block": false, "bkg": "images/grave/road_%s_%02d.png", "file": "images/grave/goal_%s_%02d.png"}
+	"tile_types": {
+		"r": {"file_name": "images/match3/tile_01.png"},
+		"g": {"file_name": "images/match3/tile_02.png"},
+		"b": {"file_name": "images/match3/tile_03.png"}
 	},
 	"stages":[
 		{
 			"title": "01",
-			"btn_on": "images/grave/btn_stage_01_on.png",
-			"btn_off": "images/grave/btn_stage_01_off.png",
 			"bkg": {
 				"file_name": "images/match3/bkg_01.png",
 				"color": [33, 33, 66]
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
 			"message": "HELLO,MATCH3!!",
-			"rows": 8,
-			"cols": 8
+			"rows": 6,
+			"cols": 8,
+			"tiles": ["r", "g", "b"]
 		}
 	],
 	"assets":[
