@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/10/06 21:00:00",
+	"timestamp": "2025/10/06 22:00:00",
 	"todos": [
 		"01:  Match3パズルの下準備"
 	],
@@ -28,8 +28,8 @@
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
 			"message": "HELLO\nMATCH3!!",
-			"rows": 12,
-			"cols": 6,
+			"rows": 4,
+			"cols": 4,
 			"tiles": ["a", "b", "c"]
 		}
 	],
