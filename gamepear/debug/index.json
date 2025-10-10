@@ -1,12 +1,14 @@
 {
-	"timestamp": "2025/10/10 11:00:00",
+	"timestamp": "2025/10/10 23:00:00",
 	"todos": [
 		"01:o Match3パズルの下準備",
-		"02:  ゲーム性の検討(どうしたら終わるのか等?)",
+		"02:  ゲーム性の検討(どうしたら終わるのか等?)似たゲームの起承転結を調べる",
 		"03:  タイルサイズが小さすぎる",
-		"04:  登場シーンシャシャシャ",
 		"05:  妖怪等が少しづつタイルを落としていく?",
-		"06:  詰まったタイミングで一気に埋まる?"
+		"06:  詰まったタイミングで一気に埋まる?",
+		"07:  タイルをカードに、麻雀牌に?",
+		"08:  似たゲームの起承転結(ゲームループ)を調べる",
+		"09:  次回はどうするか!?"
 	],
 	"admob_int": 3,
 	"archives":[
@@ -20,9 +22,12 @@
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"tiles": {
-		"a": {"file_name": "images/match3/tile_01.png", "icon_name": "images/foods/i_apple.png"},
-		"b": {"file_name": "images/match3/tile_01.png", "icon_name": "images/foods/i_bberry.png"},
-		"c": {"file_name": "images/match3/tile_01.png", "icon_name": "images/foods/i_cherry.png"}
+		"a": {"file_name": "images/cards/s_1.png",  "icon_name": "images/cards/s_1.png"},
+		"b": {"file_name": "images/cards/s_10.png", "icon_name": "images/cards/s_10.png"},
+		"c": {"file_name": "images/cards/s_13.png", "icon_name": "images/cards/s_13.png"},
+		"d": {"file_name": "images/cards/h_1.png",  "icon_name": "images/cards/h_1.png"},
+		"e": {"file_name": "images/cards/h_10.png", "icon_name": "images/cards/h_10.png"},
+		"f": {"file_name": "images/cards/h_13.png", "icon_name": "images/cards/h_13.png"}
 	},
 	"stages":[
 		{
@@ -35,7 +40,7 @@
 			"message": "HELLO\nMATCH3!!",
 			"rows": 8,
 			"cols": 6,
-			"tiles": ["a", "b", "c"]
+			"tiles": ["a", "b", "c", "d", "e", "f"]
 		}
 	],
 	"assets":[
