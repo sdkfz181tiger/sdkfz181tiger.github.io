@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/10/10 23:00:00",
+	"timestamp": "2025/10/10 22:00:00",
 	"todos": [
 		"01:o Match3パズルの下準備",
 		"02:  ゲーム性の検討(どうしたら終わるのか等?)似たゲームの起承転結を調べる",
@@ -22,12 +22,11 @@
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"tiles": {
-		"a": {"file_name": "images/cards/s_1.png",  "icon_name": "images/cards/s_1.png"},
-		"b": {"file_name": "images/cards/s_10.png", "icon_name": "images/cards/s_10.png"},
-		"c": {"file_name": "images/cards/s_13.png", "icon_name": "images/cards/s_13.png"},
-		"d": {"file_name": "images/cards/h_1.png",  "icon_name": "images/cards/h_1.png"},
-		"e": {"file_name": "images/cards/h_10.png", "icon_name": "images/cards/h_10.png"},
-		"f": {"file_name": "images/cards/h_13.png", "icon_name": "images/cards/h_13.png"}
+		"a": {"file_name": "images/mahjong/bamb_2.png",  "icon_name": "images/mahjong/bamb_2.png"},
+		"b": {"file_name": "images/mahjong/bamb_5.png",  "icon_name": "images/mahjong/bamb_5.png"},
+		"c": {"file_name": "images/mahjong/char_6.png",  "icon_name": "images/mahjong/char_6.png"},
+		"d": {"file_name": "images/mahjong/circle_8.png","icon_name": "images/mahjong/circle_8.png"},
+		"e": {"file_name": "images/mahjong/chun.png",    "icon_name": "images/mahjong/chun.png"}
 	},
 	"stages":[
 		{
@@ -40,7 +39,7 @@
 			"message": "HELLO\nMATCH3!!",
 			"rows": 8,
 			"cols": 6,
-			"tiles": ["a", "b", "c", "d", "e", "f"]
+			"tiles": ["a", "b", "c", "d", "e"]
 		}
 	],
 	"assets":[
