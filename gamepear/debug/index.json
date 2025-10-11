@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/10/11 19:00:00",
+	"timestamp": "2025/10/11 20:00:00",
 	"todos": [
 		"01:o SameGameパズルの下準備",
 		"02:  ゲーム性の検討(どうしたら終わるのか等?)似たゲームの起承転結を調べる",
@@ -22,22 +22,22 @@
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"tiles": [
-		{"file_name": "images/mahjong/so_1.png",  "icon_name": ""},
-		{"file_name": "images/mahjong/so_2.png",  "icon_name": ""},
-		{"file_name": "images/mahjong/so_3.png",  "icon_name": ""},
-		{"file_name": "images/mahjong/man_4.png", "icon_name": ""},
-		{"file_name": "images/mahjong/man_5.png", "icon_name": ""},
-		{"file_name": "images/mahjong/man_6.png", "icon_name": ""},
-		{"file_name": "images/mahjong/pin_7.png", "icon_name": ""},
-		{"file_name": "images/mahjong/pin_8.png", "icon_name": ""},
-		{"file_name": "images/mahjong/pin_9.png", "icon_name": ""},
-		{"file_name": "images/mahjong/ton.png",   "icon_name": ""},
-		{"file_name": "images/mahjong/nan.png",   "icon_name": ""},
-		{"file_name": "images/mahjong/sha.png",   "icon_name": ""},
-		{"file_name": "images/mahjong/pe.png",    "icon_name": ""},
-		{"file_name": "images/mahjong/haku.png",  "icon_name": ""},
-		{"file_name": "images/mahjong/hatsu.png", "icon_name": ""},
-		{"file_name": "images/mahjong/chun.png",  "icon_name": ""}
+		{"file_name": "images/mahjong/so_1.png"},
+		{"file_name": "images/mahjong/so_2.png"},
+		{"file_name": "images/mahjong/so_3.png"},
+		{"file_name": "images/mahjong/man_4.png"},
+		{"file_name": "images/mahjong/man_5.png"},
+		{"file_name": "images/mahjong/man_6.png"},
+		{"file_name": "images/mahjong/pin_7.png"},
+		{"file_name": "images/mahjong/pin_8.png"},
+		{"file_name": "images/mahjong/pin_9.png"},
+		{"file_name": "images/mahjong/ton.png"},
+		{"file_name": "images/mahjong/nan.png"},
+		{"file_name": "images/mahjong/sha.png"},
+		{"file_name": "images/mahjong/pe.png"},
+		{"file_name": "images/mahjong/haku.png"},
+		{"file_name": "images/mahjong/hatsu.png"},
+		{"file_name": "images/mahjong/chun.png"}
 	],
 	"stages":[
 		{
@@ -50,7 +50,7 @@
 			"message": "HELLO\nSAMEGAME!!",
 			"rows": 4,
 			"cols": 8,
-			"tiles": 3
+			"tiles": 5
 		}
 	],
 	"assets":[
