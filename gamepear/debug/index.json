@@ -1,7 +1,7 @@
 {
-	"timestamp": "2025/10/11 15:00:00",
+	"timestamp": "2025/10/11 19:00:00",
 	"todos": [
-		"01:o Match3パズルの下準備",
+		"01:o SameGameパズルの下準備",
 		"02:  ゲーム性の検討(どうしたら終わるのか等?)似たゲームの起承転結を調べる",
 		"03:  タイルサイズが小さすぎる",
 		"05:  妖怪等が少しづつタイルを落としていく?",
@@ -21,24 +21,24 @@
 	"ready_anims":[
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
-	"tiles": {
-		"a": {"file_name": "images/mahjong/so_1.png",  "icon_name": ""},
-		"b": {"file_name": "images/mahjong/so_2.png",  "icon_name": ""},
-		"c": {"file_name": "images/mahjong/so_3.png",  "icon_name": ""},
-		"d": {"file_name": "images/mahjong/man_4.png", "icon_name": ""},
-		"e": {"file_name": "images/mahjong/man_5.png", "icon_name": ""},
-		"f": {"file_name": "images/mahjong/man_6.png", "icon_name": ""},
-		"g": {"file_name": "images/mahjong/pin_7.png", "icon_name": ""},
-		"h": {"file_name": "images/mahjong/pin_8.png", "icon_name": ""},
-		"i": {"file_name": "images/mahjong/pin_9.png", "icon_name": ""},
-		"k": {"file_name": "images/mahjong/ton.png",   "icon_name": ""},
-		"l": {"file_name": "images/mahjong/nan.png",   "icon_name": ""},
-		"m": {"file_name": "images/mahjong/sha.png",   "icon_name": ""},
-		"n": {"file_name": "images/mahjong/pe.png",    "icon_name": ""},
-		"o": {"file_name": "images/mahjong/haku.png",  "icon_name": ""},
-		"p": {"file_name": "images/mahjong/hatsu.png", "icon_name": ""},
-		"q": {"file_name": "images/mahjong/chun.png",  "icon_name": ""}
-	},
+	"tiles": [
+		{"file_name": "images/mahjong/so_1.png",  "icon_name": ""},
+		{"file_name": "images/mahjong/so_2.png",  "icon_name": ""},
+		{"file_name": "images/mahjong/so_3.png",  "icon_name": ""},
+		{"file_name": "images/mahjong/man_4.png", "icon_name": ""},
+		{"file_name": "images/mahjong/man_5.png", "icon_name": ""},
+		{"file_name": "images/mahjong/man_6.png", "icon_name": ""},
+		{"file_name": "images/mahjong/pin_7.png", "icon_name": ""},
+		{"file_name": "images/mahjong/pin_8.png", "icon_name": ""},
+		{"file_name": "images/mahjong/pin_9.png", "icon_name": ""},
+		{"file_name": "images/mahjong/ton.png",   "icon_name": ""},
+		{"file_name": "images/mahjong/nan.png",   "icon_name": ""},
+		{"file_name": "images/mahjong/sha.png",   "icon_name": ""},
+		{"file_name": "images/mahjong/pe.png",    "icon_name": ""},
+		{"file_name": "images/mahjong/haku.png",  "icon_name": ""},
+		{"file_name": "images/mahjong/hatsu.png", "icon_name": ""},
+		{"file_name": "images/mahjong/chun.png",  "icon_name": ""}
+	],
 	"stages":[
 		{
 			"title": "01",
@@ -50,7 +50,7 @@
 			"message": "HELLO\nSAMEGAME!!",
 			"rows": 4,
 			"cols": 8,
-			"tiles": ["a", "b", "c", "d", "e", "f", "g", "h", "l", "m", "n", "o"]
+			"tiles": 3
 		}
 	],
 	"assets":[
