@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/10/11 12:00:00",
+	"timestamp": "2025/10/11 13:00:00",
 	"todos": [
 		"01:o Match3パズルの下準備",
 		"02:  ゲーム性の検討(どうしたら終わるのか等?)似たゲームの起承転結を調べる",
@@ -22,17 +22,22 @@
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"tiles": {
-		"a": {"file_name": "images/mahjong/bamb_1.png", "icon_name": ""},
-		"b": {"file_name": "images/mahjong/bamb_2.png", "icon_name": ""},
-		"c": {"file_name": "images/mahjong/bamb_3.png", "icon_name": ""},
-		"d": {"file_name": "images/mahjong/char_4.png", "icon_name": ""},
-		"e": {"file_name": "images/mahjong/char_5.png", "icon_name": ""},
-		"f": {"file_name": "images/mahjong/char_6.png", "icon_name": ""},
-		"g": {"file_name": "images/mahjong/circle_7.png", "icon_name": ""},
-		"h": {"file_name": "images/mahjong/circle_8.png", "icon_name": ""},
-		"i": {"file_name": "images/mahjong/circle_9.png", "icon_name": ""},
-		"j": {"file_name": "images/mahjong/chun.png",   "icon_name": ""},
-		"k": {"file_name": "images/mahjong/hatsu.png",  "icon_name": ""}
+		"a": {"file_name": "images/mahjong/so_1.png",  "icon_name": ""},
+		"b": {"file_name": "images/mahjong/so_2.png",  "icon_name": ""},
+		"c": {"file_name": "images/mahjong/so_3.png",  "icon_name": ""},
+		"d": {"file_name": "images/mahjong/man_4.png", "icon_name": ""},
+		"e": {"file_name": "images/mahjong/man_5.png", "icon_name": ""},
+		"f": {"file_name": "images/mahjong/man_6.png", "icon_name": ""},
+		"g": {"file_name": "images/mahjong/pin_7.png", "icon_name": ""},
+		"h": {"file_name": "images/mahjong/pin_8.png", "icon_name": ""},
+		"i": {"file_name": "images/mahjong/pin_9.png", "icon_name": ""},
+		"k": {"file_name": "images/mahjong/ton.png",   "icon_name": ""},
+		"l": {"file_name": "images/mahjong/nan.png",   "icon_name": ""},
+		"m": {"file_name": "images/mahjong/sha.png",   "icon_name": ""},
+		"n": {"file_name": "images/mahjong/pe.png",    "icon_name": ""},
+		"o": {"file_name": "images/mahjong/haku.png",  "icon_name": ""},
+		"p": {"file_name": "images/mahjong/hatsu.png", "icon_name": ""},
+		"q": {"file_name": "images/mahjong/chun.png",  "icon_name": ""}
 	},
 	"stages":[
 		{
@@ -45,7 +50,7 @@
 			"message": "HELLO\nSAMEGAME!!",
 			"rows": 4,
 			"cols": 8,
-			"tiles": ["a", "b", "c", "d", "e", "f", "g", "h"]
+			"tiles": ["a", "b", "c", "d", "e", "f", "g", "h", "l", "m", "n" "o"]
 		}
 	],
 	"assets":[
