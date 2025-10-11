@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/10/11 23:40:00",
+	"timestamp": "2025/10/11 23:00:00",
 	"todos": [
 		"01:o SameGameパズルの下準備",
 		"02:  ゲーム性の検討(どうしたら終わるのか等?)似たゲームの起承転結を調べる",
@@ -27,9 +27,27 @@
 		{"file_name": "images/mahjong/so_1.png"},
 		{"file_name": "images/mahjong/so_2.png"},
 		{"file_name": "images/mahjong/so_3.png"},
+		{"file_name": "images/mahjong/so_4.png"},
+		{"file_name": "images/mahjong/so_5.png"},
+		{"file_name": "images/mahjong/so_6.png"},
+		{"file_name": "images/mahjong/so_7.png"},
+		{"file_name": "images/mahjong/so_8.png"},
+		{"file_name": "images/mahjong/so_9.png"},
+		{"file_name": "images/mahjong/man_1.png"},
+		{"file_name": "images/mahjong/man_2.png"},
+		{"file_name": "images/mahjong/man_3.png"},
 		{"file_name": "images/mahjong/man_4.png"},
 		{"file_name": "images/mahjong/man_5.png"},
 		{"file_name": "images/mahjong/man_6.png"},
+		{"file_name": "images/mahjong/man_7.png"},
+		{"file_name": "images/mahjong/man_8.png"},
+		{"file_name": "images/mahjong/man_9.png"},
+		{"file_name": "images/mahjong/pin_1.png"},
+		{"file_name": "images/mahjong/pin_2.png"},
+		{"file_name": "images/mahjong/pin_3.png"},
+		{"file_name": "images/mahjong/pin_4.png"},
+		{"file_name": "images/mahjong/pin_5.png"},
+		{"file_name": "images/mahjong/pin_6.png"},
 		{"file_name": "images/mahjong/pin_7.png"},
 		{"file_name": "images/mahjong/pin_8.png"},
 		{"file_name": "images/mahjong/pin_9.png"},
@@ -50,9 +68,9 @@
 			},
 			"bgm": "sounds/bgm_game_01.ogg",
 			"message": "HELLO\nSAMEGAME!!",
-			"rows": 4,
+			"rows": 10,
 			"cols": 8,
-			"tiles": 1
+			"tiles": 3
 		}
 	],
 	"assets":[
