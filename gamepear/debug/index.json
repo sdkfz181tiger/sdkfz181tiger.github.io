@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/10/11 23:30:00",
+	"timestamp": "2025/10/11 23:40:00",
 	"todos": [
 		"01:o SameGameパズルの下準備",
 		"02:  ゲーム性の検討(どうしたら終わるのか等?)似たゲームの起承転結を調べる",
@@ -52,7 +52,7 @@
 			"message": "HELLO\nSAMEGAME!!",
 			"rows": 4,
 			"cols": 8,
-			"tiles": 2
+			"tiles": 1
 		}
 	],
 	"assets":[
