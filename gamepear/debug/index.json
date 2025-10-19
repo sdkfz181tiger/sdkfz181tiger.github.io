@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/10/19 21:00:00",
+	"timestamp": "2025/10/19 22:00:00",
 	"todos": [
 		"01:o SameGameパズルの下準備",
 		"02:  ゲーム性の検討(どうしたら終わるのか等?)似たゲームの起承転結を調べる",
@@ -230,6 +230,7 @@
 		"sounds/se_card_01.ogg",
 		"sounds/se_coin_01.ogg",
 		"sounds/se_damage_01.ogg",
+		"sounds/se_deny_01.ogg", "sounds/se_deny_01.ogg",
 		"sounds/se_dialog_close_01.ogg",
 		"sounds/se_dialog_open_01.ogg",
 		"sounds/se_fire_01.ogg",
@@ -239,6 +240,7 @@
 		"sounds/se_obake_01.ogg", "sounds/se_obake_02.ogg", 
 		"sounds/se_obake_03.ogg",
 		"sounds/se_paku_01.ogg",
+		"sounds/se_pi_01.ogg",
 		"sounds/se_powerup_01.ogg", "sounds/se_powerup_02.ogg",
 		"sounds/se_sword_01.ogg"
 	],
