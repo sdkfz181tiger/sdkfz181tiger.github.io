@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/10/19 23:30:00",
+	"timestamp": "2025/10/19 23:00:00",
 	"todos": [
 		"01:o SameGameパズルの下準備",
 		"02:  ゲーム性の検討(どうしたら終わるのか等?)似たゲームの起承転結を調べる",
@@ -242,8 +242,7 @@
 		"sounds/se_paku_01.mp3",
 		"sounds/se_pi_01.mp3",
 		"sounds/se_powerup_01.mp3", "sounds/se_powerup_02.mp3",
-		"sounds/se_sword_01.mp3",
-		"sounds/se_test_01.mp3", "sounds/se_test_02.mp3"
+		"sounds/se_sword_01.mp3"
 	],
 	"bgms": [
 		"sounds/bgm_ending_01.mp3", "sounds/bgm_ending_02.mp3", 
