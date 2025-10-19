@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/10/19 23:10:00",
+	"timestamp": "2025/10/19 23:50:00",
 	"todos": [
 		"01:o SameGameパズルの下準備",
 		"02:  ゲーム性の検討(どうしたら終わるのか等?)似たゲームの起承転結を調べる",
@@ -67,7 +67,7 @@
 				"file_name": "images/match3/bkg_01.png",
 				"color": [33, 33, 66]
 			},
-			"bgm": "sounds/bgm_game_01.ogg",
+			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSAMEGAME!!",
 			"rows": 4,
 			"cols": 8,
@@ -249,6 +249,7 @@
 		"sounds/bgm_ending_03.ogg", 
 		"sounds/bgm_game_01.ogg", "sounds/bgm_game_02.ogg", 
 		"sounds/bgm_game_03.ogg", "sounds/bgm_game_04.ogg",
+		"sounds/bgm_puzzle_01.ogg", "sounds/bgm_puzzle_02.ogg", 
 		"sounds/bgm_ready_01.ogg", "sounds/bgm_ready_02.ogg",
 		"sounds/bgm_stages_01.ogg",
 		"sounds/bgm_title_01.ogg", "sounds/bgm_title_02.ogg"
