@@ -53,8 +53,8 @@
 		{"file_name": "images/mahjong/chun.png"}
 	],
 	"player": {
-		"shot_speed": 64,
-		"shot_interval": 0.4
+		"shot_interval": 0.1,
+		"shot_speed": 64
 	},
 	"stages": [
 		{
