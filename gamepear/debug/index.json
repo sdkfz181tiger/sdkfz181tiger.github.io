@@ -1,17 +1,19 @@
 {
-	"timestamp": "2025/10/26 21:00:00",
+	"timestamp": "2025/11/01 14:00:00",
 	"todos": [
-		"01:o ShootingGameの下準備"
+		"01:o ShootingGameの下準備",
+		"02:o Playerコントロール",
+		"03:  JSONで射撃速度と間隔"
 	],
 	"admob_int": 99,
-	"archives":[
+	"archives": [
 		"images.zip",
 		"tmx.zip"
 	],
-	"title_anims":[
+	"title_anims": [
 		"kasa_f", "hitotsu_f", "kappa_f"
 	],
-	"ready_anims":[
+	"ready_anims": [
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
 	],
 	"tiles": [
@@ -50,7 +52,11 @@
 		{"file_name": "images/mahjong/hatsu.png"},
 		{"file_name": "images/mahjong/chun.png"}
 	],
-	"stages":[
+	"player": {
+		"shot_speed": 32,
+		"shot_interval": 0.5
+	},
+	"stages": [
 		{
 			"title": "01",
 			"bkg": {
@@ -64,7 +70,7 @@
 			"tiles": 5
 		}
 	],
-	"assets":[
+	"assets": [
 		"images/base/bkg_bottom.png",
 		"images/base/bkg_top.png",
 		"images/base/block_24x12_01.png",
