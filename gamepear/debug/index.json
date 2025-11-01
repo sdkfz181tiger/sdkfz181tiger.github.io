@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/01 13:00:00",
+	"timestamp": "2025/11/01 14:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -53,8 +53,8 @@
 		{"file_name": "images/mahjong/chun.png"}
 	],
 	"player": {
-		"shot_interval": 0.1,
-		"shot_speed": 64
+		"shot_speed": 64,
+		"shot_interval": 0.1
 	},
 	"stages": [
 		{
