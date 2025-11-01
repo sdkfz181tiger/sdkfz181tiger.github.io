@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/01 20:00:00",
+	"timestamp": "2025/11/01 21:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -54,7 +54,7 @@
 	],
 	"player": {
 		"shot_speed": 64,
-		"shot_interval": 0.1
+		"shot_interval": 1.0
 	},
 	"stages": [
 		{
