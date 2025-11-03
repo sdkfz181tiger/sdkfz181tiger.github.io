@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/03 14:00:00",
+	"timestamp": "2025/11/03 13:10:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -62,6 +62,11 @@
 		"shot_speed": 64,
 		"shot_interval": 0.2
 	},
+	"invaders": {
+		"a": {"frame_name": "inv_01", "life": 1, "shot_speed": 8},
+		"b": {"frame_name": "inv_02", "life": 2, "shot_speed": 16},
+		"c": {"frame_name": "inv_03", "life": 3, "shot_speed": 32}
+	},
 	"stages": [
 		{
 			"title": "01",
@@ -72,7 +77,12 @@
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTING GAME!!",
 			"convoy": {
-				"rows": 3, "cols": 3
+				"rows": 3, "cols": 3,
+				"formation": [
+					"ccc",
+					"bbb",
+					"aaa"
+				]
 			}
 		}
 	],
