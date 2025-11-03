@@ -6,7 +6,10 @@
 		"03:o JSONで射撃速度と間隔",
 		"04:o Convoyの左右移動",
 		"05:o Convoyの下移動",
-		"06:  Convoyのリセット"
+		"06:o Convoyのリセット",
+		"07:  ConvoyのJSON配置",
+		"08:  Invaderの速度やLife",
+		"09:  Invaderからの攻撃間隔"
 	],
 	"admob_int": 99,
 	"archives": [
@@ -68,8 +71,10 @@
 			},
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTING GAME!!",
-			"rows": 8,
-			"cols": 8
+			"convoy": {
+				"rows": 4,
+				"cols": 6
+			}
 		}
 	],
 	"assets": [
