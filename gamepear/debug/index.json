@@ -81,14 +81,17 @@
 				"color": [33, 33, 66]
 			},
 			"bgm": "sounds/bgm_puzzle_01.ogg",
-			"message": "HELLO\nSHOOTING GAME!!",
+			"message": "HELLO\nSHOOTER!!",
 			"convoy": {
-				"rows": 3, "cols": 3,
+				"rows": 6, "cols": 8,
 				"pad": 4, "spd": 2,
 				"formation": [
-					"g h",
-					"def",
-					"abc"
+					" h gg h ",
+					" ffggff ",
+					" eeeeee "
+					"ccddddcc",
+					"bbbbbbbb",
+					"aaaaaaaa"
 				]
 			}
 		}
