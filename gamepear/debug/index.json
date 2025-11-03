@@ -60,7 +60,7 @@
 	],
 	"player": {
 		"shot_speed": 64,
-		"shot_interval": 1.2
+		"shot_interval": 0.2
 	},
 	"invaders": {
 		" ": {"frame_name": "",       "life": 0, "shot_speed": 0},
