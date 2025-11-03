@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/03 13:00:00",
+	"timestamp": "2025/11/03 13:30:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -60,7 +60,7 @@
 	],
 	"player": {
 		"shot_speed": 64,
-		"shot_interval": 0.2
+		"shot_interval": 1.2
 	},
 	"invaders": {
 		"a": {"frame_name": "inv_01", "life": 1, "shot_speed": 8},
