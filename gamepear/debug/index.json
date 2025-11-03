@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/03 13:10:00",
+	"timestamp": "2025/11/03 13:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -78,6 +78,7 @@
 			"message": "HELLO\nSHOOTING GAME!!",
 			"convoy": {
 				"rows": 3, "cols": 3,
+				"pad": 6, "spd": 8,
 				"formation": [
 					"ccc",
 					"bbb",
