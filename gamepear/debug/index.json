@@ -78,7 +78,7 @@
 			"message": "HELLO\nSHOOTING GAME!!",
 			"convoy": {
 				"rows": 3, "cols": 3,
-				"pad": 6, "spd": 8,
+				"pad": 4, "spd": 2,
 				"formation": [
 					"ccc",
 					"bbb",
