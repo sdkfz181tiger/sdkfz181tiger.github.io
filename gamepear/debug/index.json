@@ -1,11 +1,12 @@
 {
-	"timestamp": "2025/11/02 18:00:00",
+	"timestamp": "2025/11/03 12:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
 		"03:o JSONで射撃速度と間隔",
 		"04:o Convoyの左右移動",
-		"05:  Convoyの下移動"
+		"05:o Convoyの下移動",
+		"06:  Convoyのリセット"
 	],
 	"admob_int": 99,
 	"archives": [
@@ -56,7 +57,7 @@
 	],
 	"player": {
 		"shot_speed": 64,
-		"shot_interval": 0.4
+		"shot_interval": 10.0
 	},
 	"stages": [
 		{
