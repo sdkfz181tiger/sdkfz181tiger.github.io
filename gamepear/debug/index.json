@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/03 13:50:00",
+	"timestamp": "2025/11/03 14:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -63,6 +63,7 @@
 		"shot_interval": 1.2
 	},
 	"invaders": {
+		" ": {"frame_name": "",       "life": 0, "shot_speed": 0},
 		"a": {"frame_name": "inv_01", "life": 1, "shot_speed": 8},
 		"b": {"frame_name": "inv_02", "life": 1, "shot_speed": 12},
 		"c": {"frame_name": "inv_03", "life": 2, "shot_speed": 16},
@@ -85,7 +86,7 @@
 				"rows": 3, "cols": 3,
 				"pad": 4, "spd": 2,
 				"formation": [
-					"gha",
+					"g h",
 					"def",
 					"abc"
 				]
