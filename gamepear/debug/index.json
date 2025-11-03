@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/03 12:00:00",
+	"timestamp": "2025/11/03 13:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -57,7 +57,7 @@
 	],
 	"player": {
 		"shot_speed": 64,
-		"shot_interval": 10.0
+		"shot_interval": 1.0
 	},
 	"stages": [
 		{
@@ -69,8 +69,7 @@
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTING GAME!!",
 			"rows": 8,
-			"cols": 8,
-			"tiles": 5
+			"cols": 8
 		}
 	],
 	"assets": [
