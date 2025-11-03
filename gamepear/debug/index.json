@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/03 13:00:00",
+	"timestamp": "2025/11/03 12:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -72,8 +72,7 @@
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTING GAME!!",
 			"convoy": {
-				"rows": 4,
-				"cols": 6
+				"rows": 4, "cols": 6
 			}
 		}
 	],
