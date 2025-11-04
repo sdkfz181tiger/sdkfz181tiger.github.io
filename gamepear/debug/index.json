@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/04 20:00:00",
+	"timestamp": "2025/11/04 22:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -9,7 +9,7 @@
 		"06:o Convoyのリセット",
 		"07:o ConvoyのJSON配置",
 		"08:o Invaderの速度やLife",
-		"09:  Invaderからの攻撃&間隔"
+		"09:o Invaderからの攻撃&間隔"
 	],
 	"admob_int": 99,
 	"archives": [
@@ -64,14 +64,14 @@
 	},
 	"invaders": {
 		" ": {"frame_name": "",       "life": 0, "shot_speed": 0},
-		"a": {"frame_name": "inv_01", "life": 1, "shot_speed": 8},
-		"b": {"frame_name": "inv_02", "life": 1, "shot_speed": 12},
-		"c": {"frame_name": "inv_03", "life": 2, "shot_speed": 16},
-		"d": {"frame_name": "inv_04", "life": 2, "shot_speed": 20},
-		"e": {"frame_name": "inv_05", "life": 3, "shot_speed": 24},
-		"f": {"frame_name": "inv_06", "life": 3, "shot_speed": 28},
-		"g": {"frame_name": "inv_07", "life": 4, "shot_speed": 32},
-		"h": {"frame_name": "inv_08", "life": 4, "shot_speed": 36}
+		"a": {"frame_name": "inv_01", "life": 1, "shot_speed": 6},
+		"b": {"frame_name": "inv_02", "life": 1, "shot_speed": 6},
+		"c": {"frame_name": "inv_03", "life": 2, "shot_speed": 8},
+		"d": {"frame_name": "inv_04", "life": 2, "shot_speed": 8},
+		"e": {"frame_name": "inv_05", "life": 3, "shot_speed": 10},
+		"f": {"frame_name": "inv_06", "life": 3, "shot_speed": 10},
+		"g": {"frame_name": "inv_07", "life": 4, "shot_speed": 12},
+		"h": {"frame_name": "inv_08", "life": 4, "shot_speed": 12}
 	},
 	"stages": [
 		{
