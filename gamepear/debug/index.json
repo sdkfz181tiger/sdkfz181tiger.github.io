@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/03 19:00:00",
+	"timestamp": "2025/11/04 20:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -9,8 +9,7 @@
 		"06:o Convoyのリセット",
 		"07:o ConvoyのJSON配置",
 		"08:o Invaderの速度やLife",
-		"09:  Invaderからの攻撃&間隔",
-		"10:  "
+		"09:  Invaderからの攻撃&間隔"
 	],
 	"admob_int": 99,
 	"archives": [
@@ -61,7 +60,7 @@
 	],
 	"player": {
 		"shot_speed": 64,
-		"shot_interval": 0.2
+		"shot_interval": 1.2
 	},
 	"invaders": {
 		" ": {"frame_name": "",       "life": 0, "shot_speed": 0},
