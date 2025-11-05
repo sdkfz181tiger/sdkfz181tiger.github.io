@@ -64,15 +64,15 @@
 		"shot_interval": 0.4
 	},
 	"invaders": {
-		" ": {"key": "",       "life_max": 0, "shot_speed": 0,  "score": 0},
-		"a": {"key": "inv_01", "life_max": 1, "shot_speed": 6,  "score": 1},
-		"b": {"key": "inv_02", "life_max": 1, "shot_speed": 6,  "score": 1},
-		"c": {"key": "inv_03", "life_max": 1, "shot_speed": 8,  "score": 1},
-		"d": {"key": "inv_04", "life_max": 2, "shot_speed": 8,  "score": 2},
-		"e": {"key": "inv_05", "life_max": 2, "shot_speed": 10, "score": 2},
-		"f": {"key": "inv_06", "life_max": 2, "shot_speed": 10, "score": 2},
-		"g": {"key": "inv_07", "life_max": 3, "shot_speed": 12, "score": 3},
-		"h": {"key": "inv_08", "life_max": 3, "shot_speed": 12, "score": 3}
+		" ": {"name": "",       "life_max": 0, "shot_speed": 0,  "score": 0},
+		"a": {"name": "inv_01", "life_max": 1, "shot_speed": 6,  "score": 1},
+		"b": {"name": "inv_02", "life_max": 1, "shot_speed": 6,  "score": 1},
+		"c": {"name": "inv_03", "life_max": 1, "shot_speed": 8,  "score": 1},
+		"d": {"name": "inv_04", "life_max": 2, "shot_speed": 8,  "score": 2},
+		"e": {"name": "inv_05", "life_max": 2, "shot_speed": 10, "score": 2},
+		"f": {"name": "inv_06", "life_max": 2, "shot_speed": 10, "score": 2},
+		"g": {"name": "inv_07", "life_max": 3, "shot_speed": 12, "score": 3},
+		"h": {"name": "inv_08", "life_max": 3, "shot_speed": 12, "score": 3}
 	},
 	"stages": [
 		{
