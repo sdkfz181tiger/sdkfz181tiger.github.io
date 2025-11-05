@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/04 22:00:00",
+	"timestamp": "2025/11/05 19:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -60,18 +60,18 @@
 	],
 	"player": {
 		"shot_speed": 64,
-		"shot_interval": 1.2
+		"shot_interval": 0.4
 	},
 	"invaders": {
-		" ": {"frame_name": "",       "life": 0, "shot_speed": 0},
-		"a": {"frame_name": "inv_01", "life": 1, "shot_speed": 6},
-		"b": {"frame_name": "inv_02", "life": 1, "shot_speed": 6},
-		"c": {"frame_name": "inv_03", "life": 2, "shot_speed": 8},
-		"d": {"frame_name": "inv_04", "life": 2, "shot_speed": 8},
-		"e": {"frame_name": "inv_05", "life": 3, "shot_speed": 10},
-		"f": {"frame_name": "inv_06", "life": 3, "shot_speed": 10},
-		"g": {"frame_name": "inv_07", "life": 4, "shot_speed": 12},
-		"h": {"frame_name": "inv_08", "life": 4, "shot_speed": 12}
+		" ": {"frame_name": "",       "life": 0, "shot_speed": 0,  "score": 0},
+		"a": {"frame_name": "inv_01", "life": 1, "shot_speed": 6,  "score": 1},
+		"b": {"frame_name": "inv_02", "life": 1, "shot_speed": 6,  "score": 1},
+		"c": {"frame_name": "inv_03", "life": 1, "shot_speed": 8,  "score": 1},
+		"d": {"frame_name": "inv_04", "life": 2, "shot_speed": 8,  "score": 2},
+		"e": {"frame_name": "inv_05", "life": 2, "shot_speed": 10, "score": 2},
+		"f": {"frame_name": "inv_06", "life": 2, "shot_speed": 10, "score": 2},
+		"g": {"frame_name": "inv_07", "life": 3, "shot_speed": 12, "score": 3},
+		"h": {"frame_name": "inv_08", "life": 3, "shot_speed": 12, "score": 3}
 	},
 	"stages": [
 		{
