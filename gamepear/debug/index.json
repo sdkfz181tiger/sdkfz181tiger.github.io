@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/05 23:00:00",
+	"timestamp": "2025/11/06 21:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -84,15 +84,12 @@
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTER!!",
 			"convoy": {
-				"rows": 5, "cols": 8,
+				"rows": 2, "cols": 2,
 				"pad": 4, "spd": 2,
 				"shot_interval": 3.0,
 				"formation": [
-					" h gg h ",
-					" efggfe ",
-					"ccdeedcc",
-					"bbdccdbb",
-					"aabbabba"
+					"bb",
+					"aa"
 				]
 			}
 		}
