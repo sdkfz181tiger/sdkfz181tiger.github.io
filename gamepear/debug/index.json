@@ -87,7 +87,7 @@
 				"rows": 2, "cols": 2,
 				"pad": 4, "spd": 2,
 				"shot_interval": 3.0,
-				"keys": [
+				"lines": [
 					"bb",
 					"aa"
 				]
