@@ -69,7 +69,12 @@
 		"g": {"name": "inv_07", "life_max": 3, "shot_speed": 12, "score": 3},
 		"h": {"name": "inv_08", "life_max": 3, "shot_speed": 12, "score": 3}
 	},
-	"walk_patterns": {
+	"snakes": {
+		"a": {"name": "inv_01", "life_max": 1, "shot_speed": 6,  "score": 1},
+		"b": {"name": "inv_02", "life_max": 1, "shot_speed": 6,  "score": 1},
+		"c": {"name": "inv_03", "life_max": 1, "shot_speed": 8,  "score": 1}
+	},
+	"snake_walks": {
 		"a": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
 			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
