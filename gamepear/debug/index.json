@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/06 23:00:00",
+	"timestamp": "2025/11/08 15:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"02:o Playerコントロール",
@@ -61,7 +61,7 @@
 	],
 	"player": {
 		"shot_speed": 64,
-		"shot_interval": 0.4
+		"shot_interval": 1.2
 	},
 	"invaders": {
 		" ": {"name": "",       "life_max": 0, "shot_speed": 0,  "score": 0},
@@ -74,6 +74,22 @@
 		"g": {"name": "inv_07", "life_max": 3, "shot_speed": 12, "score": 3},
 		"h": {"name": "inv_08", "life_max": 3, "shot_speed": 12, "score": 3}
 	},
+	"walks": {
+		"a": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
+			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
+			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
+			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
+			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
+			{"spd": 16, "deg":  0.0, "curve":    0.0, "time": 0.4}],
+		"b": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
+			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
+			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
+			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
+			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
+			{"spd": 16, "deg":  0.0, "curve":    0.0, "time": 0.4}]
+	},
 	"stages": [
 		{
 			"title": "01",
@@ -84,12 +100,13 @@
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTER!!",
 			"formation": {
-				"rows": 2, "cols": 2,
+				"rows": 3, "cols": 7,
 				"pad": 4, "spd": 2,
-				"shot_interval": 3.0,
+				"shot_interval": 8.0,
 				"lines": [
-					"bb",
-					"aa"
+					"ccccccc",
+					"bbbbbbb",
+					"aaaaaaa"
 				]
 			}
 		}
