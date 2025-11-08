@@ -1,12 +1,7 @@
 {
-	"timestamp": "2025/11/08 15:00:00",
+	"timestamp": "2025/11/08 17:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
-		"02:o Playerコントロール",
-		"03:o JSONで射撃速度と間隔",
-		"04:o Convoyの左右移動",
-		"05:o Convoyの下移動",
-		"06:o Convoyのリセット",
 		"07:o ConvoyのJSON配置",
 		"08:o Invaderの速度やLife",
 		"09:o Invaderからの攻撃&間隔",
@@ -74,7 +69,7 @@
 		"g": {"name": "inv_07", "life_max": 3, "shot_speed": 12, "score": 3},
 		"h": {"name": "inv_08", "life_max": 3, "shot_speed": 12, "score": 3}
 	},
-	"walks": {
+	"walk_patterns": {
 		"a": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
 			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
