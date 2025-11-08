@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/08 23:00:00",
+	"timestamp": "2025/11/08 23:30:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"07:o ConvoyのJSON配置",
@@ -76,14 +76,14 @@
 			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
 			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
 			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve":    0.0, "time": 3.0}],
+			{"spd": 16, "deg":  0.0, "curve":    0.0, "time": 2.0}],
 		"b": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
 			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
 			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
 			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
 			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve":    0.0, "time": 3.0}]
+			{"spd": 16, "deg":  0.0, "curve":    0.0, "time": 2.0}]
 	},
 	"stages": [
 		{
