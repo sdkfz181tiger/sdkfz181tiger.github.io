@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/09 16:00:00",
+	"timestamp": "2025/11/09 17:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"07:o ConvoyのJSON配置",
@@ -115,8 +115,7 @@
 				"color": [33, 33, 66]
 			},
 			"bgm": "sounds/bgm_puzzle_01.ogg",
-			"message": "HELLO\nSHOOTER!!",
-			"invader_formation": "a"
+			"message": "HELLO\nSHOOTER!!"
 		}
 	],
 	"assets": [
