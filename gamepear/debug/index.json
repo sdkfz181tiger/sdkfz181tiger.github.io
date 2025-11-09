@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/09 17:30:00",
+	"timestamp": "2025/11/09 17:40:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"07:o ConvoyのJSON配置",
@@ -75,7 +75,7 @@
 			"pad": 4, "spd": 2,
 			"shot_interval": 8.0,
 			"lines": [
-				"ccccccc",
+				" cc cc ",
 				"bbbbbbb",
 				"aaaaaaa"
 			]
