@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/09 23:00:00",
+	"timestamp": "2025/11/09 23:30:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"07:o ConvoyのJSON配置",
@@ -116,9 +116,9 @@
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTER!!",
 			"spawns": [
-				{"limit": 3.0, "snakes":[
+				{"limit": 5.0, "snakes":[
 					{"x":  0, "y": 0, "walk": "a"}]},
-				{"limit": 3.0, "snakes":[
+				{"limit": 1.0, "snakes":[
 					{"x": -5, "y": 0, "walk": "a"},
 					{"x":  5, "y": 0, "walk": "b"}]}
 			]
