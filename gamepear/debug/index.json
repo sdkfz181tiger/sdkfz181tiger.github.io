@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/09 17:50:00",
+	"timestamp": "2025/11/09 17:55:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"07:o ConvoyのJSON配置",
@@ -59,7 +59,6 @@
 		"shot_interval": 1.2
 	},
 	"enemies": {
-		"_": {"name": "space",  "life_max": 0, "shot_speed": 0,  "score": 0},
 		"a": {"name": "inv_01", "life_max": 1, "shot_speed": 6,  "score": 1},
 		"b": {"name": "inv_02", "life_max": 1, "shot_speed": 6,  "score": 1},
 		"c": {"name": "inv_03", "life_max": 1, "shot_speed": 8,  "score": 1},
