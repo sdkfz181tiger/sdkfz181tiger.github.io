@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/10 20:00:00",
+	"timestamp": "2025/11/10 21:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"10:  "
@@ -131,18 +131,16 @@
 					"invaders": [
 						{"x":  0, "y": 0, "formation": "a"}],
 					"snakes":[
-						{"x":  0, "y": 0, "walk": "a"}]},
+						{"x": 10, "y": 0, "walk": "a"}]},
+				{"next": 4.0, 
+					"invaders": [],
+					"snakes":[
+						{"x":-10, "y": 0, "walk": "b"}]},
 				{"next": 8.0, 
 					"invaders": [],
 					"snakes":[
-						{"x": -5, "y": 0, "walk": "a"},
-						{"x":  5, "y": 0, "walk": "b"}]},
-				{"next": 8.0, 
-					"invaders": [],
-					"snakes":[
-						{"x": -5, "y": 0, "walk": "a"},
-						{"x":  0, "y": 0, "walk": "b"},
-						{"x":  5, "y": 0, "walk": "c"}]}
+						{"x": 10, "y": 0, "walk": "a"},
+						{"x":-10, "y": 0, "walk": "b"}]}
 			]
 		}
 	],
