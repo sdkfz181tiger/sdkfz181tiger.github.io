@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/10 21:00:00",
+	"timestamp": "2025/11/10 22:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"10:  "
@@ -89,26 +89,22 @@
 	},
 	"snake_walks": {
 		"a": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 2.0},
+			{"spd": 16, "deg": -1.0, "curve":  180.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve": -180.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "time": 2.0}],
+		"b": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 2.0},
+			{"spd": 16, "deg": -1.0, "curve": -180.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  180.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "time": 2.0}],
+		"y": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
 			{"spd": 16, "deg":  0.0, "curve":    0.0, "time": 1.0},
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.0},
 			{"spd": 16, "deg":180.0, "curve":    0.0, "time": 1.0},
 			{"spd": 16, "deg":270.0, "curve":    0.0, "time": 1.0},
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 5.0}],
-		"b": [
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
-			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":  360.0, "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":  360.0, "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":    0.0, "time": 5.0}],
-		"c": [
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
-			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":  360.0, "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":  360.0, "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":    0.0, "time": 5.0}],
 		"z": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
 			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
