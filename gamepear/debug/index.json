@@ -1,10 +1,7 @@
 {
-	"timestamp": "2025/11/10 02:30:00",
+	"timestamp": "2025/11/10 19:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
-		"07:o ConvoyのJSON配置",
-		"08:o Invaderの速度やLife",
-		"09:o Invaderからの攻撃&間隔",
 		"10:  "
 	],
 	"admob_int": 99,
@@ -56,7 +53,7 @@
 	],
 	"player": {
 		"shot_speed": 64,
-		"shot_interval": 1.2
+		"shot_interval": 0.2
 	},
 	"enemies": {
 		"a": {"name": "inv_01", "life_max": 1, "shot_speed": 6,  "score": 1},
@@ -93,25 +90,32 @@
 	"snake_walks": {
 		"a": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
-			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve":    0.0, "time": 5.0}],
+			{"spd": 16, "deg":  0.0, "curve":    0.0, "time": 1.0},
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.0},
+			{"spd": 16, "deg":180.0, "curve":    0.0, "time": 1.0},
+			{"spd": 16, "deg":270.0, "curve":    0.0, "time": 1.0},
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 5.0}],
 		"b": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
-			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve":    0.0, "time": 5.0}],
+			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  360.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  360.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "time": 5.0}],
 		"c": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
-			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve": -360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve":  360.0, "time": 1.0},
-			{"spd": 16, "deg":  0.0, "curve":    0.0, "time": 5.0}]
+			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  360.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  360.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "time": 5.0}],
+		"z": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 1.4},
+			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  360.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  360.0, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "time": 5.0}]
 	},
 	"stages": [
 		{
