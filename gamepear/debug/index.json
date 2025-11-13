@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/12 23:00:00",
+	"timestamp": "2025/11/13 20:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"10:  地上物クラス & 地上基地の連動クラス"
@@ -56,14 +56,16 @@
 		"shot_interval": 0.2
 	},
 	"enemies": {
-		"a": {"name": "inv_01", "life_max": 1, "shot_speed": 6,  "score": 1},
-		"b": {"name": "inv_02", "life_max": 1, "shot_speed": 6,  "score": 1},
-		"c": {"name": "inv_03", "life_max": 1, "shot_speed": 8,  "score": 1},
-		"d": {"name": "inv_04", "life_max": 2, "shot_speed": 8,  "score": 2},
-		"e": {"name": "inv_05", "life_max": 2, "shot_speed": 10, "score": 2},
-		"f": {"name": "inv_06", "life_max": 2, "shot_speed": 10, "score": 2},
-		"g": {"name": "inv_07", "life_max": 3, "shot_speed": 12, "score": 3},
-		"h": {"name": "inv_08", "life_max": 3, "shot_speed": 12, "score": 3}
+		"a": {"name": "inv_01",    "life_max": 1, "shot_speed": 6,  "score": 1},
+		"b": {"name": "inv_02",    "life_max": 1, "shot_speed": 6,  "score": 1},
+		"c": {"name": "inv_03",    "life_max": 1, "shot_speed": 8,  "score": 1},
+		"d": {"name": "inv_04",    "life_max": 2, "shot_speed": 8,  "score": 2},
+		"e": {"name": "inv_05",    "life_max": 2, "shot_speed": 10, "score": 2},
+		"f": {"name": "inv_06",    "life_max": 2, "shot_speed": 10, "score": 2},
+		"g": {"name": "inv_07",    "life_max": 3, "shot_speed": 12, "score": 3},
+		"h": {"name": "inv_08",    "life_max": 3, "shot_speed": 12, "score": 3},
+		"o": {"name": "pbox_b_01", "life_max": 1, "shot_speed": 6,  "score": 1},
+		"p": {"name": "pbox_b_02", "life_max": 1, "shot_speed": 6,  "score": 1}
 	},
 	"invader_formations": {
 		"a": {
@@ -112,6 +114,17 @@
 			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
 			{"spd": 16, "deg": -1.0, "curve":  360.0, "time": 1.0},
 			{"spd": 16, "deg": -1.0, "curve":    0.0, "time": 5.0}]
+	},
+	"island_formations": {
+		"a": {
+			"file_name": "images/stg/bkg_island_a.png",
+			"rows": 3, "cols": 3,
+			"lines": [
+				"ooo",
+				"ppp",
+				"ooo"
+			]
+		}
 	},
 	"stages": [
 		{
