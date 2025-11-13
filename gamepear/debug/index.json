@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/13 20:00:00",
+	"timestamp": "2025/11/13 23:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"10:  地上物クラス & 地上基地の連動クラス"
@@ -117,7 +117,7 @@
 	},
 	"island_formations": {
 		"a": {
-			"file_name": "images/stg/bkg_island_a.png",
+			"file_name": "images/stg/bkg_island_01.png",
 			"rows": 3, "cols": 3,
 			"lines": [
 				"ooo",
