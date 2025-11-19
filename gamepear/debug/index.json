@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/19 19:00:00",
+	"timestamp": "2025/11/19 20:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"10:  地上物クラス & 地上基地の連動クラス",
@@ -116,17 +116,6 @@
 			{"spd": 16, "deg": -1.0, "curve": -360.0, "time": 1.0},
 			{"spd": 16, "deg": -1.0, "curve":  360.0, "time": 1.0},
 			{"spd": 16, "deg": -1.0, "curve":    0.0, "time": 5.0}]
-	},
-	"island_formations": {
-		"a": {
-			"file_name": "images/stg/bkg_island_01.png",
-			"rows": 3, "cols": 3, "pad": 16,
-			"lines": [
-				"ooo",
-				"ppp",
-				"ooo"
-			]
-		}
 	},
 	"stages": [
 		{
