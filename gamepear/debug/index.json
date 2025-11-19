@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/19 21:00:00",
+	"timestamp": "2025/11/19 19:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"10:  地上物クラス & 地上基地の連動クラス",
@@ -8,11 +8,8 @@
 	"admob_int": 99,
 	"archives": [
 		"images.zip",
-		"jsons.zip"
-	],
-	"jsons": [
-		{"key": "animations", "file_name": "jsons/animations.json"},
-		{"key": "images",     "file_name": "jsons/images.json"}
+		"jsons/animations.json",
+		"jsons/images.json"
 	],
 	"title_anims": [
 		"kasa_f", "hitotsu_f", "kappa_f"
