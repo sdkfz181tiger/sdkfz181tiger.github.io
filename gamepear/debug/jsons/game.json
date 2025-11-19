@@ -89,41 +89,5 @@
 						{"x":-14, "y": 0, "enemy": "b", "walk": "b"}]}
 			]
 		}
-	],
-	"tiles": [
-		{"file_name": "images/mahjong/so_1.png"},
-		{"file_name": "images/mahjong/so_2.png"},
-		{"file_name": "images/mahjong/so_3.png"},
-		{"file_name": "images/mahjong/so_4.png"},
-		{"file_name": "images/mahjong/so_5.png"},
-		{"file_name": "images/mahjong/so_6.png"},
-		{"file_name": "images/mahjong/so_7.png"},
-		{"file_name": "images/mahjong/so_8.png"},
-		{"file_name": "images/mahjong/so_9.png"},
-		{"file_name": "images/mahjong/man_1.png"},
-		{"file_name": "images/mahjong/man_2.png"},
-		{"file_name": "images/mahjong/man_3.png"},
-		{"file_name": "images/mahjong/man_4.png"},
-		{"file_name": "images/mahjong/man_5.png"},
-		{"file_name": "images/mahjong/man_6.png"},
-		{"file_name": "images/mahjong/man_7.png"},
-		{"file_name": "images/mahjong/man_8.png"},
-		{"file_name": "images/mahjong/man_9.png"},
-		{"file_name": "images/mahjong/pin_1.png"},
-		{"file_name": "images/mahjong/pin_2.png"},
-		{"file_name": "images/mahjong/pin_3.png"},
-		{"file_name": "images/mahjong/pin_4.png"},
-		{"file_name": "images/mahjong/pin_5.png"},
-		{"file_name": "images/mahjong/pin_6.png"},
-		{"file_name": "images/mahjong/pin_7.png"},
-		{"file_name": "images/mahjong/pin_8.png"},
-		{"file_name": "images/mahjong/pin_9.png"},
-		{"file_name": "images/mahjong/ton.png"},
-		{"file_name": "images/mahjong/nan.png"},
-		{"file_name": "images/mahjong/sha.png"},
-		{"file_name": "images/mahjong/pe.png"},
-		{"file_name": "images/mahjong/haku.png"},
-		{"file_name": "images/mahjong/hatsu.png"},
-		{"file_name": "images/mahjong/chun.png"}
 	]
 }
