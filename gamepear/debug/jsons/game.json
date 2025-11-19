@@ -72,6 +72,7 @@
 			},
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTER!!",
+			"map": ["a", "b", "c"],
 			"spawns": [
 				{"next": 4.0, 
 					"invaders": [
@@ -89,5 +90,40 @@
 						{"x":-14, "y": 0, "enemy": "b", "walk": "b"}]}
 			]
 		}
-	]
+	],
+	"stage_tiles": {
+		"a": {"file_name": "images/stg/camp_01.png"},
+		"b": {"file_name": "images/stg/camp_02.png"},
+		"c": {"file_name": "images/stg/camp_03.png"},
+		"d": {"file_name": "images/stg/camp_04.png"},
+		"e": {"file_name": "images/stg/island_9p_01.png"},
+		"f": {"file_name": "images/stg/island_9p_02.png"},
+		"g": {"file_name": "images/stg/island_9p_03.png"},
+		"h": {"file_name": "images/stg/island_9p_04.png"},
+		"i": {"file_name": "images/stg/island_9p_05.png"},
+		"j": {"file_name": "images/stg/island_9p_06.png"},
+		"k": {"file_name": "images/stg/island_9p_07.png"},
+		"l": {"file_name": "images/stg/island_9p_08.png"},
+		"m": {"file_name": "images/stg/island_9p_09.png"}
+	},
+	"stage_maps": {
+		"a": [
+			["a        "],
+			["b        "],
+			["c        "],
+			["d        "],
+			["e        "]],
+		"b": [
+			["  a      "],
+			["  b      "],
+			["  c      "],
+			["  d      "],
+			["  e      "]],
+		"c": [
+			["    a    "],
+			["    b    "],
+			["    c    "],
+			["    d    "],
+			["    e    "]]
+	}
 }
