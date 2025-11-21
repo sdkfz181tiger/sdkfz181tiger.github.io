@@ -1,9 +1,9 @@
 {
-	"timestamp": "2025/11/19 22:00:00",
+	"timestamp": "2025/11/21 13:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"10:  地上物クラス & 地上基地の連動クラス",
-		"11:  Jsonを複数ロード!?"
+		"12:  ScrollManagerからSpawn!!"
 	],
 	"admob_int": 99,
 	"archives": [
