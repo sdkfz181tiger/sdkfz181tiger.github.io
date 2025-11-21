@@ -74,16 +74,19 @@
 			"message": "HELLO\nSHOOTER!!",
 			"islands": ["a", "b", "c"],
 			"spawns": [
-				{"next": 16, 
+				{"next": 15, 
 					"formations": [
 						{"x":  0, "y": 0, "formation": "a"}],
+					"walks":[]},
+				{"next": 1, 
+					"formations": [],
 					"walks":[
 						{"x": 14, "y": 0, "enemy": "a", "walk": "a"}]},
-				{"next": 2, 
+				{"next": 1, 
 					"formations": [],
 					"walks":[
 						{"x":-14, "y": 0, "enemy": "a", "walk": "b"}]},
-				{"next": 2, 
+				{"next": 1, 
 					"formations": [],
 					"walks":[
 						{"x": 14, "y": 0, "enemy": "b", "walk": "a"},
