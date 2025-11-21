@@ -15,7 +15,7 @@
 		"o": {"name": "pbox_b_01", "life_max": 1, "shot_speed": 6,  "score": 1},
 		"p": {"name": "pbox_b_02", "life_max": 1, "shot_speed": 6,  "score": 1}
 	},
-	"enemies_formations": {
+	"invader_formations": {
 		"a": {
 			"rows": 3, "cols": 7,
 			"pad": 4, "spd": 2,
@@ -37,7 +37,7 @@
 			]
 		}
 	},
-	"enemies_walks": {
+	"snake_walks": {
 		"a": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "time": 2.0},
 			{"spd": 16, "deg": -1.0, "curve":  180.0, "time": 1.0},
