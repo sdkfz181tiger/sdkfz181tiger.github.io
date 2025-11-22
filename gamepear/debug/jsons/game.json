@@ -76,26 +76,26 @@
 			"spawns": [
 				{"next": 1, 
 					"invaders": [
-						{"x":  0, "y": 0, "key": "a"}],
+						{"x":  0, "y": 0, "key_invader": "a"}],
 					"snakes":[],
 					"islands":[
-						{"x": 0, "y": 0, "key": "a"}
+						{"x": 0, "y": 0, "key_island": "a"}
 					]},
 				{"next": 1, 
 					"invaders": [],
 					"snakes":[
-						{"x": 14, "y": 0, "enemy": "a", "key": "a"}],
+						{"x": 14, "y": 0, "key_enemy": "a", "key_walk": "a"}],
 					"islands":[]},
 				{"next": 1, 
 					"invaders": [],
 					"snakes":[
-						{"x":-14, "y": 0, "enemy": "a", "key": "b"}],
+						{"x":-14, "y": 0, "key_enemy": "a", "key_walk": "b"}],
 					"islands":[]},
 				{"next": 1, 
 					"invaders": [],
 					"snakes":[
-						{"x": 14, "y": 0, "enemy": "b", "key": "a"},
-						{"x":-14, "y": 0, "enemy": "b", "key": "b"}],
+						{"x": 14, "y": 0, "key_enemy": "b", "key_walk": "a"},
+						{"x":-14, "y": 0, "key_enemy": "b", "key_walk": "b"}],
 					"islands":[]},
 				{"next": 2, 
 					"invaders": [],
