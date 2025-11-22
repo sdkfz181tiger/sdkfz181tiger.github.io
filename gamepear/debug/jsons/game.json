@@ -75,25 +75,32 @@
 			"islands": ["a", "b", "c"],
 			"spawns": [
 				{"next": 1, 
-					"formations": [
+					"invaders": [
 						{"x":  0, "y": 0, "formation": "a"}],
-					"walks":[]},
+					"snakes":[],
+					"islands":[
+						{"x": 0, "y": 0, "map": "a"}
+					]},
 				{"next": 1, 
-					"formations": [],
-					"walks":[
-						{"x": 14, "y": 0, "enemy": "a", "walk": "a"}]},
+					"invaders": [],
+					"snakes":[
+						{"x": 14, "y": 0, "enemy": "a", "walk": "a"}],
+					"islands":[]},
 				{"next": 1, 
-					"formations": [],
-					"walks":[
-						{"x":-14, "y": 0, "enemy": "a", "walk": "b"}]},
+					"invaders": [],
+					"snakes":[
+						{"x":-14, "y": 0, "enemy": "a", "walk": "b"}],
+					"islands":[]},
 				{"next": 1, 
-					"formations": [],
-					"walks":[
+					"invaders": [],
+					"snakes":[
 						{"x": 14, "y": 0, "enemy": "b", "walk": "a"},
-						{"x":-14, "y": 0, "enemy": "b", "walk": "b"}]},
+						{"x":-14, "y": 0, "enemy": "b", "walk": "b"}],
+					"islands":[]},
 				{"next": 2, 
-					"formations": [],
-					"walks":[]}
+					"invaders": [],
+					"snakes":[],
+					"islands":[]}
 			]
 		}
 	],
