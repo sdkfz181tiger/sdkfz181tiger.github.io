@@ -74,7 +74,7 @@
 			"message": "HELLO\nSHOOTER!!",
 			"islands": ["a", "b", "c"],
 			"spawns": [
-				{"next": 15, 
+				{"next": 3, 
 					"formations": [
 						{"x":  0, "y": 0, "formation": "a"}],
 					"walks":[]},
