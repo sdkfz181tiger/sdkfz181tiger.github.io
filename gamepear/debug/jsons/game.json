@@ -78,7 +78,7 @@
 						{"x":  0, "y": 0, "key_invader": "a"}],
 					"snakes":[],
 					"islands":[
-						{"x": 0, "y": 10, "key_island": "a"}
+						{"x": 0, "y": 10, "spd": 1, "key_island": "a"}
 					]},
 				{"next": 1, 
 					"invaders": [],
