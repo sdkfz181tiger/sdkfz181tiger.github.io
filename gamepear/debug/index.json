@@ -1,5 +1,5 @@
 {
-	"timestamp": "2025/11/23 20:00:00",
+	"timestamp": "2025/11/23 21:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"10:  地上物クラス & 地上基地の連動クラス(Islandクラス)",
@@ -20,7 +20,7 @@
 		"images/base/bkg_bottom.png",
 		"images/base/bkg_top.png",
 		"images/base/block_24x12_01.png",
-		"images/base/block_28x14_01.png",
+		"images/base/block_28x14_01.png"
 		"images/base/block_28x14_01.png",
 		"images/base/block_28x28_01.png",
 		"images/base/block_28x28_02.png",
