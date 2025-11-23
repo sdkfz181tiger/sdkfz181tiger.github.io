@@ -120,16 +120,16 @@
 	},
 	"island_maps": {
 		"a": [
-			["abc"],
-			["def"],
-			["ghi"]],
+			"abc",
+			"def",
+			"ghi"],
 		"b": [
-			["abc"],
-			["djf"],
-			["ghi"]],
+			"abc",
+			"djf",
+			"ghi"],
 		"c": [
-			["abc"],
-			["dkf"],
-			["ghi"]]
+			"abc",
+			"dkf",
+			"ghi"]
 	}
 }
