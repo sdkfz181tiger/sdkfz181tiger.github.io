@@ -652,8 +652,8 @@
 		{"file_name": "images/invaders/inv_07.png",      "frame_name": "inv_07",          "rows": 1, "cols": 6, "w": 15, "h": 15, "from":  0, "to":  5},
 		{"file_name": "images/invaders/inv_08.png",      "frame_name": "inv_08",          "rows": 1, "cols": 6, "w": 15, "h": 15, "from":  0, "to":  5},
 
-		{"file_name": "images/stg/pbox_b_01.png",        "frame_name": "pbox_b_01",       "rows": 1, "cols": 6, "w": 20, "h": 15, "from":  0, "to":  5},
-		{"file_name": "images/stg/pbox_b_02.png",        "frame_name": "pbox_b_02",       "rows": 1, "cols": 6, "w": 20, "h": 15, "from":  0, "to":  5},
+		{"file_name": "images/shooting/pbox_b_01.png",   "frame_name": "pbox_b_01",       "rows": 1, "cols": 6, "w": 20, "h": 15, "from":  0, "to":  5},
+		{"file_name": "images/shooting/pbox_b_02.png",   "frame_name": "pbox_b_02",       "rows": 1, "cols": 6, "w": 20, "h": 15, "from":  0, "to":  5},
 
 		{"file_name": "images/tower/light_01.png",       "frame_name": "light_lv1",       "rows": 1, "cols": 6, "w": 10, "h": 10, "from":  0, "to":  5},
 		{"file_name": "images/tower/light_01.png",       "frame_name": "light_lv2",       "rows": 2, "cols": 6, "w": 10, "h": 10, "from":  6, "to": 11},
