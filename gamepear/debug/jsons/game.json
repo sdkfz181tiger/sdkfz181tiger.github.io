@@ -72,14 +72,13 @@
 			},
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTER!!",
-			"islands": ["a", "b", "c"],
 			"spawns": [
 				{"next": 1, 
 					"invaders": [
 						{"x":  0, "y": 0, "key_invader": "a"}],
 					"snakes":[],
 					"islands":[
-						{"x": 0, "y": 0, "key_island": "a"}
+						{"x": 0, "y": 10, "key_island": "a"}
 					]},
 				{"next": 1, 
 					"invaders": [],
