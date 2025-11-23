@@ -135,15 +135,15 @@
 	"island_maps": {
 		"a": [
 			"abc",
-			"def",
+			"dzf",
 			"ghi"],
 		"b": [
 			"abc",
-			"djf",
+			"dxf",
 			"ghi"],
 		"c": [
 			" ac ",
-			"dlmc",
+			"dxmc",
 			"ghhi"]
 	}
 }
