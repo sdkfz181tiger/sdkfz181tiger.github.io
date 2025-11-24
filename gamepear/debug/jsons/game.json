@@ -67,8 +67,7 @@
 		{
 			"title": "01",
 			"bkg": {
-				"file_name": "images/match3/bkg_01.png",
-				"color": [33, 33, 66]
+				"color": [0, 0, 0]
 			},
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTER!!",
