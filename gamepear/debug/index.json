@@ -1,11 +1,10 @@
 {
-	"timestamp": "2025/11/24 21:00:00",
+	"timestamp": "2025/11/24 22:00:00",
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"10:  地上物クラス & 地上基地の連動クラス(Islandクラス)",
 		"13:  Islandクラス作って、流れてくる仕様の開発!!"
 	],
-	"admob_int": 99,
 	"archives": [
 		"images.zip",
 		"jsons/game.json"

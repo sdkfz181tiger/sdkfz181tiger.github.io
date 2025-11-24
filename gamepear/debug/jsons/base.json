@@ -1,4 +1,11 @@
 {
+	"admob_int": 99,
+	"title_anims": [
+		"kasa_f", "hitotsu_f", "kappa_f"
+	],
+	"ready_anims": [
+		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
+	],
 	"assets": [
 		"images/base/bkg_bottom.png",
 		"images/base/bkg_top.png",
