@@ -77,7 +77,7 @@
 						{"x":  0, "y": 0, "key_invader": "a"}],
 					"snakes":[],
 					"islands":[
-						{"x": -8, "y": 0, "spd": 3, "key_island": "a"}]},
+						{"x":  0, "y": 0, "spd": 3, "key_island": "d"}]},
 				{"next": 1, 
 					"invaders": [],
 					"snakes":[
@@ -143,6 +143,11 @@
 		"c": [
 			" ac ",
 			"dxmc",
-			"ghhi"]
+			"ghhi"],
+		"d": [
+			" abc ",
+			"dexmc",
+			"gheeec",
+			"  hhhi"]
 	}
 }
