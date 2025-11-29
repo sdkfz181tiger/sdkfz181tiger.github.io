@@ -77,7 +77,7 @@
 						{"x":  0, "y": 0, "key_invader": "a"}],
 					"snakes":[],
 					"islands":[
-						{"x":  0, "y": 0, "spd": 3, "key_island": "d"}]},
+						{"x":  0, "y": 0, "spd": 3, "key_island": "a"}]},
 				{"next": 1, 
 					"invaders": [],
 					"snakes":[
@@ -88,7 +88,7 @@
 					"snakes":[
 						{"x":-14, "y": 0, "key_enemy": "a", "key_snake": "b"}],
 					"islands":[
-						{"x": 6, "y": 0, "spd": 3, "key_island": "b"}]},
+						{"x": -8, "y": 0, "spd": 3, "key_island": "b"}]},
 				{"next": 1, 
 					"invaders": [],
 					"snakes":[
@@ -101,7 +101,7 @@
 						{"x": 14, "y": 0, "key_enemy": "b", "key_snake": "a"},
 						{"x":-14, "y": 0, "key_enemy": "b", "key_snake": "b"}],
 					"islands":[
-						{"x": 0, "y": 0, "spd": 3, "key_island": "c"}]},
+						{"x":  8, "y": 0, "spd": 3, "key_island": "c"}]},
 				{"next": 4, 
 					"invaders": [],
 					"snakes":[],
@@ -139,21 +139,31 @@
 	},
 	"island_maps": {
 		"a": [
-			"abc",
-			"dzf",
-			"ghi"],
+			"   j   ",
+			"  aec  ",
+			" aeeec ",
+			"ahhhhhc",
+			"ghhhhhi"],
 		"b": [
-			"abc",
-			"dxf",
-			"ghi"],
+			"abbbbbc",
+			"deeeeei",
+			"deeeee ",
+			"geeeeec",
+			"ghhhhhi"],
 		"c": [
-			" ac ",
-			"dxmc",
-			"ghhi"],
+			"abbbbbc",
+			"deehhhi",
+			"def ",
+			"geebbbc",
+			"ghhhhhi"],
 		"d": [
 			" abc  ",
-			"dexmc ",
+			"aexmc ",
 			"gheeec",
-			"  hhhi"]
+			"  hhhi"],
+		"z": [
+			"abc",
+			"dzf",
+			"ghi"]
 	}
 }
