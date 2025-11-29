@@ -142,19 +142,19 @@
 			"   j   ",
 			"  aec  ",
 			" aeeec ",
-			"ahhhhhc",
+			"aeeeeec",
 			"ghhhhhi"],
 		"b": [
 			"abbbbbc",
 			"deeeeei",
-			"deeeee ",
+			"deeeef ",
 			"geeeeec",
 			"ghhhhhi"],
 		"c": [
 			"abbbbbc",
 			"deehhhi",
-			"def ",
-			"geebbbc",
+			"def    ",
+			"deebbbc",
 			"ghhhhhi"],
 		"d": [
 			" abc  ",
