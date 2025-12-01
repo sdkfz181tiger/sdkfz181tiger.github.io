@@ -77,31 +77,38 @@
 						{"x":  0, "y": 0, "key_invader": "a"}],
 					"snakes":[],
 					"islands":[
-						{"x":-10, "y": 0, "spd": 3, "key_island": "a"}]},
+						{"x":-5, "y": 0, "spd": 3, "key_island": "a"}]},
 				{"next": 2, 
 					"invaders": [],
 					"snakes":[
 						{"x": 14, "y": 0, "key_enemy": "a", "key_snake": "a"}],
 					"islands":[
-						{"x": 10, "y": 0, "spd": 3, "key_island": "b"}]},
+						{"x": 5, "y": 0, "spd": 3, "key_island": "b"}]},
 				{"next": 2, 
 					"invaders": [],
 					"snakes":[
 						{"x":-14, "y": 0, "key_enemy": "a", "key_snake": "b"}],
 					"islands":[
-						{"x":-10, "y": 0, "spd": 3, "key_island": "c"}]},
+						{"x":-5, "y": 0, "spd": 3, "key_island": "c"}]},
 				{"next": 2, 
 					"invaders": [],
 					"snakes":[],
 					"islands":[
-						{"x": 10, "y": 0, "spd": 3, "key_island": "d"}]},
+						{"x": 5, "y": 0, "spd": 3, "key_island": "d"}]},
 				{"next": 2, 
 					"invaders": [],
 					"snakes":[
 						{"x": 14, "y": 0, "key_enemy": "b", "key_snake": "a"},
 						{"x":-14, "y": 0, "key_enemy": "b", "key_snake": "b"}],
 					"islands":[
-						{"x":-10, "y": 0, "spd": 3, "key_island": "e"}]},
+						{"x":-5, "y": 0, "spd": 3, "key_island": "e"}]},
+				{"next": 2, 
+					"invaders": [],
+					"snakes":[
+						{"x": 14, "y": 0, "key_enemy": "b", "key_snake": "a"},
+						{"x":-14, "y": 0, "key_enemy": "b", "key_snake": "b"}],
+					"islands":[
+						{"x": 5, "y": 0, "spd": 3, "key_island": "f"}]},
 				{"next": 4, 
 					"invaders": [],
 					"snakes":[],
@@ -149,8 +156,8 @@
 			"abbbbbc",
 			"deewefi",
 			"deeeef ",
-			"deeeef ",
-			"deeweec",
+			"deewef ",
+			"deeeeec",
 			"ghhhhhi"],
 		"c": [
 			"abbbbbc",
@@ -174,6 +181,14 @@
 			"df     ",
 			"debbbbc",
 			"ghhhhhi"],
+		"f": [
+			"abbbbbc",
+			"dfhhhhi",
+			"df     ",
+			"dfbbbc ",
+			"dfhhhi ",
+			"df     ",
+			"gi     "],
 		"z": [
 			"abc",
 			"dzf",
