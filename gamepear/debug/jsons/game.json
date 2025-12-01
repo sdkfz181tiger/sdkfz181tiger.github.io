@@ -77,32 +77,32 @@
 						{"x":  0, "y": 0, "key_invader": "a"}],
 					"snakes":[],
 					"islands":[
-						{"x":  0, "y": 0, "spd": 3, "key_island": "a"}]},
+						{"x":-10, "y": 0, "spd": 3, "key_island": "a"}]},
 				{"next": 2, 
 					"invaders": [],
 					"snakes":[
 						{"x": 14, "y": 0, "key_enemy": "a", "key_snake": "a"}],
 					"islands":[
-						{"x":  0, "y": 0, "spd": 3, "key_island": "b"}]},
+						{"x": 10, "y": 0, "spd": 3, "key_island": "b"}]},
 				{"next": 2, 
 					"invaders": [],
 					"snakes":[
 						{"x":-14, "y": 0, "key_enemy": "a", "key_snake": "b"}],
 					"islands":[
-						{"x":  0, "y": 0, "spd": 3, "key_island": "c"}]},
+						{"x":-10, "y": 0, "spd": 3, "key_island": "c"}]},
 				{"next": 2, 
 					"invaders": [],
 					"snakes":[
 						{"x": 14, "y": 0, "key_enemy": "b", "key_snake": "c"}],
 					"islands":[
-						{"x":  0, "y": 0, "spd": 3, "key_island": "d"}]},
+						{"x": 10, "y": 0, "spd": 3, "key_island": "d"}]},
 				{"next": 2, 
 					"invaders": [],
 					"snakes":[
 						{"x": 14, "y": 0, "key_enemy": "b", "key_snake": "a"},
 						{"x":-14, "y": 0, "key_enemy": "b", "key_snake": "b"}],
 					"islands":[
-						{"x":  0, "y": 0, "spd": 3, "key_island": "e"}]},
+						{"x":-10, "y": 0, "spd": 3, "key_island": "e"}]},
 				{"next": 4, 
 					"invaders": [],
 					"snakes":[],
@@ -144,7 +144,7 @@
 			"  aec  ",
 			" aewec ",
 			"aeeeeec",
-			"gihhhgi",
+			"dehhhef",
 			"gi   gi"],
 		"b": [
 			"abbbbbc",
