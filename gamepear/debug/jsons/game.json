@@ -109,6 +109,16 @@
 						{"x":-14, "y": 0, "key_enemy": "b", "key_snake": "b"}],
 					"islands":[
 						{"x": 10, "y": 0, "spd": 3, "key_island": "f"}]},
+				{"next": 2, 
+					"invaders": [],
+					"snakes":[],
+					"islands":[
+						{"x":-10, "y": 0, "spd": 3, "key_island": "g"}]},
+				{"next": 2, 
+					"invaders": [],
+					"snakes":[],
+					"islands":[
+						{"x": 10, "y": 0, "spd": 3, "key_island": "h"}]},
 				{"next": 4, 
 					"invaders": [],
 					"snakes":[],
@@ -188,6 +198,21 @@
 			"dehhhi ",
 			"df     ",
 			"gi     "],
+		"g": [
+			"abbbbc ",
+			"dfhhhec",
+			"df   gi",
+			"df     ",
+			"df  udf",
+			"debbbei",
+			"dehhhi "],
+		"h": [
+			"ac   ac",
+			"df   df",
+			"dfbbbdf",
+			"dfhhhdf",
+			"df   df",
+			"gi   gi"],
 		"z": [
 			"abc",
 			"dzf",
