@@ -92,8 +92,7 @@
 						{"x":-10, "y": 0, "spd": 3, "key_island": "c"}]},
 				{"next": 2, 
 					"invaders": [],
-					"snakes":[
-						{"x": 14, "y": 0, "key_enemy": "b", "key_snake": "c"}],
+					"snakes":[],
 					"islands":[
 						{"x": 10, "y": 0, "spd": 3, "key_island": "d"}]},
 				{"next": 2, 
@@ -151,7 +150,7 @@
 			"deewefi",
 			"deeeef ",
 			"deeeef ",
-			"geeweec",
+			"deeweec",
 			"ghhhhhi"],
 		"c": [
 			"abbbbbc",
@@ -173,7 +172,7 @@
 			"df     ",
 			"dfuuuu ",
 			"df     ",
-			"debbbbi",
+			"debbbbc",
 			"ghhhhhi"],
 		"z": [
 			"abc",
