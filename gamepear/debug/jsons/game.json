@@ -94,7 +94,7 @@
 					"invaders": [],
 					"snakes":[],
 					"islands":[
-						{"x": 10, "y": 0, "spd": 3, "key_island": "d"}]},
+						{"x": 14, "y": 0, "spd": 3, "key_island": "d"}]},
 				{"next": 2, 
 					"invaders": [],
 					"snakes":[
