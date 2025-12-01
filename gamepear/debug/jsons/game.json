@@ -72,36 +72,37 @@
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTER!!",
 			"spawns": [
-				{"next": 1, 
+				{"next": 2, 
 					"invaders": [
 						{"x":  0, "y": 0, "key_invader": "a"}],
 					"snakes":[],
 					"islands":[
 						{"x":  0, "y": 0, "spd": 3, "key_island": "a"}]},
-				{"next": 1, 
+				{"next": 2, 
 					"invaders": [],
 					"snakes":[
 						{"x": 14, "y": 0, "key_enemy": "a", "key_snake": "a"}],
-					"islands":[]},
-				{"next": 1, 
+					"islands":[
+						{"x":  0, "y": 0, "spd": 3, "key_island": "b"}]},
+				{"next": 2, 
 					"invaders": [],
 					"snakes":[
 						{"x":-14, "y": 0, "key_enemy": "a", "key_snake": "b"}],
 					"islands":[
-						{"x": -8, "y": 0, "spd": 3, "key_island": "b"}]},
-				{"next": 1, 
+						{"x":  0, "y": 0, "spd": 3, "key_island": "c"}]},
+				{"next": 2, 
 					"invaders": [],
 					"snakes":[
-						{"x": 14, "y": 0, "key_enemy": "b", "key_snake": "a"},
-						{"x":-14, "y": 0, "key_enemy": "b", "key_snake": "b"}],
-					"islands":[]},
-				{"next": 1, 
+						{"x": 14, "y": 0, "key_enemy": "b", "key_snake": "c"}],
+					"islands":[
+						{"x":  0, "y": 0, "spd": 3, "key_island": "d"}]},
+				{"next": 2, 
 					"invaders": [],
 					"snakes":[
 						{"x": 14, "y": 0, "key_enemy": "b", "key_snake": "a"},
 						{"x":-14, "y": 0, "key_enemy": "b", "key_snake": "b"}],
 					"islands":[
-						{"x":  8, "y": 0, "spd": 3, "key_island": "c"}]},
+						{"x":  0, "y": 0, "spd": 3, "key_island": "e"}]},
 				{"next": 4, 
 					"invaders": [],
 					"snakes":[],
@@ -143,10 +144,12 @@
 			"  aec  ",
 			" aewec ",
 			"aeeeeec",
-			"ghhhhhi"],
+			"gihhhgi",
+			"gi   gi"],
 		"b": [
 			"abbbbbc",
 			"deewefi",
+			"deeeef ",
 			"deeeef ",
 			"geeweec",
 			"ghhhhhi"],
@@ -154,19 +157,24 @@
 			"abbbbbc",
 			"dfhhhhi",
 			"df     ",
+			"df     ",
 			"debbbbc",
 			"ghhhhhi"],
 		"d": [
 			"abbbbc ",
-			"dfhhhhc",
+			"dfhhhdc",
+			"df   df",
 			"df   df",
 			"debbbbi",
 			"ghhhhi "],
-		"y": [
-			" abc  ",
-			"aexmc ",
-			"gheeec",
-			"  hhhi"],
+		"e": [
+			"abbbbbc",
+			"dfhhhhi",
+			"df     ",
+			"dfuuuu ",
+			"df     ",
+			"debbbbi",
+			"ghhhhhi"],
 		"z": [
 			"abc",
 			"dzf",
