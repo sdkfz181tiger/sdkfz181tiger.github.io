@@ -39,31 +39,31 @@
 	},
 	"snake_walks": {
 		"a": [
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot": "",  "time": 2.0},
-			{"spd": 16, "deg": -1.0, "curve":  180.0, "shot": "a", "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve": -180.0, "shot": "b", "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot": "",  "time": 6.0}],
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "key_shot": "",  "time": 2.0},
+			{"spd": 16, "deg": -1.0, "curve":  180.0, "key_shot": "a", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve": -180.0, "key_shot": "b", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "key_shot": "",  "time": 6.0}],
 		"b": [
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot": "",  "time": 2.0},
-			{"spd": 16, "deg": -1.0, "curve": -180.0, "shot": "a", "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":  180.0, "shot": "b", "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot": "",  "time": 6.0}],
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "key_shot": "",  "time": 2.0},
+			{"spd": 16, "deg": -1.0, "curve": -180.0, "key_shot": "a", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  180.0, "key_shot": "b", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "key_shot": "",  "time": 6.0}],
 		"y": [
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot": "",  "time": 1.4},
-			{"spd": 16, "deg":  0.0, "curve":    0.0, "shot": "",  "time": 1.0},
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot": "a", "time": 1.0},
-			{"spd": 16, "deg":180.0, "curve":    0.0, "shot": "b", "time": 1.0},
-			{"spd": 16, "deg":270.0, "curve":    0.0, "shot": "",  "time": 1.0},
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot": "",  "time": 5.0}],
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "key_shot": "",  "time": 1.4},
+			{"spd": 16, "deg":  0.0, "curve":    0.0, "key_shot": "",  "time": 1.0},
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "key_shot": "a", "time": 1.0},
+			{"spd": 16, "deg":180.0, "curve":    0.0, "key_shot": "b", "time": 1.0},
+			{"spd": 16, "deg":270.0, "curve":    0.0, "key_shot": "",  "time": 1.0},
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "key_shot": "",  "time": 5.0}],
 		"z": [
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot": "",  "time": 1.4},
-			{"spd": 16, "deg": -1.0, "curve": -360.0, "shot": "",  "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":  360.0, "shot": "a", "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve": -360.0, "shot": "a", "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":  360.0, "shot": "",  "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot": "",  "time": 5.0}]
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "key_shot": "",  "time": 1.4},
+			{"spd": 16, "deg": -1.0, "curve": -360.0, "key_shot": "",  "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  360.0, "key_shot": "a", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve": -360.0, "key_shot": "a", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  360.0, "key_shot": "",  "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "key_shot": "",  "time": 5.0}]
 	},
-	"shots": {
+	"enemy_shots": {
 		"a": [
 			{"spd": 10, "deg":  80.0},
 			{"spd": 10, "deg": 100.0}
@@ -83,6 +83,11 @@
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTER!!",
 			"spawns": [
+				{"next": 2, 
+					"invaders": [],
+					"snakes":[
+						{"x": 0, "y": 0, "key_enemy": "a", "key_snake": "a"}],
+					"islands":[]},
 				{"next": 2, 
 					"invaders": [
 						{"x":  0, "y": 0, "key_invader": "a"}],
