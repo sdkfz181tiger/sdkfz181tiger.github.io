@@ -37,7 +37,33 @@
 			]
 		}
 	},
-	"shot_types": {
+	"snake_walks": {
+		"a": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot": "",  "time": 2.0},
+			{"spd": 16, "deg": -1.0, "curve":  180.0, "shot": "a", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve": -180.0, "shot": "b", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot": "",  "time": 6.0}],
+		"b": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot": "",  "time": 2.0},
+			{"spd": 16, "deg": -1.0, "curve": -180.0, "shot": "a", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  180.0, "shot": "b", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot": "",  "time": 6.0}],
+		"y": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot": "",  "time": 1.4},
+			{"spd": 16, "deg":  0.0, "curve":    0.0, "shot": "",  "time": 1.0},
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot": "a", "time": 1.0},
+			{"spd": 16, "deg":180.0, "curve":    0.0, "shot": "b", "time": 1.0},
+			{"spd": 16, "deg":270.0, "curve":    0.0, "shot": "",  "time": 1.0},
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot": "",  "time": 5.0}],
+		"z": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot": "",  "time": 1.4},
+			{"spd": 16, "deg": -1.0, "curve": -360.0, "shot": "",  "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  360.0, "shot": "a", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve": -360.0, "shot": "a", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  360.0, "shot": "",  "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot": "",  "time": 5.0}]
+	},
+	"shots": {
 		"a": [
 			{"spd": 10, "deg":  80.0},
 			{"spd": 10, "deg": 100.0}
@@ -47,32 +73,6 @@
 			{"spd": 10, "deg":  90.0},
 			{"spd": 10, "deg": 180.0}
 		]
-	},
-	"snake_walks": {
-		"a": [
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_type": "",  "time": 2.0},
-			{"spd": 16, "deg": -1.0, "curve":  180.0, "shot_type": "a", "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve": -180.0, "shot_type": "b", "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot_type": "",  "time": 6.0}],
-		"b": [
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_type": "",  "time": 2.0},
-			{"spd": 16, "deg": -1.0, "curve": -180.0, "shot_type": "a", "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":  180.0, "shot_type": "b", "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot_type": "",  "time": 6.0}],
-		"y": [
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_type": "",  "time": 1.4},
-			{"spd": 16, "deg":  0.0, "curve":    0.0, "shot_type": "",  "time": 1.0},
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_type": "a", "time": 1.0},
-			{"spd": 16, "deg":180.0, "curve":    0.0, "shot_type": "b", "time": 1.0},
-			{"spd": 16, "deg":270.0, "curve":    0.0, "shot_type": "",  "time": 1.0},
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_type": "",  "time": 5.0}],
-		"z": [
-			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_type": "",  "time": 1.4},
-			{"spd": 16, "deg": -1.0, "curve": -360.0, "shot_type": "",  "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":  360.0, "shot_type": "a", "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve": -360.0, "shot_type": "a", "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":  360.0, "shot_type": "",  "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot_type": "",  "time": 5.0}]
 	},
 	"stages": [
 		{
