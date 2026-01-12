@@ -63,7 +63,7 @@
 			{"spd": 16, "deg": -1.0, "curve":  360.0, "key_shot": "",  "time": 1.0},
 			{"spd": 16, "deg": -1.0, "curve":    0.0, "key_shot": "",  "time": 5.0}]
 	},
-	"enemy_shots": {
+	"shot_patterns": {
 		"a": [
 			{"spd": 10, "deg":  80.0},
 			{"spd": 10, "deg": 100.0}
@@ -83,10 +83,15 @@
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nSHOOTER!!",
 			"spawns": [
-				{"next": 2, 
+				{"next": 1, 
 					"invaders": [],
 					"snakes":[
 						{"x": 0, "y": 0, "key_enemy": "a", "key_snake": "a"}],
+					"islands":[]},
+				{"next": 1, 
+					"invaders": [],
+					"snakes":[
+						{"x": 0, "y": 0, "key_enemy": "b", "key_snake": "b"}],
 					"islands":[]},
 				{"next": 2, 
 					"invaders": [
