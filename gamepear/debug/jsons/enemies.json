@@ -1,0 +1,73 @@
+{
+	"enemies": {
+		"a": {"name": "inv_01",    "life_max": 1, "shot_speed": 6,  "score": 1},
+		"b": {"name": "inv_02",    "life_max": 1, "shot_speed": 6,  "score": 1},
+		"c": {"name": "inv_03",    "life_max": 1, "shot_speed": 8,  "score": 1},
+		"d": {"name": "inv_04",    "life_max": 2, "shot_speed": 8,  "score": 2},
+		"e": {"name": "inv_05",    "life_max": 2, "shot_speed": 10, "score": 2},
+		"f": {"name": "inv_06",    "life_max": 2, "shot_speed": 10, "score": 2},
+		"g": {"name": "inv_07",    "life_max": 3, "shot_speed": 12, "score": 3},
+		"h": {"name": "inv_08",    "life_max": 3, "shot_speed": 12, "score": 3},
+		"o": {"name": "pbox_b_01", "life_max": 1, "shot_speed": 6,  "score": 1},
+		"p": {"name": "pbox_b_02", "life_max": 1, "shot_speed": 6,  "score": 1}
+	},
+	"shot_patterns": {
+		"a": [
+			{"spd": 10, "deg":  80.0},
+			{"spd": 10, "deg": 100.0}
+		],
+		"b": [
+			{"spd": 10, "deg":   0.0},
+			{"spd": 10, "deg":  90.0},
+			{"spd": 10, "deg": 180.0}
+		]
+	},
+	"invader_formations": {
+		"a": {
+			"rows": 3, "cols": 7,
+			"pad": 4, "spd": 2,
+			"shot_interval": 8.0,
+			"lines": [
+				"_cc_cc_",
+				"bbbbbbb",
+				"aaaaaaa"
+			]
+		},
+		"b": {
+			"rows": 3, "cols": 7,
+			"pad": 4, "spd": 2,
+			"shot_interval": 8.0,
+			"lines": [
+				"fffffff",
+				"eeeeeee",
+				"ddddddd"
+			]
+		}
+	},
+	"snake_walks": {
+		"a": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "key_shot": "",  "time": 2.0},
+			{"spd": 16, "deg": -1.0, "curve":  180.0, "key_shot": "a", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve": -180.0, "key_shot": "b", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "key_shot": "",  "time": 6.0}],
+		"b": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "key_shot": "",  "time": 2.0},
+			{"spd": 16, "deg": -1.0, "curve": -180.0, "key_shot": "a", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  180.0, "key_shot": "b", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "key_shot": "",  "time": 6.0}],
+		"y": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "key_shot": "",  "time": 1.4},
+			{"spd": 16, "deg":  0.0, "curve":    0.0, "key_shot": "",  "time": 1.0},
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "key_shot": "a", "time": 1.0},
+			{"spd": 16, "deg":180.0, "curve":    0.0, "key_shot": "b", "time": 1.0},
+			{"spd": 16, "deg":270.0, "curve":    0.0, "key_shot": "",  "time": 1.0},
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "key_shot": "",  "time": 5.0}],
+		"z": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "key_shot": "",  "time": 1.4},
+			{"spd": 16, "deg": -1.0, "curve": -360.0, "key_shot": "",  "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  360.0, "key_shot": "a", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve": -360.0, "key_shot": "a", "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  360.0, "key_shot": "",  "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "key_shot": "",  "time": 5.0}]
+	}
+}

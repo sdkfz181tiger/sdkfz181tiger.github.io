@@ -1,7 +1,8 @@
 {
-	"timestamp": "2026/01/19 19:00:00",
+	"timestamp": "2026/01/19 20:00:00",
 	"archives": [
 		"images.zip",
+		"jsons/enemies.json",
 		"jsons/game.json",
 		"jsons/islands.json",
 		"jsons/main.json",
