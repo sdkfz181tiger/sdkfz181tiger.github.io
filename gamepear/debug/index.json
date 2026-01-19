@@ -1,14 +1,15 @@
 {
-	"timestamp": "2026/01/18 11:00:00",
+	"timestamp": "2026/01/19 19:00:00",
+	"archives": [
+		"images.zip",
+		"jsons/game.json",
+		"jsons/islands.json",
+		"jsons/main.json",
+		"jsons/stages.json"
+	],
 	"todos": [
 		"01:o ShootingGameの下準備",
 		"15:  Jsonファイルからshotで射撃",
 		"16:  Jsonファイル分割"
-	],
-	"archives": [
-		"images.zip",
-		"jsons/game.json",
-		"jsons/main.json",
-		"jsons/stages.json"
 	]
 }
