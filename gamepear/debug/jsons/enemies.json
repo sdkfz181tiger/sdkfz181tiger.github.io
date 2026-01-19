@@ -47,13 +47,13 @@
 	"snake_walks": {
 		"a": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_flg": false, "time": 2.0},
-			{"spd": 16, "deg": -1.0, "curve":  180.0, "shot_flg": false, "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve": -180.0, "shot_flg": false, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  180.0, "shot_flg": true,  "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve": -180.0, "shot_flg": true,  "time": 1.0},
 			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot_flg": false, "time": 6.0}],
 		"b": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_flg": false, "time": 2.0},
-			{"spd": 16, "deg": -1.0, "curve": -180.0, "shot_flg": false, "time": 1.0},
-			{"spd": 16, "deg": -1.0, "curve":  180.0, "shot_flg": false, "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve": -180.0, "shot_flg": true,  "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":  180.0, "shot_flg": true,  "time": 1.0},
 			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot_flg": false, "time": 6.0}],
 		"y": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_flg": false, "time": 1.4},
