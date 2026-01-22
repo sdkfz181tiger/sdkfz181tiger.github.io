@@ -11,11 +11,7 @@
 				{"next": 1, 
 					"invaders": [],
 					"snakes":[
-						{"x": 4, "y": 0, "key_enemy": "a", "key_snake": "a"}],
-					"islands":[]},
-				{"next": 1, 
-					"invaders": [],
-					"snakes":[
+						{"x": 4, "y": 0, "key_enemy": "a", "key_snake": "a"},
 						{"x":-4, "y": 0, "key_enemy": "b", "key_snake": "b"}],
 					"islands":[]},
 				{"next": 2, 
