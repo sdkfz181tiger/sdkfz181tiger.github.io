@@ -25,11 +25,11 @@
 			{"spd": 10, "deg":  95.0}
 		],
 		"d": [
-			{"spd": 10, "deg":  80.0},
-			{"spd": 10, "deg":  85.0},
+			{"spd": 10, "deg":  86.0},
+			{"spd": 10, "deg":  88.0},
 			{"spd": 10, "deg":  90.0},
-			{"spd": 10, "deg":  95.0},
-			{"spd": 10, "deg": 100.0}
+			{"spd": 10, "deg":  92.0},
+			{"spd": 10, "deg":  94.0}
 		]
 	},
 	"invader_formations": {
@@ -64,6 +64,16 @@
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_flg": false, "time": 2.0},
 			{"spd": 16, "deg": -1.0, "curve": -180.0, "shot_flg": true,  "time": 1.0},
 			{"spd": 16, "deg": -1.0, "curve":  180.0, "shot_flg": true,  "time": 1.0},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot_flg": false, "time": 6.0}],
+		"c": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_flg": false, "time": 2.0},
+			{"spd": 16, "deg": -1.0, "curve":  270.0, "shot_flg": true,  "time": 1.5},
+			{"spd": 16, "deg": -1.0, "curve": -270.0, "shot_flg": true,  "time": 1.5},
+			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot_flg": false, "time": 6.0}],
+		"d": [
+			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_flg": false, "time": 2.0},
+			{"spd": 16, "deg": -1.0, "curve": -270.0, "shot_flg": true,  "time": 1.5},
+			{"spd": 16, "deg": -1.0, "curve":  270.0, "shot_flg": true,  "time": 1.5},
 			{"spd": 16, "deg": -1.0, "curve":    0.0, "shot_flg": false, "time": 6.0}],
 		"y": [
 			{"spd": 16, "deg": 90.0, "curve":    0.0, "shot_flg": false, "time": 1.4},

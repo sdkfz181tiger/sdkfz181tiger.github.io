@@ -23,13 +23,13 @@
 				{"next": 2, 
 					"invaders": [],
 					"snakes":[
-						{"x": 14, "y": 0, "key_enemy": "a", "key_snake": "a"}],
+						{"x": 14, "y": 0, "key_enemy": "c", "key_snake": "c"}],
 					"islands":[
 						{"x": 10, "y": 0, "spd": 3, "key_island": "b"}]},
 				{"next": 2, 
 					"invaders": [],
 					"snakes":[
-						{"x":-14, "y": 0, "key_enemy": "a", "key_snake": "b"}],
+						{"x":-14, "y": 0, "key_enemy": "d", "key_snake": "d"}],
 					"islands":[
 						{"x":-10, "y": 0, "spd": 3, "key_island": "c"}]},
 				{"next": 2, 
