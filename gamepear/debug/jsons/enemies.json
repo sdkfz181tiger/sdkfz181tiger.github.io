@@ -1,25 +1,35 @@
 {
 	"enemies": {
 		"a": {"name": "inv_01",    "life_max": 1, "shot_speed": 6,  "shot_pattern": "a", "score": 1},
-		"b": {"name": "inv_02",    "life_max": 1, "shot_speed": 6,  "shot_pattern": "a", "score": 1},
-		"c": {"name": "inv_03",    "life_max": 1, "shot_speed": 8,  "shot_pattern": "a", "score": 1},
-		"d": {"name": "inv_04",    "life_max": 2, "shot_speed": 8,  "shot_pattern": "a", "score": 2},
+		"b": {"name": "inv_02",    "life_max": 1, "shot_speed": 6,  "shot_pattern": "b", "score": 1},
+		"c": {"name": "inv_03",    "life_max": 1, "shot_speed": 8,  "shot_pattern": "c", "score": 1},
+		"d": {"name": "inv_04",    "life_max": 2, "shot_speed": 8,  "shot_pattern": "d", "score": 2},
 		"e": {"name": "inv_05",    "life_max": 2, "shot_speed": 10, "shot_pattern": "a", "score": 2},
-		"f": {"name": "inv_06",    "life_max": 2, "shot_speed": 10, "shot_pattern": "a", "score": 2},
-		"g": {"name": "inv_07",    "life_max": 3, "shot_speed": 12, "shot_pattern": "a", "score": 3},
-		"h": {"name": "inv_08",    "life_max": 3, "shot_speed": 12, "shot_pattern": "a", "score": 3},
+		"f": {"name": "inv_06",    "life_max": 2, "shot_speed": 10, "shot_pattern": "b", "score": 2},
+		"g": {"name": "inv_07",    "life_max": 3, "shot_speed": 12, "shot_pattern": "c", "score": 3},
+		"h": {"name": "inv_08",    "life_max": 3, "shot_speed": 12, "shot_pattern": "d", "score": 3},
 		"o": {"name": "pbox_b_01", "life_max": 1, "shot_speed": 6,  "shot_pattern": "a", "score": 1},
 		"p": {"name": "pbox_b_02", "life_max": 1, "shot_speed": 6,  "shot_pattern": "a", "score": 1}
 	},
 	"shot_patterns": {
 		"a": [
+			{"spd": 10, "deg":  90.0}
+		],
+		"b": [
 			{"spd": 10, "deg":  80.0},
 			{"spd": 10, "deg": 100.0}
 		],
-		"b": [
-			{"spd": 10, "deg":   0.0},
+		"c": [
+			{"spd": 10, "deg":  85.0},
 			{"spd": 10, "deg":  90.0},
-			{"spd": 10, "deg": 180.0}
+			{"spd": 10, "deg":  95.0}
+		],
+		"d": [
+			{"spd": 10, "deg":  80.0},
+			{"spd": 10, "deg":  85.0},
+			{"spd": 10, "deg":  90.0},
+			{"spd": 10, "deg":  95.0},
+			{"spd": 10, "deg": 100.0}
 		]
 	},
 	"invader_formations": {
