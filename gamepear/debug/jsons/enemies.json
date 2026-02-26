@@ -13,23 +13,23 @@
 	},
 	"shot_patterns": {
 		"a": [
-			{"spd": 10, "deg":  90.0}
+			{"spd": 16, "deg":  90.0, "aim": true}
 		],
 		"b": [
-			{"spd": 10, "deg":  80.0},
-			{"spd": 10, "deg": 100.0}
+			{"spd": 16, "deg":  80.0, "aim": false},
+			{"spd": 16, "deg": 100.0, "aim": false}
 		],
 		"c": [
-			{"spd": 10, "deg":  85.0},
-			{"spd": 10, "deg":  90.0},
-			{"spd": 10, "deg":  95.0}
+			{"spd": 16, "deg":  85.0, "aim": false},
+			{"spd": 16, "deg":  90.0, "aim": false},
+			{"spd": 16, "deg":  95.0, "aim": false}
 		],
 		"d": [
-			{"spd": 10, "deg":  86.0},
-			{"spd": 10, "deg":  88.0},
-			{"spd": 10, "deg":  90.0},
-			{"spd": 10, "deg":  92.0},
-			{"spd": 10, "deg":  94.0}
+			{"spd": 16, "deg":  86.0, "aim": false},
+			{"spd": 16, "deg":  88.0, "aim": false},
+			{"spd": 16, "deg":  90.0, "aim": false},
+			{"spd": 16, "deg":  92.0, "aim": false},
+			{"spd": 16, "deg":  94.0, "aim": false}
 		]
 	},
 	"invader_formations": {
