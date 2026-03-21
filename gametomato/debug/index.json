@@ -1,0 +1,14 @@
+{
+	"timestamp": "2026/02/27 23:20:00",
+	"archives": [
+		"images.zip",
+		"jsons/enemies.json",
+		"jsons/game.json",
+		"jsons/islands.json",
+		"jsons/main.json",
+		"jsons/stages.json"
+	],
+	"todos": [
+		"01: 一からやり直し!!",
+	]
+}

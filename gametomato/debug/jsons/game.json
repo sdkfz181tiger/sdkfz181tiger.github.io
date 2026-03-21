@@ -1,0 +1,6 @@
+{
+	"player": {
+		"shot_speed": 64,
+		"shot_interval": 0.2
+	}
+}
