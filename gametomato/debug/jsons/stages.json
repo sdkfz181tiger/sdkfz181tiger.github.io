@@ -6,7 +6,7 @@
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nNINJA!!",
 			"pad_x": 4,
-			"pad_y": 6,
+			"pad_y": 8,
 			"map": [
 				"1111  1111",
 				"    11    ",
