@@ -5,7 +5,7 @@
 			"color": [33, 0, 0],
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nNINJA!!",
-			"floors": [
+			"map": [
 				["1111  1111"],
 				["    11    "],
 				["1111  1111"],
