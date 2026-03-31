@@ -6,66 +6,20 @@
 				"color": [0, 0, 0]
 			},
 			"bgm": "sounds/bgm_puzzle_01.ogg",
-			"message": "HELLO\nSHOOTER!!",
-			"spawns": [
-				{"next": 1, 
-					"invaders": [],
-					"snakes":[
-						{"x": 4, "y": 0, "key_enemy": "a", "key_snake": "a"},
-						{"x":-4, "y": 0, "key_enemy": "b", "key_snake": "b"}],
-					"islands":[]},
-				{"next": 2, 
-					"invaders": [
-						{"x":  0, "y": 0, "key_invader": "a"}],
-					"snakes":[],
-					"islands":[
-						{"x":-10, "y": 0, "spd": 3, "key_island": "a"}]},
-				{"next": 2, 
-					"invaders": [],
-					"snakes":[
-						{"x": 14, "y": 0, "key_enemy": "c", "key_snake": "c"}],
-					"islands":[
-						{"x": 10, "y": 0, "spd": 3, "key_island": "b"}]},
-				{"next": 2, 
-					"invaders": [],
-					"snakes":[
-						{"x":-14, "y": 0, "key_enemy": "d", "key_snake": "d"}],
-					"islands":[
-						{"x":-10, "y": 0, "spd": 3, "key_island": "c"}]},
-				{"next": 2, 
-					"invaders": [],
-					"snakes":[],
-					"islands":[
-						{"x": 10, "y": 0, "spd": 3, "key_island": "d"}]},
-				{"next": 2, 
-					"invaders": [],
-					"snakes":[
-						{"x": 14, "y": 0, "key_enemy": "b", "key_snake": "a"},
-						{"x":-14, "y": 0, "key_enemy": "b", "key_snake": "b"}],
-					"islands":[
-						{"x":-10, "y": 0, "spd": 3, "key_island": "e"}]},
-				{"next": 2, 
-					"invaders": [],
-					"snakes":[
-						{"x": 14, "y": 0, "key_enemy": "b", "key_snake": "a"},
-						{"x":-14, "y": 0, "key_enemy": "b", "key_snake": "b"}],
-					"islands":[
-						{"x": 10, "y": 0, "spd": 3, "key_island": "f"}]},
-				{"next": 2, 
-					"invaders": [],
-					"snakes":[],
-					"islands":[
-						{"x":-10, "y": 0, "spd": 3, "key_island": "g"}]},
-				{"next": 2, 
-					"invaders": [],
-					"snakes":[],
-					"islands":[
-						{"x": 10, "y": 0, "spd": 3, "key_island": "h"}]},
-				{"next": 4, 
-					"invaders": [],
-					"snakes":[],
-					"islands":[]}
+			"message": "HELLO\nNINJA!!",
+			"floors": [
+				["1111  1111"],
+				["    11    "],
+				["1111  1111"],
+				["    11    "],
+				["1111  1111"]
 			]
 		}
-	]
+	],
+	"floors": {
+		"1": {
+			"image": "images/ninjas/floor_18x10_01.png",
+			"type": "default"
+		}
+	}
 }
