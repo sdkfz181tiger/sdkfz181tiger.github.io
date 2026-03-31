@@ -2,9 +2,7 @@
 	"stages": [
 		{
 			"title": "01",
-			"bkg": {
-				"color": [0, 0, 0]
-			},
+			"color": [33, 0, 0],
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nNINJA!!",
 			"floors": [
