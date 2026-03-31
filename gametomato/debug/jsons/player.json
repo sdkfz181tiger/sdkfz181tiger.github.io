@@ -1,7 +1,7 @@
 {
 	"player": {
-		"gravity": 32,
+		"gravity": 48,
 		"jump_x": 12,
-		"jump_y": 32
+		"jump_y": 48
 	}
 }
