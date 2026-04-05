@@ -27,11 +27,11 @@
 	"floors": {
 		"1": {
 			"image": "images/ninjas/floor_a_16x10.png",
-			"type": "default"
+			"type": "THRU_Y"
 		},
 		"2": {
 			"image": "images/ninjas/floor_b_16x10.png",
-			"type": "default"
+			"type": "TURN_X"
 		}
 	}
 }
