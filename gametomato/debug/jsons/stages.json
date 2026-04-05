@@ -26,11 +26,11 @@
 	],
 	"floors": {
 		"1": {
-			"image": "images/ninjas/floor_a_16x10_01.png",
+			"image": "images/ninjas/floor_a_16x10.png",
 			"type": "default"
 		},
 		"2": {
-			"image": "images/ninjas/floor_b_16x10_02.png",
+			"image": "images/ninjas/floor_b_16x10.png",
 			"type": "default"
 		}
 	}
