@@ -6,12 +6,12 @@
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nNINJA!!",
 			"pad_x": 4,
-			"pad_y": 8,
+			"pad_y": 10,
 			"map": [
 				"2222112222",
 				"1111221111",
 				"2221111222",
-				"1111221111",
+				"111122  11",
 				"2221111222",
 				"11  221111"
 			]
@@ -21,7 +21,7 @@
 			"bgm": "sounds/bgm_puzzle_01.ogg",
 			"message": "HELLO\nNINJA!!",
 			"pad_x": 4,
-			"pad_y": 8,
+			"pad_y": 10,
 			"map": [
 				"    11    ",
 				"   1111   ",
