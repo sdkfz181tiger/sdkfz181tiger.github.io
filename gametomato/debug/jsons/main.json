@@ -161,7 +161,7 @@
 		"sounds/se_byebye_01.ogg",
 		"sounds/se_card_01.ogg",
 		"sounds/se_coin_01.ogg",
-		"sounds/se_damage_01.ogg",
+		"sounds/se_damage_01.ogg", "sounds/se_damage_02.ogg",
 		"sounds/se_deny_01.ogg", "sounds/se_deny_02.ogg",
 		"sounds/se_dialog_close_01.ogg",
 		"sounds/se_dialog_open_01.ogg",
