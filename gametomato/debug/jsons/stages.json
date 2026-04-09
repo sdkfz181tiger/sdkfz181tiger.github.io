@@ -18,7 +18,7 @@
 		}, {
 			"title": "02",
 			"color": [33, 0, 0],
-			"bgm": "sounds/bgm_puzzle_01.ogg",
+			"bgm": "sounds/bgm_game_04.ogg",
 			"message": "HELLO\nNINJA!!",
 			"pad_x": 4,
 			"pad_y": 9,
