@@ -38,22 +38,5 @@
 				"    11    "
 			]
 		}
-	],
-	"floors": {
-		"1": {
-			"image": "images/ninjas/floor_a_16x10.png",
-			"type": "THRU_Y",
-			"life": 0
-		},
-		"2": {
-			"image": "images/ninjas/floor_b_16x10.png",
-			"type": "TURN_X",
-			"life": 1
-		},
-		"3": {
-			"image": "images/ninjas/roof_a_16x14.png",
-			"type": "TURN_X",
-			"life": -1
-		}
-	}
+	]
 }
