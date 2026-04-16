@@ -1,14 +1,7 @@
 {
 	"enemies": {
-		"a": {"name": "inv_01",    "life_max": 1, "score": 1, "shot_pattern": "a"},
-		"b": {"name": "inv_02",    "life_max": 1, "score": 1, "shot_pattern": "b"},
-		"c": {"name": "inv_03",    "life_max": 1, "score": 1, "shot_pattern": "c"},
-		"d": {"name": "inv_04",    "life_max": 2, "score": 2, "shot_pattern": "d"},
-		"e": {"name": "inv_05",    "life_max": 2, "score": 2, "shot_pattern": "a"},
-		"f": {"name": "inv_06",    "life_max": 2, "score": 2, "shot_pattern": "b"},
-		"g": {"name": "inv_07",    "life_max": 3, "score": 3, "shot_pattern": "c"},
-		"h": {"name": "inv_08",    "life_max": 3, "score": 3, "shot_pattern": "d"},
-		"o": {"name": "pbox_b_01", "life_max": 1, "score": 1, "shot_pattern": "a"},
-		"p": {"name": "pbox_b_02", "life_max": 1, "score": 1, "shot_pattern": "a"}
+		"a": {"tag": "oni_r", "life_max": 1, "score": 1, "shot_pattern": "a"},
+		"b": {"tag": "oni_g", "life_max": 1, "score": 1, "shot_pattern": "b"},
+		"c": {"tag": "oni_b", "life_max": 1, "score": 1, "shot_pattern": "c"}
 	}
 }
