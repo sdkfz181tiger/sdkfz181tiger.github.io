@@ -1,7 +1,7 @@
 {
 	"enemies": {
-		"a": {"tag": "oni_r", "life_max": 1, "score": 1, "shot_pattern": "a"},
-		"b": {"tag": "oni_g", "life_max": 1, "score": 1, "shot_pattern": "b"},
-		"c": {"tag": "oni_b", "life_max": 1, "score": 1, "shot_pattern": "c"}
+		"a": {"tag": "oni_r", "gravity": 128, "jump_x": 12, "jump_y": 54},
+		"b": {"tag": "oni_g", "gravity": 128, "jump_x": 12, "jump_y": 54},
+		"c": {"tag": "oni_b", "gravity": 128, "jump_x": 12, "jump_y": 54}
 	}
 }
