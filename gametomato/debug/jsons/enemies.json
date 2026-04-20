@@ -1,7 +1,7 @@
 {
 	"enemies": {
-		"a": {"tag": "kasa",    "gravity": 48, "jump_x":  8, "jump_y": 12},
-		"b": {"tag": "hitotsu", "gravity": 96, "jump_x":  8, "jump_y": 12},
-		"c": {"tag": "kappa",   "gravity": 96, "jump_x": 12, "jump_y": 12}
+		"a": {"tag": "kasa",    "gravity": 48, "jump_x":  8, "jump_y": 12, "think": 3.0},
+		"b": {"tag": "hitotsu", "gravity": 96, "jump_x":  8, "jump_y": 12, "think": 2.0},
+		"c": {"tag": "kappa",   "gravity": 96, "jump_x": 12, "jump_y": 12, "think": 1.0}
 	}
 }
