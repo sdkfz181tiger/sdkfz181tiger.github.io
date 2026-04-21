@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026/04/20 21:30:00",
+	"timestamp": "2026/04/21 21:00:00",
 	"archives": [
 		"images.zip",
 		"jsons/enemies.json",
@@ -9,7 +9,6 @@
 		"jsons/stages.json"
 	],
 	"todos": [
-		"01: 一からやり直し!!",
-		"02: Retryボタンで座標大幅ズレ!?"
+		"01: 一からやり直し!!"
 	]
 }
