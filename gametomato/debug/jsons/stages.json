@@ -15,6 +15,27 @@
 				"222 1112  ",
 				"c         ",
 				" 11122  12",
+				"          ",
+				"1112233   ",
+				"  a       ",
+				"11      11",
+				"          "
+			]
+		}, {
+			"title": "02",
+			"color": [33, 0, 0],
+			"bgm": "sounds/bgm_game_05.ogg",
+			"message": "HELLO\nNINJA!!",
+			"pad_x": 4,
+			"pad_y": 5,
+			"map": [
+				"33  112333",
+				"b   c     ",
+				"1111  2222",
+				"         a",
+				"222 1112  ",
+				"c         ",
+				" 11122  12",
 				" abcabcabc",
 				"  21111233",
 				"ab      ca",
@@ -22,7 +43,7 @@
 				"          "
 			]
 		}, {
-			"title": "02",
+			"title": "03",
 			"color": [33, 0, 0],
 			"bgm": "sounds/bgm_game_04.ogg",
 			"message": "HELLO\nNINJA!!",
