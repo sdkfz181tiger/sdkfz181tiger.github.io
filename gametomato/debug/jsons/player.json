@@ -2,6 +2,6 @@
 	"player": {
 		"gravity": 160,
 		"jump_x": 12,
-		"jump_y": 60
+		"jump_y": 58
 	}
 }
