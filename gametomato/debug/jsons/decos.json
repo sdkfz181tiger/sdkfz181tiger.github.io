@@ -1,5 +1,5 @@
 {
-	"decorations": {
+	"decos": {
 		"a": {"file_name": "images/ninjas/deco_32x32_01.png"},
 		"b": {"file_name": "images/ninjas/deco_32x32_02.png"},
 		"c": {"file_name": "images/ninjas/deco_32x32_03.png"},

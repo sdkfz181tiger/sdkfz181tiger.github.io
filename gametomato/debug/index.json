@@ -2,7 +2,7 @@
 	"timestamp": "2026/04/27 13:20:00",
 	"archives": [
 		"images.zip",
-		"jsons/decorations.json",
+		"jsons/decos.json",
 		"jsons/enemies.json",
 		"jsons/floors.json",
 		"jsons/main.json",

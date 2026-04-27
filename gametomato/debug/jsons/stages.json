@@ -5,7 +5,7 @@
 			"color": [33, 0, 0],
 			"bgm": "sounds/bgm_game_05.ogg",
 			"message": "HELLO\nNINJA!!",
-			"decorations": ["a", "b", "c"],
+			"decos": ["a", "b", "c"],
 			"pad_x": 4,
 			"pad_y": 5,
 			"map": [
@@ -27,7 +27,7 @@
 			"color": [33, 0, 0],
 			"bgm": "sounds/bgm_game_05.ogg",
 			"message": "HELLO\nNINJA!!",
-			"decorations": ["a", "b", "c"],
+			"decos": ["a", "b", "c"],
 			"pad_x": 4,
 			"pad_y": 5,
 			"map": [
