@@ -2,7 +2,7 @@
 	"stages": [
 		{
 			"title": "01",
-			"color": [33, 0, 0],
+			"color": [33, 33, 33],
 			"bgm": "sounds/bgm_game_05.ogg",
 			"message": "HELLO\nNINJA!!",
 			"decos": ["a", "b", "c", "d", "e", "f", "g", "h"],
@@ -46,7 +46,7 @@
 			]
 		}, {
 			"title": "03",
-			"color": [33, 0, 0],
+			"color": [33, 33, 33],
 			"bgm": "sounds/bgm_game_04.ogg",
 			"message": "HELLO\nNINJA!!",
 			"decos": ["a", "b", "c", "d", "e", "f", "g", "h"],
