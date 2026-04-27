@@ -2,20 +2,20 @@
 	"stages": [
 		{
 			"title": "01",
-			"color": [33, 33, 33],
+			"color": [0, 0, 33],
 			"bgm": "sounds/bgm_game_05.ogg",
 			"message": "HELLO\nNINJA!!",
 			"decos": ["a", "b", "c", "d", "e", "f", "g", "h"],
 			"pad_x": 4,
 			"pad_y": 5,
 			"map": [
-				"2221111222",
+				"3331111333",
 				"   c  d   ",
 				"1112222111",
 				"   a  b   ",
-				"2221111222",
+				"  211112  ",
 				" c      d ",
-				"1112222111",
+				"1112  2111",
 				" a      b ",
 				"2222222222",
 				"          ",
@@ -24,7 +24,7 @@
 			]
 		}, {
 			"title": "02",
-			"color": [33, 33, 33],
+			"color": [0, 0, 33],
 			"bgm": "sounds/bgm_game_05.ogg",
 			"message": "HELLO\nNINJA!!",
 			"decos": ["a", "b", "c", "d", "e", "f", "g", "h"],
@@ -46,7 +46,7 @@
 			]
 		}, {
 			"title": "03",
-			"color": [33, 33, 33],
+			"color": [0, 0, 33],
 			"bgm": "sounds/bgm_game_04.ogg",
 			"message": "HELLO\nNINJA!!",
 			"decos": ["a", "b", "c", "d", "e", "f", "g", "h"],
