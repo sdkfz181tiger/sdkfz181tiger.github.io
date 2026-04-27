@@ -300,7 +300,7 @@
 		{"file_name": "images/ghosts/cho_01.png",        "frame_name": "cho_byebye",      "rows": 6, "cols": 5, "w": 16, "h": 16, "from": 25, "to": 29},
 		{"file_name": "images/ghosts/cho_01.png",        "frame_name": "cho_roll_r",      "rows": 7, "cols": 5, "w": 16, "h": 16, "from": 30, "to": 34},
 		{"file_name": "images/ghosts/cho_01.png",        "frame_name": "cho_roll_l",      "rows": 8, "cols": 5, "w": 16, "h": 16, "from": 35, "to": 39},
-		{"file_name": "images/ghosts/cho_01.png",        "frame_name": "cho_roll_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
+		{"file_name": "images/ghosts/cho_01.png",        "frame_name": "cho_jump_f",      "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/ghosts/cho_01.png",        "frame_name": "cho_sleep",       "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
 		{"file_name": "images/ghosts/dokuro_01.png",     "frame_name": "dokuro_f",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
