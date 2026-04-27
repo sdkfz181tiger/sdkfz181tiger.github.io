@@ -1,13 +1,16 @@
 {
 	"enemies": {
 		"a": {
-			"tag": "kasa",    "gravity": 48, "jump_x":  8, "jump_y": 12, 
-			"think_wait": 0.0, "think_interval": 3.0},
+			"tag": "kasa",    "gravity": 96, "jump_x":  8, "jump_y": 24, 
+			"think_wait": 0.0, "think_interval": 1.0},
 		"b": {
-			"tag": "hitotsu", "gravity": 96, "jump_x":  8, "jump_y": 12, 
-			"think_wait": 0.0, "think_interval": 2.0},
+			"tag": "cho", "gravity": 32, "jump_x":  8, "jump_y": 12, 
+			"think_wait": 0.0, "think_interval": 1.4},
 		"c": {
+			"tag": "hitotsu",   "gravity": 96, "jump_x": 12, "jump_y": 12, 
+			"think_wait": 0.0, "think_interval": 2.0},
+		"d": {
 			"tag": "kappa",   "gravity": 96, "jump_x": 12, "jump_y": 12, 
-			"think_wait": 0.0, "think_interval": 1.0}
+			"think_wait": 0.0, "think_interval": 3.0}
 	}
 }
