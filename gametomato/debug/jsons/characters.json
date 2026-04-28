@@ -14,12 +14,12 @@
 			"type": "enemies", "tag": "hitotsu",
 			"gravity": 96, "jump_x": 12, "jump_y": 12, 
 			"think_wait": 0.0, "think_interval": 2.0,
-			"score": 1},
+			"score": 2},
 		"d": {
 			"type": "enemies", "tag": "kappa",
 			"gravity": 96, "jump_x": 12, "jump_y": 12, 
 			"think_wait": 0.0, "think_interval": 3.0,
-			"score": 1},
+			"score": 3},
 		"x": {
 			"type": "items", "tag": "i_koban_1",
 			"gravity": 96, "jump_x": 12, "jump_y": 12, 
