@@ -17,13 +17,13 @@
 			"gravity": 96, "jump_x": 12, "jump_y": 12, 
 			"think_wait": 0.0, "think_interval": 3.0},
 		"x": {
-			"type": "items", "tag": "ofuda",
+			"type": "items", "tag": "i_koban_1",
 			"score": 1},
 		"y": {
-			"type": "items", "tag": "juzu",
+			"type": "items", "tag": "i_koban_2",
 			"score": 2},
 		"z": {
-			"type": "items", "tag": "mokugyo",
+			"type": "items", "tag": "i_koban_3",
 			"score": 3}
 	}
 }
