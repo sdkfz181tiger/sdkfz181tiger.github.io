@@ -1,5 +1,5 @@
 {
-	"enemies": {
+	"items": {
 		"a": {
 			"tag": "kasa",    "gravity": 96, "jump_x":  8, "jump_y": 24, 
 			"think_wait": 0.0, "think_interval": 1.0},

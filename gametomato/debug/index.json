@@ -1,9 +1,9 @@
 {
-	"timestamp": "2026/04/27 20:30:00",
+	"timestamp": "2026/04/28 13:00:00",
 	"archives": [
 		"images.zip",
+		"jsons/characters.json",
 		"jsons/decos.json",
-		"jsons/enemies.json",
 		"jsons/floors.json",
 		"jsons/main.json",
 		"jsons/player.json",
