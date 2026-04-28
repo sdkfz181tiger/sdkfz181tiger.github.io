@@ -2,6 +2,7 @@
 	"player": {
 		"gravity": 160,
 		"jump_x": 12,
-		"jump_y": 58
+		"jump_y": 58,
+		"score": 0
 	}
 }
