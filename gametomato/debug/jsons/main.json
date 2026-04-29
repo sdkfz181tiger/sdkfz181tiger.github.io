@@ -551,7 +551,7 @@
 
 		{"file_name": "images/characters/monster_body.png",  "frame_name": "monster_body",    "rows": 3, "cols": 5, "w":240, "h":100, "from":  0, "to": 12},
 		{"file_name": "images/characters/monster_close.png", "frame_name": "monster_close",   "rows": 2, "cols": 5, "w":134, "h":100, "from":  0, "to":  7},
-		{"file_name": "images/characters/monster_face.png",  "frame_name": "monster_face",    "rows": 3, "cols": 5, "w": 34, "h": 18, "from":  0, "to": 19},
+		{"file_name": "images/characters/monster_face.png",  "frame_name": "monster_face",    "rows": 3, "cols": 5, "w": 34, "h": 18, "from":  0, "to": 14},
 		{"file_name": "images/characters/monster_open.png",  "frame_name": "monster_open",    "rows": 2, "cols": 5, "w":134, "h":100, "from":  0, "to":  7},
 
 		{"file_name": "images/characters/w_shuri_01.png",    "frame_name": "w_shuri_r",       "rows": 1, "cols": 4, "w": 10, "h": 10, "from":  0, "to":  3},
