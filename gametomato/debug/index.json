@@ -1,11 +1,12 @@
 {
-	"timestamp": "2026/05/01 21:40:00",
+	"timestamp": "2026/05/01 21:50:00",
 	"archives": [
 		"images.zip",
 		"jsons/characters.json",
 		"jsons/decos.json",
 		"jsons/floors.json",
 		"jsons/main.json",
+		"jsons/monster.json",
 		"jsons/player.json",
 		"jsons/stages.json"
 	],
