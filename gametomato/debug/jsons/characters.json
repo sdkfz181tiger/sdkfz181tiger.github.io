@@ -2,22 +2,22 @@
 	"characters": {
 		"a": {
 			"type": "enemies", "tag": "kasa",
-			"gravity": 16, "jump_x":  8, "jump_y": 12, 
+			"gravity": 12, "jump_x":  8, "jump_y": 12,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 1},
 		"b": {
 			"type": "enemies", "tag": "cho",
-			"gravity": 16, "jump_x":  24, "jump_y": 4, 
+			"gravity": 12, "jump_x":  8, "jump_y": 4,
 			"think_wait": 0.0, "think_interval": 1.4,
 			"score": 1},
 		"c": {
 			"type": "enemies", "tag": "hitotsu",
-			"gravity": 96, "jump_x": 12, "jump_y": 12, 
+			"gravity": 96, "jump_x": 12, "jump_y": 12,
 			"think_wait": 0.0, "think_interval": 2.0,
 			"score": 2},
 		"d": {
 			"type": "enemies", "tag": "kappa",
-			"gravity": 96, "jump_x": 12, "jump_y": 12, 
+			"gravity": 96, "jump_x": 12, "jump_y": 12,
 			"think_wait": 0.0, "think_interval": 3.0,
 			"score": 3},
 		"x": {
@@ -27,12 +27,12 @@
 			"score": 2},
 		"y": {
 			"type": "items", "tag": "i_koban_2",
-			"gravity": 96, "jump_x": 12, "jump_y": 12, 
+			"gravity": 96, "jump_x": 12, "jump_y": 12,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 3},
 		"z": {
 			"type": "items", "tag": "i_koban_3",
-			"gravity": 96, "jump_x": 12, "jump_y": 12, 
+			"gravity": 96, "jump_x": 12, "jump_y": 12,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 4}
 	}
