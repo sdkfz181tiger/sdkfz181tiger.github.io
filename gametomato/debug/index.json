@@ -1,16 +1,22 @@
 {
-	"timestamp": "2026/05/02 15:30:00",
+	"timestamp": "2026/05/02 20:10:00",
 	"archives": [
 		"images.zip",
 		"jsons/characters.json",
 		"jsons/decos.json",
 		"jsons/floors.json",
 		"jsons/main.json",
+		"jsons/maps.json",
 		"jsons/monster.json",
 		"jsons/player.json",
 		"jsons/stages.json"
 	],
 	"todos": [
-		"01: 一からやり直し!!"
+		"01: 一からやり直し!!",
+		"02: からかさAI",
+		"03: ちょうちんAI",
+		"04: カッパAI",
+		"05: レベルデザインどうする",
+		"06: パワーアップ処理"
 	]
 }
