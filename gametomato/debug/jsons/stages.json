@@ -8,7 +8,7 @@
 			"decos": ["a", "b", "c", "d", "e", "f", "g", "h"],
 			"pad_x": 4,
 			"pad_y": 5,
-			"maps": "abc"
+			"maps": "abcdefg"
 		}
 	]
 }
