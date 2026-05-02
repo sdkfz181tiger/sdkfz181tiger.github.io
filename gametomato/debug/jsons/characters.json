@@ -20,20 +20,20 @@
 			"gravity": 96, "jump_x": 12, "jump_y": 12,
 			"think_wait": 0.0, "think_interval": 3.0,
 			"score": 3},
-		"x": {
+		"v": {
 			"type": "items", "tag": "i_koban_1",
-			"gravity": 96, "jump_x": 12, "jump_y": 12, 
-			"think_wait": 0.0, "think_interval": 0.0,
-			"score": 2},
-		"y": {
-			"type": "items", "tag": "i_koban_2",
-			"gravity": 96, "jump_x": 12, "jump_y": 12,
-			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 3},
-		"z": {
+		"w": {
+			"type": "items", "tag": "i_koban_2",
+			"score": 4},
+		"x": {
 			"type": "items", "tag": "i_koban_3",
-			"gravity": 96, "jump_x": 12, "jump_y": 12,
-			"think_wait": 0.0, "think_interval": 0.0,
-			"score": 4}
+			"score": 5},
+		"y": {
+			"type": "items", "tag": "i_juzu",
+			"score": 6},
+		"z": {
+			"type": "items", "tag": "i_mokugyo",
+			"score": 7}
 	}
 }
