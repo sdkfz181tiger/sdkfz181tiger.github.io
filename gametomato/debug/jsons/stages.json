@@ -11,10 +11,6 @@
 			"lines": [
 				{"keys": "aaa", "total": 3},
 				{"keys": "abc", "total": 3},
-				{"keys": "def", "total": 3},
-				{"keys": "abc", "total": 3},
-				{"keys": "def", "total": 3},
-				{"keys": "abc", "total": 3},
 				{"keys": "def", "total": 3}
 			]
 		}
