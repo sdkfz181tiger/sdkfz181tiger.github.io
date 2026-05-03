@@ -8,13 +8,13 @@
 			"decos": ["a", "b", "c", "d", "e", "f", "g", "h"],
 			"pad_x": 4,
 			"pad_y": 5,
-			"maps": [
-				{"line": "abc", "total": 3},
-				{"line": "def", "total": 3},
-				{"line": "abc", "total": 3},
-				{"line": "def", "total": 3},
-				{"line": "abc", "total": 3},
-				{"line": "def", "total": 3}
+			"lines": [
+				{"keys": "abc", "total": 3},
+				{"keys": "def", "total": 3},
+				{"keys": "abc", "total": 3},
+				{"keys": "def", "total": 3},
+				{"keys": "abc", "total": 3},
+				{"keys": "def", "total": 3}
 			]
 		}
 	]
