@@ -1,0 +1,18 @@
+{
+	"stages": [
+		{
+			"title": "01",
+			"color": [0, 0, 33],
+			"bgm": "sounds/bgm_game_05.ogg",
+			"message": "HELLO\nNINJA!!",
+			"decos": ["a", "b", "c", "d", "e", "f", "g", "h"],
+			"pad_x": 4,
+			"pad_y": 5,
+			"lines": [
+				{"keys": "aaa", "total": 3},
+				{"keys": "abc", "total": 3},
+				{"keys": "def", "total": 3}
+			]
+		}
+	]
+}
