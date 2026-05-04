@@ -518,11 +518,6 @@
 		{"file_name": "images/characters/tsuru_r_01.png",       "frame_name": "tsuru_r_jump_f",  "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/characters/tsuru_r_01.png",       "frame_name": "tsuru_r_sleep",   "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
-		{"file_name": "images/characters/waapons/arrow_01.png", "frame_name": "w_arrow_r",       "rows": 1, "cols": 4, "w": 16, "h":  3, "from":  0, "to":  3},
-		{"file_name": "images/characters/waapons/arrow_01.png", "frame_name": "w_arrow_l",       "rows": 2, "cols": 4, "w": 16, "h":  3, "from":  4, "to":  7},
-		{"file_name": "images/characters/waapons/arrow_02.png", "frame_name": "w_arrow_u",       "rows": 1, "cols": 8, "w":  3, "h": 16, "from":  0, "to":  3},
-		{"file_name": "images/characters/waapons/arrow_02.png", "frame_name": "w_arrow_d",       "rows": 1, "cols": 8, "w":  3, "h": 16, "from":  4, "to":  7},
-
 		{"file_name": "images/characters/monster_body.png",     "frame_name": "monster_body",    "rows": 3, "cols": 5, "w":240, "h":100, "from":  0, "to": 12},
 		{"file_name": "images/characters/monster_close.png",    "frame_name": "monster_close",   "rows": 2, "cols": 5, "w":134, "h":100, "from":  0, "to":  7},
 		{"file_name": "images/characters/monster_face.png",     "frame_name": "monster_face",    "rows": 3, "cols": 5, "w": 34, "h": 18, "from":  0, "to": 14},
@@ -626,6 +621,11 @@
 
 		{"file_name": "images/tower/mhand_r_01.png",            "frame_name": "mhand_r",         "rows": 1, "cols": 6, "w": 32, "h": 80, "from":  0, "to":  5},
 		{"file_name": "images/tower/mhand_l_01.png",            "frame_name": "mhand_l",         "rows": 1, "cols": 6, "w": 32, "h": 80, "from":  0, "to":  5},
+
+		{"file_name": "images/weapons/arrow_01.png",            "frame_name": "w_arrow_r",       "rows": 1, "cols": 4, "w": 16, "h":  3, "from":  0, "to":  3},
+		{"file_name": "images/weapons/arrow_01.png",            "frame_name": "w_arrow_l",       "rows": 2, "cols": 4, "w": 16, "h":  3, "from":  4, "to":  7},
+		{"file_name": "images/weapons/arrow_02.png",            "frame_name": "w_arrow_u",       "rows": 1, "cols": 8, "w":  3, "h": 16, "from":  0, "to":  3},
+		{"file_name": "images/weapons/arrow_02.png",            "frame_name": "w_arrow_d",       "rows": 1, "cols": 8, "w":  3, "h": 16, "from":  4, "to":  7},
 
 		{"file_name": "images/weapons/w_fireball_01.png",       "frame_name": "w_fb_r_r",        "rows": 1, "cols": 8, "w": 16, "h": 16, "from":  0, "to":  7},
 		{"file_name": "images/weapons/w_fireball_01.png",       "frame_name": "w_fb_r_l",        "rows": 2, "cols": 8, "w": 16, "h": 16, "from":  8, "to": 15},
