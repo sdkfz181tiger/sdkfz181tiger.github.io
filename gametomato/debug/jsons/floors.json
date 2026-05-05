@@ -16,12 +16,12 @@
 			"life": -1
 		},
 		"4": {
-			"image": "images/ninjas/wall_a_16x48.png",
+			"image": "images/ninjas/wall_a_16x42.png",
 			"type": "TURN_X",
 			"life": -1
 		},
 		"5": {
-			"image": "images/ninjas/wall_b_16x48.png",
+			"image": "images/ninjas/wall_b_16x42.png",
 			"type": "TURN_X",
 			"life": -1
 		}
