@@ -9,11 +9,17 @@
 			"pad_x": 4,
 			"pad_y": 5,
 			"lines": [
-				{"keys": "aaa", "total": 3, "off_x": 0},
+				{"keys": "a",   "total": 1, "off_x": 0},
 				{"keys": "abc", "total": 1, "off_x": 1},
-				{"keys": "abc", "total": 1, "off_x": -1},
 				{"keys": "abc", "total": 3, "off_x": 0},
-				{"keys": "def", "total": 3, "off_x": 0}
+				{"keys": "def", "total": 1, "off_x":-1},
+				{"keys": "def", "total": 3, "off_x": 0},
+				{"keys": "ghi", "total": 1, "off_x": 1},
+				{"keys": "ghi", "total": 3, "off_x": 0},
+				{"keys": "jkl", "total": 1, "off_x":-1},
+				{"keys": "jkl", "total": 3, "off_x": 0},
+				{"keys": "mno", "total": 1, "off_x": 1},
+				{"keys": "mno", "total": 3, "off_x": 0}
 			]
 		}
 	]
