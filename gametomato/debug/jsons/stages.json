@@ -9,17 +9,17 @@
 			"pad_x": 4,
 			"pad_y": 5,
 			"lines": [
-				{"keys": "a",   "total": 1, "off_x": 0},
-				{"keys": "abc", "total": 1, "off_x": 1},
-				{"keys": "abc", "total": 3, "off_x": 0},
-				{"keys": "def", "total": 1, "off_x":-1},
-				{"keys": "def", "total": 3, "off_x": 0},
-				{"keys": "ghi", "total": 1, "off_x": 1},
-				{"keys": "ghi", "total": 3, "off_x": 0},
-				{"keys": "jkl", "total": 1, "off_x":-1},
-				{"keys": "jkl", "total": 3, "off_x": 0},
-				{"keys": "mno", "total": 1, "off_x": 1},
-				{"keys": "mno", "total": 3, "off_x": 0}
+				{"keys": "a",   "total": 1, "offset": false},
+				{"keys": "abc", "total": 1, "offset": true},
+				{"keys": "abc", "total": 3, "offset": false},
+				{"keys": "def", "total": 1, "offset": true},
+				{"keys": "def", "total": 3, "offset": false},
+				{"keys": "ghi", "total": 1, "offset": true},
+				{"keys": "ghi", "total": 3, "offset": false},
+				{"keys": "jkl", "total": 1, "offset": true},
+				{"keys": "jkl", "total": 3, "offset": false},
+				{"keys": "mno", "total": 1, "offset": true},
+				{"keys": "mno", "total": 3, "offset": false}
 			]
 		}
 	]
