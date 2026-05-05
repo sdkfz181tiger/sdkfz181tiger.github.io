@@ -9,9 +9,11 @@
 			"pad_x": 4,
 			"pad_y": 5,
 			"lines": [
-				{"keys": "aaa", "total": 3},
-				{"keys": "abc", "total": 3},
-				{"keys": "def", "total": 3}
+				{"keys": "aaa", "total": 3, "off_x": 0},
+				{"keys": "abc", "total": 1, "off_x": 1},
+				{"keys": "abc", "total": 1, "off_x": -1},
+				{"keys": "abc", "total": 3, "off_x": 0},
+				{"keys": "def", "total": 3, "off_x": 0}
 			]
 		}
 	]
