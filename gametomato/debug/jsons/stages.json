@@ -9,17 +9,17 @@
 			"pad_x": 4,
 			"pad_y": 5,
 			"lines": [
-				{"keys": "a",   "total": 1, "offset": false},
-				{"keys": "abc", "total": 1, "offset": true},
-				{"keys": "abc", "total": 3, "offset": false},
-				{"keys": "def", "total": 1, "offset": true},
-				{"keys": "def", "total": 3, "offset": false},
-				{"keys": "ghi", "total": 1, "offset": true},
-				{"keys": "ghi", "total": 3, "offset": false},
-				{"keys": "jkl", "total": 1, "offset": true},
-				{"keys": "jkl", "total": 3, "offset": false},
-				{"keys": "mno", "total": 1, "offset": true},
-				{"keys": "mno", "total": 3, "offset": false}
+				{"map_keys": "a",   "total": 1, "offset": false},
+				{"map_keys": "abc", "total": 1, "offset": true},
+				{"map_keys": "abc", "total": 3, "offset": false},
+				{"map_keys": "def", "total": 1, "offset": true},
+				{"map_keys": "def", "total": 3, "offset": false},
+				{"map_keys": "ghi", "total": 1, "offset": true},
+				{"map_keys": "ghi", "total": 3, "offset": false},
+				{"map_keys": "jkl", "total": 1, "offset": true},
+				{"map_keys": "jkl", "total": 3, "offset": false},
+				{"map_keys": "mno", "total": 1, "offset": true},
+				{"map_keys": "mno", "total": 3, "offset": false}
 			]
 		}
 	]
