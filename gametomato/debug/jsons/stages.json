@@ -1,7 +1,7 @@
 {
 	"stages": [
 		{
-			"title": "01",
+			"stage": "STAGE01",
 			"color": [0, 0, 33],
 			"bgm": "sounds/bgm_game_05.ogg",
 			"message": "WELCOME\nTO THE\nGHOST TOWER!!",
