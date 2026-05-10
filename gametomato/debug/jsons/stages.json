@@ -10,8 +10,8 @@
 			"pad_y": 5,
 			"lines": [
 				{"map_keys": "a",   "total": 1, "offset": false},
-				{"map_keys": "abc", "total": 1, "offset": true},
-				{"map_keys": "abc", "total": 3, "offset": false},
+				{"map_keys": "bc",  "total": 1, "offset": true},
+				{"map_keys": "bc",  "total": 3, "offset": false},
 				{"map_keys": "def", "total": 1, "offset": true},
 				{"map_keys": "def", "total": 3, "offset": false},
 				{"map_keys": "ghi", "total": 1, "offset": true},
