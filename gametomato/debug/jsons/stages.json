@@ -8,7 +8,7 @@
 			"decos": ["a", "b", "c", "d", "e", "f", "g", "h"],
 			"pad_x": 4,
 			"pad_y": 5,
-			"_lines": [
+			"lines": [
 				{"map_keys": "a",   "total": 1, "offset": false},
 				{"map_keys": "bc",  "total": 1, "offset": true},
 				{"map_keys": "bc",  "total": 3, "offset": false},
@@ -20,20 +20,6 @@
 				{"map_keys": "jkl", "total": 3, "offset": false},
 				{"map_keys": "mno", "total": 1, "offset": true},
 				{"map_keys": "mno", "total": 3, "offset": false}
-			],
-			"lines": [
-				{"map_keys": "a", "total": 1, "offset": false},
-				{"map_keys": "a", "total": 1, "offset": true},
-				{"map_keys": "a", "total": 1, "offset": false},
-				{"map_keys": "a", "total": 1, "offset": true},
-				{"map_keys": "a", "total": 1, "offset": false},
-				{"map_keys": "a", "total": 1, "offset": true},
-				{"map_keys": "a", "total": 1, "offset": false},
-				{"map_keys": "a", "total": 1, "offset": true},
-				{"map_keys": "a", "total": 1, "offset": false},
-				{"map_keys": "a", "total": 1, "offset": true},
-				{"map_keys": "a", "total": 1, "offset": false},
-				{"map_keys": "a", "total": 1, "offset": true}
 			]
 		}
 	]
