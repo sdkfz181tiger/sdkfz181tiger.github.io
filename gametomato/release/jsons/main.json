@@ -601,6 +601,7 @@
 		{"file_name": "images/items/i_coin_3_01.png",           "frame_name": "i_coin_3",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_coins_01.png",            "frame_name": "i_coins",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_dot_01.png",              "frame_name": "i_dot",           "rows": 2, "cols": 6, "w": 10, "h": 10, "from":  0, "to": 11},
+		{"file_name": "images/items/i_jumping_01.png",          "frame_name": "i_jumping",       "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_juzu_01.png",             "frame_name": "i_juzu",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_koban_1_01.png",          "frame_name": "i_koban_1",       "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_koban_2_01.png",          "frame_name": "i_koban_2",       "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
