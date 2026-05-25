@@ -12,12 +12,12 @@
 			"score": 1},
 		"c": {
 			"type": "enemies", "tag": "hitotsu",
-			"gravity": 96, "spd_x": 6, "spd_y": 6, "jump_x":  6, "jump_y": 8,
+			"gravity": 96, "spd_x": 4, "spd_y": 6, "jump_x":  6, "jump_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 2},
 		"d": {
 			"type": "enemies", "tag": "kappa",
-			"gravity": 96, "spd_x": 8, "spd_y": 6, "jump_x":  6, "jump_y": 8,
+			"gravity": 96, "spd_x": 4, "spd_y": 6, "jump_x":  6, "jump_y": 8,
 			"think_wait": 0.0, "think_interval": 0.5,
 			"score": 3},
 		"v": {

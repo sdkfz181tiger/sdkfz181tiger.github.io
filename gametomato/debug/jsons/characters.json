@@ -17,7 +17,7 @@
 			"score": 2},
 		"d": {
 			"type": "enemies", "tag": "kappa",
-			"gravity": 96, "spd_x": 8, "spd_y": 6,
+			"gravity": 96, "spd_x": 6, "spd_y": 6,
 			"think_wait": 0.0, "think_interval": 0.5,
 			"score": 3},
 		"v": {
