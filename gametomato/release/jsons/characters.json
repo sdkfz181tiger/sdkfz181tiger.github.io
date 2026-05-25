@@ -2,47 +2,47 @@
 	"characters": {
 		"a": {
 			"type": "enemies", "tag": "kasa",
-			"gravity": 12, "spd_x":  6, "spd_y": 8, "jump_x":  6, "jump_y": 8,
+			"gravity": 12, "spd_x":  6, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 1},
 		"b": {
 			"type": "enemies", "tag": "cho",
-			"gravity": 12, "spd_x":  6, "spd_y": 8, "jump_x":  6, "jump_y": 8,
+			"gravity": 12, "spd_x":  6, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 1},
 		"c": {
 			"type": "enemies", "tag": "hitotsu",
-			"gravity": 96, "spd_x": 4, "spd_y": 6, "jump_x":  6, "jump_y": 8,
+			"gravity": 96, "spd_x": 6, "spd_y": 6,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 2},
 		"d": {
 			"type": "enemies", "tag": "kappa",
-			"gravity": 96, "spd_x": 4, "spd_y": 6, "jump_x":  6, "jump_y": 8,
+			"gravity": 96, "spd_x": 6, "spd_y": 6,
 			"think_wait": 0.0, "think_interval": 0.5,
 			"score": 3},
 		"v": {
 			"type": "items", "tag": "i_koban_1",
-			"gravity": 0, "spd_x": 0, "spd_y": 0, "jump_x":  6, "jump_y": 8,
+			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 3},
 		"w": {
 			"type": "items", "tag": "i_koban_2",
-			"gravity": 0, "spd_x": 0, "spd_y": 0, "jump_x":  6, "jump_y": 8,
+			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 4},
 		"x": {
 			"type": "items", "tag": "i_koban_3",
-			"gravity": 0, "spd_x": 0, "spd_y": 0, "jump_x":  6, "jump_y": 8,
+			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 5},
 		"y": {
 			"type": "items", "tag": "i_juzu",
-			"gravity": 0, "spd_x": 0, "spd_y": 0, "jump_x":  6, "jump_y": 8,
+			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 6},
 		"z": {
 			"type": "items", "tag": "i_mokugyo",
-			"gravity": 0, "spd_x": 0, "spd_y": 0, "jump_x":  6, "jump_y": 8,
+			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 7}
 	}
