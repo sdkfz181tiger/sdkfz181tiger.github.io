@@ -1,7 +1,7 @@
 {
 	"admob_int": 3,
 	"title_anims": [
-		"kasa_f", "hitotsu_f", "kappa_f"
+		"newton_f", "newton_b", "newton_dance_f", "newton_dance_l", "newton_dance_r"
 	],
 	"ready_anims": [
 		"tsuru_g_f", "tsuru_b_f", "tsuru_r_f"
