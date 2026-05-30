@@ -18,7 +18,7 @@
 		"d": {
 			"type": "enemies", "tag": "kappa",
 			"gravity": 96, "spd_x": 2, "spd_y": 6,
-			"think_wait": 0.0, "think_interval": 0.2,
+			"think_wait": 0.0, "think_interval": 0.4,
 			"score": 3},
 		"v": {
 			"type": "items", "tag": "i_koban_1",
