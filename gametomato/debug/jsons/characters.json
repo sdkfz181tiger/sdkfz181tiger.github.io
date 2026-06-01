@@ -3,12 +3,12 @@
 		"a": {
 			"type": "enemies", "tag": "kasa",
 			"gravity": 96, "spd_x":  4, "spd_y": 16,
-			"think_wait": 0.0, "think_interval": 1.0,
+			"think_wait": 0.0, "think_interval": 3.0,
 			"score": 1},
 		"b": {
 			"type": "enemies", "tag": "cho",
 			"gravity": 96, "spd_x":  4, "spd_y": 8,
-			"think_wait": 0.0, "think_interval": 1.0,
+			"think_wait": 0.0, "think_interval": 2.0,
 			"score": 1},
 		"c": {
 			"type": "enemies", "tag": "hitotsu",
@@ -18,7 +18,7 @@
 		"d": {
 			"type": "enemies", "tag": "kappa",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
-			"think_wait": 0.0, "think_interval": 0.4,
+			"think_wait": 0.0, "think_interval": 0.8,
 			"score": 3},
 		"v": {
 			"type": "items", "tag": "i_koban_1",
