@@ -20,6 +20,11 @@
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 0.8,
 			"score": 3},
+		"e": {
+			"type": "enemies", "tag": "oni_b",
+			"gravity": 96, "spd_x": 4, "spd_y": 8,
+			"think_wait": 0.0, "think_interval": 0.8,
+			"score": 3},
 		"v": {
 			"type": "items", "tag": "i_koban_1",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
