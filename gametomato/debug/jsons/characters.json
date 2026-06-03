@@ -18,22 +18,22 @@
 		"d": {
 			"type": "enemies", "tag": "kappa",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
-			"think_wait": 0.0, "think_interval": 0.8,
+			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3},
 		"o": {
 			"type": "enemies", "tag": "oni_r",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
-			"think_wait": 0.0, "think_interval": 0.8,
+			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3},
 		"p": {
 			"type": "enemies", "tag": "oni_g",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
-			"think_wait": 0.0, "think_interval": 0.8,
+			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3},
 		"q": {
 			"type": "enemies", "tag": "oni_b",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
-			"think_wait": 0.0, "think_interval": 0.8,
+			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3},
 		"v": {
 			"type": "items", "tag": "i_koban_1",
