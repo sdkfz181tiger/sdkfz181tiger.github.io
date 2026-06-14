@@ -653,6 +653,7 @@
 		{"file_name": "images/items/i_mokugyo_01.png",          "frame_name": "i_mokugyo",       "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_monsters_01.png",         "frame_name": "i_monsters",      "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_ofuda_01.png",            "frame_name": "i_ofuda",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
+		{"file_name": "images/items/i_suits_01.png",            "frame_name": "i_suits",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 
 		{"file_name": "images/shooting/pbox_b_01.png",          "frame_name": "pbox_b_01",       "rows": 1, "cols": 6, "w": 20, "h": 15, "from":  0, "to":  5},
 		{"file_name": "images/shooting/pbox_b_02.png",          "frame_name": "pbox_b_02",       "rows": 1, "cols": 6, "w": 20, "h": 15, "from":  0, "to":  5},
