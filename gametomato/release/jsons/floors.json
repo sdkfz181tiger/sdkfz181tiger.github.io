@@ -24,6 +24,11 @@
 			"image": "images/ninjas/wall_b_16x42.png",
 			"type": "TURN_X",
 			"life": -1
+		},
+		"6": {
+			"image": "images/ninjas/cloud_a_16x10.png",
+			"type": "THRU_Y",
+			"life": -1
 		}
 	}
 }
