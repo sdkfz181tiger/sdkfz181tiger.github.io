@@ -9,6 +9,7 @@
 			"pad_x": 4,
 			"pad_y": 5,
 			"lines": [
+				{"map_keys": "z",   "total": 2, "offset": false},
 				{"map_keys": "a",   "total": 2, "offset": false},
 				{"map_keys": "bc",  "total": 1, "offset": false},
 				{"map_keys": "abc", "total": 3, "offset": false},
