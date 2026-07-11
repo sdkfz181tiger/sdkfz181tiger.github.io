@@ -142,11 +142,7 @@
 		"images/base/tile_46x46_bkg.png",
 		"images/base/tile_46x46.png",
 		"images/base/tile_48x48_bkg.png",
-		"images/base/tile_48x48.png",
-		"images/base/frame_bottom.png",
-		"images/base/frame_left.png",
-		"images/base/frame_right.png",
-		"images/base/frame_top.png"
+		"images/base/tile_48x48.png"
 	],
 	"ses": [
 		"sounds/jingle_bad_01.ogg",
