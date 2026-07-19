@@ -1,7 +1,8 @@
 {
-	"timestamp": "2026/07/19 15:30:00",
+	"timestamp": "2026/07/19 18:30:00",
 	"archives": [
 		"images.zip",
+		"tmx.zip"
 		"jsons/characters.json",
 		"jsons/decos.json",
 		"jsons/floors.json",
@@ -12,6 +13,11 @@
 		"jsons/stages.json"
 	],
 	"todos": [
-		"01: LandScapeモード"
+		"01: LandScapeモード",
+		"02: 右へ行くほどスコアUP",
+		"03: JSONから段差パターン",
+		"04: 巨大上下ドッスン的ハンマー",
+		"05: Ollamaが自動ステージ生成",
+		"06: ネコホッピング参考"
 	]
 }
