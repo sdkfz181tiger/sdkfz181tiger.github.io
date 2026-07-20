@@ -1,36 +1,36 @@
 {
-	"floors": {
-		"1": {
+	"data": {
+		"a": {
 			"image": "images/ninjas/floor_a_16x10.png",
 			"type": "THRU_Y",
 			"life": 0
 		},
-		"2": {
+		"b": {
 			"image": "images/ninjas/floor_b_16x10.png",
 			"type": "TURN_X",
 			"life": 1
 		},
-		"3": {
+		"c": {
 			"image": "images/ninjas/roof_a_16x14.png",
 			"type": "TURN_X",
 			"life": -1
 		},
-		"4": {
+		"d": {
 			"image": "images/ninjas/wall_a_16x52.png",
 			"type": "TURN_X",
 			"life": -1
 		},
-		"5": {
+		"e": {
 			"image": "images/ninjas/wall_b_16x52.png",
 			"type": "TURN_X",
 			"life": -1
 		},
-		"6": {
+		"f": {
 			"image": "images/ninjas/wall_c_16x52.png",
 			"type": "TURN_X",
 			"life": -1
 		},
-		"7": {
+		"g": {
 			"image": "images/ninjas/cloud_a_16x10.png",
 			"type": "THRU_Y",
 			"life": -1

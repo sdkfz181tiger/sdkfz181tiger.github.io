@@ -1,5 +1,5 @@
 {
-	"characters": {
+	"data": {
 		"a": {
 			"type": "enemies", "tag": "kasa",
 			"gravity": 96, "spd_x":  4, "spd_y": 16,
@@ -20,55 +20,25 @@
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3},
-		"o": {
+		"e": {
 			"type": "enemies", "tag": "oni_r",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3},
-		"p": {
+		"f": {
 			"type": "enemies", "tag": "oni_g",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3},
-		"q": {
+		"g": {
 			"type": "enemies", "tag": "oni_b",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3},
-		"r": {
+		"h": {
 			"type": "enemies", "tag": "musume",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
-			"score": 3},
-		"u": {
-			"type": "items", "tag": "i_suits",
-			"gravity": 0, "spd_x": 0, "spd_y": 0,
-			"think_wait": 0.0, "think_interval": 0.0,
-			"score": 3},
-		"v": {
-			"type": "items", "tag": "i_koban_1",
-			"gravity": 0, "spd_x": 0, "spd_y": 0,
-			"think_wait": 0.0, "think_interval": 0.0,
-			"score": 3},
-		"w": {
-			"type": "items", "tag": "i_koban_2",
-			"gravity": 0, "spd_x": 0, "spd_y": 0,
-			"think_wait": 0.0, "think_interval": 0.0,
-			"score": 4},
-		"x": {
-			"type": "items", "tag": "i_koban_3",
-			"gravity": 0, "spd_x": 0, "spd_y": 0,
-			"think_wait": 0.0, "think_interval": 0.0,
-			"score": 5},
-		"y": {
-			"type": "items", "tag": "i_juzu",
-			"gravity": 0, "spd_x": 0, "spd_y": 0,
-			"think_wait": 0.0, "think_interval": 0.0,
-			"score": 6},
-		"z": {
-			"type": "items", "tag": "i_mokugyo",
-			"gravity": 0, "spd_x": 0, "spd_y": 0,
-			"think_wait": 0.0, "think_interval": 0.0,
-			"score": 7}
+			"score": 3}
 	}
 }
