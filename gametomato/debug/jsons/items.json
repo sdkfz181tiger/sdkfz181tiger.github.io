@@ -1,25 +1,25 @@
 {
 	"data": {
 		"1": {
-			"tag": "i_suits",
-			"gravity": 0, "spd_x": 0, "spd_y": 0,
-			"think_wait": 0.0, "think_interval": 0.0,
-			"score": 3},
-		"2": {
 			"tag": "i_koban_1",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 3},
-		"3": {
+		"2": {
 			"tag": "i_koban_2",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 4},
-		"4": {
+		"3": {
 			"tag": "i_koban_3",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 5},
+		"4": {
+			"tag": "i_suits",
+			"gravity": 0, "spd_x": 0, "spd_y": 0,
+			"think_wait": 0.0, "think_interval": 0.0,
+			"score": 3},
 		"5": {
 			"tag": "i_juzu",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
