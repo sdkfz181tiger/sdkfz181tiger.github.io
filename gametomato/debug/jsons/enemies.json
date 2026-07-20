@@ -1,42 +1,42 @@
 {
 	"data": {
 		"1": {
-			"type": "enemies", "tag": "kasa",
+			"tag": "kasa",
 			"gravity": 96, "spd_x":  4, "spd_y": 16,
 			"think_wait": 0.0, "think_interval": 3.0,
 			"score": 1},
 		"2": {
-			"type": "enemies", "tag": "cho",
+			"tag": "cho",
 			"gravity": 96, "spd_x":  4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 2.0,
 			"score": 1},
 		"3": {
-			"type": "enemies", "tag": "hitotsu",
+			"tag": "hitotsu",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 2},
 		"4": {
-			"type": "enemies", "tag": "kappa",
+			"tag": "kappa",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3},
 		"5": {
-			"type": "enemies", "tag": "oni_r",
+			"tag": "oni_r",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3},
 		"6": {
-			"type": "enemies", "tag": "oni_g",
+			"tag": "oni_g",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3},
 		"7": {
-			"type": "enemies", "tag": "oni_b",
+			"tag": "oni_b",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3},
 		"8": {
-			"type": "enemies", "tag": "musume",
+			"tag": "musume",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
 			"score": 3}

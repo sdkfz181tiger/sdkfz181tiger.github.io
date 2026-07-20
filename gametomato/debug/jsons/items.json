@@ -1,32 +1,32 @@
 {
 	"data": {
 		"1": {
-			"type": "items", "tag": "i_suits",
+			"tag": "i_suits",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 3},
 		"2": {
-			"type": "items", "tag": "i_koban_1",
+			"tag": "i_koban_1",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 3},
 		"3": {
-			"type": "items", "tag": "i_koban_2",
+			"tag": "i_koban_2",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 4},
 		"4": {
-			"type": "items", "tag": "i_koban_3",
+			"tag": "i_koban_3",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 5},
 		"5": {
-			"type": "items", "tag": "i_juzu",
+			"tag": "i_juzu",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 6},
 		"6": {
-			"type": "items", "tag": "i_mokugyo",
+			"tag": "i_mokugyo",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 7}
