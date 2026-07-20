@@ -1,31 +1,31 @@
 {
 	"data": {
-		"a": {
+		"1": {
 			"type": "items", "tag": "i_suits",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 3},
-		"b": {
+		"2": {
 			"type": "items", "tag": "i_koban_1",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 3},
-		"c": {
+		"3": {
 			"type": "items", "tag": "i_koban_2",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 4},
-		"d": {
+		"4": {
 			"type": "items", "tag": "i_koban_3",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 5},
-		"e": {
+		"5": {
 			"type": "items", "tag": "i_juzu",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
 			"score": 6},
-		"f": {
+		"6": {
 			"type": "items", "tag": "i_mokugyo",
 			"gravity": 0, "spd_x": 0, "spd_y": 0,
 			"think_wait": 0.0, "think_interval": 0.0,
