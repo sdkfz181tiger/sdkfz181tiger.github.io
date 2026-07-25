@@ -777,6 +777,6 @@
 		{"file_name": "images/weapons/sword_01.png",            "frame_name": "w_sword_u",       "rows": 3, "cols": 9, "w": 16, "h": 16, "from": 18, "to": 27},
 		{"file_name": "images/weapons/sword_01.png",            "frame_name": "w_sword_d",       "rows": 4, "cols": 9, "w": 16, "h": 16, "from": 28, "to": 37},
 		
-		{"file_name": "images/weapons/umbrella_r_01.png",       "frame_name": "w_umbrella_r",    "rows": 1, "cols": 4, "w": 18, "h": 22, "from":  0, "to":  4}
+		{"file_name": "images/weapons/umbrella_r_01.png",       "frame_name": "w_umbrella_r",    "rows": 1, "cols": 5, "w": 18, "h": 22, "from":  0, "to":  4}
 	]
 }
