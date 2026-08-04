@@ -1,8 +1,9 @@
 {
-	"timestamp": "2026/08/04 15:10:00",
+	"timestamp": "2026/08/04 16:10:00",
 	"archives": [
 		"images.zip",
 		"tmx.zip",
+		"jsons/bkgs.json",
 		"jsons/enemies.json",
 		"jsons/floors.json",
 		"jsons/items.json",

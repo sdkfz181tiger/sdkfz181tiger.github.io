@@ -1,0 +1,25 @@
+{
+	"data": {
+		"1": {
+			"image": "images/foods/i_apple.png"
+		},
+		"2": {
+			"image": "images/foods/i_bberry.png"
+		},
+		"3": {
+			"image": "images/foods/i_cherry.png"
+		},
+		"4": {
+			"image": "images/ninjas/i_lemon.png"
+		},
+		"5": {
+			"image": "images/ninjas/i_peach.png"
+		},
+		"6": {
+			"image": "images/ninjas/i_sberry.png"
+		},
+		"7": {
+			"image": "images/ninjas/i_orange.png"
+		}
+	}
+}
