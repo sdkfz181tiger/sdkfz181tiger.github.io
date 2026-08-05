@@ -1,0 +1,25 @@
+{
+	"data": {
+		"1": {
+			"image": "images/base/box_16x16.png"
+		},
+		"2": {
+			"image": "images/base/box_16x16.png"
+		},
+		"3": {
+			"image": "images/base/box_16x16.png"
+		},
+		"4": {
+			"image": "images/base/box_16x16.png"
+		},
+		"5": {
+			"image": "images/base/box_16x16.png"
+		},
+		"6": {
+			"image": "images/base/box_16x16.png"
+		},
+		"7": {
+			"image": "images/base/box_16x16.png"
+		}
+	}
+}
