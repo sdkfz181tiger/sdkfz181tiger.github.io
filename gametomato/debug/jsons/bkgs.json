@@ -1,25 +1,25 @@
 {
 	"data": {
 		"1": {
-			"image": "images/foods/i_apple.png"
+			"image": "images/ninjas/deco_32x32_01.png"
 		},
 		"2": {
-			"image": "images/foods/i_bberry.png"
+			"image": "images/ninjas/deco_32x32_02.png"
 		},
 		"3": {
-			"image": "images/foods/i_cherry.png"
+			"image": "images/ninjas/deco_32x32_03.png"
 		},
 		"4": {
-			"image": "images/foods/i_lemon.png"
+			"image": "images/ninjas/deco_32x32_04.png"
 		},
 		"5": {
-			"image": "images/foods/i_peach.png"
+			"image": "images/ninjas/deco_32x32_05.png"
 		},
 		"6": {
-			"image": "images/foods/i_sberry.png"
+			"image": "images/ninjas/deco_32x32_06.png"
 		},
 		"7": {
-			"image": "images/foods/i_orange.png"
+			"image": "images/ninjas/deco_32x32_07.png"
 		}
 	}
 }
