@@ -24,17 +24,26 @@
 			"tag": "oni_r",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
-			"score": 3},
+			"bullet": {
+				"r": "w_kami_b_r", "l": "w_kami_b_l",
+				"u": "w_kami_b_u", "d": "w_kami_b_d"
+			}, "score": 3},
 		"6": {
 			"tag": "oni_g",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
-			"score": 3},
+			"bullet": {
+				"r": "w_kami_b_r", "l": "w_kami_b_l",
+				"u": "w_kami_b_u", "d": "w_kami_b_d"
+			}, "score": 3},
 		"7": {
 			"tag": "oni_b",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
 			"think_wait": 0.0, "think_interval": 1.0,
-			"score": 3},
+			"bullet": {
+				"r": "w_kami_b_r", "l": "w_kami_b_l",
+				"u": "w_kami_b_u", "d": "w_kami_b_d"
+			}, "score": 3},
 		"8": {
 			"tag": "musume",
 			"gravity": 96, "spd_x": 4, "spd_y": 8,
