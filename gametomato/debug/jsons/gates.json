@@ -4,43 +4,43 @@
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_01_%s",
 			"toggle_interval": 16.0,
-			"enemies": ["1", "2", "3", "4"]
+			"spawns": ["1", "2", "3", "4"]
 		},
 		"2": {
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_02_%s",
 			"toggle_interval": 24.0,
-			"enemies": []
+			"spawns": []
 		},
 		"3": {
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_02_%s",
 			"toggle_interval": 32.0,
-			"enemies": []
+			"spawns": []
 		},
 		"4": {
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_02_%s",
 			"toggle_interval": 32.0,
-			"enemies": []
+			"spawns": []
 		},
 		"5": {
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_02_%s",
 			"toggle_interval": 32.0,
-			"enemies": []
+			"spawns": []
 		},
 		"6": {
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_02_%s",
 			"toggle_interval": 32.0,
-			"enemies": []
+			"spawns": []
 		},
 		"7": {
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_02_%s",
 			"toggle_interval": 32.0,
-			"enemies": []
+			"spawns": []
 		}
 	}
 }
