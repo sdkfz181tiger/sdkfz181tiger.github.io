@@ -4,7 +4,7 @@
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_01_%s",
 			"toggle_interval": 16.0,
-			"spawns": ["1", "2", "3", "4"]
+			"spawns": [1, 2, 3, 4]
 		},
 		"2": {
 			"image": "images/base/box_16x16.png",
