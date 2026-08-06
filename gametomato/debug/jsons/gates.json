@@ -3,22 +3,22 @@
 		"1": {
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_01_%s",
-			"toggle_interval": 8.0
+			"toggle_interval": 16.0
 		},
 		"2": {
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_02_%s",
-			"toggle_interval": 12.0
+			"toggle_interval": 24.0
 		},
 		"3": {
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_02_%s",
-			"toggle_interval": 16.0
+			"toggle_interval": 32.0
 		},
 		"4": {
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_02_%s",
-			"toggle_interval": 24.0
+			"toggle_interval": 32.0
 		},
 		"5": {
 			"image": "images/base/box_16x16.png",
@@ -28,12 +28,12 @@
 		"6": {
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_02_%s",
-			"toggle_interval": 40.0
+			"toggle_interval": 32.0
 		},
 		"7": {
 			"image": "images/base/box_16x16.png",
 			"tag": "gate_02_%s",
-			"toggle_interval": 48.0
+			"toggle_interval": 32.0
 		}
 	}
 }
