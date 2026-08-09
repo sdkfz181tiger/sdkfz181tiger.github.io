@@ -3,27 +3,27 @@
 		"1": {
 			"tag": "kasa",
 			"gravity": 96, "spd_x":  4, "spd_y": 16,
-			"think_wait": 0.0, "think_interval": 1.4,
+			"think_wait": 0.0, "think_interval": 0.8,
 			"score": 1},
 		"2": {
 			"tag": "cho",
 			"gravity": 96, "spd_x":  4, "spd_y": 16,
-			"think_wait": 0.0, "think_interval": 1.2,
+			"think_wait": 0.0, "think_interval": 0.8,
 			"score": 1},
 		"3": {
 			"tag": "hitotsu",
 			"gravity": 96, "spd_x": 4, "spd_y": 16,
-			"think_wait": 0.0, "think_interval": 1.0,
+			"think_wait": 0.0, "think_interval": 0.8,
 			"score": 2},
 		"4": {
 			"tag": "kappa",
 			"gravity": 96, "spd_x": 4, "spd_y": 16,
-			"think_wait": 0.0, "think_interval": 1.0,
+			"think_wait": 0.0, "think_interval": 0.8,
 			"score": 3},
 		"5": {
 			"tag": "oni_r",
 			"gravity": 96, "spd_x": 4, "spd_y": 16,
-			"think_wait": 0.0, "think_interval": 1.0,
+			"think_wait": 0.0, "think_interval": 0.8,
 			"bullet": {
 				"r": "w_kami_b_r", "l": "w_kami_b_l",
 				"u": "w_kami_b_u", "d": "w_kami_b_d"
@@ -31,7 +31,7 @@
 		"6": {
 			"tag": "oni_g",
 			"gravity": 96, "spd_x": 4, "spd_y": 16,
-			"think_wait": 0.0, "think_interval": 1.0,
+			"think_wait": 0.0, "think_interval": 0.8,
 			"bullet": {
 				"r": "w_kami_b_r", "l": "w_kami_b_l",
 				"u": "w_kami_b_u", "d": "w_kami_b_d"
@@ -39,7 +39,7 @@
 		"7": {
 			"tag": "oni_b",
 			"gravity": 96, "spd_x": 4, "spd_y": 16,
-			"think_wait": 0.0, "think_interval": 1.0,
+			"think_wait": 0.0, "think_interval": 0.8,
 			"bullet": {
 				"r": "w_kami_b_r", "l": "w_kami_b_l",
 				"u": "w_kami_b_u", "d": "w_kami_b_d"
@@ -47,7 +47,7 @@
 		"8": {
 			"tag": "musume",
 			"gravity": 96, "spd_x": 4, "spd_y": 16,
-			"think_wait": 0.0, "think_interval": 1.0,
+			"think_wait": 0.0, "think_interval": 0.8,
 			"score": 3}
 	}
 }
