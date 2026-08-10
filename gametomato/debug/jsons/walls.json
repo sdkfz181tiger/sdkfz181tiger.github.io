@@ -2,15 +2,18 @@
 	"data": {
 		"1": {
 			"image": "images/dungeon/wall_a_01.png",
-			"type": "RED"
+			"type": "RED",
+			"life": -1
 		},
 		"2": {
 			"image": "images/dungeon/wall_a_02.png",
-			"type": "GREEN"
+			"type": "GREEN",
+			"life": -1
 		},
 		"3": {
 			"image": "images/dungeon/wall_a_03.png",
-			"type": "BLUE"
+			"type": "BLUE",
+			"life": -1
 		}
 	}
 }
