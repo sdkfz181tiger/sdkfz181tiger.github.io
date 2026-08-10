@@ -31,27 +31,22 @@
 			"life": -1
 		},
 		"7": {
-			"image": "images/ninjas/cloud_a_16x10.png",
-			"type": "THRU_Y",
-			"life": -1
-		},
-		"8": {
 			"image": "images/ninjas/ladder_a_01_16x16.png",
-			"type": "TURN_X",
+			"type": "LADDER_Y",
 			"life": -1,
 			"ladder_up": false,
 			"ladder_down": true
 		},
-		"9": {
+		"8": {
 			"image": "images/ninjas/ladder_a_02_16x16.png",
-			"type": "TURN_X",
+			"type": "LADDER_Y",
 			"life": -1,
 			"ladder_up": true,
 			"ladder_down": true
 		},
-		"10": {
+		"9": {
 			"image": "images/ninjas/ladder_a_03_16x16.png",
-			"type": "TURN_X",
+			"type": "LADDER_Y",
 			"life": -1,
 			"ladder_up": true,
 			"ladder_down": false
