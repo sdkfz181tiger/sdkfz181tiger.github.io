@@ -1,16 +1,16 @@
 {
-	"timestamp": "2026/08/10 18:20:00",
+	"timestamp": "2026/08/10 23:50:00",
 	"archives": [
 		"images.zip",
 		"tmx.zip",
 		"jsons/bkgs.json",
 		"jsons/enemies.json",
-		"jsons/floors.json",
 		"jsons/gates.json",
 		"jsons/items.json",
 		"jsons/main.json",
 		"jsons/monster.json",
-		"jsons/player.json"
+		"jsons/player.json",
+		"jsons/walls.json"
 	],
 	"todos": [
 		"01: やはりPortrait",

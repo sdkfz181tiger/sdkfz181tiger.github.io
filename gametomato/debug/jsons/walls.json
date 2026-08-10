@@ -1,0 +1,16 @@
+{
+	"data": {
+		"1": {
+			"image": "images/dungeon/wall_a_01.png",
+			"type": "RED"
+		},
+		"2": {
+			"image": "images/dungeon/wall_a_02.png",
+			"type": "GREEN"
+		},
+		"3": {
+			"image": "images/dungeon/wall_a_03.png",
+			"type": "BLUE"
+		}
+	}
+}
