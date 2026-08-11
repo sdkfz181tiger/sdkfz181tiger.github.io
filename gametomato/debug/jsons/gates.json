@@ -17,30 +17,6 @@
 			"tag": "gate_02_%s",
 			"toggle_interval": 32.0,
 			"spawns": []
-		},
-		"4": {
-			"image": "images/base/box_16x16.png",
-			"tag": "gate_02_%s",
-			"toggle_interval": 32.0,
-			"spawns": []
-		},
-		"5": {
-			"image": "images/base/box_16x16.png",
-			"tag": "gate_02_%s",
-			"toggle_interval": 32.0,
-			"spawns": []
-		},
-		"6": {
-			"image": "images/base/box_16x16.png",
-			"tag": "gate_02_%s",
-			"toggle_interval": 32.0,
-			"spawns": []
-		},
-		"7": {
-			"image": "images/base/box_16x16.png",
-			"tag": "gate_02_%s",
-			"toggle_interval": 32.0,
-			"spawns": []
 		}
 	}
 }

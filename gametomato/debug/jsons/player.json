@@ -1,8 +1,6 @@
 {
 	"player": {
-		"gravity": 160,
-		"jump_x": 12,
-		"jump_y": 58,
-		"score": 0
+		"tag": "nyanja_a",
+		"spd": 6
 	}
 }
