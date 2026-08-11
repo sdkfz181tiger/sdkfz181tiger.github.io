@@ -1,6 +1,7 @@
 {
 	"player": {
-		"tag": "nyanja_a",
+		"tag_normal": "nyanja_b",
+		"tag_weaken": "cat_o",
 		"spd": 6
 	}
 }
