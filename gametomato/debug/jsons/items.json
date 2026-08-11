@@ -2,18 +2,12 @@
 	"data": {
 		"1": {
 			"tag": "i_koban_1",
-			"spd": 0,
-			"think_wait": 0.0, "think_interval": 0.0,
-			"score": 3},
+			"score": 2},
 		"2": {
 			"tag": "i_koban_2",
-			"spd": 0,
-			"think_wait": 0.0, "think_interval": 0.0,
-			"score": 4},
+			"score": 3},
 		"3": {
 			"tag": "i_koban_3",
-			"spd": 0,
-			"think_wait": 0.0, "think_interval": 0.0,
-			"score": 5}
+			"score": 4}
 	}
 }
