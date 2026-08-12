@@ -2,14 +2,10 @@
 	"data": {
 		"1": {
 			"tag": "gate_start",
-			"spd": 0,
-			"score": 0,
 			"type": "GATE_START"
 		},
 		"2": {
 			"tag": "gate_goal",
-			"spd": 0,
-			"score": 0,
 			"type": "GATE_GOAL"
 		}
 	}
