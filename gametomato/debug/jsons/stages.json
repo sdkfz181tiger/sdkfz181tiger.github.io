@@ -18,20 +18,48 @@
 			"btn_off": "images/ghosts/btn_stage_04_off.png"
 		}, {
 			"title": "05",
-			"btn_on": "images/ghosts/btn_stage_04_on.png",
-			"btn_off": "images/ghosts/btn_stage_04_off.png"
+			"btn_on": "images/ghosts/btn_stage_05_on.png",
+			"btn_off": "images/ghosts/btn_stage_05_off.png"
 		}, {
 			"title": "06",
-			"btn_on": "images/ghosts/btn_stage_04_on.png",
-			"btn_off": "images/ghosts/btn_stage_04_off.png"
+			"btn_on": "images/ghosts/btn_stage_06_on.png",
+			"btn_off": "images/ghosts/btn_stage_06_off.png"
 		}, {
 			"title": "07",
-			"btn_on": "images/ghosts/btn_stage_04_on.png",
-			"btn_off": "images/ghosts/btn_stage_04_off.png"
+			"btn_on": "images/ghosts/btn_stage_07_on.png",
+			"btn_off": "images/ghosts/btn_stage_07_off.png"
 		}, {
 			"title": "08",
-			"btn_on": "images/ghosts/btn_stage_04_on.png",
-			"btn_off": "images/ghosts/btn_stage_04_off.png"
+			"btn_on": "images/ghosts/btn_stage_08_on.png",
+			"btn_off": "images/ghosts/btn_stage_08_off.png"
+		}, {
+			"title": "09",
+			"btn_on": "images/ghosts/btn_stage_09_on.png",
+			"btn_off": "images/ghosts/btn_stage_09_off.png"
+		}, {
+			"title": "10",
+			"btn_on": "images/ghosts/btn_stage_10_on.png",
+			"btn_off": "images/ghosts/btn_stage_10_off.png"
+		}, {
+			"title": "11",
+			"btn_on": "images/ghosts/btn_stage_11_on.png",
+			"btn_off": "images/ghosts/btn_stage_11_off.png"
+		}, {
+			"title": "12",
+			"btn_on": "images/ghosts/btn_stage_12_on.png",
+			"btn_off": "images/ghosts/btn_stage_12_off.png"
+		}, {
+			"title": "13",
+			"btn_on": "images/ghosts/btn_stage_13_on.png",
+			"btn_off": "images/ghosts/btn_stage_13_off.png"
+		}, {
+			"title": "14",
+			"btn_on": "images/ghosts/btn_stage_14_on.png",
+			"btn_off": "images/ghosts/btn_stage_14_off.png"
+		}, {
+			"title": "15",
+			"btn_on": "images/ghosts/btn_stage_15_on.png",
+			"btn_off": "images/ghosts/btn_stage_15_off.png"
 		}
 	]
 }
