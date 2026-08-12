@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026/08/12 24:40:00",
+	"timestamp": "2026/08/12 25:40:00",
 	"archives": [
 		"images.zip",
 		"tmx.zip",
@@ -24,7 +24,8 @@
 		"26:- 敵配置",
 		"27:- 敵アルゴリズム実装",
 		"28:o ステージセレクト画面",
-		"29:- actionHappy",
-		"30:- Clear->Result->NextStage"
+		"29:o actionHappy",
+		"30:- Clear->Result->NextStage",
+		"31:o 壁抜けバグ対応"
 	]
 }
