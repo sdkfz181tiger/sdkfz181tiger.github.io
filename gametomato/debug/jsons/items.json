@@ -1,15 +1,15 @@
 {
 	"data": {
 		"1": {
-			"tag": "i_koban_1",
+			"tag": "i_coin_1",
 			"spd": 0,
 			"score": 2},
 		"2": {
-			"tag": "i_koban_2",
+			"tag": "i_coin_2",
 			"spd": 0,
 			"score": 3},
 		"3": {
-			"tag": "i_koban_3",
+			"tag": "i_koban_1",
 			"spd": 0,
 			"score": 4}
 	}
