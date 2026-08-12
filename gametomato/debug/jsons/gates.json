@@ -1,22 +1,16 @@
 {
 	"data": {
 		"1": {
-			"image": "images/base/box_16x16.png",
-			"tag": "gate_01_%s",
-			"toggle_interval": 16.0,
-			"spawns": [1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 6, 7]
+			"tag": "gate_start",
+			"spd": 0,
+			"score": 0,
+			"type": "GATE_START"
 		},
 		"2": {
-			"image": "images/base/box_16x16.png",
-			"tag": "gate_02_%s",
-			"toggle_interval": 24.0,
-			"spawns": []
-		},
-		"3": {
-			"image": "images/base/box_16x16.png",
-			"tag": "gate_02_%s",
-			"toggle_interval": 32.0,
-			"spawns": []
+			"tag": "gate_goal",
+			"spd": 0,
+			"score": 0,
+			"type": "GATE_GOAL"
 		}
 	}
 }
