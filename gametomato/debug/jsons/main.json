@@ -639,6 +639,9 @@
 		{"file_name": "images/characters/yuki_01.png",          "frame_name": "yuki_jump_f",     "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/characters/yuki_01.png",          "frame_name": "yuki_sleep",      "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
+		{"file_name": "images/dungeon/gate_goal_01.png",        "frame_name": "gate_goal",       "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/dungeon/gate_start_01.png",       "frame_name": "gate_start",      "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  5},
+
 		{"file_name": "images/foods/i_foods_01.png",            "frame_name": "i_apple",         "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
 		{"file_name": "images/foods/i_foods_01.png",            "frame_name": "i_banana",        "rows": 2, "cols":10, "w":  8, "h":  8, "from": 10, "to": 19},
 		{"file_name": "images/foods/i_foods_01.png",            "frame_name": "i_bberry",        "rows": 3, "cols":10, "w":  8, "h":  8, "from": 20, "to": 29},
