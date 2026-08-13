@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026/08/13 14:00:00",
+	"timestamp": "2026/08/13 23:00:00",
 	"archives": [
 		"images.zip",
 		"tmx.zip",
@@ -22,10 +22,11 @@
 		"25:- 背景配置",
 		"26:- 敵配置",
 		"27:- 敵アルゴリズム実装",
-		"30:- Clear->Result->NextStage",
 		"32:- Stagesのボタン間に▶",
-		"33:- ResultシーンのNextボタン、Retryボタンの動き",
+		"33:o ResultシーンのNextボタン、Retryボタンの動き",
 		"34:- BtnBaseにEnable/Disable",
-		"35:- 最終ステージ攻略後は...?"
+		"35:- 最終ステージのクリア画面で上部アニメーション?",
+		"33:o Resultシーンの表現2種(GameClear or GameOver)",
+		"34:o Nextボタンの上に演出"
 	]
 }
