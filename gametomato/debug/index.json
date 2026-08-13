@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026/08/12 25:40:00",
+	"timestamp": "2026/08/13 10:00:00",
 	"archives": [
 		"images.zip",
 		"tmx.zip",
@@ -26,6 +26,7 @@
 		"28:o ステージセレクト画面",
 		"29:o actionHappy",
 		"30:- Clear->Result->NextStage",
-		"31:o 壁抜けバグ対応"
+		"31:o 壁抜けバグ対応",
+		"32:- Stagesのボタン間に▶"
 	]
 }
