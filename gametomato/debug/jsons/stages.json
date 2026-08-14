@@ -4,77 +4,92 @@
 			"title": "01",
 			"btn_on": "images/ghosts/btn_stage_01_on.png",
 			"btn_off": "images/ghosts/btn_stage_01_off.png",
-			"map": "tmx/map_01.json"
+			"map": "tmx/map_01.json",
+			"bonus": 30
 		}, {
 			"title": "02",
 			"btn_on": "images/ghosts/btn_stage_02_on.png",
 			"btn_off": "images/ghosts/btn_stage_02_off.png",
-			"map": "tmx/map_02.json"
+			"map": "tmx/map_02.json",
+			"bonus": 30
 		}, {
 			"title": "03",
 			"btn_on": "images/ghosts/btn_stage_03_on.png",
 			"btn_off": "images/ghosts/btn_stage_03_off.png",
-			"map": "tmx/map_03.json"
+			"map": "tmx/map_03.json",
+			"bonus": 30
 		}, {
 			"title": "04",
 			"btn_on": "images/ghosts/btn_stage_04_on.png",
 			"btn_off": "images/ghosts/btn_stage_04_off.png",
-			"map": "tmx/map_04.json"
+			"map": "tmx/map_04.json",
+			"bonus": 30
 		}, {
 			"title": "05",
 			"btn_on": "images/ghosts/btn_stage_05_on.png",
 			"btn_off": "images/ghosts/btn_stage_05_off.png",
-			"map": "tmx/map_05.json"
+			"map": "tmx/map_05.json",
+			"bonus": 30
 		}, {
 			"title": "06",
 			"btn_on": "images/ghosts/btn_stage_06_on.png",
 			"btn_off": "images/ghosts/btn_stage_06_off.png",
-			"map": "tmx/map_06.json"
+			"map": "tmx/map_06.json",
+			"bonus": 30
 		}, {
 			"title": "07",
 			"btn_on": "images/ghosts/btn_stage_07_on.png",
 			"btn_off": "images/ghosts/btn_stage_07_off.png",
-			"map": "tmx/map_07.json"
+			"map": "tmx/map_07.json",
+			"bonus": 30
 		}, {
 			"title": "08",
 			"btn_on": "images/ghosts/btn_stage_08_on.png",
 			"btn_off": "images/ghosts/btn_stage_08_off.png",
-			"map": "tmx/map_08.json"
+			"map": "tmx/map_08.json",
+			"bonus": 30
 		}, {
 			"title": "09",
 			"btn_on": "images/ghosts/btn_stage_09_on.png",
 			"btn_off": "images/ghosts/btn_stage_09_off.png",
-			"map": "tmx/map_09.json"
+			"map": "tmx/map_09.json",
+			"bonus": 30
 		}, {
 			"title": "10",
 			"btn_on": "images/ghosts/btn_stage_10_on.png",
 			"btn_off": "images/ghosts/btn_stage_10_off.png",
-			"map": "tmx/map_10.json"
+			"map": "tmx/map_10.json",
+			"bonus": 30
 		}, {
 			"title": "11",
 			"btn_on": "images/ghosts/btn_stage_11_on.png",
 			"btn_off": "images/ghosts/btn_stage_11_off.png",
-			"map": "tmx/map_11.json"
+			"map": "tmx/map_11.json",
+			"bonus": 30
 		}, {
 			"title": "12",
 			"btn_on": "images/ghosts/btn_stage_12_on.png",
 			"btn_off": "images/ghosts/btn_stage_12_off.png",
-			"map": "tmx/map_12.json"
+			"map": "tmx/map_12.json",
+			"bonus": 30
 		}, {
 			"title": "13",
 			"btn_on": "images/ghosts/btn_stage_13_on.png",
 			"btn_off": "images/ghosts/btn_stage_13_off.png",
-			"map": "tmx/map_13.json"
+			"map": "tmx/map_13.json",
+			"bonus": 30
 		}, {
 			"title": "14",
 			"btn_on": "images/ghosts/btn_stage_14_on.png",
 			"btn_off": "images/ghosts/btn_stage_14_off.png",
-			"map": "tmx/map_14.json"
+			"map": "tmx/map_14.json",
+			"bonus": 30
 		}, {
 			"title": "15",
 			"btn_on": "images/ghosts/btn_stage_15_on.png",
 			"btn_off": "images/ghosts/btn_stage_15_off.png",
-			"map": "tmx/map_15.json"
+			"map": "tmx/map_15.json",
+			"bonus": 30
 		}
 	]
 }

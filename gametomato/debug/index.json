@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026/08/13 23:00:00",
+	"timestamp": "2026/08/14 23:00:00",
 	"archives": [
 		"images.zip",
 		"tmx.zip",
@@ -27,6 +27,6 @@
 		"34:- BtnBaseにEnable/Disable",
 		"35:- 最終ステージのクリア画面で上部アニメーション?",
 		"33:o Resultシーンの表現2種(GameClear or GameOver)",
-		"34:o Nextボタンの上に演出"
+		"35:- SCORE: xxx, HIGH: xxxをスライド登場数値カウントUp"
 	]
 }
