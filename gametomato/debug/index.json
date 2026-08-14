@@ -1,5 +1,5 @@
 {
-	"timestamp": "2026/08/14 23:20:00",
+	"timestamp": "2026/08/14 23:30:00",
 	"archives": [
 		"images.zip",
 		"tmx.zip",
@@ -29,6 +29,7 @@
 		"33:o Resultシーンの表現2種(GameClear or GameOver)",
 		"35:- SCORE: xxx, HIGH: xxxをスライド登場数値カウントUp",
 		"36:- ResultシーンでBonus得点(jsonで指定)",
-		"37:- ResultシーンでSTAGE XX CLEARED"
+		"37:- ResultシーンでSTAGE XX CLEARED",
+		"38:- BGMのローディングをストリームにできるらしい?"
 	]
 }
