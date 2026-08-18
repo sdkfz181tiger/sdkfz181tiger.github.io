@@ -7,10 +7,10 @@
 			"map": "tmx/map_01.json",
 			"bonus": 30,
 			"tutorial": [
-				{"move_x": 5, "move_y": 0, "wait": 1.0, "time": 1.0},
-				{"move_x": 0, "move_y": -5, "wait": 1.0, "time": 1.0},
-				{"move_x": -5, "move_y": 0, "wait": 1.0, "time": 1.0},
-				{"move_x": 0, "move_y": 5, "wait": 1.0, "time": 1.0}
+				{"move_x": 5, "move_y": 0, "wait": 1.0, "time": 1.0, "msg": "SWIPE RIGHT!!"},
+				{"move_x": 0, "move_y": -5, "wait": 1.0, "time": 1.0, "msg": "SWIPE UP!!"},
+				{"move_x": -5, "move_y": 0, "wait": 1.0, "time": 1.0, "msg": "SWIPE LEFT!!"},
+				{"move_x": 0, "move_y": 5, "wait": 1.0, "time": 1.0, "msg": "SWIPE DOWN!!"}
 			]
 		}, {
 			"title": "02",
