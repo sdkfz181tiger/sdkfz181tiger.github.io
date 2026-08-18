@@ -7,14 +7,14 @@
 			"map": "tmx/map_01.json",
 			"bonus": 30,
 			"tutorial": [
-				{"swipe_x": 1, "swipe_y": 0, "move_x": 5, "move_y": 0, 
-					"wait": 1.0, "time": 1.0, "msg": "SWIPE RIGHT!!"},
 				{"swipe_x": 0, "swipe_y": -1, "move_x": 0, "move_y": -5, 
 					"wait": 1.0, "time": 1.0, "msg": "SWIPE UP!!"},
-				{"swipe_x": 1, "swipe_y": 0, "move_x": -5, "move_y": 0, 
-					"wait": 1.0, "time": 1.0, "msg": "SWIPE LEFT!!"},
+				{"swipe_x": 1, "swipe_y": 0, "move_x": 5, "move_y": 0, 
+					"wait": 1.0, "time": 1.0, "msg": "SWIPE RIGHT!!"},
 				{"swipe_x": 0, "swipe_y": 1, "move_x": 0, "move_y": 5, 
-					"wait": 1.0, "time": 1.0, "msg": "SWIPE DOWN!!"}
+					"wait": 1.0, "time": 1.0, "msg": "SWIPE DOWN!!"},
+				{"swipe_x": 1, "swipe_y": 0, "move_x": -5, "move_y": 0, 
+					"wait": 1.0, "time": 1.0, "msg": "SWIPE LEFT!!"}
 			]
 		}, {
 			"title": "02",
