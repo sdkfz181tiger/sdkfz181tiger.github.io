@@ -2,23 +2,19 @@
 	"data": {
 		"1": {
 			"tag": "kasa",
-			"spd": 16,
-			"think_wait": 0.0, "think_interval": 0.8,
-			"score": 1},
+			"spd": 16, "score": 1,
+			"think_wait": 0.0, "think_interval": 0.8},
 		"2": {
 			"tag": "cho",
-			"spd": 16,
-			"think_wait": 0.0, "think_interval": 0.8,
-			"score": 1},
+			"spd": 16, "score": 1,
+			"think_wait": 0.0, "think_interval": 0.8},
 		"3": {
 			"tag": "hitotsu",
-			"spd": 16,
-			"think_wait": 0.0, "think_interval": 0.8,
-			"score": 1},
+			"spd": 16, "score": 1,
+			"think_wait": 0.0, "think_interval": 0.8},
 		"4": {
 			"tag": "kappa",
-			"spd": 16,
-			"think_wait": 0.0, "think_interval": 0.8,
-			"score": 1}
+			"spd": 16, "score": 1,
+			"think_wait": 0.0, "think_interval": 0.8}
 	}
 }
