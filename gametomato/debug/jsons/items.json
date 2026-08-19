@@ -1,14 +1,18 @@
 {
 	"data": {
 		"1": {
+			"tag": "i_dot_1",
+			"spd": 0,
+			"score": 1},
+		"2": {
 			"tag": "i_coin_1",
 			"spd": 0,
 			"score": 2},
-		"2": {
+		"3": {
 			"tag": "i_coin_2",
 			"spd": 0,
 			"score": 3},
-		"3": {
+		"4": {
 			"tag": "i_koban_1",
 			"spd": 0,
 			"score": 4}
