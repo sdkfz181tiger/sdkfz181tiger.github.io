@@ -5,7 +5,7 @@
 			"btn_on": "images/ghosts/btn_stage_01_on.png",
 			"btn_off": "images/ghosts/btn_stage_01_off.png",
 			"map": "tmx/map_01.json",
-			"bonus": 30,
+			"bonus": 10,
 			"tutorial": [
 				{"swipe_x": 1, "swipe_y": 0, 
 					"from_x": -4, "from_y": 0, "to_x": 4, "to_y": 0,
@@ -16,7 +16,7 @@
 			"btn_on": "images/ghosts/btn_stage_02_on.png",
 			"btn_off": "images/ghosts/btn_stage_02_off.png",
 			"map": "tmx/map_02.json",
-			"bonus": 30,
+			"bonus": 10,
 			"tutorial": [
 				{"swipe_x": 1, "swipe_y": 0, 
 					"from_x": -4, "from_y": 0, "to_x": 4, "to_y": 0,
