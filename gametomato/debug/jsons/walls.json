@@ -49,6 +49,106 @@
 			"image": "images/dungeon/wall_g_10.png",
 			"type": "STATIC",
 			"life": -1
+		},
+		"11": {
+			"image": "images/dungeon/wall_b_01.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"12": {
+			"image": "images/dungeon/wall_b_02.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"13": {
+			"image": "images/dungeon/wall_b_03.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"14": {
+			"image": "images/dungeon/wall_b_04.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"15": {
+			"image": "images/dungeon/wall_b_05.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"16": {
+			"image": "images/dungeon/wall_b_06.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"17": {
+			"image": "images/dungeon/wall_b_07.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"18": {
+			"image": "images/dungeon/wall_b_08.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"19": {
+			"image": "images/dungeon/wall_b_09.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"20": {
+			"image": "images/dungeon/wall_b_10.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"21": {
+			"image": "images/dungeon/wall_r_01.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"22": {
+			"image": "images/dungeon/wall_r_02.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"23": {
+			"image": "images/dungeon/wall_r_03.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"24": {
+			"image": "images/dungeon/wall_r_04.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"25": {
+			"image": "images/dungeon/wall_r_05.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"26": {
+			"image": "images/dungeon/wall_r_06.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"27": {
+			"image": "images/dungeon/wall_r_07.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"28": {
+			"image": "images/dungeon/wall_r_08.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"29": {
+			"image": "images/dungeon/wall_r_09.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"30": {
+			"image": "images/dungeon/wall_r_10.png",
+			"type": "STATIC",
+			"life": -1
 		}
 	}
 }
