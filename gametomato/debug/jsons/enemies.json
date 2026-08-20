@@ -1,19 +1,23 @@
 {
 	"data": {
 		"1": {
-			"tag": "kasa",
+			"tag": "soul",
 			"spd": 16, "score": 1,
 			"think_wait": 0.0, "think_interval": 0.8},
 		"2": {
-			"tag": "cho",
+			"tag": "kasa",
 			"spd": 16, "score": 1,
 			"think_wait": 0.0, "think_interval": 0.8},
 		"3": {
-			"tag": "hitotsu",
+			"tag": "cho",
 			"spd": 16, "score": 1,
 			"think_wait": 0.0, "think_interval": 0.8},
 		"4": {
-			"tag": "kappa",
+			"tag": "skul",
+			"spd": 16, "score": 1,
+			"think_wait": 0.0, "think_interval": 0.8},
+		"5": {
+			"tag": "hitotsu",
 			"spd": 16, "score": 1,
 			"think_wait": 0.0, "think_interval": 0.8}
 	}
