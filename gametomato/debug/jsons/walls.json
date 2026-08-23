@@ -149,6 +149,76 @@
 			"image": "images/dungeon/wall_r_10.png",
 			"type": "STATIC",
 			"life": -1
+		},
+		"31": {
+			"image": "images/dungeon/wall_y_01_01.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"32": {
+			"image": "images/dungeon/wall_y_01_02.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"33": {
+			"image": "images/dungeon/wall_y_01_03.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"34": {
+			"image": "images/dungeon/wall_y_01_04.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"35": {
+			"image": "images/dungeon/wall_y_02_01.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"36": {
+			"image": "images/dungeon/wall_y_02_02.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"37": {
+			"image": "images/dungeon/wall_y_02_03.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"38": {
+			"image": "images/dungeon/wall_y_03_01.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"39": {
+			"image": "images/dungeon/wall_y_03_02.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"40": {
+			"image": "images/dungeon/wall_y_03_03.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"41": {
+			"image": "images/dungeon/wall_y_04_01.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"42": {
+			"image": "images/dungeon/wall_y_05_01.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"43": {
+			"image": "images/dungeon/wall_y_06_01.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"44": {
+			"image": "images/dungeon/wall_y_07_01.png",
+			"type": "STATIC",
+			"life": -1
 		}
 	}
 }
