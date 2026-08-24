@@ -177,6 +177,7 @@
 		"sounds/se_sword_01.ogg"
 	],
 	"bgms": [
+		"sounds/bgm_dungeon_01.ogg", "sounds/bgm_dungeon_02.ogg", 
 		"sounds/bgm_ending_01.ogg", "sounds/bgm_ending_02.ogg", 
 		"sounds/bgm_ending_03.ogg", 
 		"sounds/bgm_game_01.ogg", "sounds/bgm_game_02.ogg", 
