@@ -3,22 +3,22 @@
 		"1": {
 			"tag": "tsuru_b",
 			"spd": 8, "score": 1,
-			"think_wait": 0.0, "think_interval": 5.0},
+			"think_wait": 0.0, "think_interval": 3.0},
 		"2": {
 			"tag": "kasa",
 			"spd": 8, "score": 1,
-			"think_wait": 0.0, "think_interval": 5.0},
+			"think_wait": 0.0, "think_interval": 3.0},
 		"3": {
 			"tag": "cho",
 			"spd": 8, "score": 1,
-			"think_wait": 0.0, "think_interval": 5.0},
+			"think_wait": 0.0, "think_interval": 3.0},
 		"4": {
 			"tag": "dokuro",
 			"spd": 8, "score": 1,
-			"think_wait": 0.0, "think_interval": 5.0},
+			"think_wait": 0.0, "think_interval": 3.0},
 		"5": {
 			"tag": "hitotsu",
 			"spd": 8, "score": 1,
-			"think_wait": 0.0, "think_interval": 5.0}
+			"think_wait": 0.0, "think_interval": 3.0}
 	}
 }
