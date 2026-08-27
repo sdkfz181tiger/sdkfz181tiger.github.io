@@ -34,32 +34,32 @@
 			"tutorial": []
 		}, {
 			"title": "04",
-			"btn_on": "images/ghosts/btn_stage_04_on.png",
-			"btn_off": "images/ghosts/btn_stage_04_off.png",
+			"btn_on": "images/dungeon/btn_stage_04_on.png",
+			"btn_off": "images/dungeon/btn_stage_04_off.png",
 			"map": "tmx/map_04.json",
 			"bonus": 30,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
 		}, {
 			"title": "05",
-			"btn_on": "images/ghosts/btn_stage_05_on.png",
-			"btn_off": "images/ghosts/btn_stage_05_off.png",
+			"btn_on": "images/dungeon/btn_stage_05_on.png",
+			"btn_off": "images/dungeon/btn_stage_05_off.png",
 			"map": "tmx/map_05.json",
 			"bonus": 30,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
 		}, {
 			"title": "06",
-			"btn_on": "images/ghosts/btn_stage_06_on.png",
-			"btn_off": "images/ghosts/btn_stage_06_off.png",
+			"btn_on": "images/dungeon/btn_stage_06_on.png",
+			"btn_off": "images/dungeon/btn_stage_06_off.png",
 			"map": "tmx/map_06.json",
 			"bonus": 30,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
 		}, {
 			"title": "07",
-			"btn_on": "images/ghosts/btn_stage_07_on.png",
-			"btn_off": "images/ghosts/btn_stage_07_off.png",
+			"btn_on": "images/dungeon/btn_stage_07_on.png",
+			"btn_off": "images/dungeon/btn_stage_07_off.png",
 			"map": "tmx/map_07.json",
 			"bonus": 30,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
