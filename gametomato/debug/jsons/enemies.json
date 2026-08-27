@@ -6,19 +6,19 @@
 			"think_wait": 0.0, "think_interval": 3.0},
 		"2": {
 			"tag": "kasa",
-			"spd": 2, "score": 1,
+			"spd": 1.2, "score": 1,
 			"think_wait": 0.0, "think_interval": 3.2},
 		"3": {
 			"tag": "cho",
-			"spd": 2, "score": 1,
+			"spd": 1.2, "score": 1,
 			"think_wait": 0.0, "think_interval": 3.4},
 		"4": {
 			"tag": "dokuro",
-			"spd": 3, "score": 1,
+			"spd": 1.4, "score": 1,
 			"think_wait": 0.0, "think_interval": 3.6},
 		"5": {
 			"tag": "hitotsu",
-			"spd": 3, "score": 1,
+			"spd": 1.4, "score": 1,
 			"think_wait": 0.0, "think_interval": 3.8}
 	}
 }
