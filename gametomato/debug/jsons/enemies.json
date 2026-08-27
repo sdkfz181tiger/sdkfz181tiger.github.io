@@ -2,14 +2,14 @@
 	"data": {
 		"1": {
 			"tag": "tsuru_b",
-			"spd": 1, "score": 1,
+			"spd": 0.8, "score": 1,
 			"think_wait": 0.0, "think_interval": 3.0},
 		"2": {
-			"tag": "kasa",
+			"tag": "cho",
 			"spd": 1.2, "score": 1,
 			"think_wait": 0.0, "think_interval": 3.2},
 		"3": {
-			"tag": "cho",
+			"tag": "kasa",
 			"spd": 1.2, "score": 1,
 			"think_wait": 0.0, "think_interval": 3.4},
 		"4": {
