@@ -1,65 +1,93 @@
 {
-	"stages": [
+	"data": [
 		{
-			"title": "TOWER_A",
-			"color": [0, 0, 33],
-			"bgm": "sounds/bgm_game_05.ogg",
-			"message": "WELCOME TO\nGHOST TOWER!!",
-			"decos": ["a", "b", "c", "d", "e", "f", "g", "h"],
-			"pad_x": 4,
-			"pad_y": 5,
-			"lines": [
-				{"map_keys": "a",   "total": 2, "offset": false},
-				{"map_keys": "bc",  "total": 1, "offset": false},
-				{"map_keys": "abc", "total": 3, "offset": false},
-				{"map_keys": "bc",  "total": 1, "offset": false},
-				{"map_keys": "abc", "total": 3, "offset": false},
-				{"map_keys": "y",   "total": 1, "offset": false},
-				{"map_keys": "bc",  "total": 1, "offset": false},
-				{"map_keys": "a",   "total": 2, "offset": false},
-				{"map_keys": "de",  "total": 1, "offset": false},
-				{"map_keys": "ade", "total": 3, "offset": false},
-				{"map_keys": "de",  "total": 1, "offset": false},
-				{"map_keys": "yp",  "total": 1, "offset": false},
-				{"map_keys": "ade", "total": 3, "offset": false},
-				{"map_keys": "de",  "total": 1, "offset": false},
-				{"map_keys": "a",   "total": 2, "offset": false},
-				{"map_keys": "fg",  "total": 1, "offset": false},
-				{"map_keys": "afg", "total": 3, "offset": false},
-				{"map_keys": "fg",  "total": 1, "offset": false},
-				{"map_keys": "y",   "total": 1, "offset": false},
-				{"map_keys": "afg", "total": 3, "offset": false},
-				{"map_keys": "fg",  "total": 1, "offset": false},
-				{"map_keys": "a",   "total": 2, "offset": false},
-				{"map_keys": "hi",  "total": 1, "offset": false},
-				{"map_keys": "ahi", "total": 3, "offset": false},
-				{"map_keys": "yp",  "total": 1, "offset": false},
-				{"map_keys": "hi",  "total": 1, "offset": false},
-				{"map_keys": "ahi", "total": 3, "offset": false},
-				{"map_keys": "hi",  "total": 1, "offset": false},
-				{"map_keys": "a",   "total": 2, "offset": false},
-				{"map_keys": "jk",  "total": 1, "offset": false},
-				{"map_keys": "yq",  "total": 1, "offset": false},
-				{"map_keys": "ajk", "total": 3, "offset": false},
-				{"map_keys": "jk",  "total": 1, "offset": false},
-				{"map_keys": "ajk", "total": 3, "offset": false},
-				{"map_keys": "jk",  "total": 1, "offset": false},
-				{"map_keys": "a",   "total": 2, "offset": false},
-				{"map_keys": "yq",  "total": 1, "offset": false},
-				{"map_keys": "lm",  "total": 1, "offset": false},
-				{"map_keys": "alm", "total": 3, "offset": false},
-				{"map_keys": "lm",  "total": 1, "offset": false},
-				{"map_keys": "alm", "total": 3, "offset": false},
-				{"map_keys": "lm",  "total": 1, "offset": false},
-				{"map_keys": "yp",  "total": 1, "offset": false},
-				{"map_keys": "a",   "total": 2, "offset": false},
-				{"map_keys": "no",  "total": 1, "offset": false},
-				{"map_keys": "ano", "total": 3, "offset": false},
-				{"map_keys": "no",  "total": 1, "offset": false},
-				{"map_keys": "ano", "total": 3, "offset": false},
-				{"map_keys": "yq",  "total": 1, "offset": false},
-				{"map_keys": "no",  "total": 1, "offset": false}
+			"title": "01",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
+			"map": "tmx/map_01.json",
+			"bonus": 5,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": [
+				{"swipe_x": 1, "swipe_y": 0, 
+					"from_x": -4, "from_y": 0, "to_x": 4, "to_y": 0,
+					"wait": 1.0, "time": 1.0, "msg": "SWIPE TO MOVE!!"}
 			]
+		}, {
+			"title": "02",
+			"btn_on": "images/dungeon/btn_stage_02_on.png",
+			"btn_off": "images/dungeon/btn_stage_02_off.png",
+			"map": "tmx/map_02.json",
+			"bonus": 10,
+			"bgm": "sounds/bgm_dungeon_02.ogg",
+			"tutorial": [
+				{"swipe_x": 1, "swipe_y": 0, 
+					"from_x": -4, "from_y": 0, "to_x": 4, "to_y": 0,
+					"wait": 1.0, "time": 1.0, "msg": "SWIPE TO MOVE!!"}
+			]
+		}, {
+			"title": "03",
+			"btn_on": "images/dungeon/btn_stage_03_on.png",
+			"btn_off": "images/dungeon/btn_stage_03_off.png",
+			"map": "tmx/map_03.json",
+			"bonus": 15,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "04",
+			"btn_on": "images/dungeon/btn_stage_04_on.png",
+			"btn_off": "images/dungeon/btn_stage_04_off.png",
+			"map": "tmx/map_04.json",
+			"bonus": 20,
+			"bgm": "sounds/bgm_dungeon_02.ogg",
+			"tutorial": []
+		}, {
+			"title": "05",
+			"btn_on": "images/dungeon/btn_stage_05_on.png",
+			"btn_off": "images/dungeon/btn_stage_05_off.png",
+			"map": "tmx/map_05.json",
+			"bonus": 25,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "06",
+			"btn_on": "images/dungeon/btn_stage_06_on.png",
+			"btn_off": "images/dungeon/btn_stage_06_off.png",
+			"map": "tmx/map_06.json",
+			"bonus": 30,
+			"bgm": "sounds/bgm_dungeon_02.ogg",
+			"tutorial": []
+		}, {
+			"title": "07",
+			"btn_on": "images/dungeon/btn_stage_07_on.png",
+			"btn_off": "images/dungeon/btn_stage_07_off.png",
+			"map": "tmx/map_07.json",
+			"bonus": 35,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "08",
+			"btn_on": "images/dungeon/btn_stage_08_on.png",
+			"btn_off": "images/dungeon/btn_stage_08_off.png",
+			"map": "tmx/map_08.json",
+			"bonus": 40,
+			"bgm": "sounds/bgm_dungeon_02.ogg",
+			"tutorial": []
+		}, {
+			"title": "09",
+			"btn_on": "images/dungeon/btn_stage_09_on.png",
+			"btn_off": "images/dungeon/btn_stage_09_off.png",
+			"map": "tmx/map_09.json",
+			"bonus": 45,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "10",
+			"btn_on": "images/dungeon/btn_stage_10_on.png",
+			"btn_off": "images/dungeon/btn_stage_10_off.png",
+			"map": "tmx/map_10.json",
+			"bonus": 50,
+			"bgm": "sounds/bgm_dungeon_02.ogg",
+			"tutorial": []
 		}
 	]
 }

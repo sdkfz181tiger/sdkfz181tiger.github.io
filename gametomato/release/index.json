@@ -1,22 +1,32 @@
 {
-	"timestamp": "2026/07/09 23:40:00",
+	"timestamp": "2026/08/29 14:30:00",
 	"archives": [
 		"images.zip",
-		"jsons/characters.json",
-		"jsons/decos.json",
-		"jsons/floors.json",
+		"tmx.zip",
+		"jsons/bkgs.json",
+		"jsons/enemies.json",
+		"jsons/gates.json",
+		"jsons/items.json",
 		"jsons/main.json",
-		"jsons/maps.json",
 		"jsons/monster.json",
 		"jsons/player.json",
-		"jsons/stages.json"
+		"jsons/stages.json",
+		"jsons/walls.json"
 	],
 	"todos": [
-		"03: ちょうちんAI(プレイヤーのx方向へジャンプ)",
-		"04: からかさAI(プレイヤーのx方向へジャンプ)",
-		"05: 一つ目AI(同じ高さで目覚めて走る)",
-		"06: カッパAI(落ちずにウロウロ)",
-		"07: パワーアップ処理",
-		"09: 動く雲にしてその上に雷様"
+		"05:- Ollamaが自動ステージ生成",
+		"07:- テーマ:妖怪屋敷でお宝探し",
+		"16:- テーマ:妖怪屋敷のゴミ掃除",
+		"27:- 敵アルゴリズム実装",
+		"35:- SCORE: xxx, HIGH: xxxをスライド登場数値カウントUp",
+		"39:- ステージごとのHIGHを記録(次回)",
+		"42:- プレイヤーに斜線尻尾",
+		"44:- Title画面、スタートボタンを押してから侵入アニメ",
+		"46:- アイテム増(お札、数珠、木魚)",
+		"47:- タイトル画面整理",
+		"47:- 各ステージ用アイコンどうするか?",
+		"48:- 登場シーン(門はステージ最下層に配置)",
+		"49:- チュートリアル機能の修正(戻った場合どうするの)",
+		"50:- Stagesで、▶ボタンとNextボタン重ね順"
 	]
 }

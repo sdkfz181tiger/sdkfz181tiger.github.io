@@ -1,5 +1,5 @@
 {
-	"admob_int": 5,
+	"admob_int": 30,
 	"title_anims": [
 		"kasa_f", "cho_f", "hitotsu_f", "kappa_f"
 	],
@@ -112,6 +112,10 @@
 		"images/base/exp_m_02.png",
 		"images/base/exp_s_01.png",
 		"images/base/exp_s_02.png",
+		"images/base/frame_l_land.png",
+		"images/base/frame_r_land.png",
+		"images/base/frame_t_land.png",
+		"images/base/frame_b_land.png",
 		"images/base/heart_01.png",
 		"images/base/i_jump.png",
 		"images/base/i_trample.png",
@@ -142,11 +146,7 @@
 		"images/base/tile_46x46_bkg.png",
 		"images/base/tile_46x46.png",
 		"images/base/tile_48x48_bkg.png",
-		"images/base/tile_48x48.png",
-		"images/base/frame_bottom.png",
-		"images/base/frame_left.png",
-		"images/base/frame_right.png",
-		"images/base/frame_top.png"
+		"images/base/tile_48x48.png"
 	],
 	"ses": [
 		"sounds/jingle_bad_01.ogg",
@@ -162,7 +162,6 @@
 		"sounds/se_card_01.ogg",
 		"sounds/se_coin_01.ogg",
 		"sounds/se_damage_01.ogg", "sounds/se_damage_02.ogg",
-		"sounds/se_deny_01.ogg", "sounds/se_deny_02.ogg",
 		"sounds/se_dialog_close_01.ogg",
 		"sounds/se_dialog_open_01.ogg",
 		"sounds/se_fire_01.ogg",
@@ -178,6 +177,7 @@
 		"sounds/se_sword_01.ogg"
 	],
 	"bgms": [
+		"sounds/bgm_dungeon_01.ogg", "sounds/bgm_dungeon_02.ogg", 
 		"sounds/bgm_ending_01.ogg", "sounds/bgm_ending_02.ogg", 
 		"sounds/bgm_ending_03.ogg", 
 		"sounds/bgm_game_01.ogg", "sounds/bgm_game_02.ogg", 
@@ -186,7 +186,8 @@
 		"sounds/bgm_puzzle_01.ogg", "sounds/bgm_puzzle_02.ogg", 
 		"sounds/bgm_ready_01.ogg", "sounds/bgm_ready_02.ogg",
 		"sounds/bgm_stages_01.ogg",
-		"sounds/bgm_title_01.ogg", "sounds/bgm_title_02.ogg"
+		"sounds/bgm_title_01.ogg", "sounds/bgm_title_02.ogg",
+		"sounds/bgm_title_03.ogg"
 	],
 	"sprite_sheets": [
 		{"file_name": "images/base/arr_m_w_7x7.png",            "frame_name": "arr_m_w_r",       "rows": 1, "cols": 5, "w":  7, "h":  7, "from":  0, "to":  4},
@@ -232,6 +233,7 @@
 		{"file_name": "images/base/marker_16x16.png",           "frame_name": "marker_16x16",    "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/base/spawner_01.png",             "frame_name": "spawner_01",      "rows": 2, "cols": 5, "w": 24, "h": 24, "from":  0, "to":  9},
 		{"file_name": "images/base/spawner_02.png",             "frame_name": "spawner_02",      "rows": 2, "cols": 5, "w": 24, "h": 24, "from":  0, "to":  9},
+		{"file_name": "images/base/sweat_01.png",               "frame_name": "sweat_01",        "rows": 1, "cols": 6, "w": 16, "h":  6, "from":  0, "to":  5},
 		{"file_name": "images/base/zzz_01.png",                 "frame_name": "zzz_01",          "rows": 7, "cols": 1, "w": 18, "h":  5, "from":  0, "to":  6},
 
 		{"file_name": "images/base/smk_l_01.png",               "frame_name": "smk_l_01",        "rows": 2, "cols": 6, "w": 50, "h": 50, "from":  0, "to": 11},
@@ -638,6 +640,9 @@
 		{"file_name": "images/characters/yuki_01.png",          "frame_name": "yuki_jump_f",     "rows": 9, "cols": 5, "w": 16, "h": 16, "from": 40, "to": 44},
 		{"file_name": "images/characters/yuki_01.png",          "frame_name": "yuki_sleep",      "rows":10, "cols": 5, "w": 16, "h": 16, "from": 45, "to": 49},
 
+		{"file_name": "images/dungeon/gate_goal_01.png",        "frame_name": "gate_goal",       "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/dungeon/gate_start_01.png",       "frame_name": "gate_start",      "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
+
 		{"file_name": "images/foods/i_foods_01.png",            "frame_name": "i_apple",         "rows": 1, "cols":10, "w":  8, "h":  8, "from":  0, "to":  9},
 		{"file_name": "images/foods/i_foods_01.png",            "frame_name": "i_banana",        "rows": 2, "cols":10, "w":  8, "h":  8, "from": 10, "to": 19},
 		{"file_name": "images/foods/i_foods_01.png",            "frame_name": "i_bberry",        "rows": 3, "cols":10, "w":  8, "h":  8, "from": 20, "to": 29},
@@ -693,7 +698,8 @@
 		{"file_name": "images/items/i_coin_2_01.png",           "frame_name": "i_coin_2",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_coin_3_01.png",           "frame_name": "i_coin_3",        "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_coins_01.png",            "frame_name": "i_coins",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
-		{"file_name": "images/items/i_dot_01.png",              "frame_name": "i_dot",           "rows": 2, "cols": 6, "w": 10, "h": 10, "from":  0, "to": 11},
+		{"file_name": "images/items/i_comp_01.png",             "frame_name": "i_comp",          "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
+		{"file_name": "images/items/i_dot_1_01.png",            "frame_name": "i_dot_1",         "rows": 2, "cols": 6, "w": 10, "h": 10, "from":  0, "to": 11},
 		{"file_name": "images/items/i_jumping_01.png",          "frame_name": "i_jumping",       "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_juzu_01.png",             "frame_name": "i_juzu",          "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_koban_1_01.png",          "frame_name": "i_koban_1",       "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
@@ -704,6 +710,11 @@
 		{"file_name": "images/items/i_monsters_01.png",         "frame_name": "i_monsters",      "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_ofuda_01.png",            "frame_name": "i_ofuda",         "rows": 1, "cols": 5, "w": 16, "h": 16, "from":  0, "to":  4},
 		{"file_name": "images/items/i_suits_01.png",            "frame_name": "i_suits",         "rows": 1, "cols": 5, "w": 10, "h": 12, "from":  0, "to":  4},
+
+		{"file_name": "images/ninjas/gate_01_close.png",        "frame_name": "gate_01_close",   "rows": 1, "cols": 5, "w": 48, "h": 22, "from":  0, "to":  4},
+		{"file_name": "images/ninjas/gate_01_open.png",         "frame_name": "gate_01_open",    "rows": 1, "cols": 5, "w": 48, "h": 22, "from":  0, "to":  4},
+		{"file_name": "images/ninjas/gate_02_close.png",        "frame_name": "gate_02_close",   "rows": 1, "cols": 5, "w": 48, "h": 22, "from":  0, "to":  4},
+		{"file_name": "images/ninjas/gate_02_open.png",         "frame_name": "gate_02_open",    "rows": 1, "cols": 5, "w": 48, "h": 22, "from":  0, "to":  4},
 
 		{"file_name": "images/shooting/pbox_b_01.png",          "frame_name": "pbox_b_01",       "rows": 1, "cols": 6, "w": 20, "h": 15, "from":  0, "to":  5},
 		{"file_name": "images/shooting/pbox_b_02.png",          "frame_name": "pbox_b_02",       "rows": 1, "cols": 6, "w": 20, "h": 15, "from":  0, "to":  5},
@@ -770,10 +781,14 @@
 		{"file_name": "images/weapons/snow_01.png",             "frame_name": "w_snow_l",        "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
 		{"file_name": "images/weapons/snow_01.png",             "frame_name": "w_snow_u",        "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
 		{"file_name": "images/weapons/snow_01.png",             "frame_name": "w_snow_d",        "rows": 1, "cols": 6, "w": 11, "h": 11, "from":  0, "to":  5},
-		  
+
 		{"file_name": "images/weapons/sword_01.png",            "frame_name": "w_sword_r",       "rows": 1, "cols": 9, "w": 16, "h": 16, "from":  0, "to":  8},
 		{"file_name": "images/weapons/sword_01.png",            "frame_name": "w_sword_l",       "rows": 2, "cols": 9, "w": 16, "h": 16, "from":  9, "to": 17},
 		{"file_name": "images/weapons/sword_01.png",            "frame_name": "w_sword_u",       "rows": 3, "cols": 9, "w": 16, "h": 16, "from": 18, "to": 27},
-		{"file_name": "images/weapons/sword_01.png",            "frame_name": "w_sword_d",       "rows": 4, "cols": 9, "w": 16, "h": 16, "from": 28, "to": 37}
+		{"file_name": "images/weapons/sword_01.png",            "frame_name": "w_sword_d",       "rows": 4, "cols": 9, "w": 16, "h": 16, "from": 28, "to": 37},
+		
+		{"file_name": "images/weapons/umbrella_01.png",         "frame_name": "w_umbrella_r",    "rows": 1, "cols": 5, "w": 18, "h": 22, "from":  0, "to":  4},
+		{"file_name": "images/weapons/umbrella_01.png",         "frame_name": "w_umbrella_g",    "rows": 2, "cols": 5, "w": 18, "h": 22, "from":  5, "to":  9},
+		{"file_name": "images/weapons/umbrella_01.png",         "frame_name": "w_umbrella_b",    "rows": 3, "cols": 5, "w": 18, "h": 22, "from": 10, "to": 14}
 	]
 }

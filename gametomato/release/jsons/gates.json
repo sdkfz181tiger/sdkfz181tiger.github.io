@@ -1,0 +1,12 @@
+{
+	"data": {
+		"1": {
+			"tag": "gate_start",
+			"type": "GATE_START"
+		},
+		"2": {
+			"tag": "gate_goal",
+			"type": "GATE_GOAL"
+		}
+	}
+}
