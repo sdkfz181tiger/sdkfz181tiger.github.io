@@ -88,14 +88,6 @@
 			"bonus": 50,
 			"bgm": "sounds/bgm_dungeon_02.ogg",
 			"tutorial": []
-		}, {
-			"title": "11",
-			"btn_on": "images/dungeon/btn_stage_11_on.png",
-			"btn_off": "images/dungeon/btn_stage_11_off.png",
-			"map": "tmx/map_11.json",
-			"bonus": 55,
-			"bgm": "sounds/bgm_dungeon_01.ogg",
-			"tutorial": []
 		}
 	]
 }
