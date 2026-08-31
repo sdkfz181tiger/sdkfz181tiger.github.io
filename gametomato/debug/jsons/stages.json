@@ -98,80 +98,152 @@
 			"tutorial": []
 		}, {
 			"title": "12",
-			"btn_on": "images/dungeon/btn_stage_11_on.png",
-			"btn_off": "images/dungeon/btn_stage_11_off.png",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
 			"map": "tmx/map_12.json",
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
 		}, {
 			"title": "13",
-			"btn_on": "images/dungeon/btn_stage_11_on.png",
-			"btn_off": "images/dungeon/btn_stage_11_off.png",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
 			"map": "tmx/map_12.json",
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
 		}, {
 			"title": "14",
-			"btn_on": "images/dungeon/btn_stage_11_on.png",
-			"btn_off": "images/dungeon/btn_stage_11_off.png",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
 			"map": "tmx/map_12.json",
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
 		}, {
 			"title": "15",
-			"btn_on": "images/dungeon/btn_stage_11_on.png",
-			"btn_off": "images/dungeon/btn_stage_11_off.png",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
 			"map": "tmx/map_12.json",
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
 		}, {
 			"title": "16",
-			"btn_on": "images/dungeon/btn_stage_11_on.png",
-			"btn_off": "images/dungeon/btn_stage_11_off.png",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
 			"map": "tmx/map_12.json",
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
 		}, {
 			"title": "17",
-			"btn_on": "images/dungeon/btn_stage_11_on.png",
-			"btn_off": "images/dungeon/btn_stage_11_off.png",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
 			"map": "tmx/map_12.json",
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
 		}, {
 			"title": "18",
-			"btn_on": "images/dungeon/btn_stage_11_on.png",
-			"btn_off": "images/dungeon/btn_stage_11_off.png",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
 			"map": "tmx/map_12.json",
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
 		}, {
 			"title": "19",
-			"btn_on": "images/dungeon/btn_stage_11_on.png",
-			"btn_off": "images/dungeon/btn_stage_11_off.png",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
 			"map": "tmx/map_12.json",
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
 		}, {
 			"title": "20",
-			"btn_on": "images/dungeon/btn_stage_11_on.png",
-			"btn_off": "images/dungeon/btn_stage_11_off.png",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
 			"map": "tmx/map_12.json",
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
 		}, {
 			"title": "21",
-			"btn_on": "images/dungeon/btn_stage_11_on.png",
-			"btn_off": "images/dungeon/btn_stage_11_off.png",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
+			"map": "tmx/map_12.json",
+			"bonus": 5,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "22",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
+			"map": "tmx/map_12.json",
+			"bonus": 5,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "23",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
+			"map": "tmx/map_12.json",
+			"bonus": 5,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "24",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
+			"map": "tmx/map_12.json",
+			"bonus": 5,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "25",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
+			"map": "tmx/map_12.json",
+			"bonus": 5,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "26",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
+			"map": "tmx/map_12.json",
+			"bonus": 5,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "27",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
+			"map": "tmx/map_12.json",
+			"bonus": 5,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "28",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
+			"map": "tmx/map_12.json",
+			"bonus": 5,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "29",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
+			"map": "tmx/map_12.json",
+			"bonus": 5,
+			"bgm": "sounds/bgm_dungeon_01.ogg",
+			"tutorial": []
+		}, {
+			"title": "30",
+			"btn_on": "images/dungeon/btn_stage_01_on.png",
+			"btn_off": "images/dungeon/btn_stage_01_off.png",
 			"map": "tmx/map_12.json",
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
