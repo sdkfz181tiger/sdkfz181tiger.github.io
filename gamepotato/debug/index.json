@@ -1,0 +1,31 @@
+{
+	"timestamp": "2026/09/04 17:20:00",
+	"archives": [
+		"images.zip",
+		"tmx.zip",
+		"jsons/bkgs.json",
+		"jsons/enemies.json",
+		"jsons/gates.json",
+		"jsons/items.json",
+		"jsons/main.json",
+		"jsons/monster.json",
+		"jsons/player.json",
+		"jsons/stages.json",
+		"jsons/walls.json"
+	],
+	"todos": [
+		"05:- Ollamaが自動ステージ生成",
+		"07:- テーマ:妖怪屋敷でお宝探し",
+		"16:- テーマ:妖怪屋敷のゴミ掃除",
+		"27:- 敵アルゴリズム実装",
+		"35:- SCORE: xxx, HIGH: xxxをスライド登場数値カウントUp",
+		"39:- ステージごとのHIGHを記録(次回)",
+		"42:- プレイヤーに斜線尻尾",
+		"44:- Title画面、スタートボタンを押してから侵入アニメ",
+		"46:- アイテム増(お札、数珠、木魚)",
+		"47:- タイトル画面整理",
+		"48:- 登場シーン(門はステージ最下層に配置)",
+		"50:- Stagesで、▶ボタンとNextボタン重ね順",
+		"51:- Result画面で各ステージのハイスコアも...!?"
+	]
+}

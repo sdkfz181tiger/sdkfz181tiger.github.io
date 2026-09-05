@@ -1,0 +1,48 @@
+{
+	"data": {
+		"1": {
+			"tag": "tsuru_b",
+			"spd": 1.0, "score": 1,
+			"think_wait": 0.0, "think_interval": 3.0},
+		"2": {
+			"tag": "cho",
+			"spd": 1.4, "score": 1,
+			"think_wait": 0.0, "think_interval": 3.2},
+		"3": {
+			"tag": "kasa",
+			"spd": 1.6, "score": 1,
+			"think_wait": 0.0, "think_interval": 3.4},
+		"4": {
+			"tag": "dokuro",
+			"spd": 1.8, "score": 1,
+			"think_wait": 0.0, "think_interval": 3.6},
+		"5": {
+			"tag": "hitotsu",
+			"spd": 2.0, "score": 1,
+			"think_wait": 0.0, "think_interval": 3.8},
+		"6": {
+			"tag": "kappa",
+			"spd": 2.0, "score": 1,
+			"think_wait": 0.0, "think_interval": 3.8},
+		"7": {
+			"tag": "oni_b",
+			"spd": 2.0, "score": 1,
+			"think_wait": 0.0, "think_interval": 3.8},
+		"8": {
+			"tag": "ittan",
+			"spd": 2.0, "score": 1,
+			"think_wait": 0.0, "think_interval": 3.8},
+		"9": {
+			"tag": "suna",
+			"spd": 2.0, "score": 1,
+			"think_wait": 0.0, "think_interval": 3.8},
+		"10": {
+			"tag": "konaki",
+			"spd": 2.0, "score": 1,
+			"think_wait": 0.0, "think_interval": 3.8},
+		"11": {
+			"tag": "kabe",
+			"spd": 2.0, "score": 1,
+			"think_wait": 0.0, "think_interval": 3.8}
+	}
+}
