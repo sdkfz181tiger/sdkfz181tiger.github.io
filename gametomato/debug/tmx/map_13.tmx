@@ -8,7 +8,6 @@
  <tileset firstgid="37" source="walls.tsx"/>
  <tileset firstgid="85" source="enemies.tsx"/>
  <tileset firstgid="109" source="items.tsx"/>
- <tileset firstgid="127" source="../../../gamepotato/debug/tmx/gates.tsx"/>
  <layer id="12" name="bkgs" width="11" height="40">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,
@@ -58,7 +57,7 @@
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,129,0,0,0,0,0,
+0,0,0,0,0,21,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
@@ -85,7 +84,7 @@
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,128,0,0,0,0,0,
+0,0,0,0,0,20,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
@@ -97,7 +96,7 @@
 0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="1" name="walls" width="11" height="40" visible="0">
+ <layer id="1" name="walls" width="11" height="40">
   <data encoding="csv">
 0,45,44,0,44,0,0,0,0,0,0,
 0,0,47,47,0,0,0,47,47,0,40,
@@ -141,7 +140,7 @@
 0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="10" name="enemies" width="11" height="40" visible="0">
+ <layer id="10" name="enemies" width="11" height="40">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
@@ -185,7 +184,7 @@
 0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="11" name="items" width="11" height="40" visible="0">
+ <layer id="11" name="items" width="11" height="40">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
