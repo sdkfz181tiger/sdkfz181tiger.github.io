@@ -1,10 +1,10 @@
 {
 	"data": {
-		"1": {
+		"a": {
 			"tag": "w_shuri_%s", "spd": 1.0},
-		"2": {
+		"b": {
 			"tag": "w_kami_a_%s", "spd": 1.0},
-		"3": {
+		"c": {
 			"tag": "w_kami_b_%s", "spd": 1.0}
 	}
 }
