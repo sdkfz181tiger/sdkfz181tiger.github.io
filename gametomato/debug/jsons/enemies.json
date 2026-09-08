@@ -44,7 +44,7 @@
 			"tag": "suna",
 			"spd": 1.6, "score": 1,
 			"think_wait": 0.0, "think_interval": 3.4,
-			"bullet": "w_suna"},
+			"bullet": "w_sand"},
 		"10": {
 			"tag": "kona",
 			"spd": 1.6, "score": 1,
