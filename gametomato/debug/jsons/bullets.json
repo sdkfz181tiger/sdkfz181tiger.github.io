@@ -1,10 +1,16 @@
 {
 	"data": {
 		"a": {
-			"tag": "w_shuri_%s",  "spd": 4, "life": 3.0},
+			"frames": [
+				"w_shuri_r", "w_shuri_d", "w_shuri_l", "w_shuri_u"
+			],  "spd": 4, "life": 3.0},
 		"b": {
-			"tag": "w_kami_a_%s", "spd": 4, "life": 3.0},
+			"frames": [
+				"w_kami_a_r", "w_kami_a_d", "w_kami_a_l", "w_kami_a_u"
+			], "spd": 4, "life": 3.0},
 		"c": {
-			"tag": "w_kami_b_%s", "spd": 4, "life": 3.0}
+			"frames": [
+				"w_kami_b_r", "w_kami_b_d", "w_kami_b_l", "w_kami_b_u"
+			], "spd": 4, "life": 3.0}
 	}
 }
