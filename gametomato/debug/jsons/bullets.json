@@ -1,0 +1,10 @@
+{
+	"data": {
+		"1": {
+			"tag": "w_shuri_%s", "spd": 1.0},
+		"2": {
+			"tag": "w_kami_a_%s", "spd": 1.0},
+		"3": {
+			"tag": "w_kami_b_%s", "spd": 1.0}
+	}
+}
