@@ -1,0 +1,24 @@
+{
+	"data": {
+		"w_shuri": {
+			"frame_names": [
+				"w_shuri_r", "w_shuri_d", "w_shuri_l", "w_shuri_u"
+			],  "spd": 4, "life": 0.5},
+		"w_sand": {
+			"frame_names": [
+				"w_sand_r", "w_sand_d", "w_sand_l", "w_sand_u"
+			], "spd": 4, "life": 1.0},
+		"w_snow": {
+			"frame_names": [
+				"w_snow_r", "w_snow_d", "w_snow_l", "w_snow_u"
+			], "spd": 4, "life": 1.5},
+		"w_kami_a": {
+			"frame_names": [
+				"w_kami_a_r", "w_kami_a_d", "w_kami_a_l", "w_kami_a_u"
+			], "spd": 4, "life": 2.0},
+		"w_kami_b": {
+			"frame_names": [
+				"w_kami_b_r", "w_kami_b_d", "w_kami_b_l", "w_kami_b_u"
+			], "spd": 4, "life": 2.0}
+	}
+}
