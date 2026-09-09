@@ -112,14 +112,6 @@
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
-		}, {
-			"title": "14",
-			"btn_on": "images/dungeon/btn_stage_14_on.png",
-			"btn_off": "images/dungeon/btn_stage_14_off.png",
-			"map": "tmx/map_99.json",
-			"bonus": 5,
-			"bgm": "sounds/bgm_dungeon_01.ogg",
-			"tutorial": []
 		}
 	]
 }
