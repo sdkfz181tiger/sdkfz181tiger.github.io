@@ -1,0 +1,19 @@
+{
+	"data": {
+		"1": {
+			"image": "images/dungeon/block_01.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"2": {
+			"image": "images/dungeon/block_02.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"3": {
+			"image": "images/dungeon/block_03.png",
+			"type": "STATIC",
+			"life": -1
+		}
+	}
+}
