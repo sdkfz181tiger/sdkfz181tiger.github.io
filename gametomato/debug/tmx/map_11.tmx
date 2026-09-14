@@ -8,6 +8,7 @@
  <tileset firstgid="37" source="walls.tsx"/>
  <tileset firstgid="91" source="enemies.tsx"/>
  <tileset firstgid="115" source="items.tsx"/>
+ <tileset firstgid="133" source="blocks.tsx"/>
  <layer id="12" name="bkgs" width="11" height="36">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,

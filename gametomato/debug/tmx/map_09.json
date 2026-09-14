@@ -196,6 +196,10 @@
         {
          "firstgid":115,
          "source":"items.tsx"
+        }, 
+        {
+         "firstgid":133,
+         "source":"blocks.tsx"
         }],
  "tilewidth":16,
  "type":"map",
