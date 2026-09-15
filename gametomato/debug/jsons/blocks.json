@@ -1,19 +1,16 @@
 {
 	"data": {
 		"1": {
-			"image": "images/dungeon/block_01.png",
-			"type": "STATIC",
-			"life": -1
-		},
+			"tag": "block_bronze",
+			"spd": 4,
+			"score": 0},
 		"2": {
-			"image": "images/dungeon/block_02.png",
-			"type": "STATIC",
-			"life": -1
-		},
+			"tag": "block_silver",
+			"spd": 6,
+			"score": 0},
 		"3": {
-			"image": "images/dungeon/block_03.png",
-			"type": "STATIC",
-			"life": -1
-		}
+			"tag": "block_gold",
+			"spd": 8,
+			"score": 0},
 	}
 }
