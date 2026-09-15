@@ -2,15 +2,15 @@
 	"data": {
 		"1": {
 			"tag": "block_bronze",
-			"spd": 4,
+			"spd": 18,
 			"score": 0},
 		"2": {
 			"tag": "block_silver",
-			"spd": 6,
+			"spd": 18,
 			"score": 0},
 		"3": {
 			"tag": "block_gold",
-			"spd": 8,
+			"spd": 18,
 			"score": 0}
 	}
 }
