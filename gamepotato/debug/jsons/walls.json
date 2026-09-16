@@ -229,6 +229,26 @@
 			"image": "images/dungeon/wall_y_09_01.png",
 			"type": "STATIC",
 			"life": -1
+		},
+		"47": {
+			"image": "images/dungeon/wall_y_10_01.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"48": {
+			"image": "images/dungeon/wall_y_10_02.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"49": {
+			"image": "images/dungeon/wall_y_10_03.png",
+			"type": "STATIC",
+			"life": -1
+		},
+		"50": {
+			"image": "images/dungeon/wall_y_10_04.png",
+			"type": "STATIC",
+			"life": -1
 		}
 	}
 }
