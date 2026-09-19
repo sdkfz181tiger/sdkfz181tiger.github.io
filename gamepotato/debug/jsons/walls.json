@@ -249,6 +249,11 @@
 			"image": "images/dungeon/wall_y_10_04.png",
 			"type": "STATIC",
 			"life": -1
+		},
+		"51": {
+			"image": "images/dungeon/wall_y_10_05.png",
+			"type": "STATIC",
+			"life": -1
 		}
 	}
 }
