@@ -4,13 +4,13 @@
 			"title": "01",
 			"btn_on": "images/dungeon/btn_stage_01_on.png",
 			"btn_off": "images/dungeon/btn_stage_01_off.png",
-			"map": "tmx/map_99.json",
+			"map": "tmx/map_01.json",
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": [
 				{"swipe_x": 1, "swipe_y": 0, 
 					"from_x": -4, "from_y": 0, "to_x": 4, "to_y": 0,
-					"wait": 1.0, "time": 1.0, "msg": "SWIPE TO MOVE!!"}
+					"wait": 1.0, "time": 1.0, "msg": "SWIPE TO PUSH IT!!"}
 			]
 		}, {
 			"title": "02",
@@ -22,7 +22,7 @@
 			"tutorial": [
 				{"swipe_x": 1, "swipe_y": 0, 
 					"from_x": -4, "from_y": 0, "to_x": 4, "to_y": 0,
-					"wait": 1.0, "time": 1.0, "msg": "SWIPE TO MOVE!!"}
+					"wait": 1.0, "time": 1.0, "msg": "SWIPE TO PUSH ALL!!"}
 			]
 		}, {
 			"title": "03",
