@@ -11,6 +11,22 @@
 		"3": {
 			"tag": "block_gold",
 			"spd": 18,
+			"score": 0},
+		"4": {
+			"tag": "block_cusion",
+			"spd": 18,
+			"score": 0},
+		"5": {
+			"tag": "block_table",
+			"spd": 18,
+			"score": 0},
+		"6": {
+			"tag": "block_foods",
+			"spd": 18,
+			"score": 0},
+		"7": {
+			"tag": "block_heater",
+			"spd": 18,
 			"score": 0}
 	}
 }
