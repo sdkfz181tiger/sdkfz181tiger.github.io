@@ -646,7 +646,8 @@
 		{"file_name": "images/dungeon/blocks_01.png",           "frame_name": "block_cusion",    "rows": 4, "cols": 6, "w": 16, "h": 16, "from": 18, "to": 23},
 		{"file_name": "images/dungeon/blocks_01.png",           "frame_name": "block_table",     "rows": 5, "cols": 6, "w": 16, "h": 16, "from": 24, "to": 29},
 		{"file_name": "images/dungeon/blocks_01.png",           "frame_name": "block_foods",     "rows": 6, "cols": 6, "w": 16, "h": 16, "from": 30, "to": 35},
-		{"file_name": "images/dungeon/blocks_01.png",           "frame_name": "block_heater",    "rows": 7, "cols": 6, "w": 16, "h": 16, "from": 36, "to": 41},
+		{"file_name": "images/dungeon/blocks_01.png",           "frame_name": "block_cooker",    "rows": 7, "cols": 6, "w": 16, "h": 16, "from": 36, "to": 41},
+		{"file_name": "images/dungeon/blocks_01.png",           "frame_name": "block_heater",    "rows": 8, "cols": 6, "w": 16, "h": 16, "from": 42, "to": 47},
 
 		{"file_name": "images/dungeon/gate_goal_01.png",        "frame_name": "gate_goal",       "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},
 		{"file_name": "images/dungeon/gate_start_01.png",       "frame_name": "gate_start",      "rows": 1, "cols": 6, "w": 16, "h": 16, "from":  0, "to":  5},

@@ -25,6 +25,10 @@
 			"spd": 18,
 			"score": 0},
 		"7": {
+			"tag": "block_cooker",
+			"spd": 18,
+			"score": 0},
+		"8": {
 			"tag": "block_heater",
 			"spd": 18,
 			"score": 0}
