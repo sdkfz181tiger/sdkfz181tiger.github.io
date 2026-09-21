@@ -2,7 +2,7 @@
 	"player": {
 		"tag_normal": "nyanja_b",
 		"tag_weaken": "cat_o",
-		"spd": 12,
+		"spd": 8,
 		"score": 0
 	}
 }
