@@ -2,35 +2,35 @@
 	"data": {
 		"1": {
 			"tag": "block_bronze",
-			"spd": 18,
+			"spd": 12,
 			"score": 0},
 		"2": {
 			"tag": "block_silver",
-			"spd": 18,
+			"spd": 12,
 			"score": 0},
 		"3": {
 			"tag": "block_gold",
-			"spd": 18,
+			"spd": 12,
 			"score": 0},
 		"4": {
 			"tag": "block_cusion",
-			"spd": 18,
+			"spd": 12,
 			"score": 0},
 		"5": {
 			"tag": "block_table",
-			"spd": 18,
+			"spd": 12,
 			"score": 0},
 		"6": {
 			"tag": "block_foods",
-			"spd": 18,
+			"spd": 12,
 			"score": 0},
 		"7": {
 			"tag": "block_cooker",
-			"spd": 18,
+			"spd": 12,
 			"score": 0},
 		"8": {
 			"tag": "block_heater",
-			"spd": 18,
+			"spd": 12,
 			"score": 0}
 	}
 }
