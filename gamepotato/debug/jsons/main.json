@@ -164,7 +164,9 @@
 		"sounds/se_damage_01.ogg", "sounds/se_damage_02.ogg",
 		"sounds/se_dialog_close_01.ogg",
 		"sounds/se_dialog_open_01.ogg",
-		"sounds/se_eat_01.ogg",
+		"sounds/se_eat_01.ogg", 
+		"sounds/se_eat_02.ogg",
+		"sounds/se_eat_03.ogg",
 		"sounds/se_fire_01.ogg",
 		"sounds/se_ice_01.ogg",
 		"sounds/se_jump_01.ogg",
@@ -175,7 +177,9 @@
 		"sounds/se_paku_01.ogg",
 		"sounds/se_pi_01.ogg",
 		"sounds/se_powerup_01.ogg", "sounds/se_powerup_02.ogg",
-		"sounds/se_sword_01.ogg"
+		"sounds/se_slide_01.ogg",
+		"sounds/se_sword_01.ogg",
+		"sounds/se_wall_01.ogg"
 	],
 	"bgms": [
 		"sounds/bgm_dungeon_01.ogg", "sounds/bgm_dungeon_02.ogg", 
