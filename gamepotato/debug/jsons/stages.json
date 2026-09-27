@@ -10,7 +10,8 @@
 			"tutorial": [
 				{"swipe_x": 1, "swipe_y": 0, 
 					"from_x": -4, "from_y": 0, "to_x": 4, "to_y": 0,
-					"wait": 1.0, "time": 1.0, "msg": "SWIPE TO PUSH IT!!"}
+					"wait": 1.0, "time": 1.0, "repeat": 3,
+					"msg": "SWIPE TO PUSH IT!!"}
 			]
 		}, {
 			"title": "02",
@@ -22,7 +23,8 @@
 			"tutorial": [
 				{"swipe_x": 1, "swipe_y": 0, 
 					"from_x": -4, "from_y": 0, "to_x": 4, "to_y": 0,
-					"wait": 1.0, "time": 1.0, "msg": "SWIPE TO PUSH ALL!!"}
+					"wait": 1.0, "time": 1.0, "repeat": 3,
+					"msg": "SWIPE TO PUSH IT!!"}
 			]
 		}, {
 			"title": "03",
