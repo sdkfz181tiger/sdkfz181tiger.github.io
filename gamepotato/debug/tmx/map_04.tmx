@@ -9,7 +9,7 @@
  <tileset firstgid="91" source="enemies.tsx"/>
  <tileset firstgid="115" source="items.tsx"/>
  <tileset firstgid="133" source="blocks.tsx"/>
- <layer id="12" name="bkgs" width="11" height="14" visible="0">
+ <layer id="12" name="bkgs" width="11" height="14">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
@@ -27,16 +27,16 @@
 0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="13" name="gates" width="11" height="14" visible="0">
+ <layer id="13" name="gates" width="11" height="14">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,20,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,21,0,0,
-0,0,0,0,0,0,0,0,21,0,0,
-0,0,0,0,0,0,0,0,21,0,0,
+0,0,0,0,0,0,0,0,22,0,0,
+0,0,0,0,0,0,0,0,22,0,0,
+0,0,0,0,0,0,0,0,22,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,

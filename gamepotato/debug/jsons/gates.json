@@ -7,6 +7,10 @@
 		"2": {
 			"tag": "gate_goal",
 			"type": "GATE_GOAL"
+		},
+		"3": {
+			"tag": "gate_place",
+			"type": "GATE_PLACE"
 		}
 	}
 }
