@@ -234,22 +234,6 @@
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": []
-		}, {
-			"title": "29",
-			"btn_on": "images/dungeon/btn_stage_10_on.png",
-			"btn_off": "images/dungeon/btn_stage_10_off.png",
-			"map": "tmx/map_29.json",
-			"bonus": 5,
-			"bgm": "sounds/bgm_dungeon_01.ogg",
-			"tutorial": []
-		}, {
-			"title": "30",
-			"btn_on": "images/dungeon/btn_stage_10_on.png",
-			"btn_off": "images/dungeon/btn_stage_10_off.png",
-			"map": "tmx/map_30.json",
-			"bonus": 5,
-			"bgm": "sounds/bgm_dungeon_01.ogg",
-			"tutorial": []
 		}
 	]
 }
