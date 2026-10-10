@@ -76,7 +76,7 @@
 			"tutorial": []
 		}, {
 			"title": "09",
-			"btn_on": "images/btns/btn_stage_g_01.png",
+			"btn_on": "images/btns/btn_stage_r_01.png",
 			"btn_off": "images/btns/btn_stage_03_off.png",
 			"map": "tmx/map_09.json",
 			"bonus": 5,
@@ -84,7 +84,7 @@
 			"tutorial": []
 		}, {
 			"title": "10",
-			"btn_on": "images/btns/btn_stage_g_02.png",
+			"btn_on": "images/btns/btn_stage_r_02.png",
 			"btn_off": "images/btns/btn_stage_04_off.png",
 			"map": "tmx/map_10.json",
 			"bonus": 5,
@@ -92,7 +92,7 @@
 			"tutorial": []
 		}, {
 			"title": "11",
-			"btn_on": "images/btns/btn_stage_g_03.png",
+			"btn_on": "images/btns/btn_stage_r_03.png",
 			"btn_off": "images/btns/btn_stage_04_off.png",
 			"map": "tmx/map_11.json",
 			"bonus": 5,
@@ -100,7 +100,7 @@
 			"tutorial": []
 		}, {
 			"title": "12",
-			"btn_on": "images/btns/btn_stage_g_04.png",
+			"btn_on": "images/btns/btn_stage_r_04.png",
 			"btn_off": "images/btns/btn_stage_04_off.png",
 			"map": "tmx/map_12.json",
 			"bonus": 5,
@@ -108,7 +108,7 @@
 			"tutorial": []
 		}, {
 			"title": "13",
-			"btn_on": "images/btns/btn_stage_b_01.png",
+			"btn_on": "images/btns/btn_stage_g_01.png",
 			"btn_off": "images/btns/btn_stage_05_off.png",
 			"map": "tmx/map_13.json",
 			"bonus": 5,
@@ -116,7 +116,7 @@
 			"tutorial": []
 		}, {
 			"title": "14",
-			"btn_on": "images/btns/btn_stage_b_02.png",
+			"btn_on": "images/btns/btn_stage_g_02.png",
 			"btn_off": "images/btns/btn_stage_05_off.png",
 			"map": "tmx/map_14.json",
 			"bonus": 5,
@@ -124,7 +124,7 @@
 			"tutorial": []
 		}, {
 			"title": "15",
-			"btn_on": "images/btns/btn_stage_b_03.png",
+			"btn_on": "images/btns/btn_stage_g_03.png",
 			"btn_off": "images/btns/btn_stage_05_off.png",
 			"map": "tmx/map_15.json",
 			"bonus": 5,
@@ -132,7 +132,7 @@
 			"tutorial": []
 		}, {
 			"title": "16",
-			"btn_on": "images/btns/btn_stage_b_04.png",
+			"btn_on": "images/btns/btn_stage_g_04.png",
 			"btn_off": "images/btns/btn_stage_06_off.png",
 			"map": "tmx/map_16.json",
 			"bonus": 5,
@@ -140,7 +140,7 @@
 			"tutorial": []
 		}, {
 			"title": "17",
-			"btn_on": "images/btns/btn_stage_r_01.png",
+			"btn_on": "images/btns/btn_stage_b_01.png",
 			"btn_off": "images/btns/btn_stage_06_off.png",
 			"map": "tmx/map_17.json",
 			"bonus": 5,
@@ -148,7 +148,7 @@
 			"tutorial": []
 		}, {
 			"title": "18",
-			"btn_on": "images/btns/btn_stage_r_02.png",
+			"btn_on": "images/btns/btn_stage_b_02.png",
 			"btn_off": "images/btns/btn_stage_06_off.png",
 			"map": "tmx/map_18.json",
 			"bonus": 5,
@@ -156,7 +156,7 @@
 			"tutorial": []
 		}, {
 			"title": "19",
-			"btn_on": "images/btns/btn_stage_r_03.png",
+			"btn_on": "images/btns/btn_stage_b_03.png",
 			"btn_off": "images/btns/btn_stage_07_off.png",
 			"map": "tmx/map_19.json",
 			"bonus": 5,
@@ -164,7 +164,7 @@
 			"tutorial": []
 		}, {
 			"title": "20",
-			"btn_on": "images/btns/btn_stage_r_04.png",
+			"btn_on": "images/btns/btn_stage_b_04.png",
 			"btn_off": "images/btns/btn_stage_07_off.png",
 			"map": "tmx/map_20.json",
 			"bonus": 5,
@@ -172,7 +172,7 @@
 			"tutorial": []
 		}, {
 			"title": "21",
-			"btn_on": "images/btns/btn_stage_g_01.png",
+			"btn_on": "images/btns/btn_stage_r_01.png",
 			"btn_off": "images/btns/btn_stage_07_off.png",
 			"map": "tmx/map_21.json",
 			"bonus": 5,
@@ -180,7 +180,7 @@
 			"tutorial": []
 		}, {
 			"title": "22",
-			"btn_on": "images/btns/btn_stage_g_02.png",
+			"btn_on": "images/btns/btn_stage_r_02.png",
 			"btn_off": "images/btns/btn_stage_08_off.png",
 			"map": "tmx/map_22.json",
 			"bonus": 5,
@@ -188,7 +188,7 @@
 			"tutorial": []
 		}, {
 			"title": "23",
-			"btn_on": "images/btns/btn_stage_g_03.png",
+			"btn_on": "images/btns/btn_stage_r_03.png",
 			"btn_off": "images/btns/btn_stage_08_off.png",
 			"map": "tmx/map_23.json",
 			"bonus": 5,
@@ -196,7 +196,7 @@
 			"tutorial": []
 		}, {
 			"title": "24",
-			"btn_on": "images/btns/btn_stage_g_04.png",
+			"btn_on": "images/btns/btn_stage_r_04.png",
 			"btn_off": "images/btns/btn_stage_08_off.png",
 			"map": "tmx/map_24.json",
 			"bonus": 5,
@@ -204,7 +204,7 @@
 			"tutorial": []
 		}, {
 			"title": "25",
-			"btn_on": "images/btns/btn_stage_b_01.png",
+			"btn_on": "images/btns/btn_stage_g_01.png",
 			"btn_off": "images/btns/btn_stage_09_off.png",
 			"map": "tmx/map_25.json",
 			"bonus": 5,
@@ -212,7 +212,7 @@
 			"tutorial": []
 		}, {
 			"title": "26",
-			"btn_on": "images/btns/btn_stage_b_02.png",
+			"btn_on": "images/btns/btn_stage_g_02.png",
 			"btn_off": "images/btns/btn_stage_09_off.png",
 			"map": "tmx/map_26.json",
 			"bonus": 5,
@@ -220,7 +220,7 @@
 			"tutorial": []
 		}, {
 			"title": "27",
-			"btn_on": "images/btns/btn_stage_b_03.png",
+			"btn_on": "images/btns/btn_stage_g_03.png",
 			"btn_off": "images/btns/btn_stage_09_off.png",
 			"map": "tmx/map_27.json",
 			"bonus": 5,
@@ -228,7 +228,7 @@
 			"tutorial": []
 		}, {
 			"title": "28",
-			"btn_on": "images/btns/btn_stage_b_04.png",
+			"btn_on": "images/btns/btn_stage_g_04.png",
 			"btn_off": "images/btns/btn_stage_10_off.png",
 			"map": "tmx/map_28.json",
 			"bonus": 5,
