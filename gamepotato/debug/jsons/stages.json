@@ -4,7 +4,7 @@
 			"title": "01",
 			"btn_on": "images/btns/btn_stage_g_01.png",
 			"btn_off": "images/btns/btn_stage_off.png",
-			"map": "tmx/map_01.json",
+			"map": "tmx/map_99.json",
 			"bonus": 5,
 			"bgm": "sounds/bgm_dungeon_01.ogg",
 			"tutorial": [
