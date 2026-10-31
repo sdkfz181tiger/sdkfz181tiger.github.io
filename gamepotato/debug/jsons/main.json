@@ -151,7 +151,9 @@
 	"ses": [
 		"sounds/jingle_bad_01.ogg",
 		"sounds/jingle_gameclear_01.ogg",
+		"sounds/jingle_gameclear_02.ogg",
 		"sounds/jingle_gameover_01.ogg",
+		"sounds/jingle_gameready_01.ogg",
 		"sounds/jingle_good_01.ogg",
 		"sounds/se_bomb_01.ogg", "sounds/se_bomb_02.ogg", 
 		"sounds/se_bomb_03.ogg", "sounds/se_bomb_04.ogg", 
